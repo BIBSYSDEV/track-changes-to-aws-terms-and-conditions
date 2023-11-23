@@ -2,7 +2,7 @@ name: Track changes to AWS Service Terms and Customer Agreement
 
 on:
   schedule:
-    - cron: "54 15 * * *"
+    - cron: "50 16 * * *"
 
 jobs:
   Download-Terms:
