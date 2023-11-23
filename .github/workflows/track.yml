@@ -1,0 +1,29 @@
+name: Track changes to AWS Service Terms and Customer Agreement
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  Download-Terms:
+    runs-on: ubuntu-latest
+    steps:
+
+      - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
+      - uses: actions/checkout@v3
+      - run: sudo apt-get -y install python3-html2text
+      - name: Get latest Terms and Conditions from website
+        run: curl https://aws.amazon.com/service-terms/ -o terms.html
+      - run: html2markdown terms.html > terms.md
+      - run: csplit terms.md '/AWS Service Terms/'
+      - run: csplit xx01 '/Previous version/' --suppress-matched
+      - run: mv xx00 service-terms.md
+      - run: rm -f xx01 terms.html terms.md
+      - name: Create report file
+        run: date +%s > last-checked.txt
+      - name: Commit report
+        run: |
+          git config --global user.name 'Thomas Lund'
+          git config --global user.email 'thlund@users.noreply.github.com'
+          git commit -am "Automated check"
+          git push
