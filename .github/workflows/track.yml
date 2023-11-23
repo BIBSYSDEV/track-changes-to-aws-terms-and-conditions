@@ -5,7 +5,7 @@ on:
     - cron: "20 17 * * *"
 
 jobs:
-  Download-Terms:
+  Check-For-Changes:
     runs-on: ubuntu-latest
     steps:
       - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
