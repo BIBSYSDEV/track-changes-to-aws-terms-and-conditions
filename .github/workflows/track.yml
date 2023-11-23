@@ -2,7 +2,7 @@ name: Track changes to AWS Service Terms and Customer Agreement
 
 on:
   schedule:
-    - cron: "50 16 * * *"
+    - cron: "07 17 * * *"
 
 jobs:
   Download-Terms:
@@ -30,7 +30,6 @@ jobs:
         run: |
           git config --global user.name 'Thomas Lund'
           git config --global user.email 'thlund@users.noreply.github.com'
-          git add last-checked.txt
-          git add service-terms.md
+          git add last-checked.txt service-terms.md customer-agreement
           git commit -am "Automated check"
           git push
