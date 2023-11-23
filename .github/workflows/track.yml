@@ -8,25 +8,32 @@ jobs:
   Download-Terms:
     runs-on: ubuntu-latest
     steps:
-
       - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
       - uses: actions/checkout@v3
       - run: sudo apt-get -y install python3-html2text
-      - run: curl https://aws.amazon.com/service-terms/ -o terms.html
-      - run: curl https://aws.amazon.com/agreement/ -o agreement.html
-      - run: html2markdown terms.html > terms.md
-      - run: html2markdown agreement.html > agreement.md
-      - run: csplit terms.md '/AWS Service Terms/'
-      - run: csplit xx01 '/Previous version/' --suppress-matched
-      - run: mv xx00 service-terms.md
-      - run: rm -f xx01 terms.html terms.md
-      - run: csplit agreement.md '/AWS Customer Agreement/'
-      - run: csplit xx01 '/Prior Version/' --suppress-matched
-      - run: mv xx00 customer-agreement.md
-      - run: rm -f xx01 agreement.html agreement.md
-      - name: Create report file
+      - name: Download Service Terms and Customer Agreement
+        run: |
+          curl https://aws.amazon.com/service-terms/ -o terms.html
+          curl https://aws.amazon.com/agreement/ -o agreement.html
+      - name: Convert to markdown
+        run: |
+          html2markdown terms.html > terms.md
+          html2markdown agreement.html > agreement.md
+      - name: Extract terms
+        run: |
+          csplit terms.md '/AWS Service Terms/'
+          csplit xx01 '/Previous version/' --suppress-matched
+          mv xx00 service-terms.md
+          rm -f xx01 terms.html terms.md
+      - name: Extract agreement
+        run: |
+          csplit agreement.md '/AWS Customer Agreement/'
+          csplit xx01 '/Prior Version/' --suppress-matched
+          mv xx00 customer-agreement.md
+          rm -f xx01 agreement.html agreement.md
+      - name: Create last-checked file
         run: date +%s > last-checked.txt
-      - name: Commit report
+      - name: Commit files
         run: |
           git config --global user.name 'Thomas Lund'
           git config --global user.email 'thlund@users.noreply.github.com'
