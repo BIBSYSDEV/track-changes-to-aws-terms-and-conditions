@@ -32,7 +32,7 @@ jobs:
           mv xx00 customer-agreement.md
           rm -f xx01 agreement.html agreement.md
       - name: Create last-checked file
-        run: date +%s > last-checked.txt
+        run: date +"%Y-%m-%dT%H:%M:%S%z" > last-checked.txt
       - name: Commit files
         run: |
           git config --global user.name 'Thomas Lund'
