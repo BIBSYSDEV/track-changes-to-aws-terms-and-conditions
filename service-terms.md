@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: December 1, 2023
+####  Last Updated: December 15, 2023
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -242,7 +242,10 @@ DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, and AWS
 HealthScribe. The Amazon Bedrock automated abuse detection mechanisms may
 apply to such services. See
 [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
-detection.html) for more details.  
+detection.html) for more details.
+
+**1.25.** You will not use, and will not facilitate or allow End Users to use,
+the Services to mine cryptocurrency without our prior written approval.
 
 ####  2\. Betas and Previews
 
@@ -947,7 +950,7 @@ provided by you, third parties, or their licensors using PostgreSQL trusted
 languages in Amazon RDS. Extension code that you use with Trusted Language
 Extensions is Your Content under the Agreement. AWS is not responsible for
 Service failure caused by extensions. You consent to AWS scanning extension
-code for security and performance purposes
+code for security and performance purposes.
 
 **10.7. Using IBM Software**
 
@@ -1335,7 +1338,7 @@ Taxes for which you furnish us a properly completed exemption certificate, or
 a direct payment permit certificate, for which AWS or its affiliates may claim
 an available exemption from such Taxes.
 
-###  21\. AWS Ground Station
+####  21\. AWS Ground Station
 
 **21.1.  **Any guidance provided through Licensing Accelerator or by AWS
 Ground Station is provided for your convenience, does not constitute legal or
@@ -2228,7 +2231,7 @@ Upon expiration or termination of the term of a Reserved Node, the Reserved
 Node pricing will expire and standard on-demand usage prices will apply to the
 Amazon Redshift node.  
 
-####  47\. AWS Server Migration Service.
+####  47\. AWS Server Migration Service
 
 **47.1.** When you use AWS Server Migration Service, data that is scanned by
 AWS Server Migration Service in your on-premises computing resources will be
@@ -3959,8 +3962,8 @@ when making investment and business decisions. Amazon FinSpace does not
 provide investment advice, make investment recommendations or evaluate the
 suitability of any investment or investment strategy.  
 
-###  85\. Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere)
-Support.
+####  85\. Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere)
+Support
 
 **85.1.** You must purchase AWS Enterprise Support in order to subscribe to
 Amazon EKS Anywhere Support. Payments for subscriptions to Amazon EKS Anywhere
@@ -3976,7 +3979,7 @@ If you request support for Isovalent’s software, such as Cilium, we may share
 your Account Information, logs or other usage information with Isovalent to
 provide technical support.
 
-###  86\. AWS DeepRacer Student
+####  86\. AWS DeepRacer Student
 
 **86.1.** You acknowledge that we may store your Content that is processed by
 AWS DeepRacer Student in AWS regions outside the AWS region where you are
@@ -4008,7 +4011,7 @@ are under 18 years of age, or the age of majority in your location, you may
 use AWS DeepRacer Student only with involvement of a parent or guardian who
 agrees to be bound by these Service Terms.
 
-###  87\. Amazon GuardDuty
+####  87\. Amazon GuardDuty
 
 **87.1.**  “Malware Content” is Your Content that the Amazon GuardDuty Malware
 Protection feature processes and identifies as being malicious or harmful.
@@ -4035,7 +4038,7 @@ instruct AWS not to use and store Runtime Monitoring Content to develop and
 improve Amazon GuardDuty or other AWS security services by configuring an AI
 services opt out policy using AWS Organizations.  
 
-###  88\. AWS Wickr
+####  88\. AWS Wickr
 
 **88.1.  **End Users.
 
@@ -4054,7 +4057,7 @@ Administrators can (a) upgrade or downgrade End Users’ AWS Wickr feature set;
 (b) suspend End User’s access to AWS Wickr; and (c) access information about
 their End Users’ use of AWS Wickr.  
 
-###  89\. AWS Private 5G
+####  89\. AWS Private 5G
 
 **89.1.  **AWS Private 5G Equipment. AWS will make equipment available to you
 to support your use of the AWS Private 5G Service (the “Private 5G
@@ -4117,7 +4120,7 @@ that depend on AWS’s operation of such physical security and access controls,
 or power, networking, and environmental conditions, do not apply to AWS
 Private 5G.
 
-###  90\. AWS SimSpace
+####  90\. AWS SimSpace
 
 **90.1.  **We may change, discontinue, or deprecate support for any third-
 party integrations or samples at any time. We will provide you with prior
@@ -4134,7 +4137,7 @@ your use case. You and your End Users are solely responsible for all decisions
 made, advice given, actions taken, and failures to act based on your use of
 AWS SimSpace Weaver.  
 
-###  91\. AWS Builder ID
+####  91\. AWS Builder ID
 
 **91.1.  **If during the previous 12 months you have registered no usage of
 your AWS Builder ID, we may delete your AWS Builder ID upon 30 days’ prior
@@ -4151,7 +4154,7 @@ deleted.
 **91.3.  **For purposes of your use of AWS Builder ID, Amazon Web Services,
 Inc. is the AWS Contracting Party under the Agreement.
 
-###  92\. AWS Clean Rooms
+####  92\. AWS Clean Rooms
 
 **92.1.** You may not use AWS Clean Rooms or any information obtained from
 your use of AWS Clean Rooms to identify a person or associate such information
@@ -4172,7 +4175,7 @@ healthcare services but is not a medical device and is not intended to be used
 by itself for any clinical decision-making or other clinical use. You are
 responsible for liability that may arise in connection with any such uses.
 
-###  93\. Amazon CodeCatalyst
+####  93\. Amazon CodeCatalyst
 
 **93.1.** When you access an Amazon CodeCatalyst Space established under
 another CodeCatalyst account (“Third-Party Space”), you are an End User of
@@ -4220,7 +4223,7 @@ Content will not be deleted from your Space. However, identifications of that
 End User, including those associated with issues, comments, and Contributed
 Content, may be deleted.
 
-###  94\. Integrated Private Wireless on AWS
+####  94\. Integrated Private Wireless on AWS
 
 **94.1.** AWS may stop providing the Integrated Private Wireless on AWS portal
 (or remove any offerings on the [Integrated Private Wireless on AWS
@@ -4234,7 +4237,7 @@ successor site) are offered by third parties and subject to separate terms and
 conditions specified by the respective third party. AWS has no control and
 makes no guarantees about such offerings.
 
-###  95\. AWS Diode
+####  95\. AWS Diode
 
 **95.1.** AWS Diode allows You to map Your account to another Diode account
 (“Mapped Account”), enabling Your Content to be moved and stored by the Mapped
@@ -4251,7 +4254,7 @@ classification levels. Your failure to do so may result in Amazon incurring
 sanitization costs for which You will be responsible, and which will be exempt
 from any limitations of liability in any of your agreements with AWS.  
 
-###  96\. AWS Nitro System
+####  96\. AWS Nitro System
 
 AWS personnel do not have access to Your Content on AWS Nitro System EC2
 instances. There are no technical means or APIs available to AWS personnel to
@@ -4261,7 +4264,7 @@ EC2 instance. Access to AWS Nitro System EC2 instance APIs – which enable AWS
 personnel to operate the system without access to Your Content - is always
 logged, and always requires authentication and authorization.
 
-###  97\. Amazon Security Lake
+####  97\. Amazon Security Lake
 
 **97.1.** "Security Lake Content" is Your Content that (a) Amazon Security
 Lake processes or (b) is stored in Amazon Security Lake.  
@@ -4274,13 +4277,13 @@ instruct AWS not to use and store Security Lake Content to develop and improve
 Amazon Security Lake or other AWS security services by configuring an AI
 services opt out policy using AWS Organizations.
 
-###  98\. Amazon Managed Blockchain
+####  98\. Amazon Managed Blockchain
 
 You are solely responsible for evaluating the information made available
 through the Amazon Managed Blockchain Query Service for accuracy as
 appropriate for your use case.
 
-###  99\. Amazon DataZone
+####  99\. Amazon DataZone
 
 **99.1.** DataZone generates probable forecasts, insights or recommendations
 from Your Content, and its outputs should be evaluated for accuracy as
@@ -4317,7 +4320,7 @@ consents. You are responsible for notifying us in the event that any Amazon
 DataZone ML Content stored by Amazon DataZone ML Services must be deleted
 under applicable law.
 
-###  100\. AWS re:Post Private
+####  100\. AWS re:Post Private
 
 **100.1.** You acknowledge that we may store Your Content that is processed by
 AWS re:Post Private in AWS regions outside the AWS region where you are using
@@ -4326,7 +4329,7 @@ AWS re:Post Private.
 **100.2.** Use of AWS re:Post Private is subject to the Terms of Use for AWS
 re:Post Private which are available in your private re:Post.
 
-###  101\. Amazon One Enterprise
+####  101\. Amazon One Enterprise
 
 **101.1. Amazon One Enterprise Services (Preview).** “Amazon One Enterprise
 Service” includes all Services and Amazon Content AWS or its affiliates
@@ -4484,14 +4487,14 @@ regions where you are using Amazon One Enterprise.
 Enterprise Services to, directly or indirectly, develop or improve a similar
 or competing product or service.
 
-###  102\. Amazon WorkSpaces Thin Client
+####  102\. Amazon WorkSpaces Thin Client
 
 In addition to the Agreement and these Service Terms, use of Amazon WorkSpaces
 Thin Client devices is subject to [device
 terms](https://aws.amazon.com/workspaces/thin-client/terms/). Please review
 the device terms before using an Amazon WorkSpaces Thin Client device.
 
-###  103\. AWS B2B Data Interchange
+####  103\. AWS B2B Data Interchange
 
 **103.1.** When you register as a trading partner to access an AWS B2B Data
 Interchange Portal established under another AWS account (“B2B Data
