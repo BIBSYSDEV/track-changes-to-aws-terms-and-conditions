@@ -1,30 +1,11 @@
 #  AWS Customer Agreement
 
-*Please note that as of April 1, 2016, customers located in India contract with our India based AWS Contracting Party, as provided in Section 12. See the [AWS India FAQ](https://aws.amazon.com/legal/awsin/) for more information.  
+**For additional information related to each AWS Contracting Party, see the
+[AWS Contracting Party FAQs](https://aws.amazon.com/legal/sor-faqs).
 
-*Please note that as of July 1, 2018, customers located in Europe, the Middle East, or Africa (other than South Africa) contract with our European based AWS Contracting Party, as provided in Section 12. See the [AWS Europe FAQ ](https://aws.amazon.com/legal/aws-emea/)for more information.  
+*Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.  
 
-*Please note that as of August 1, 2020, customers located in South Africa contract with our South Africa based AWS Contracting Party, as provided in Section 12. See the [AWS South Africa FAQ](https://aws.amazon.com/legal/aws-za/) for more information.
-
-*Please note that as of November 1, 2020, customers located in Brazil contract with our Brazil based AWS Contracting Party, as provided in Section 12. See the [AWS SBL FAQ](https://aws.amazon.com/legal/aws-sbl/) for more information.
-
-*Observe que, a partir de 1º de novembro de 2020, os usuários localizados no Brasil celebrarão contrato com a nossa Parte Contratante da AWS sediada no Brasil, conforme prevê a Cláusula 12. Consulte as Perguntas Frequentes sobre a AWS SBL para obter mais informações. Consulte [aqui](https://d1.awsstatic.com/legal/aws-customer-agreement/AWS_Customer_Agreement-Portuguese_\(2020-11-01\)_V3.pdf) a versão em português deste Contrato do Cliente AWS.
-
-*Please note that as of December 1, 2020, customers located in South Korea contract with our South Korea based AWS Contracting Party, as provided in Section 12. See the [AWS South Korea FAQs](https://aws.amazon.com/legal/awsk/) for more information.
-
-*Please note that as of October 1, 2021 for customers using the invoicing payment method and as of February 1, 2022 for customers using the credit card payment method, customers located in Canada contract with our Canada based AWS Contracting Party, as provided in Section 12. See the [AWS Canada FAQs](https://aws.amazon.com/legal/AWSCA/) for more information.
-
-*Please note that as of October 1, 2021 for customers using the invoicing payment method and as of February 1, 2022 for customers using the credit card payment method, customers located in Singapore contract with our Singapore based AWS Contracting Party, as provided in Section 12. See the [AWS Singapore FAQs](https://aws.amazon.com/legal/awssg/) for more information.
-
-*Please note that as of November 1, 2021 for customers using the invoicing payment method and as of February 1, 2022 for customers using the credit card payment method, customers located in Japan contract with our Japan based AWS Contracting Party, as provided in Section 12. See the [AWS Japan FAQs](https://aws.amazon.com/legal/awsjp/) for more information. 
-
-*Please note that as of November 1, 2021, customers located in Australia contract with our Australia based AWS Contracting Party, as provided in Section 12. See the [AWS Australia FAQs](https://aws.amazon.com/legal/awsau/) for more information. 
-
-*Please note that as of November 1, 2021, customers located in New Zealand contract with our New Zealand based AWS Contracting Party, as provided in Section 12. See the [AWS New Zealand FAQs](https://aws.amazon.com/legal/awsnz/) for more information.   
-
-*Please note that as of October 1, 2022 for customers using payment methods other than American Express credit card and as of November 1, 2022 for customers using American Express credit card payment method, customers located in Malaysia contract with our Malaysia based AWS Contracting Party, as provided in Section 12. See the [AWS Malaysia FAQs](https://aws.amazon.com/legal/awsmy/) for more information.
-
-####  Last Updated: October 27, 2023
+####  Last Updated: December 22, 2023
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -614,7 +595,24 @@ existence of and information relating to any such arbitration proceedings will
 not be disclosed by either party. Notwithstanding the foregoing, any party may
 seek injunctive relief in any court of competent jurisdiction for any actual
 or alleged infringement of such party’s, its affiliates’ or any third party’s
-intellectual property or other proprietary rights.  
+intellectual property or other proprietary rights.
+
+(h) If the applicable AWS Contracting Party is AWS Turkey Pazarlama Teknoloji
+ve Danışmanlık Hizmetleri Limited Şirketi, the parties agree that the
+provisions of this Section 11.5(h) will apply.  Disputes will be resolved by
+arbitration administered by the International Chamber of Commerce
+International Court of Arbitration (the “ICC Court”) in accordance with the
+then-applicable arbitration rules (the “ICC Rules”).The arbitration
+proceedings will be conducted in English, and the seat of arbitration will be
+Zurich. There will be three arbitrators. Each party will appoint one
+arbitrator in accordance with the ICC Rules. Within 30 days of the appointment
+of the co-arbitrators, the two appointed arbitrators will appoint the third
+arbitrator as the president of the arbitral tribunal. If the twoappointed
+arbitrators fail to appoint a third arbitrator as the president within such 30
+day period, then the ICC Court will appoint the president. The parties agree
+that the existence of and information relating to any such arbitration
+proceedings will not be disclosed by either party and will constitute
+confidential information.  
 
 11.6 Trade Compliance. In connection with this Agreement, each party will
 comply with all applicable import, re-import, sanctions, anti-boycott, export,
@@ -767,7 +765,16 @@ ARTICLE 90 OF THE CIVIL CODE.  IN THAT EVENT, THE SCOPE OF THE DISCLAIMER
 SHALL BE NARROWLY CONSTRUED IN SUCH MANNER AND THE DAMAGES CAP MAY BE
 INCREASED BY SUCH MINIMUM AMOUNT SO THAT THE DISCLAIMER OR THE DAMAGES CAP
 HEREUNDER WOULD NOT BE DEEMED AGAINST PUBLIC POLICY UNDER ARTICLE 90 OF THE
-CIVIL CODE.”  
+CIVIL CODE.”
+
+(c) If the applicable AWS Contracting Party is AWS Turkey Pazarlama Teknoloji
+ve Danışmanlık Hizmetleri Limited Şirketi, the parties agree as follows:
+
+(i)   The following sentence is added at the end of Section 3.2(a) (Taxes):
+
+“If we are required to pay any stamp tax in relation to this Agreement or any
+other document related to this Agreement, we may charge you and you will pay
+us 50% of the amounts of any stamp tax paid by us.”  
 
 ####  12\. Definitions.
 
@@ -895,6 +902,9 @@ Wembley Square 2, 134 Solan Road, Gardens, Cape Town, 8001, South Africa
   
 South Korea | Amazon Web Services Korea LLC | N/A | L12, East tower, 231,
 Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
+Türkiye | AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited
+Şirketi | N/A | Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand
+Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
 Any country within Europe, the Middle East, or Africa (excluding South Africa)
 ("EMEA")** |  Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John
 F. Kennedy, L-1855, Luxembourg  
@@ -980,6 +990,9 @@ The laws of the State of Washington
 | The state or Federal courts in King County, Washington  
 Amazon Web Services South Africa Proprietary Limited | The laws of the
 Republic of South Africa | The South Gauteng High Court, Johannesburg  
+AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi | The
+laws of the Grand Duchy of Luxembourg | The courts in the district of
+Luxembourg City  
   
 
 
