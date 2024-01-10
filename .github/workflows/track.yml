@@ -31,12 +31,10 @@ jobs:
           csplit xx01 '/Prior Version/' --suppress-matched
           mv xx00 customer-agreement.md
           rm -f xx01 agreement.html agreement.md
-      - name: Create last-checked file
-        run: date +"%Y-%m-%dT%H:%M:%S%z" > last-checked.txt
       - name: Commit files
         run: |
           git config --global user.name 'Thomas Lund'
           git config --global user.email 'thlund@users.noreply.github.com'
-          git add last-checked.txt service-terms.md customer-agreement.md
+          git add service-terms.md customer-agreement.md
           git commit -am "Automated check"
           git push
