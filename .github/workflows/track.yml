@@ -36,4 +36,7 @@ jobs:
           git config --global user.name 'Thomas Lund'
           git config --global user.email 'thlund@users.noreply.github.com'
           git add service-terms.md customer-agreement.md
-          git commit -am "Automated check" && git push || true
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Automated check"
+            git push origin main
+          fi
