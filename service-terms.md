@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: December 22, 2023
+####  Last Updated: January 12, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1446,7 +1446,19 @@ supply-chain/latest/adminguide/getting-started.html).
 **24.4.** You are responsible for providing legally adequate privacy notices
 to End Users of AWS Supply Chain and obtaining any necessary consent from such
 End Users for the processing of Content and the storage, use, and transfer of
-Content as described under this Section 24.  
+Content as described under this Section 24.
+
+**24.5.** If you have been onboarded to the AWS Supply Chain N-Tier Visibility
+Service by your customer (Your Customer), the following applies to Your
+Content that is within the N-Tier Visibility Service:
+
+**24.5.1.** Your Content will be stored in the same AWS region where Your
+Customer’s Content is stored.
+
+**24.5.2.** If Your Customer terminates its use of the AWS Supply Chain N-Tier
+Visibility Service, you will be notified of that termination and you will have
+30 days following that termination to retrieve Your Content from the Service
+if you choose to do so, after which time Your Content will be removed.
 
 ####  25\. Amazon AppStream 2.0
 

@@ -5,7 +5,7 @@
 
 *Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.  
 
-####  Last Updated: December 22, 2023
+####  Last Updated: January 12, 2024
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -566,16 +566,17 @@ of and information relating to any such arbitration proceedings will not be
 disclosed by either party and will constitute confidential information.  
 
 (f) If the applicable AWS Contracting Party is Amazon Web Services Malaysia
-Sdn. Bhd., the parties agree that the provisions of this Section 11.5(f) will
-apply. Disputes will be resolved by arbitration administered by the Singapore
-International Arbitration Centre (“SIAC”) in accordance with the then-
-applicable Arbitration Rules of SIAC, and judgment on the arbitral award may
-be entered in any court having jurisdiction. The arbitration will take place
-in Singapore. There will be three arbitrators. The fees and expenses of the
-arbitrators and the administering authority, if any, will be paid in equal
-proportion by the parties. The parties agree that the existence of and
-information relating to any such arbitration proceedings will not be disclosed
-by either party and will constitute confidential information.  
+Sdn. Bhd. (Registration No. 201501028710 (1154031-W)), the parties agree that
+the provisions of this Section 11.5(f) will apply. Disputes will be resolved
+by arbitration administered by the Singapore International Arbitration Centre
+(“SIAC”) in accordance with the then-applicable Arbitration Rules of SIAC, and
+judgment on the arbitral award may be entered in any court having
+jurisdiction. The arbitration will take place in Singapore. There will be
+three arbitrators. The fees and expenses of the arbitrators and the
+administering authority, if any, will be paid in equal proportion by the
+parties. The parties agree that the existence of and information relating to
+any such arbitration proceedings will not be disclosed by either party and
+will constitute confidential information.  
 
 (g) If the applicable AWS Contracting Party is AWS India, the parties agree
 that the provisions of this Section 11.5(g) will apply.  Disputes will be
@@ -878,9 +879,9 @@ Shinagawa-ku, Tokyo, 141-0021, Japan
   
 Malaysia
 
-| Amazon Web Services Malaysia Sdn. Bhd. | N/A | Level 26 & Level 35, The
-Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur,
-59200, Malaysia  
+| Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710
+(1154031-W)) | N/A | Level 26 & Level 35, The Gardens North Tower, Lingkaran
+Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
 New Zealand  | Amazon Web Services New Zealand Limited | N/A | Level 5, 18
 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
 Singapore | Amazon Web Services Singapore Private Limited | N/A | 23 Church
@@ -979,8 +980,8 @@ The courts in New Delhi, India
 Amazon Web Services Japan G.K. | The laws of Japan | The Tokyo District Court  
 Amazon Web Services Korea LLC | The laws of the State of Washington | The
 state or Federal courts in King County, Washington  
-Amazon Web Services Malaysia Sdn. Bhd. | The laws of Malaysia | The courts of
-Malaysia  
+Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710
+(1154031-W)) | The laws of Malaysia | The courts of Malaysia  
 Amazon Web Services New Zealand Limited | The laws of New Zealand | The courts
 of New Zealand  
 Amazon Web Services Singapore Private Limited |
