@@ -38,5 +38,5 @@ jobs:
           git add service-terms.md customer-agreement.md
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automated check"
-            git push origin main
+            git push
           fi
