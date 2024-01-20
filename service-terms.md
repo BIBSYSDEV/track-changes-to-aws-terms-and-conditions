@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: January 12, 2024
+####  Last Updated: January 19, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -246,6 +246,11 @@ detection.html) for more details.
 
 **1.25.** You will not use, and will not facilitate or allow End Users to use,
 the Services to mine cryptocurrency without our prior written approval.
+
+**1.26.** AWS consents to the assignment of an AWS account from one entity to
+another, subject to the terms of the AWS Account Assignment Requirements,
+posted [here](https://aws.amazon.com/legal/aws-account-assignment-
+requirements/).
 
 ####  2\. Betas and Previews
 
