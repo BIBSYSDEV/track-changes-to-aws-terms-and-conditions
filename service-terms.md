@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: January 19, 2024
+####  Last Updated: January 25, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -2294,8 +2294,7 @@ to the nature of machine learning, output may not be unique across customers
 and the Services may generate the same or similar results across customers.
 
 **50.3.**  You agree and instruct that for Amazon CodeGuru Profiler, Amazon
-CodeWhisperer Individual (including Amazon Q (Preview) in IDE via
-CodeWhisperer Individual), Amazon Comprehend, Amazon Lex, Amazon Polly, Amazon
+CodeWhisperer Individual, Amazon Comprehend, Amazon Lex, Amazon Polly, Amazon
 Rekognition, Amazon Textract, Amazon Transcribe, and Amazon Translate: (a) we
 may use and store AI Content that is processed by each of the foregoing AI
 Services to develop and improve the applicable AI Service and its underlying
@@ -2304,9 +2303,8 @@ develop and improve AWS and affiliate machine-learning and artificial-
 intelligence technologies; and (c) solely in connection with the development
 and improvement described in clauses (a) and (b), we may store such AI Content
 in an AWS region outside of the AWS region where you are using such AI
-Service. This Section does not apply to Amazon CodeWhisperer Professional
-(including Amazon Q (Preview) in IDE via CodeWhisperer Professional), Amazon
-Comprehend Medical, Amazon Transcribe Medical, AWS HealthScribe, Amazon
+Service. This Section does not apply to Amazon CodeWhisperer Professional,
+Amazon Comprehend Medical, Amazon Transcribe Medical, AWS HealthScribe, Amazon
 Comprehend Detect PII or any AI Service that is not listed in the first
 sentence of this Section 50.3. You may instruct AWS not to use and store AI
 Content processed by an AI Service to develop and improve that Service or
@@ -2509,17 +2507,16 @@ we discover that we have inadvertently collected information from anyone under
 
 **50.12.6**. PartyRock Data. We use the input that you provide and output that
 you generate when using PartyRock (“PartyRock Data”) in accordance with the
-[AWS Privacy Notice](https://aws.amazon.com/privacy/). As described in the
-[AWS Privacy Notice](https://aws.amazon.com/privacy/) and [PartyRock
-FAQs](https://partyrock.aws/guide/faq), we may use PartyRock Data to develop
-and improve AWS and affiliate machine-learning and artificial intelligence
-technologies. You may instruct AWS not to use PartyRock Data to develop and
-improve AWS and affiliate machine-learning and artificial intelligence
-technologies by using the opt-out mechanism described in the [PartyRock
-FAQs](https://partyrock.aws/guide/faq). We may use PartyRock Data to maintain
-and provide PartyRock and enforce our policies, including to develop and
-improve our fraud, abuse, and AI safety operations. PartyRock Data does not
-constitute Your Content as defined in the Agreement.  
+[PartyRock Privacy Page](https://partyrock.aws/privacy). As described in the
+[PartyRock Privacy Page](https://partyrock.aws/privacy), we may use PartyRock
+Data to develop and improve AWS and affiliate machine-learning and artificial
+intelligence technologies. You may instruct AWS not to use PartyRock Data to
+develop and improve AWS and affiliate machine-learning and artificial
+intelligence technologies by using the opt-out mechanism described in the
+[PartyRock Privacy Page](https://partyrock.aws/privacy). We may use PartyRock
+Data to maintain and provide PartyRock and enforce our policies, including to
+develop and improve our fraud, abuse, and AI safety operations. PartyRock Data
+does not constitute Your Content as defined in the Agreement.  
 
 **50.12.7.** PartyRock Apps. “PartyRock App” means any application created or
 remixed through PartyRock, including any app snapshot and all corresponding
@@ -2543,7 +2540,33 @@ damages, liabilities, penalties, fines, costs, and expenses (including
 reasonable attorneys’ fees) arising out of or in any way related to Your
 PartyRock Apps or your use of PartyRock. Do not include personally
 identifying, confidential, or sensitive information in the input that you
-provide to create or use a PartyRock App.  
+provide to create or use a PartyRock App.
+
+**50.13.  Amazon Q (Preview). **To help Amazon Q (Preview) provide the most
+relevant information about AWS Services, we may use AI Content processed by
+Amazon Q (Preview), such as prompts and responses (“Amazon Q Content”), for
+service improvement as described below. This Section 50.13 does not apply to
+Amazon Q (Preview) for Business or Amazon Q (Preview) in an integrated
+development environment (IDE) via CodeWhisperer Professional.
+
+**50.13.1.** **Service Improvement.** You agree and instruct that we may use
+Amazon Q Content to develop and improve Amazon Q (Preview) and its underlying
+technologies, and for that purpose we may store Amazon Q Content in an AWS
+region outside of the AWS region where you are using Amazon Q (Preview).
+However, we will not use Amazon Q Content to train machine-learning models
+other than as described in Section 50.13.2 below.
+
+**50.13.2. Other Service Improvement.** For Amazon Q Content in the IDE via
+CodeWhisperer Individual and Amazon Q with CodeCatalyst Free Tier, you agree
+and instruct that we may also use Amazon Q Content that does not contain
+personal data to develop and improve AWS and affiliate machine-learning and
+artificial intelligence technologies including to train machine-learning
+models.
+
+**50.13.3. Further Instructions.** You may instruct AWS not to use and store
+Amazon Q content for service improvement as described in this Section 50.13 by
+either (i) configuring an AI services opt out policy using AWS Organizations,
+or (ii) if you use Amazon Q in the IDE, by adjusting your settings in the IDE.
 
 ####  51\. Amazon Lightsail
 
