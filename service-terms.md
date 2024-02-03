@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: January 25, 2024
+####  Last Updated: February 02, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1996,39 +1996,10 @@ insights.
 
 
 
-**40.3. Amazon QuickSight Machine Learning Services**. “Amazon QuickSight ML
-Services” means Amazon QuickSight Q. “Amazon QuickSight ML Content” means Your
-Content that is processed by an Amazon QuickSight ML Service. The following
-terms apply to your use of Amazon QuickSight ML Services:
+**40.3. Amazon QuickSight Machine Learning Services**. Section 50 below
+applies to Amazon Q in QuickSight (formerly known as Amazon QuickSight Q).
 
 
-
-(a) You agree and instruct that: (i) we may use and store Amazon QuickSight ML
-Content to develop and improve Amazon QuickSight ML Services and their
-underlying technologies; (ii) we may use and store Amazon Quicksight ML
-Content that is not personal data to develop and improve AWS and affiliate
-machine-learning and artificial intelligence technologies; and (iii) solely in
-connection with the development and improvement described in clauses (i) and
-(ii), we may store your Amazon QuickSight ML Content in AWS regions outside
-the AWS regions where you are using Amazon QuickSight ML Services. You may
-instruct AWS not to use and store Amazon QuickSight ML Content processed by
-Amazon QuickSight to develop and improve that Service or technologies of AWS
-or its affiliates by configuring an AI services opt out policy using AWS
-Organizations.  
-
-(b) You are responsible for providing legally adequate privacy notices to End
-Users of your products or services that use Amazon QuickSight ML Services and
-obtaining any necessary consent from such End Users for the processing of
-Amazon QuickSight ML Content and the storage, use, and transfer of Amazon
-QuickSight ML Content as described under this Section. You represent to us
-that you have provided all necessary privacy notices and obtained all
-necessary consents. You are responsible for notifying us in the event that any
-Amazon QuickSight ML Content stored by Amazon QuickSight ML Services must be
-deleted under applicable law.
-
-(c) You will not, and will not allow any third-party to, use Amazon QuickSight
-ML Services to, directly or indirectly, develop or improve a similar or
-competing product or service.
 
 **40.4. QuickSight Readers**. Readers (as defined in the QuickSight
 documentation) that are used for automatically or programmatically refreshing
