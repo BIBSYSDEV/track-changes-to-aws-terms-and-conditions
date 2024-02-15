@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: February 02, 2024
+####  Last Updated: February 14, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -3841,10 +3841,20 @@ the circumstances.
 
 **82.3.** For Geolocation Providers other than Open Data, you may not:  
 
-a. Scrape, systematically collect, or duplicate the data provided to you from
-Amazon Location Service (e.g., map tiles, forward and reverse geocodes,
-routes, drive times/isochrones, and other data) (collectively, “Location
-Data”), including for the purpose of avoiding use of Amazon Location Service.
+a. Scrape, systematically collect, duplicate, store, or cache the data
+provided to you from Amazon Location Service (e.g., map tiles, forward and
+reverse geocodes, routes, drive times/isochrones, and other data)
+(collectively, “Location Data”), including for the purpose of avoiding use of
+Amazon Location Service, except that you may store or cache:
+
+(i) route results for up to 30 days when you use HERE or Esri as your
+Geolocation Provider (other than as prohibited in Section 82.4.a),
+
+(ii) geocoding and reverse-geocoding results (other than as prohibited in
+Section 82.4.a) when you indicate the result will be stored in the API
+parameter, or
+
+(iii) any Location Data to comply with legal or regulatory requirements.
 
 b. Use Location Data to create or offer a product or service with features
 that are similar to the services of the Geolocation Providers, where such
@@ -3864,17 +3874,12 @@ or open-database license terms that require any part of the Location Data to
 be disclosed to third parties, licensed to third parties for the purpose of
 making derivative works, or redistributed to third parties at no charge.
 
-e. Store or cache Location Data, except (i) for geocoding and reverse-
-geocoding results (other than as prohibited in Section 82.4.a) when you
-indicate the result will be stored in the API parameter or (ii) to comply with
-legal, regulatory, or reasonable internal record-keeping requirements.
-
-f. Use Location Data to develop paper maps or an atlas (digital or otherwise)
+e. Use Location Data to develop paper maps or an atlas (digital or otherwise)
 for purposes of sale or distribution to others.
 
 
 
-g. Place your company name or marks, or any third-party advertisements, on or
+f. Place your company name or marks, or any third-party advertisements, on or
 in the Location Data (e.g., on a map display).
 
 **82.4.** In addition to the restrictions in Section 82.3, if you use HERE as
