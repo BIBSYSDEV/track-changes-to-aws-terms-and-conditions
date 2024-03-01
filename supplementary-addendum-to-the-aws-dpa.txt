@@ -1,0 +1,54 @@
+SUPPLEMENTARY ADDENDUM TO AWS DATA PROCESSING ADDENDUM
+The purpose of this supplementary addendum (this “Addendum”) is to outline supplemental measures
+that AWS takes to protect Customer Data. This Addendum supplements, but does not modify, the AWS
+Data Processing Addendum available at https://d1.awsstatic.com/legal/aws-dpa/aws-dpa.pdf, or other
+agreement between Customer and AWS governing the processing of Customer Data (the “DPA”). Unless
+otherwise defined in this Addendum, all capitalized terms used in this Addendum will have the meanings
+given to them in the DPA.
+1.
+
+Requests for Customer Data
+1.1 If AWS receives a valid and binding order (“Request”) from any governmental body
+(“Requesting Party”) for disclosure of Customer Data, AWS will use every reasonable effort to
+redirect the Requesting Party to request Customer Data directly from Customer.
+1.2 If compelled to disclose Customer Data to a Requesting Party, AWS will:
+(a) promptly notify Customer of the Request to allow Customer to seek a protective order or
+other appropriate remedy, if AWS is legally permitted to do so. If AWS is prohibited from
+notifying Customer about the Request, AWS will use all reasonable and lawful efforts to obtain
+a waiver of prohibition, to allow AWS to communicate as much information to Customer as
+soon as possible; and
+(b) challenge any overbroad or inappropriate Request (including where such Request conflicts
+with the law of the European Union or applicable Member State law).
+1.3 If, after exhausting the steps described in Section 1.2, AWS remains compelled to disclose
+Customer Data to a Requesting Party, AWS will disclose only the minimum amount of Customer
+Data necessary to satisfy the Request.
+
+2.
+
+Data Subject Rights. Nothing in this Addendum restricts Customer’s data subjects from exercising
+their rights under Applicable Data Protection Law. This includes, if applicable, a data subject’s rights
+to compensation from AWS for material or non-material damage under, and in accordance with,
+Article 82 of the GDPR.
+
+3.
+
+Warranty. AWS agrees and warrants that it has no reason to believe that the legislation applicable
+to it, or its sub-processors, including in any country to which Customer Data is transferred either by
+itself or through a sub-processor, prevents it from fulfilling the instructions received from Customer
+and its obligations under this Addendum and the DPA and that in the event of a change in this
+legislation which is likely to have a substantial adverse effect on the warranties and obligations
+provided by this Addendum and the DPA, AWS will promptly notify the change to Customer as soon
+as AWS is aware, in which case Customer is entitled to suspend the transfer of Customer Data and/or
+terminate the Agreement.
+
+4.
+
+Entire Agreement; Conflict. Except as supplemented by this Addendum, the DPA and the
+Agreement will remain in full force and effect. This Addendum, together with the DPA and the
+Agreement: (a) is intended by the parties as a final, complete and exclusive expression of the terms
+of their agreement, and (b) supersedes all prior agreements and understandings between the
+parties with respect to the subject matter hereof. If there is a conflict between the DPA and this
+Addendum, the terms of this Addendum will control.
+Page 1 of 1
+
+
