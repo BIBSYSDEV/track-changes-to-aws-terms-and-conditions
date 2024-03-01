@@ -16,7 +16,7 @@ jobs:
           curl https://aws.amazon.com/service-terms/ -o terms.html
           curl https://aws.amazon.com/agreement/ -o agreement.html
           curl https://d1.awsstatic.com/legal/aws-dpa/aws-dpa.pdf -o aws-dpa.pdf
-          curl https://d1.awsstatic.com/legal/aws-dpa/supplementary-addentum-to-the-aws-dpa.pdf -o supplementary-addendum-to-the-aws-dpa.pdf
+          curl https://d1.awsstatic.com/legal/aws-dpa/supplementary-addendum-to-the-aws-dpa.pdf -o supplementary-addendum-to-the-aws-dpa.pdf
       - name: Convert to text
         run: |
           html2markdown terms.html > terms.md
