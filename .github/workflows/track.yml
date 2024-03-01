@@ -2,15 +2,15 @@ name: Track changes to AWS Service Terms and Customer Agreement
 
 on:
   schedule:
-    - cron: "50 10 * * *"
+    - cron: "38 14 * * *"
 
 jobs:
   Check-For-Changes:
     runs-on: ubuntu-latest
     steps:
       - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
-      - uses: actions/checkout@v3
-      - run: sudo apt-get -y install python3-html2text
+      - uses: actions/checkout@v4
+      - run: sudo apt-get -y install python3-html2text poppler-utils
       - name: Download Service Terms and Customer Agreement
         run: |
           curl https://aws.amazon.com/service-terms/ -o terms.html
