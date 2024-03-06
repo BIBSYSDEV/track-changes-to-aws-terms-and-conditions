@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: February 14, 2024
+####  Last Updated: March 5, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -710,7 +710,7 @@ solely in connection with the development and improvement described in clause
 (a), we may use your Amazon CloudWatch ML Content in an AWS region outside of
 the AWS region where you are using Amazon CloudWatch. You may instruct AWS not
 to use and store your Amazon CloudWatch ML Content as described in the prior
-sentence by configuring an AI services opt out policy using AWS Organizations.
+sentence by configuring an AI services opt-out policy using AWS Organizations.
 “Amazon CloudWatch ML Functionality” means any Amazon CloudWatch
 functionalities identified to you as powered by artificial intelligence or
 machine learning. “Amazon CloudWatch ML Content” means Your Content that is
@@ -1444,7 +1444,7 @@ clauses (a) and (b), we may store Your Content in an AWS region outside of the
 AWS region where you are using AWS Supply Chain. You may instruct AWS not to
 use and store Your Content processed by AWS Supply Chain to develop and
 improve the AWS Supply Chain service or technologies of AWS or its affiliates
-by following the instructions set forth in the “Opt out policy” section of
+by following the instructions set forth in the “Opt-out policy” section of
 [AWS Supply Chain administrative guide](https://docs.aws.amazon.com/aws-
 supply-chain/latest/adminguide/getting-started.html).  
   
@@ -2279,7 +2279,7 @@ Amazon Comprehend Medical, Amazon Transcribe Medical, AWS HealthScribe, Amazon
 Comprehend Detect PII or any AI Service that is not listed in the first
 sentence of this Section 50.3. You may instruct AWS not to use and store AI
 Content processed by an AI Service to develop and improve that Service or
-technologies of AWS or its affiliates by configuring an AI services opt out
+technologies of AWS or its affiliates by configuring an AI services opt-out
 policy using AWS Organizations. For access to AI Services via AWS Builder ID,
 you may instruct AWS to refrain from using and storing AI Content processed by
 an AI Service to develop and improve that Service or technologies of AWS or
@@ -2450,11 +2450,17 @@ contrary in the Agreement or Service Terms, for purposes of facilitating your
 purchases of Amazon Bedrock, Amazon Web Services, Inc. will be the AWS
 Contracting Party.
 
-**50.12.2.** We may share information, that does not include Your Content,
-about your use of a third-party model on Amazon Bedrock and PartyRock with the
-provider of that third-party model, including related to potential violations
-of the third-party model provider’s terms of service or acceptable use
-policies.
+**50.12.2.** As part of providing the Service, Amazon Bedrock may use
+automated abuse detection mechanisms designed to detect harmful content,
+including related to potential violations of our or third-party model
+providers’ terms of service or acceptable use policies. If these mechanisms
+detect apparent child sexual abuse material, you agree and instruct that we
+may report the incident **** to the National Center for Missing and Exploited
+Children or other authority. In addition, we may share information, that does
+not include Your Content, about your use of a third-party model on Amazon
+Bedrock and PartyRock with the provider of that third-party model. See
+[here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
+detection.html) for more details.
 
 **50.12.3.** Provisioned throughput commitments for Bedrock. We may change
 provisioned throughput commitment pricing or stop offering commitments for
@@ -2536,7 +2542,7 @@ models.
 
 **50.13.3. Further Instructions.** You may instruct AWS not to use and store
 Amazon Q content for service improvement as described in this Section 50.13 by
-either (i) configuring an AI services opt out policy using AWS Organizations,
+either (i) configuring an AI services opt-out policy using AWS Organizations,
 or (ii) if you use Amazon Q in the IDE, by adjusting your settings in the IDE.
 
 ####  51\. Amazon Lightsail
@@ -2762,7 +2768,7 @@ connection with the development and improvement described in clauses (i) and
 regions where you are using Amazon Chime SDK ML Services. You may instruct AWS
 not to record, use and store Amazon Chime SDK ML Content processed by Amazon
 Chime SDK ML Services to develop and improve that Service or technologies of
-AWS or its affiliates by configuring an AI services opt out policy using AWS
+AWS or its affiliates by configuring an AI services opt-out policy using AWS
 Organizations.
 
 (b) You are responsible for providing legally adequate privacy notices to End
@@ -3020,7 +3026,7 @@ your Amazon Connect ML Content in AWS regions outside the AWS regions where
 you are using Amazon Connect ML Services. You may instruct AWS not to use and
 store Amazon Connect ML Content processed by Amazon Connect ML Services to
 develop and improve that Service or technologies of AWS or its affiliates by
-configuring an AI services opt out policy using AWS Organizations.  
+configuring an AI services opt-out policy using AWS Organizations.  
 
 (b) You are responsible for providing legally adequate privacy notices to End
 Users of your products or services that use Amazon Connect ML Services and
@@ -3228,7 +3234,7 @@ connection with the development and improvement described in clauses (a) and
 the AWS region where you are using AWS Entity Resolution. You may instruct AWS
 not to use and store AWS Entity Resolution Content to develop and improve AWS
 Entity Resolution and AWS and affiliate machine-learning and artificial
-intelligence technologies by configuring an AI services opt out policy using
+intelligence technologies by configuring an AI services opt-out policy using
 AWS Organizations.  
 
 **59.3.** You are responsible for providing legally adequate privacy notices
@@ -4017,7 +4023,7 @@ connection with the development and improvement described in clauses (a) and
 where you are using the Amazon GuardDuty Malware Protection feature. You may
 instruct AWS not to use and store Malware Content to develop and improve
 Amazon GuardDuty or other AWS security services by configuring an AI services
-opt out policy using AWS Organizations.
+opt-out policy using AWS Organizations.
 
 **87.3.** “Runtime Monitoring Content” means Your Content that is processed by
 the Amazon GuardDuty Runtime Monitoring feature.  
@@ -4028,7 +4034,7 @@ technologies; and (b) we may use and store Runtime Monitoring Content that is
 not personal data to develop and improve other AWS security services. You may
 instruct AWS not to use and store Runtime Monitoring Content to develop and
 improve Amazon GuardDuty or other AWS security services by configuring an AI
-services opt out policy using AWS Organizations.  
+services opt-out policy using AWS Organizations.  
 
 ####  88\. AWS Wickr
 
@@ -4267,7 +4273,7 @@ technologies; and (b) we may use and store Security Lake Content that is not
 personal data to develop and improve other AWS security services. You may
 instruct AWS not to use and store Security Lake Content to develop and improve
 Amazon Security Lake or other AWS security services by configuring an AI
-services opt out policy using AWS Organizations.
+services opt-out policy using AWS Organizations.
 
 ####  98\. Amazon Managed Blockchain
 
@@ -4299,7 +4305,7 @@ connection with the development and improvement described in clauses (i) and
 AWS regions where you are using Amazon DataZone ML Services. You may instruct
 AWS not to use and store Amazon DataZone ML Content processed by Amazon
 DataZone to develop and improve that Service or technologies of AWS or its
-affiliates by configuring an AI services opt out policy using AWS
+affiliates by configuring an AI services opt-out policy using AWS
 Organizations.
 
 b. You are responsible for providing legally adequate privacy notices to End
