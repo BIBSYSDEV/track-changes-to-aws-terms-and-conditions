@@ -4,7 +4,7 @@ name: Track changes to AWS Service Terms and Customer Agreement
 
 on:
   schedule:
-    - cron: "32 16 * * *"
+    - cron: "46 16 * * *"
 
 jobs:
   Check-For-Changes:
@@ -124,7 +124,7 @@ jobs:
       - name: Atlassian - Commit files
         run: |
           rm -rf tmp/*
-          git add miro/
+          git add atlassian/
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automatic check - Updated Atlassian docs"
             git push
@@ -160,7 +160,7 @@ jobs:
       - name: Slack - Commit files
         run: |
           rm -rf tmp/*
-          git add miro/
+          git add slack/
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automatic check - Updated Slack docs"
             git push
