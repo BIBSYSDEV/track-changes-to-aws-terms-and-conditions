@@ -4,7 +4,7 @@ name: Track changes to AWS Service Terms and Customer Agreement
 
 on:
   schedule:
-    - cron: "22 15 * * *"
+    - cron: "00 16 * * *"
 
 jobs:
   Check-For-Changes:
@@ -41,6 +41,15 @@ jobs:
           curl https://d1.awsstatic.com/legal/aws-dpa/supplementary-addendum-to-the-aws-dpa.pdf -o tmp/supplementary-addendum-to-the-aws-dpa.pdf
           pdftotext tmp/aws-dpa.pdf aws-dpa.txt
           pdftotext tmp/supplementary-addendum-to-the-aws-dpa.pdf supplementary-addendum-to-the-aws-dpa.txt
+      - name: AWS - Commit files
+        run: |
+          git config --global user.name 'Thomas Lund'
+          git config --global user.email 'thlund@users.noreply.github.com'
+          git add service-terms.md customer-agreement.md aws-dpa.txt supplementary-addendum-to-the-aws-dpa.txt
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Automatic check - Updated AWS docs"
+            git push
+          fi
       - name: Miro - Process Data Processing Addendum
         run: |
           curl https://miro.com/legal/customer-data-processing-addendum/ -o tmp/miro-customer-data-processing-addendum.html
@@ -79,6 +88,15 @@ jobs:
         run: |
           curl https://miro.com/legal/documents/Miro-Current-Subprocessors-List.pdf -o tmp/miro-current-subprocessors-list.pdf
           pdftotext tmp/miro-current-subprocessors-list.pdf miro/miro-current-subprocessors-list.txt
+      - name: Miro - Commit files
+        run: |
+          git config --global user.name 'Thomas Lund'
+          git config --global user.email 'thlund@users.noreply.github.com'
+          git add miro/
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Automatic check - Updated Miro docs"
+            git push
+          fi
       - name: Atlassian - Download docs
         run: |
           curl https://www.atlassian.com/legal/data-processing-addendum  -o tmp/atlassian-data-processing-addendum.html
@@ -100,6 +118,15 @@ jobs:
           csplit xx01 '/##  Related content/' --suppress-matched
           mv xx00 atlassian/privacy-policy.md
           rm -f xx01
+      - name: Atlassian - Commit files
+        run: |
+          git config --global user.name 'Thomas Lund'
+          git config --global user.email 'thlund@users.noreply.github.com'
+          git add miro/
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Automatic check - Updated Atlassian docs"
+            git push
+          fi
       - name: Slack - Process Main Services Agreement
         run: |
           curl -L https://www.salesforce.com/company/msa.jsp -o tmp/slack-main-services-agreement.pdf
@@ -128,15 +155,15 @@ jobs:
           csplit xx01 '/### Try Slack with your team for free/' --suppress-matched
           mv xx00 slack/affiliates.md
           rm -f xx01
-      - name: Cleanup
-        run: |
-          rm -rf tmp/
-      - name: Commit files
+      - name: Slack - Commit files
         run: |
           git config --global user.name 'Thomas Lund'
           git config --global user.email 'thlund@users.noreply.github.com'
-          git add service-terms.md customer-agreement.md aws-dpa.txt supplementary-addendum-to-the-aws-dpa.txt miro/ atlassian/ slack/
+          git add miro/
           if ! git diff-index --quiet HEAD; then
-            git commit -m "Automated check"
+            git commit -m "Automatic check - Updated Slack docs"
             git push
           fi
+      - name: Cleanup
+        run: |
+          rm -rf tmp/
