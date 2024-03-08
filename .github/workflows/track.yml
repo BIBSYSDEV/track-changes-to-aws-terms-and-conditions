@@ -110,7 +110,7 @@ jobs:
           html2markdown tmp/slack-supplemental-terms.html > tmp/slack-supplemental-terms.md
           csplit tmp/slack-supplemental-terms.md '/# Slack Supplemental Terms/'
           csplit xx01 '/### Try Slack with your team for free/' --suppress-matched
-          mv xx00 slack/supplemental-terms.txt
+          mv xx00 slack/supplemental-terms.md
           rm -f xx01
       - name: Slack - Process subprocessors
         run: |
@@ -118,7 +118,7 @@ jobs:
           html2markdown tmp/slack-subprocessors.html > tmp/slack-subprocessors.md
           csplit tmp/slack-subprocessors.md '/# Slack Subprocessors/'
           csplit xx01 '/### Try Slack with your team for free/' --suppress-matched
-          mv xx00 slack/subprocessors.txt
+          mv xx00 slack/subprocessors.md
           rm -f xx01
       - name: Slack - Process affiliates
         run: |
@@ -126,7 +126,7 @@ jobs:
           html2markdown tmp/slack-affiliates.html > tmp/slack-affiliates.md
           csplit tmp/slack-affiliates.md '/# Slack Affiliates/'
           csplit xx01 '/### Try Slack with your team for free/' --suppress-matched
-          mv xx00 slack/affiliates.txt
+          mv xx00 slack/affiliates.md
           rm -f xx01
       - name: Cleanup
         run: |
