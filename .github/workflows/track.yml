@@ -2,7 +2,7 @@ name: Track changes to AWS Service Terms and Customer Agreement
 
 on:
   schedule:
-    - cron: "53 14 * * *"
+    - cron: "18 15 * * *"
 
 jobs:
   Check-For-Changes:
@@ -39,26 +39,40 @@ jobs:
           curl https://d1.awsstatic.com/legal/aws-dpa/supplementary-addendum-to-the-aws-dpa.pdf -o tmp/supplementary-addendum-to-the-aws-dpa.pdf
           pdftotext tmp/aws-dpa.pdf aws-dpa.txt
           pdftotext tmp/supplementary-addendum-to-the-aws-dpa.pdf supplementary-addendum-to-the-aws-dpa.txt
-      - name: Miro - Download docs
+      - name: Miro - Process Data Processing Addendum
         run: |
           curl https://miro.com/legal/customer-data-processing-addendum/ -o tmp/miro-customer-data-processing-addendum.html
           URL=$(lynx -dump -hiddenlinks=listonly tmp/miro-customer-data-processing-addendum.html | grep "Customer.*\.pdf$" |awk '{print $2}')
           curl $URL -o tmp/miro-customer-data-processing-addendum.pdf
-          curl https://miro.com/legal/master-cloud-agreement/ -o tmp/miro-master-cloud-agreement.html
-          curl https://miro.com/legal/documents/Miro-Service-Level-Agreement.pdf -o tmp/miro-service-level-agreement.pdf
-          curl https://miro.com/legal/privacy-policy/ -o tmp/miro-privacy-policy.html
-          curl https://miro.com/legal/documents/Miro-Current-Subprocessors-List.pdf -o tmp/miro-current-subprocessors-list.pdf
-      - name: Miro - Convert to text
-        run: |
           pdftotext tmp/miro-customer-data-processing-addendum.pdf miro/miro-customer-data-processing-addendum.txt
-          pdftotext tmp/miro-current-subprocessors-list.pdf miro/miro-current-subprocessors-list.txt
-          html2markdown tmp/miro-terms-of-service.html > tmp/miro-terms-of-service.md
-      - name: Miro - Extract terms
+      - name: Miro - Process Terms of Service
         run: |
+          curl https://miro.com/legal/terms-of-service/ -o tmp/miro-terms-of-service.html
+          html2markdown tmp/miro-terms-of-service.html > tmp/miro-terms-of-service.md
           csplit tmp/miro-terms-of-service.md '/## Terms of Service/'
           csplit xx01 '/  \*  \*\*Product\*\*/'  --suppress-matched
           mv xx00 miro/terms-of-service.md
           rm -f xx01
+      - name: Miro - Process Master Cloud Agreement
+          curl https://miro.com/legal/master-cloud-agreement/ -o tmp/miro-master-cloud-agreement.html
+          html2markdown tmp/miro-master-cloud-agreement.html > tmp/miro-master-cloud-agreement.md
+          csplit tmp/miro-master-cloud-agreement.md '/## Master Cloud Agreement/'
+          csplit xx01 '/  \* \*\*Product\*\*/'  --suppress-matched
+          mv xx00 miro/master-cloud-agreement.md
+          rm -f xx01
+      - name: Miro - Process SLA
+          curl https://miro.com/legal/documents/Miro-Service-Level-Agreement.pdf -o tmp/miro-service-level-agreement.pdf
+          pdftotext tmp/miro-service-level-agreement.pdf miro/service-level-agreement.txt
+      - name: Miro - Process Privacy Policy
+          curl https://miro.com/legal/privacy-policy/ -o tmp/miro-privacy-policy.html
+          html2markdown tmp/miro-privacy-policy.html > tmp/miro-privacy-policy.md
+          csplit tmp/miro-privacy-policy.md '/## Privacy Policy/'
+          csplit xx01 '/  \*  \*\*Product\*\*/'  --suppress-matched
+          mv xx00 miro/privacy-policy.md
+          rm -f xx01
+      - name: Miro - Process Subprocessors
+          curl https://miro.com/legal/documents/Miro-Current-Subprocessors-List.pdf -o tmp/miro-current-subprocessors-list.pdf
+          pdftotext tmp/miro-current-subprocessors-list.pdf miro/miro-current-subprocessors-list.txt
       - name: Atlassian - Download docs
         run: |
           curl https://www.atlassian.com/legal/data-processing-addendum  -o tmp/atlassian-data-processing-addendum.html
