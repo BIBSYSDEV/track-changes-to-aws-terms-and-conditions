@@ -4,7 +4,7 @@ name: Track changes to AWS Service Terms and Customer Agreement
 
 on:
   schedule:
-    - cron: "15 16 * * *"
+    - cron: "32 16 * * *"
 
 jobs:
   Check-For-Changes:
@@ -21,6 +21,7 @@ jobs:
           mkdir -p tmp
           git config --global user.name 'Thomas Lund'
           git config --global user.email 'thlund@users.noreply.github.com'
+
       - name: AWS - Process Service Terms
         run: |
           curl https://aws.amazon.com/service-terms/ -o tmp/aws-service-terms.html
@@ -45,12 +46,13 @@ jobs:
           pdftotext tmp/supplementary-addendum-to-the-aws-dpa.pdf supplementary-addendum-to-the-aws-dpa.txt
       - name: AWS - Commit files
         run: |
-          rm -rf tmp/
+          rm -rf tmp/*
           git add service-terms.md customer-agreement.md aws-dpa.txt supplementary-addendum-to-the-aws-dpa.txt
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automatic check - Updated AWS docs"
             git push
           fi
+
       - name: Miro - Process Data Processing Addendum
         run: |
           curl https://miro.com/legal/customer-data-processing-addendum/ -o tmp/miro-customer-data-processing-addendum.html
@@ -91,12 +93,13 @@ jobs:
           pdftotext tmp/miro-current-subprocessors-list.pdf miro/miro-current-subprocessors-list.txt
       - name: Miro - Commit files
         run: |
-          rm -rf tmp/
+          rm -rf tmp/*
           git add miro/
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automatic check - Updated Miro docs"
             git push
           fi
+
       - name: Atlassian - Download docs
         run: |
           curl https://www.atlassian.com/legal/data-processing-addendum  -o tmp/atlassian-data-processing-addendum.html
@@ -120,7 +123,7 @@ jobs:
           rm -f xx01
       - name: Atlassian - Commit files
         run: |
-          rm -rf tmp/
+          rm -rf tmp/*
           git add miro/
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automatic check - Updated Atlassian docs"
@@ -156,7 +159,7 @@ jobs:
           rm -f xx01
       - name: Slack - Commit files
         run: |
-          rm -rf tmp/
+          rm -rf tmp/*
           git add miro/
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automatic check - Updated Slack docs"
