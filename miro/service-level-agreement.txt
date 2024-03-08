@@ -1,0 +1,42 @@
+Miro Service Level Agreement
+This RealtimeBoard, Inc. dba Miro (“Miro”) Service Level Agreement (“SLA”) is issued under and forms part of the Master Cloud
+Agreement or other Miro agreement which references this policy and any capitalized terms not defined herein shall have the
+meanings ascribed to them in such Miro agreement. With notice to Customer, Miro may modify this SLA to reflect new features
+or changing practices, but the modifications will not materially decrease Miro’s overall obligations during a Subscription Term.
+1. Service Availability. Miro will use commercially reasonable efforts to provide the Service to Customer at the Availability
+Standard set forth below:
+a. “Availability Standard” means uptime availability of the Service at a level of at least 99.5% availability measured on a monthly
+basis, excluding scheduled maintenance time. The Service will be deemed unavailable if Customer is unable to access the
+Service (“Disruption”). Notwithstanding the foregoing, it will not be a Disruption if the Service is not available because of (i)
+general internet problems or outages caused by power supply carriers; (ii) malfunction of equipment, systems software,
+network connections or other infrastructure not owned or operated by Miro; (iii) force majeure events or other factors outside
+the reasonable control of Miro or (iv) scheduled service or maintenance or reasonable emergency maintenance.
+b. Miro will provide updates and information about availability and outages through in-app notifications and/or at
+https://status.miro.com.
+2. Service Credits.
+a. If Miro fails to meet the Availability Standard in a particular month and Customer makes a request for service credits within
+30 days after the end of such month, Customer will be entitled to a credit based on the monthly portion of the annual fees due
+for the affected Service in such month (“Service Credit”). The Service Credit is calculated as follows:
+Service Availability Percentage
+99.5% or greater
+99.00% to 99.5%
+98.5% to 99.00%
+98.00% to 98.5%
+97.5% to 98.00%
+Less than 97.5%
+
+No Credit
+5%
+10%
+15%
+20%
+30%
+
+Service Credit (% of monthly fees)
+
+b. Miro will apply each Service Credit to Customer’s next invoice, provided that Customer’s account is fully paid up, without any
+outstanding payment issues or disputes. Customer will not receive any refunds for any unused Service Credits.
+3. Exclusive Remedy. Service Credits constitute liquidated damages and are not a penalty. Service Credits are Customer’s sole
+and exclusive remedy, and Miro’s sole and exclusive liability, for Miro’s failure to meet the Availability Standard.
+
+

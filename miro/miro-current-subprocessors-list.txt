@@ -1,0 +1,152 @@
+MIRO SUB-PROCESSORS
+Last updated: 23 November 2023
+Name
+
+Co.
+Number
+
+Address
+
+Description of Processing
+
+Location of Processing
+
+Website
+
+Amazon Web Services, Inc.
+
+4152954
+
+410 Terry Avenue North, Seattle, WA 98109-5210
+
+Infrastructure
+
+Ireland | Germany | United
+States
+
+https://aws.amazon.com/
+
+Gainsight, Inc.
+
+5282490
+
+350 Bay Street Suite 100 San Francisco, CA 94133
+
+Customer Success/Support
+
+United States
+
+https://www.gainsight.com/
+
+InSided, Inc.
+
+6269152
+
+Singel 118A, 1015 AE Amsterdam, Netherlands
+
+Customer Success/Support
+
+Netherlands
+
+https://www.insided.com/
+
+Microsoft Corporation
+
+600413485
+
+One Microsoft Way, Redmond, WA 98052-6399
+
+Accessibility, OCR functionality,
+Miro AI
+
+United States
+
+https://www.microsoft.com/
+
+PartnerHero, Inc.
+
+471206289
+
+California, 518 S. 9th St. #300 Boise
+
+Customer Support
+
+United States | Philippines
+
+https://www.partnerhero.com/
+
+The Rocket Science Group, LLC
+
+2303505
+
+675 Ponce De Leon Avenue, Northeast Suite 5000
+Atlanta, GA 30308
+
+Service Related Emails
+
+United States
+
+https://mailchimp.com/
+
+Thought Industries, Inc.
+
+463655883
+
+3 Post Office Square 4th Floor, Boston, MA 02109
+
+Customer Training
+
+United States
+
+https://www.thoughtindustries.com/
+
+Zendesk, Inc.
+
+4661237
+
+989 Market St, San Francisco, CA 94103
+
+Customer Support Tickets
+
+Germany
+
+https://www.zendesk.com/
+
+MIRO AFFILIATES
+Affiliate
+
+Location
+
+Miro Armenia LLC (formerly Teamwork LLC)
+
+Armenia
+
+Miro Australia Pty Ltd
+
+Australia
+
+Miro DACH GmbH
+
+European Union (Germany)
+
+Miro EMEA UK Limited
+
+United Kingdom
+
+Miro Japan GK
+
+Japan
+
+Miro Worldwide France, SAS
+
+European Union (France)
+
+RealtimeBoard B.V.
+
+European Union (Netherlands)
+
+RealtimeBoard, Inc.
+
+United States
+
+
