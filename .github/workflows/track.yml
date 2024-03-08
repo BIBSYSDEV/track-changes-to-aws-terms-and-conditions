@@ -1,8 +1,10 @@
 name: Track changes to AWS Service Terms and Customer Agreement
 
+# Parts of this script relies heavily on scraping text from html pages, and is thus vulnerable to changes in these external web pages.
+
 on:
   schedule:
-    - cron: "18 15 * * *"
+    - cron: "22 15 * * *"
 
 jobs:
   Check-For-Changes:
