@@ -10,19 +10,28 @@ jobs:
     steps:
       - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
       - uses: actions/checkout@v4
-      - run: sudo apt-get -y install python3-html2text poppler-utils
+      - run: sudo apt-get -y install python3-html2text poppler-utils lynx
+      - name: Configure
+        run: |
+          mkdir -p miro
+          mkdir -p atlassian
+          mkdir -p slack
       - name: Download Service Terms and Customer Agreement
         run: |
           curl https://aws.amazon.com/service-terms/ -o terms.html
           curl https://aws.amazon.com/agreement/ -o agreement.html
           curl https://d1.awsstatic.com/legal/aws-dpa/aws-dpa.pdf -o aws-dpa.pdf
           curl https://d1.awsstatic.com/legal/aws-dpa/supplementary-addendum-to-the-aws-dpa.pdf -o supplementary-addendum-to-the-aws-dpa.pdf
+          curl https://miro.com/legal/customer-data-processing-addendum/ -o miro-customer-data-processing-addendum.html
+          URL=$(lynx -dump -hiddenlinks=listonly miro-customer-data-processing-addendum.html | grep "Customer.*\.pdf$" |awk '{print $2}')
+          curl $URL -o miro-customer-data-processing-addendum.pdf
       - name: Convert to text
         run: |
           html2markdown terms.html > terms.md
           html2markdown agreement.html > agreement.md
           pdftotext aws-dpa.pdf aws-dpa.txt
           pdftotext supplementary-addendum-to-the-aws-dpa.pdf supplementary-addendum-to-the-aws-dpa.txt
+          pdftotext miro-customer-data-processing-addendum.pdf miro/miro-customer-data-processing-addendum.txt
       - name: Extract terms
         run: |
           csplit terms.md '/AWS Service Terms/'
@@ -35,11 +44,17 @@ jobs:
           csplit xx01 '/Prior Version/' --suppress-matched
           mv xx00 customer-agreement.md
           rm -f xx01 agreement.html agreement.md
+      - name: Extract terms miro
+        run: |
+          csplit miro-terms-of-service.md '/## Terms of Service/'
+          csplit xx01 '/  \*  \*\*Product\*\*/'  --suppress-matched
+          mv xx00 miro/terms-of-service.md
+          rm -f xx01 miro-terms-of-service.html miro-terms-of-service.md
       - name: Commit files
         run: |
           git config --global user.name 'Thomas Lund'
           git config --global user.email 'thlund@users.noreply.github.com'
-          git add service-terms.md customer-agreement.md aws-dpa.txt supplementary-addendum-to-the-aws-dpa.txt 
+          git add service-terms.md customer-agreement.md aws-dpa.txt supplementary-addendum-to-the-aws-dpa.txt miro/ atlassian/ slack/
           if ! git diff-index --quiet HEAD; then
             git commit -m "Automated check"
             git push
