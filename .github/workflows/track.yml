@@ -54,6 +54,7 @@ jobs:
           mv xx00 miro/terms-of-service.md
           rm -f xx01
       - name: Miro - Process Master Cloud Agreement
+        run: |
           curl https://miro.com/legal/master-cloud-agreement/ -o tmp/miro-master-cloud-agreement.html
           html2markdown tmp/miro-master-cloud-agreement.html > tmp/miro-master-cloud-agreement.md
           csplit tmp/miro-master-cloud-agreement.md '/## Master Cloud Agreement/'
@@ -61,9 +62,11 @@ jobs:
           mv xx00 miro/master-cloud-agreement.md
           rm -f xx01
       - name: Miro - Process SLA
+        run: |
           curl https://miro.com/legal/documents/Miro-Service-Level-Agreement.pdf -o tmp/miro-service-level-agreement.pdf
           pdftotext tmp/miro-service-level-agreement.pdf miro/service-level-agreement.txt
       - name: Miro - Process Privacy Policy
+        run: |
           curl https://miro.com/legal/privacy-policy/ -o tmp/miro-privacy-policy.html
           html2markdown tmp/miro-privacy-policy.html > tmp/miro-privacy-policy.md
           csplit tmp/miro-privacy-policy.md '/## Privacy Policy/'
@@ -71,6 +74,7 @@ jobs:
           mv xx00 miro/privacy-policy.md
           rm -f xx01
       - name: Miro - Process Subprocessors
+        run: |
           curl https://miro.com/legal/documents/Miro-Current-Subprocessors-List.pdf -o tmp/miro-current-subprocessors-list.pdf
           pdftotext tmp/miro-current-subprocessors-list.pdf miro/miro-current-subprocessors-list.txt
       - name: Atlassian - Download docs
