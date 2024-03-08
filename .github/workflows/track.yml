@@ -21,7 +21,7 @@ jobs:
         run: |
           curl https://aws.amazon.com/service-terms/ -o tmp/aws-service-terms.html
           html2markdown tmp/aws-service-terms.html > tmp/aws-service-terms.md
-          csplit tmp/service-terms.md '/AWS Service Terms/'
+          csplit tmp/aws-service-terms.md '/AWS Service Terms/'
           csplit xx01 '/Previous version/' --suppress-matched
           mv xx00 service-terms.md
           rm -f xx01
