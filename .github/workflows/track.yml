@@ -11,45 +11,106 @@ jobs:
       - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
       - uses: actions/checkout@v4
       - run: sudo apt-get -y install python3-html2text poppler-utils lynx
-      - name: Configure
+      - name: Setup
         run: |
           mkdir -p miro
           mkdir -p atlassian
           mkdir -p slack
-      - name: Download Service Terms and Customer Agreement
+          mkdir -p tmp
+      - name: AWS - Process Service Terms
         run: |
-          curl https://aws.amazon.com/service-terms/ -o terms.html
-          curl https://aws.amazon.com/agreement/ -o agreement.html
-          curl https://d1.awsstatic.com/legal/aws-dpa/aws-dpa.pdf -o aws-dpa.pdf
-          curl https://d1.awsstatic.com/legal/aws-dpa/supplementary-addendum-to-the-aws-dpa.pdf -o supplementary-addendum-to-the-aws-dpa.pdf
-          curl https://miro.com/legal/customer-data-processing-addendum/ -o miro-customer-data-processing-addendum.html
-          URL=$(lynx -dump -hiddenlinks=listonly miro-customer-data-processing-addendum.html | grep "Customer.*\.pdf$" |awk '{print $2}')
-          curl $URL -o miro-customer-data-processing-addendum.pdf
-      - name: Convert to text
-        run: |
-          html2markdown terms.html > terms.md
-          html2markdown agreement.html > agreement.md
-          pdftotext aws-dpa.pdf aws-dpa.txt
-          pdftotext supplementary-addendum-to-the-aws-dpa.pdf supplementary-addendum-to-the-aws-dpa.txt
-          pdftotext miro-customer-data-processing-addendum.pdf miro/miro-customer-data-processing-addendum.txt
-      - name: Extract terms
-        run: |
-          csplit terms.md '/AWS Service Terms/'
+          curl https://aws.amazon.com/service-terms/ -o tmp/aws-service-terms.html
+          html2markdown tmp/aws-service-terms.html > tmp/aws-service-terms.md
+          csplit tmp/service-terms.md '/AWS Service Terms/'
           csplit xx01 '/Previous version/' --suppress-matched
           mv xx00 service-terms.md
-          rm -f xx01 terms.html terms.md
-      - name: Extract agreement
+          rm -f xx01
+      - name: AWS - Process Customer Agreement
         run: |
-          csplit agreement.md '/AWS Customer Agreement/'
+          curl https://aws.amazon.com/agreement/ -o tmp/aws-agreement.html
+          html2markdown tmp/aws-agreement.html > tmp/aws-agreement.md
+          csplit tmp/aws-agreement.md '/AWS Customer Agreement/'
           csplit xx01 '/Prior Version/' --suppress-matched
           mv xx00 customer-agreement.md
-          rm -f xx01 agreement.html agreement.md
-      - name: Extract terms miro
+          rm -f xx01
+      - name: AWS - Process DPA and addendum
         run: |
-          csplit miro-terms-of-service.md '/## Terms of Service/'
+          curl https://d1.awsstatic.com/legal/aws-dpa/aws-dpa.pdf -o tmp/aws-dpa.pdf
+          curl https://d1.awsstatic.com/legal/aws-dpa/supplementary-addendum-to-the-aws-dpa.pdf -o tmp/supplementary-addendum-to-the-aws-dpa.pdf
+          pdftotext tmp/aws-dpa.pdf aws-dpa.txt
+          pdftotext tmp/supplementary-addendum-to-the-aws-dpa.pdf supplementary-addendum-to-the-aws-dpa.txt
+      - name: Miro - Download docs
+        run: |
+          curl https://miro.com/legal/customer-data-processing-addendum/ -o tmp/miro-customer-data-processing-addendum.html
+          URL=$(lynx -dump -hiddenlinks=listonly tmp/miro-customer-data-processing-addendum.html | grep "Customer.*\.pdf$" |awk '{print $2}')
+          curl $URL -o tmp/miro-customer-data-processing-addendum.pdf
+          curl https://miro.com/legal/master-cloud-agreement/ -o tmp/miro-master-cloud-agreement.html
+          curl https://miro.com/legal/documents/Miro-Service-Level-Agreement.pdf -o tmp/miro-service-level-agreement.pdf
+          curl https://miro.com/legal/privacy-policy/ -o tmp/miro-privacy-policy.html
+          curl https://miro.com/legal/documents/Miro-Current-Subprocessors-List.pdf -o tmp/miro-current-subprocessors-list.pdf
+      - name: Miro - Convert to text
+        run: |
+          pdftotext tmp/miro-customer-data-processing-addendum.pdf miro/miro-customer-data-processing-addendum.txt
+          pdftotext tmp/miro-current-subprocessors-list.pdf miro/miro-current-subprocessors-list.txt
+          html2markdown tmp/miro-terms-of-service.html > tmp/miro-terms-of-service.md
+      - name: Miro - Extract terms
+        run: |
+          csplit tmp/miro-terms-of-service.md '/## Terms of Service/'
           csplit xx01 '/  \*  \*\*Product\*\*/'  --suppress-matched
           mv xx00 miro/terms-of-service.md
-          rm -f xx01 miro-terms-of-service.html miro-terms-of-service.md
+          rm -f xx01
+      - name: Atlassian - Download docs
+        run: |
+          curl https://www.atlassian.com/legal/data-processing-addendum  -o tmp/atlassian-data-processing-addendum.html
+          URL=$(lynx -dump -hiddenlinks=listonly tmp/atlassian-data-processing-addendum.html|grep "DPA.*\.pdf"|awk '{print $2}')
+          curl $URL -o tmp/atlassian-data-processing-addendum.pdf
+          curl https://www.atlassian.com/legal/sub-processors -o tmp/atlassian-sub-processors.html
+          curl https://www.atlassian.com/legal/privacy-policy -o tmp/atlassian-privacy-policy.html
+      - name: Atlassian - Convert to text
+        run: |
+          pdftotext tmp/atlassian-data-processing-addendum.pdf atlassian/data-processing-addendum.txt
+          html2markdown tmp/atlassian-sub-processors.html > tmp/atlassian-sub-processors.md
+          html2markdown tmp/atlassian-privacy-policy.html > tmp/atlassian-privacy-policy.md
+      - name: Atlassian - Extract
+        run: |
+          csplit tmp/atlassian-sub-processors.md '/#  Atlassian Sub-processors/'
+          csplit xx01 '/Sign up for updates/' --suppress-matched
+          mv xx00 atlassian/sub-processors.md
+          csplit tmp/atlassian-privacy-policy.md '/#  Privacy Policy/'
+          csplit xx01 '/##  Related content/' --suppress-matched
+          mv xx00 atlassian/privacy-policy.md
+          rm -f xx01
+      - name: Slack - Process Main Services Agreement
+        run: |
+          curl -L https://www.salesforce.com/company/msa.jsp -o tmp/slack-main-services-agreement.pdf
+          pdftotext tmp/slack-main-services-agreement.pdf slack/main-services-agreement.txt
+      - name: Slack - Process Supplemental Terms
+        run: |
+          curl https://slack.com/slack-supplemental-terms -o tmp/slack-supplemental-terms.html          
+          html2markdown tmp/slack-supplemental-terms.html > tmp/slack-supplemental-terms.md
+          csplit tmp/slack-supplemental-terms.md '/# Slack Supplemental Terms/'
+          csplit xx01 '/### Try Slack with your team for free/' --suppress-matched
+          mv xx00 slack/supplemental-terms.txt
+          rm -f xx01
+      - name: Slack - Process subprocessors
+        run: |
+          curl https://slack.com/slack-subprocessors -o tmp/slack-subprocessors.html
+          html2markdown tmp/slack-subprocessors.html > tmp/slack-subprocessors.md
+          csplit tmp/slack-subprocessors.md '/# Slack Subprocessors/'
+          csplit xx01 '/### Try Slack with your team for free/' --suppress-matched
+          mv xx00 slack/subprocessors.txt
+          rm -f xx01
+      - name: Slack - Process affiliates
+        run: |
+          curl https://slack.com/affiliates -o tmp/slack-affiliates.html
+          html2markdown tmp/slack-affiliates.html > tmp/slack-affiliates.md
+          csplit tmp/slack-affiliates.md '/# Slack Affiliates/'
+          csplit xx01 '/### Try Slack with your team for free/' --suppress-matched
+          mv xx00 slack/affiliates.txt
+          rm -f xx01
+      - name: Cleanup
+        run: |
+          rm -rf tmp/
       - name: Commit files
         run: |
           git config --global user.name 'Thomas Lund'
