@@ -148,7 +148,7 @@ suspension. Once Customer resolves the issue leading to suspension, Miro will
 promptly restore Customer’s or User’s access to the relevant Services in
 accordance with this Agreement.
 
-###  **7.** **Integration with Third-Party Platforms**.
+###  **7\. Integration with Third-Party Platforms**.
 
 Miro allows integrations with Third Party Platforms. If Customer elects to use
 Third-Party Platforms with the Services, (a) such use of Third-Party Platforms
