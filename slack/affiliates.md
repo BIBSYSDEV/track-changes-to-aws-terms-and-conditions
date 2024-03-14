@@ -18,6 +18,7 @@ Terms
   * [API Terms of Service](https://slack.com/terms-of-service/api)
   * [App Directory Agreement](https://slack.com/terms-of-service/app-directory)
   * [Slack Partner Program Terms & Conditions](https://slack.com/terms-of-service/partners)
+  * [Slack Developer Program Agreement](https://slack.com/terms-of-service/slack-developer-program)
   * [Slack Brand Terms of Service](https://slack.com/terms-of-service/slack-brand)
 
 ### Policies
