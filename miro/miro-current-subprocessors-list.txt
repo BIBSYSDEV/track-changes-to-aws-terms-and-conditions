@@ -1,9 +1,8 @@
 MIRO SUB-PROCESSORS
-Last updated: 23 November 2023
+Last updated: 20 February 2024
 Name
 
-Co.
-Number
+Co. Number
 
 Address
 
@@ -37,6 +36,19 @@ Customer Success/Support
 United States
 
 https://www.gainsight.com/
+
+Google LLC
+
+201727810678
+
+1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+Sensitive Data Discovery
+(Enterprise Guard)
+
+United States
+
+https://cloud.google.com/looker
 
 InSided, Inc.
 
