@@ -30,11 +30,17 @@ you understand:
 This Privacy Policy covers the information we collect about you when you use
 our products or services, or otherwise interact with us (for example, by
 attending our premises or events or by communicating with us), unless a
-different policy is displayed. Atlassian, we and us refers to Atlassian Pty
-Ltd, Atlassian US, Inc. and any of our corporate affiliates. We offer a wide
-range of products, [including our cloud, server and data center
-products](/software). We refer to all of these products, together with our
-other services and websites as "Services" in this policy.
+different policy is displayed. For more information about how we process
+applicant and former employee data, please see the [Atlassian Careers Privacy
+Notice](/legal/careers-privacy-notice) or the [Former Workplace Privacy
+Notice](/legal/formerworkforceprivacynotice). For information about how we
+process information submitted in a voluntary diversity survey, see our
+[Diversity Survey Privacy Notice](/legal/diversity-survey-privacy-notice).
+Atlassian, we and us refers to Atlassian Pty Ltd, Atlassian US, Inc. and any
+of our corporate affiliates. We offer a wide range of products, [including our
+cloud, server and data center products](/software). We refer to all of these
+products, together with our other services and websites as "Services" in this
+policy.
 
 This policy also explains your choices surrounding how we use information
 about you, which include how you can object to certain uses of information
@@ -151,7 +157,9 @@ other tracking technologies (e.g., web beacons, device identifiers and pixels)
 to provide functionality and to recognize you across different Services and
 devices. For more information, please see our [Cookies and Tracking
 Notice](/legal/cookies), which includes information on how to control or opt
-out of these cookies and tracking technologies.
+out of these cookies and tracking technologies. Please refer to [Loom's Cookie
+Policy](https://www.loom.com/cookie-policy) for details on cookies and
+tracking technologies used within Loom products and websites.
 
 **Information we receive from other sources**
 
