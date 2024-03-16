@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: March 5, 2024
+####  Last Updated: March 15, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -745,12 +745,11 @@ provided by the monitor to more than one entity. You may distribute metrics
 provided by your monitor(s) to third party network observability services
 solely for your personal use.
 
-####  9\. AWS Snowball, AWS Snowcone and AWS Snowmobile
+####  9\. AWS Snowball and AWS Snowcone
 
-**9.1.** “AWS Snow Family” includes: AWS Snowball, AWS Snowcone and AWS
-Snowmobile.
+**9.1.** “AWS Snow Family” includes: AWS Snowball and AWS Snowcone.  
 
-**9.2.** As part of AWS Snowball and AWS Snowcone, we will ship you an agreed
+**9.2.**  As part of AWS Snowball and AWS Snowcone, we will ship you an agreed
 upon number of “Snowball” or "Snowcone" hardware appliances (each an
 “Appliance”) and provide you with access to the applicable AWS Snowball Client
 or AWS Snowcone client software (together with the software contained on the
@@ -764,42 +763,13 @@ transferred files, duration of transfers, and errors or timeouts. These
 metrics may be associated with your account ID, and we may use these metrics
 to maintain, provide, develop, and improve the Services.
 
-**9.3.**  As part of AWS Snowmobile, we will transport a containerized data
-center and networking equipment (collectively, “Snowmobile”), and other
-materials, equipment, and software necessary for operation of the Snowmobile
-(collectively with the Snowmobile, the “Snowmobile Materials”). You will
-ensure that, at all times, the designated transfer location for delivery of
-the Snowmobile Materials (the “Transfer Site") meets the minimum requirements
-necessary to support the delivery, setup, maintenance, use, and removal of the
-Snowmobile Materials as described on the AWS Site and otherwise as described
-in the Snowmobile technical documentation or provided to you during the
-ordering and delivery process. You will ensure that you have all necessary
-rights, certifications, and licenses for the delivery, setup, maintenance,
-use, and removal of the Snowmobile Materials at the Transfer Site. You are
-responsible for any damage to the Snowmobile Materials while at the Transfer
-Site, unless caused by AWS. You may not allow Snowmobile Materials to leave
-the Transfer Site other than under the supervision of personnel designated by
-AWS. You will give personnel designated by AWS prompt and reasonable access to
-the Transfer Site as necessary to deliver, setup, inspect, maintain, and
-remove the Snowmobile Materials. You will not require AWS personnel to sign,
-accept, or otherwise agree to any documentation as a condition of accessing
-the Transfer Site, and you agree that the terms of any such documentation are
-void even if signed by AWS personnel. You will ensure that no one accesses,
-moves, or repairs the Snowmobile Materials other than (i) personnel designated
-by AWS, (ii) as permitted in writing by AWS in connection with the maintenance
-of Snowmobile Materials, or (iii) as necessary due to a situation involving
-imminent injury, damage to property, or an active fire alarm system. AWS may
-terminate your use of Snowmobile Materials and remove the Snowmobile Materials
-if you breach these terms or the terms of the Agreement with respect to
-Snowmobile Materials.
+**9.3.  **Once AWS Snow Family services are complete, we will delete data from
+the Appliances.
 
-**9.4.** Once AWS Snow Family services are complete, we will delete data from
-the Appliances or Snowmobiles, as applicable.
-
-**9.5.** You are responsible for payment of all customs, duties, taxes, and
+**9.4.**  You are responsible for payment of all customs, duties, taxes, and
 other charges in connection with Appliances being shipped to or from us.
 
-**9.6.** You are responsible for any damage to, or loss of, an Appliance after
+**9.5.** You are responsible for any damage to, or loss of, an Appliance after
 delivery to you until the carrier accepts the Appliance for delivery back to
 us. In addition to other rights and remedies we may have under the Agreement,
 we may charge you the applicable lost device fee specified on the AWS Snowball
@@ -808,28 +778,25 @@ damaged between when it is first in your possession and when the carrier
 accepts the Appliance for delivery back to us; or (b) you do not provide the
 Appliance to the carrier for return to us at our request.  
 
-**9.7.  **YOU ARE SOLELY RESPONSIBLE FOR APPLYING APPROPRIATE SECURITY
-MEASURES TO YOUR DATA AND YOUR USE OF APPLIANCES AND SNOWMOBILE MATERIALS,
-INCLUDING ENCRYPTING SENSITIVE DATA AND NOT ALLOWING UNAUTHORIZED ACCESS TO
-ANY APPLIANCE OR SNOWMOBILE MATERIALS.
+**9.6.  **YOU ARE SOLELY RESPONSIBLE FOR APPLYING APPROPRIATE SECURITY
+MEASURES TO YOUR DATA AND YOUR USE OF APPLIANCES , INCLUDING ENCRYPTING
+SENSITIVE DATA AND NOT ALLOWING UNAUTHORIZED ACCESS TO ANY APPLIANCE.
 
-**9.8.** AWS or its affiliates maintain all rights in the Appliances,
-Appliance Software, and Snowmobile Materials and is not selling, renting,
-leasing, or transferring any ownership, intellectual or other rights in the
-Appliances, Appliance Software, or Snowmobile Materials to you. You will not,
-and will not purport to, assign, grant, or transfer the Appliances, Appliance
-Software, or Snowmobile Materials or any interest in the Appliances, Appliance
-Software, or Snowmobile Materials to any individual or entity, and any such
+**9.7.** AWS or its affiliates maintain all rights in the Appliances and
+Appliance Software, and is not selling, renting, leasing, or transferring any
+ownership, intellectual or other rights in the Appliances or Appliance
+Software to you. You will not, and will not purport to, assign, grant, or
+transfer the Appliances or Appliance Software or any interest in the
+Appliances or Appliance Software to any individual or entity, and any such
 purported assignment, grant or transfer is void. Without limiting the
 foregoing, you will not (or attempt to), and will not permit or authorize
 third parties to (or attempt to), (a) scan, x-ray, open, modify, alter,
 disassemble, or otherwise attempt to view the inside of or tamper with the
-Appliance or Snowmobile Materials; or (b) circumvent or disable any features
-or measures in the Appliance, Appliance Software, or Snowmobile Materials. You
-acknowledge that the Appliances and Snowmobile Materials may be equipped with
-tamper monitoring.
+Appliance; or (b) circumvent or disable any features or measures in the
+Appliance or Appliance Software. You acknowledge that the Appliances may be
+equipped with tamper monitoring.
 
-**9.9.** You will return all Appliances to us for assessment and to enable us
+**9.8.** You will return all Appliances to us for assessment and to enable us
 to determine how they can be reused and which components must be recycled in
 an environmentally sound manner, regardless of the external condition of the
 Appliance and even if you believe the Appliance may be damaged or non-
@@ -840,23 +807,22 @@ applicable laws relating to used electronic equipment, including where
 applicable the Basel Convention Technical Guidelines on Transboundary Movement
 of Used Electrical and Electronic Equipment.
 
-**9.10.** You are responsible for complying with all applicable data
+**9.9.** You are responsible for complying with all applicable data
 protection, import, re-import, export, and re-export control laws, including
 any applicable license requirements, and country-specific sanctions programs.
 You are responsible for serving as the exporter and importer of record (as
 applicable) for your data, software, or technology, and you accept that AWS
 will not participate in the export or import procedure. If you are using
-Appliances, Appliance Software, or Snowmobile Materials for dual use items in
-the European Union, you represent that you, or the legal entity you represent,
-are “established” in the European Union; or, if you are not “established” in
-the European Union, that you will not upload, request that we download, or
-export such dual-use items outside the European Union. If you are using
-Appliances, Appliance Software, or Snowmobile Materials in the European Union
-for military items, you represent that you, or the legal entity you represent,
-are permitted by the Member State of your incorporation to upload, request
-that we download or export any such military items from that Member State, and
-it is a condition of this Agreement and your use of AWS Snow Family that you
-are so permitted.  
+Appliances or Appliance Software for dual use items in the European Union, you
+represent that you, or the legal entity you represent, are “established” in
+the European Union; or, if you are not “established” in the European Union,
+that you will not upload, request that we download, or export such dual-use
+items outside the European Union. If you are using Appliances or Appliance
+Software in the European Union for military items, you represent that you, or
+the legal entity you represent, are permitted by the Member State of your
+incorporation to upload, request that we download or export any such military
+items from that Member State, and it is a condition of this Agreement and your
+use of AWS Snow Family that you are so permitted.  
 
 ####  10\. Amazon Relational Database Service (Amazon RDS)
 
@@ -1792,10 +1758,10 @@ conjunction with AWS Amplify.
 
 ####  39\. AWS IoT Services
 
-**39.1. “AWS IoT Services”**  means AWS IoT Core, AWS IoT Device Management,
+**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management,
 AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics,
 AWS IoT SiteWise, AWS IoT FleetWise , AWS IoT TwinMaker, FreeRTOS, AWS IoT
-ExpressLink, AWS IoT Greengrass, and AWS IoT RoboRunner.
+ExpressLink, and AWS IoT Greengrass.  
 
 **39.2**. AWS IoT Services are not intended for use in, or in association
 with, the operation of any hazardous environments or critical systems that may
@@ -1874,16 +1840,9 @@ License](https://aws.amazon.com/legal/aws-ip-license-terms/), except that AWS
 also grants you a limited, non-exclusive, non-sublicensable, non-
 transferrable, perpetual license to (a) modify and create derivative works of
 the EMP Patches and (b) to distribute the EMP Patches in object code form
-only.  
+only.
 
-**39.11.   **AWS IoT RoboRunner provides a central data repository for storing
-and using data from different robot management systems that customers can use
-to build applications that help their robots work together. You are solely
-responsible for the operation of any robotic systems you use with AWS IoT
-RoboRunner, including ensuring that they are properly configured and operate
-safely.
-
-**39.12.** If you use Semtech as your geolocation provider in the AWS IoT Core
+**39.11.** If you use Semtech as your geolocation provider in the AWS IoT Core
 Device Location feature, you authorize AWS to transmit your geolocation
 request parameters (e.g., location data used to run the location solvers)
 and/or resulting output data generated by the feature (e.g., geographic
@@ -1894,7 +1853,7 @@ Device Core Location feature, the terms in Sections 82.1-82.4, 82.6-82.7, and
 82.9 apply. AWS may deprecate or discontinue any geolocation provider within
 the feature at any time upon notice to you.
 
-**39.13.** "AWS IoT Core for LoRaWAN Public Network Support” is a feature of
+**39.12.** "AWS IoT Core for LoRaWAN Public Network Support” is a feature of
 AWS IoT Core that helps customers connect their LoRaWAN devices to AWS using a
 publicly available LoRaWAN network (“Public LoRaWAN Network”), which is
 provided as a service by a third-party network provider (“LoRaWAN Network
@@ -1914,9 +1873,9 @@ LoRaWAN Network Provider can receive and transmit device messages, and provide
 support. AWS may change, deprecate, or discontinue the availability of the
 LoRaWAN Network Provider through AWS IoT Core at any time upon notice to you.
 
-**39.14.** **AWS IoT Core for Amazon Sidewalk**  
+**39.13.** **AWS IoT Core for Amazon Sidewalk**  
   
-**39.14.1.** “AWS IoT Core for Amazon Sidewalk” is a feature of AWS IoT Core
+**39.13.1.** “AWS IoT Core for Amazon Sidewalk” is a feature of AWS IoT Core
 that enables customers to build applications and devices that connect to a
 shared network of bridge devices (“Gateways”) that contribute low-bandwidth
 connection to Amazon Sidewalk-enabled devices to help extend their working
@@ -1934,7 +1893,7 @@ Security Requirements](https://docs.sidewalk.amazon/sidewalk-terms-and-
 agreements/security-program-requirements.html). We may suspend or terminate
 Amazon Sidewalk and/or your access to it at any time without prior notice.  
   
-**39.14.2.** You may not sell, distribute, or otherwise make available any
+**39.13.2.** You may not sell, distribute, or otherwise make available any
 device, component, or other product that connects to, enables connectivity to,
 or interacts with Amazon Sidewalk (an “AS Device”) unless that AS Device has
 been and remains qualified at all times through the Works with Amazon Sidewalk
@@ -1942,14 +1901,14 @@ been and remains qualified at all times through the Works with Amazon Sidewalk
 program](https://docs.sidewalk.amazon/qualification/sidewalk-qualification-
 faq.html).  
   
-**39.14.3.** We may collect and use certain information related to your AS
+**39.13.3.** We may collect and use certain information related to your AS
 Devices, including transmission and authentication identifiers. We use this
 data for purposes of maintaining and providing AWS IoT Core for Amazon
 Sidewalk. You provide specific authorization for AWS to use Ring LLC as a sub-
 processor in accordance with the DPA to process Customer Data in the US in
 order to make Amazon Sidewalk available for this feature.  
   
-**39.14.4.** Gateways are owned by customers who are contributing bandwidth
+**39.13.4.** Gateways are owned by customers who are contributing bandwidth
 from their Gateway’s existing internet service to Amazon Sidewalk, and are
 separate from and located outside of AWS data center facilities, servers,
 networking equipment, storage media, and host software systems. Consequently,
@@ -1959,7 +1918,7 @@ services in connection with their usage of or connectivity to Amazon Sidewalk,
 Amazon Sidewalk, and (iii) Amazon Sidewalk coverage, density, bandwidth, up-
 time, and availability is not guaranteed and may change without notice.  
   
-**39.14.5.** Subject to your compliance at all times with the Agreement and
+**39.13.5.** Subject to your compliance at all times with the Agreement and
 the [Works with Amazon Sidewalk Badge
 Guidelines](https://docs.sidewalk.amazon/sidewalk-terms-and-agreements/wwas-
 badge-guidelines.html), we hereby grant you a non-exclusive, royalty-free, and
