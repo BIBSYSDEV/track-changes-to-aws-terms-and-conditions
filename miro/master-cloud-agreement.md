@@ -398,7 +398,7 @@ party intellectual property rights.**
 
 ###  **15\. Confidentiality**.
 
-15.1. _Definitio_ n. “ **Confidential Information** ” means information
+15.1. _Definition_. “ **Confidential Information** ” means information
 disclosed to the receiving party under this Agreement that is designated by
 the disclosing party as proprietary or confidential or that should be
 reasonably understood to be proprietary or confidential due to its nature and
@@ -408,7 +408,7 @@ information about any of the Services shall be treated exclusively as Miro’s
 Confidential Information; and (b) Customer Content shall be treated
 exclusively as Customer’s Confidential Information.
 
-15.2. _Obligation_ s. As a receiving party, each party will (a) not disclose
+15.2. _Obligations_. As a receiving party, each party will (a) not disclose
 the other party's Confidential Information to third parties except as
 permitted in this Agreement, including Section 4.1 (Data Use), and (b) only
 use Confidential Information to fulfill its obligations and exercise its
@@ -427,16 +427,16 @@ from a third party without breach of confidentiality obligations or (d) it
 independently developed without using the disclosing party’s Confidential
 Information.
 
-15.4. _Remedie_ s. Unauthorized use or disclosure of Confidential Information
+15.4. _Remedies_. Unauthorized use or disclosure of Confidential Information
 may cause substantial harm for which damages alone are an insufficient remedy.
 Each party may seek appropriate equitable relief, in addition to other
 available remedies, for breach or threatened breach of this Section 15.
 
-15.5. _Required Disclosure_ s. Nothing in this Agreement prohibits either
-party from making disclosures, including of Customer Content and other
-Confidential Information, if required by Law, subpoena, or court order,
-provided (if permitted by Law) it notifies the other party in advance and
-cooperates in any effort to obtain confidential treatment.
+15.5. _Required Disclosures_. Nothing in this Agreement prohibits either party
+from making disclosures, including of Customer Content and other Confidential
+Information, if required by Law, subpoena, or court order, provided (if
+permitted by Law) it notifies the other party in advance and cooperates in any
+effort to obtain confidential treatment.
 
 ###  **16\. Trials and Betas**.
 
@@ -453,7 +453,7 @@ anything else in this Agreement, Miro provides Trials and Betas “AS IS.”**
 
 ###  **17\. General Terms**.
 
-17.1. _Assignmen_ t. Except as otherwise set forth in this Agreement, neither
+17.1. _Assignment_. Except as otherwise set forth in this Agreement, neither
 party may assign this Agreement without the prior consent of the other party,
 except that either party may assign this Agreement in connection with a
 merger, reorganization, acquisition, or other transfer of all or substantially
@@ -461,7 +461,7 @@ all its assets or voting securities, with reasonable notice to the other
 party. Any non-permitted assignment is void. This Agreement will bind and
 inure to the benefit of each party’s permitted successors and assigns.
 
-17.2. _Governing Law, Jurisdiction and Venu_ e. Unless otherwise agreed to
+17.2. _Governing Law, Jurisdiction and Venue_. Unless otherwise agreed to
 herein, this Agreement is governed exclusively by the laws of the State of
 California and the United States without regard to conflicts of laws
 provisions and without regard to the United Nations Convention on the
@@ -470,7 +470,7 @@ this Agreement will be the state and United States federal courts located in
 San Francisco, California and both parties submit to the exclusive
 jurisdiction of those courts.
 
-17.3. _Attorneys’ Fees and Cost_ s. The prevailing party in any action to
+17.3. _Attorneys’ Fees and Costs_. The prevailing party in any action to
 enforce this Agreement will be entitled to recover its reasonable attorneys’
 fees and costs in connection with such action.
 
@@ -486,7 +486,7 @@ copy emailed to [legal@miro.com](mailto:legal@miro.com). Non-legal operational
 notices will be sent to Customer’s assigned Miro administrator by email or
 through the SaaS Service.
 
-17.5. _Entire Agreemen_ t. This Agreement sets out the parties’ entire
+17.5. _Entire Agreement_. This Agreement sets out the parties’ entire
 agreement regarding its subject matter and supersedes any and all prior and
 contemporaneous agreements, promises, assurances and understandings between
 the parties (whether written or oral) regarding its subject matter. In the
@@ -502,7 +502,7 @@ are to be construed without limitation. This Agreement may be executed in
 counterparts (including electronic copies and PDFs), each of which is deemed
 an original and which together form one and the same agreement.
 
-17.6. _Amendment_ s. Any amendments, modifications or supplements to this
+17.6. _Amendments_. Any amendments, modifications or supplements to this
 Agreement must be in writing and signed by each party’s authorized
 representatives in order to be legally effective or, as appropriate, agreed
 through electronic means provided by Miro. Nonetheless, Miro may modify the
@@ -514,7 +514,7 @@ management portal will not amend or modify this Agreement and are expressly
 rejected by Miro; any of these documents are for administrative purposes only
 and have no legal effect.
 
-17.7. _Waivers and Severabilit_ y. A waiver of any right or remedy must be
+17.7. _Waivers and Severability_. A waiver of any right or remedy must be
 signed by the waiving party’s authorized representative in order to be
 effective and cannot be implied from conduct and shall not be deemed a waiver
 of any subsequent right or remedy. Any delay or failure to exercise any right
@@ -523,7 +523,7 @@ Agreement is held invalid, illegal or unenforceable, it will be limited to the
 minimum extent necessary so the rest of this Agreement remains valid and in
 effect.
 
-17.8. _Force Majeur_ e. Neither party is liable for any delay or failure to
+17.8. _Force Majeure_. Neither party is liable for any delay or failure to
 perform any obligation under this Agreement (except for a failure to pay fees
 which shall still be due and payable but may be deferred until payment of fees
 is possible following the resolution of the force majeure event) due to events
@@ -531,25 +531,25 @@ beyond its reasonable control, such as a strike, blockade, war, act of
 terrorism, riot, Internet or utility failures, refusal of government license
 or natural disaster.
 
-17.9. _Subcontractor_ s. Miro may use subcontractors and permit them to
+17.9. _Subcontractors_. Miro may use subcontractors and permit them to
 exercise Miro’s rights, but Miro remains responsible for their compliance with
 this Agreement and for its overall performance under this Agreement.
 Notwithstanding the foregoing, this does not limit Customer’s rights under the
 DPA with respect to sub-processors.
 
-17.10. _Independent Contractor_ s. The parties are independent contractors,
-not agents, partners or joint venturers, and nothing in this Agreement or any
+17.10. _Independent Contractors_. The parties are independent contractors, not
+agents, partners or joint venturers, and nothing in this Agreement or any
 Order entered into pursuant to this Agreement is intended to or shall operate
 to create a partnership between the parties or authorize either party to act
 as agent for the other.
 
-17.11. _Compliance with Law_ s. Each party’s respective provision and use of
+17.11. _Compliance with Laws_. Each party’s respective provision and use of
 the Software and Services shall comply with Laws, including applicable anti-
 bribery and anti-money laundering laws and regulations. Miro shall comply with
-principles outlined in its Code of Conduct available
-at<https://miro.com/legal/code-of-conduct/>.
+principles outlined in its Code of Conduct available at
+<https://miro.com/legal/code-of-conduct/>.
 
-17.12. _Expor_ t. Each party agrees to comply with all relevant U.S. and
+17.12. _Export_. Each party agrees to comply with all relevant U.S. and
 foreign export and import control Laws or regulations applicable to its
 performance under this Agreement. Each party represents and warrants that (a)
 it is not listed on any Sanctions Authority’s list of prohibited or restricted
@@ -565,7 +565,7 @@ restrictions and (b) that it will not submit to any of the Services any
 information controlled under the U.S. International Traffic in Arms
 Regulations.
 
-17.13. _Open Sourc_ e. The Software may incorporate third-party open source
+17.13. _Open Source_. The Software may incorporate third-party open source
 software (“ **OSS** ”), as listed in the Documentation or by Miro upon
 request. To the extent required by the OSS license, that license will apply to
 the OSS on a stand-alone basis instead of this Agreement. Customer’s internal
