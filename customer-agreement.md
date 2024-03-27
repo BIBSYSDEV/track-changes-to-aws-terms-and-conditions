@@ -5,7 +5,7 @@
 
 *Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.  
 
-####  Last Updated: January 12, 2024
+####  Last Updated: March 27, 2024
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -170,29 +170,29 @@ receiving the Services in accordance with the applicable indirect tax laws.
 
 All fees and charges payable under this Agreement will be exclusive of
 applicable national, state or local indirect taxes ("Taxes") that AWS India is
-legally obligated to charge under Indian tax laws. For the purpose of this
+legally obligated to charge under applicable law. For the purpose of this
 clause, local indirect taxes include Goods and Services Tax (“GST”), which
-includes the Central Goods and Services Tax ("Central Tax"), the State Goods
-and Services Tax ("State Tax"), the Union Territory Goods and Services Tax
-("UT Tax"), the Integrated Goods and Services Tax ("Integrated Tax") as may be
-applicable. The Taxes charged by AWS India will be stated in the invoice
-pursuant to applicable laws. AWS India may charge and you will pay any
-applicable Taxes, which are stated separately on the invoice. As per the
-statutory requirement under GST, you will provide all necessary information
-such as the correct GST registered address, legal name and GSTIN ("GST
-Information") in order for AWS India to issue correct GST invoices as per the
-applicable legal requirements. In the event, the GST invoice is incorrect, you
-will inform us in a timely manner, to enable AWS India to correct the GST tax
-invoice. AWS India will determine the place of supply for the Services based
-on the GST Information provided by you and accordingly, charge GST (CGST and
-SGST/UTGST or IGST) on its invoice. Any withholding taxes that may be
-applicable to the fees and charges payable to us are for our account. You will
-pay the fees and charges in our invoice in full (gross) without applying any
-withholding taxes. If you separately deposit applicable withholding taxes on
-such fees and charges to the applicable government treasury and issue us a
-withholding tax certificate evidencing such deposit, following receipt of the
-withholding tax certificate in original form, we will reimburse to you an
-amount equal to the taxes that are evidenced as deposited.
+includes the Central Goods and Services Tax ("CGST"), the State Goods and
+Services Tax ("SGST"), the Union Territory Goods and Services Tax ("UGST"),
+the Integrated Goods and Services Tax ("IGST") as may be applicable. The Taxes
+charged by AWS India will be stated in the invoice pursuant to applicable
+laws. AWS India may charge and you will pay any applicable Taxes, which are
+stated separately on the invoice. As per the statutory requirement under GST,
+you will provide all necessary information such as the correct GST registered
+address, legal name and GSTIN ("GST Information") in order for AWS India to
+issue correct GST invoices as per the applicable legal requirements. In the
+event, the GST invoice is incorrect, you will inform us in a timely manner, to
+enable AWS India to correct the GST tax invoice. AWS India will determine the
+place of supply for the Services based on the GST Information provided by you
+and accordingly, charge GST (CGST and SGST/UTGST or IGST) on its invoice. Any
+withholding taxes that may be applicable to the fees and charges payable to us
+are for our account. You will pay the fees and charges in our invoice in full
+(gross) without applying any withholding taxes. If you separately deposit
+applicable withholding taxes on such fees and charges to the applicable
+government treasury and issue us a withholding tax certificate evidencing such
+deposit, following receipt of the withholding tax certificate in original
+form, we will reimburse to you an amount equal to the taxes that are evidenced
+as deposited.  
 
 ####  4\. Temporary Suspension.
 
@@ -826,10 +826,10 @@ related to use of the Services or on the AWS Site and other related technology
 Content does not include the Services or Third-Party Content.
 
 "AWS Contracting Party" means the party identified in the table below, based
-on your Account Country. If you change your Account Country to one identified
-to a different AWS Contracting Party below, you agree that this Agreement is
-then assigned to the new AWS Contracting Party under Section 11.1 without any
-further action required by either party.
+on your Account Country. If you change your Account Country to one that is
+identified with a different AWS Contracting Party, you agree that the AWS
+Contracting Party identified with your new Account Country is your AWS
+Contracting Party, without any further action required by either party.  
 
 **Account Country**
 
