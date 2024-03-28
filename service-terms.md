@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: March 15, 2024
+####  Last Updated: March 27, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -77,9 +77,10 @@ products or services.
 Customer Agreement) will have obligations with respect to each AWS account,
 and no other AWS Contracting Party has any obligation with respect to such
 account. The AWS Contracting Party for an account may change as described in
-the Agreement. Invoices for each account will reflect the AWS Contracting
-Party that is responsible for that account during the applicable billing
-period.
+the Agreement, and the new AWS Contracting Party will be responsible for
+issuing any invoices to you after such change, including monthly invoices.
+Invoices for each account will reflect the AWS Contracting Party that is
+responsible for that account during the applicable billing period.
 
 If, as of the time of a change of the AWS Contracting Party responsible for
 your account, you have made an up-front payment for any Services under such
@@ -4250,9 +4251,9 @@ given, actions taken, and failures to take action.
 
 **99.2. Amazon DataZone Machine Learning Services.** “Amazon DataZone ML
 Services” means DataZone Automatic Business Name Generation and AI
-Recommendations for Descriptions in DataZone (Preview). “Amazon DataZone ML
-Content” means Your Content that is processed by an Amazon DataZone ML
-Service. The following terms apply to your use of Amazon DataZone ML Services:
+Recommendations for Descriptions in DataZone. “Amazon DataZone ML Content”
+means Your Content that is processed by an Amazon DataZone ML Service. The
+following terms apply to your use of Amazon DataZone ML Services:
 
 a. You agree and instruct that: (i) we may use and store Amazon DataZone ML
 Content to develop and improve Amazon DataZone ML Services and their
