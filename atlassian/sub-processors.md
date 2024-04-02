@@ -1,6 +1,6 @@
 #  Atlassian Sub-processors
 
-_Current as of June 22, 2023_
+_Current as of April 1, 2024_
 
 ###  Third-Party Sub-processors
 
@@ -20,14 +20,17 @@ imposes obligations on its sub-processors to implement appropriate technical
 and organizational measures ensuring that the sub-processing of personal data
 is protected to the standards required by applicable data protection laws.
 
-Further information relating to sub-processor security measures can be found
-via the external links below. For each sub-processor below, processing of
-personal data will be for the duration of use of the applicable service(s) by
-the customer, and for the retention periods as set out in the customer’s
-agreement with Atlassian and any product documentation. Please note that if
-you use Atlassian data residency, pinned data remains in your specified
-location as described on this [page.](https://support.atlassian.com/security-
-and-access-policies/docs/understand-data-residency/)  
+This list below contains sub-processors for Atlassian’s generally available
+services. If a Beta or EAP service uses a new sub-processor, Atlassian may use
+an alternative notification mechanism. For each sub-processor below,
+processing of personal data will be for the duration of use of the applicable
+service(s) by the customer, and for the retention periods as set out in the
+customer’s agreement with Atlassian and any product documentation. Further
+information relating to sub-processor security measures can be found via the
+external links below. Please note that if you use Atlassian data residency,
+pinned data remains in your specified location as described on this
+[page.](https://support.atlassian.com/security-and-access-
+policies/docs/understand-data-residency/)  
   
 [Subscribe to an RSS feed](/legal/sub-processors/rss) or [sign up for
 emails](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
@@ -55,44 +58,9 @@ monitor updates).
 
 |
 
-####  Security and Supplemental Measures  
+####  Security Measures  
   
 ---|---|---|---|---|---  
-  
-Aiven, Ltd.
-
-|
-
-Applicable Cloud Products
-
-Jira Cloud Products (excluding Jira Align), Confluence, Bitbucket, Statuspage,
-Compass, Forge
-
-|
-
-Nature and Purpose of Processing
-
-Data infrastructure pipeline providing event streaming messaging to end users
-
-|
-
-Categories of personal data
-
-Personal data contained in user accounts and text or files created by customer
-and stored in Applicable Cloud Products
-
-|
-
-Location of Processing
-
-Finland
-
-|
-
-Security and Supplemental Measures
-
-[Security, Privacy & Compliance ](https://aiven.io/security-compliance)  
-[Subcontractors and Subprocessors ](https://aiven.io/subprocessors)  
   
 Amazon Web Services, Inc.
 
@@ -124,10 +92,9 @@ South Korea, USA, India, Japan
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[AWS Compliance Programs ](https://aws.amazon.com/compliance/programs/ )  
-[AWS Sub-processors ](https://aws.amazon.com/compliance/sub-processors/)  
+[ AWS Compliance Programs  ](https://aws.amazon.com/compliance/programs/)  
   
 Cloudflare, Ltd.
 
@@ -159,12 +126,10 @@ center](https://www.cloudflare.com/network/) closest to the end user.
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[ [ Certifications and Compliance Resources
-](https://www.cloudflare.com/trust-hub/compliance-resources/)  
-[Cloudflare Sub-Processors ](https://www.cloudflare.com/gdpr/subprocessors/)
-](https://www.cloudflare.com/trust-hub/compliance-resources/)  
+[ Certifications and Compliance Resources  ](https://www.cloudflare.com/trust-
+hub/compliance-resources/)  
   
 Clumio, Inc.
 
@@ -172,7 +137,7 @@ Clumio, Inc.
 
 Applicable Cloud Products
 
-All Atlassian Cloud Products
+All Atlassian Cloud Products excluding Loom
 
 |
 
@@ -195,7 +160,7 @@ EEA, UK, Australia, USA, and Singapore
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
 [ Clumio Legal  ](https://clumio.com/legal)  
   
@@ -230,11 +195,9 @@ USA
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[ Security and Trust Center ](https://www.databricks.com/trust)  
-[Databricks Subprocessors ](https://www.databricks.com/legal/databricks-
-subprocessors)  
+[ Security & Trust Center  ](https://www.databricks.com/trust)  
   
 e-Core Soluções em Tecnologia da Informaçi upão Ltda.
 
@@ -242,7 +205,7 @@ e-Core Soluções em Tecnologia da Informaçi upão Ltda.
 
 Applicable Cloud Products
 
-All Atlassian Cloud Products
+All Atlassian Cloud Products excluding Loom
 
 |
 
@@ -265,7 +228,7 @@ Brazil, Mexico
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
 Access only through Atlassian managed VPN, VDI, and MDM for computing devices  
   
@@ -300,9 +263,43 @@ Germany
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
 Access only through Atlassian managed laptops and systems  
+  
+Mailchimp
+
+|
+
+Applicable Cloud Products
+
+Loom
+
+|
+
+Nature and Purpose of Processing
+
+Communications technology provider for product notifications and video sharing
+over email
+
+|
+
+Categories of personal data
+
+Personal data contained in product notice communications and user-initiated
+shared video recordings including associated comments and email messages
+
+|
+
+Location of Processing
+
+USA
+
+|
+
+Security Measures
+
+[ Mailchimp Security  ](https://mailchimp.com/about/security/)  
   
 Mailgun Technologies, Inc.
 
@@ -332,11 +329,10 @@ USA, EEA
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[Mailgun’s Commitment to Security and Compliance
+[ Mailgun’s Commitment to Security and Compliance
 ](https://www.mailgun.com/security/)  
-[ Data Processing Agreement ](https://www.mailgun.com/legal/dpa/)  
   
 Message Systems, Inc. dba SparkPost
 
@@ -367,14 +363,11 @@ USA, EEA
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[MessageBird Security Overview ](https://support.messagebird.com/hc/en-
+[ MessageBird Security Overview  ](https://support.messagebird.com/hc/en-
 us/articles/4413383848209-MessageBird-Security-
 Overview-#:~:text=MessageBird%20communications%20infrastructure%20and%20the,fully%20transparent%20with%20its%20clients.)  
-[MessageBird Processors & Subprocessors
-](https://support.messagebird.com/hc/en-us/articles/4524524060305-MessageBird-
-Processors-Subprocessors)  
   
 Microsoft Corporation
 
@@ -405,12 +398,9 @@ USA, Australia, Netherlands
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[ Cloud Data Integrity at its Finest | Microsoft Trust Center
-](https://www.microsoft.com/en-us/trust-center)  
-[Service Trust Portal
-](https://servicetrust.microsoft.com/DocumentPage/aead9e68-1190-4d90-ad93-36418de5c594)  
+[ Microsoft Trust Center  ](https://www.microsoft.com/en-us/trust-center)  
   
 MongoDB, Inc.
 
@@ -441,11 +431,10 @@ USA
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[MongoDB Atlas Trust Center ](https://www.mongodb.com/products/platform/trust)  
-[ MongoDB Subprocessors
-](https://www.mongodb.com/products/platform/trust/subprocessors)  
+[ MongoDB Atlas Trust Center
+](https://www.mongodb.com/products/platform/trust)  
   
 NetApp, Inc.
 
@@ -476,7 +465,7 @@ USA
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
 [ NetApp SaaS Backup
 ](https://us.saasbackup.netapp.com/resources/trustcenter)  
@@ -509,10 +498,44 @@ USA, UK, Singapore
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[ Security & Trust ](https://www.vonage.com/security/)  
-[ Sub-processors List ](https://www.vonage.com/legal/subprocessors/)  
+[ Security & Trust  ](https://www.vonage.com/security/)  
+  
+OneSignal
+
+|
+
+Applicable Cloud Products
+
+Loom
+
+|
+
+Nature and Purpose of Processing
+
+Communications technology provider for mobile product notifications and video
+sharing
+
+|
+
+Categories of personal data
+
+Personal data contained in product notice communications and user-initiated
+shared video recordings including associated comments and SMS/MMS messages
+
+|
+
+Location of Processing
+
+USA
+
+|
+
+Security Measures
+
+[ Data and Security Questions
+](https://documentation.onesignal.com/docs/data-questions)  
   
 OpenAI, L.L.C.
 
@@ -520,7 +543,7 @@ OpenAI, L.L.C.
 
 Applicable Cloud Products
 
-All Applicable Cloud Products using Atlassian Intelligence
+All Applicable Cloud Products using Atlassian Intelligence or Loom AI
 
 |
 
@@ -543,11 +566,43 @@ USA
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[ Security & Trust ](https://www.openai.com/security/)  
-[ Sub-processors List ](https://platform.openai.com/subprocessors/openai-
-subprocessor-list)  
+[ Security & Trust  ](https://www.openai.com/security/)  
+  
+Partner Hero
+
+|
+
+Applicable Cloud Products
+
+Loom
+
+|
+
+Nature and Purpose of Processing
+
+Customer service and technical support
+
+|
+
+Categories of personal data
+
+Personal data contained in user account information and text or files created
+by customer and shared during Loom support communications
+
+|
+
+Location of Processing
+
+Honduras, Romania, South Africa, Philippines
+
+|
+
+Security Measures
+
+[ Data Security & Privacy at PartnerHero
+](https://www.partnerhero.com/security-center)  
   
 Plivo, Inc.
 
@@ -577,10 +632,9 @@ USA
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[ Security for Cloud Communications ](https://www.plivo.com/security/)  
-[ Subprocessors ](https://www.plivo.com/subprocessors/)  
+[ Security for Cloud Communications  ](https://www.plivo.com/security/)  
   
 Pubnub, Inc.
 
@@ -611,10 +665,43 @@ USA, EEA
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
 [Trust Center ](https://www.pubnub.com/trust/)  
 [ FAQ ](https://www.pubnub.com/trust/faq/)  
+  
+Segment
+
+|
+
+Applicable Cloud Products
+
+Loom
+
+|
+
+Nature and Purpose of Processing
+
+Data analytics distribution service
+
+|
+
+Categories of personal data
+
+Personal data contained in user account information and text or files created
+by customer and stored in Applicable Cloud Products
+
+|
+
+Location of Processing
+
+USA
+
+|
+
+Security Measures
+
+[ Segment Trust Center  ](https://segment.com/trust-center/)  
   
 SoftServe, Inc.
 
@@ -642,11 +729,11 @@ by customer and stored in Applicable Cloud Products
 
 Location of Processing
 
-Poland, Bulgaria
+Bulgaria, Poland, United States
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
 Access only through Atlassian managed laptops and systems  
   
@@ -679,10 +766,42 @@ USA, for support requests only: EEA and Singapore
 
 |
 
-Security and Supplemental Measures
+Security Measures
 
-[ Trust Center ](https://www.twilio.com/en-us/trust-center)  
-[Twilio Sub-Processors ](https://www.twilio.com/en-us/legal/sub-processors)  
+[ Twilio Trust Center  ](https://www.twilio.com/en-us/trust-center)  
+  
+Zendesk
+
+|
+
+Applicable Cloud Products
+
+Loom
+
+|
+
+Nature and Purpose of Processing
+
+Customer service and technical support
+
+|
+
+Categories of personal data
+
+Personal data contained in user account information and text or files created
+by customer and shared during Loom support communications
+
+|
+
+Location of Processing
+
+USA
+
+|
+
+Security Measures
+
+[ Zendesk Trust Center  ](https://www.zendesk.com/trust-center/)  
   
 ###  Atlassian Group Sub-processors
 

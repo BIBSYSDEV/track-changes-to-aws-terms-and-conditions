@@ -1,6 +1,6 @@
 #  Privacy Policy
 
-_Effective starting: July 17, 2023_ ([view archived
+_Effective starting: April 1, 2024_ ([view archived
 versions](/legal/archives))
 
 ##  What this policy covers
@@ -30,8 +30,8 @@ you understand:
 This Privacy Policy covers the information we collect about you when you use
 our products or services, or otherwise interact with us (for example, by
 attending our premises or events or by communicating with us), unless a
-different policy is displayed. For more information about how we process
-applicant and former employee data, please see the [Atlassian Careers Privacy
+different policy is displayed. For information about how we process applicant
+and former employee data, please see the [Atlassian Careers Privacy
 Notice](/legal/careers-privacy-notice) or the [Former Workplace Privacy
 Notice](/legal/formerworkforceprivacynotice). For information about how we
 process information submitted in a voluntary diversity survey, see our
@@ -626,14 +626,15 @@ relating to your request to exercise your rights.
 _**Access and update your information**_ : Our Services and related
 documentation (see [Atlassian
 Documentation](https://support.atlassian.com/atlassian-account/docs/update-
-your-profile-and-visibility-settings/) and [Trello
-Help](https://support.atlassian.com/trello/docs/my-trello-account/)) give you
-the ability to access and update certain information about you from within the
-Service. For example, you can access your profile information from your
-account and search for content containing information about you using key word
-searches in the Service. You can update your profile information within your
-profile settings and modify content that contains information about you using
-the editing tools associated with that content.
+your-profile-and-visibility-settings/), [Trello
+Help](https://support.atlassian.com/trello/docs/my-trello-account/), and [Loom
+Documentation](https://www.loom.com/account-settings)) give you the ability to
+access and update certain information about you from within the Service. For
+example, you can access your profile information from your account and search
+for content containing information about you using key word searches in the
+Service. You can update your profile information within your profile settings
+and modify content that contains information about you using the editing tools
+associated with that content.
 
 _**Deactivate your account**_ : If you no longer wish to use our Services, you
 or your administrator may be able to deactivate your Services account. If you
@@ -649,13 +650,15 @@ information, see below.
 
 _**Delete your information**_ : Our Services and related documentation (see
 [Atlassian Documentation](https://confluence.atlassian.com/cloud/delete-a-
-managed-account-961259516.html)) give you the ability to delete certain
-information about you from within the Service. For example, you can remove
-content that contains information about you using the key word search and
-editing tools associated with that content, and you can remove certain profile
-information within your profile settings. Please note, however, that we may
-need to retain certain information for record keeping purposes, to complete
-transactions or to comply with our legal obligations.
+managed-account-961259516.html), and [Loom
+Documentation](https://support.loom.com/hc/en-us/articles/360007580997-How-to-
+leave-and-deactivate-users-from-a-workspace)) give you the ability to delete
+certain information about you from within the Service. For example, you can
+remove content that contains information about you using the key word search
+and editing tools associated with that content, and you can remove certain
+profile information within your profile settings. Please note, however, that
+we may need to retain certain information for record keeping purposes, to
+complete transactions or to comply with our legal obligations.
 
 _**Request that we stop using your information**_ : In some cases, you may ask
 us to stop accessing, storing, using and otherwise processing your information
@@ -697,7 +700,9 @@ understand your options, please visit: <http://www.aboutads.info>,
 <http://optout.networkadvertising.org/> and <http://www.youronlinechoices.eu>.
 
 _**Turn off Cookie Controls**_ : Relevant browser-based cookie controls are
-described in our [Cookies & Tracking Notice](/legal/cookies).
+described in our [Cookies & Tracking Notice](/legal/cookies). Please refer to
+[Loom’s Cookie Policy](https://www.loom.com/cookie-policy) for details on
+cookies and tracking technologies used within Loom products and websites.
 
 _**Send "Do Not Track" Signals**_ : Some browsers have incorporated "Do Not
 Track" (DNT) features that can send a signal to the websites you visit
@@ -761,10 +766,10 @@ Data Privacy Framework (EU-U.S. DPF) entered into force.
 
   
 Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc.,
-Dogwood Labs, Inc., AgileCraft LLC, Opsgenie, Inc., and Trello, Inc.) adhere
-to the Data Privacy Framework Principles regarding the collection, use, and
-retention of personal data that is transferred from the European Union and
-Switzerland to the U.S.
+Dogwood Labs, Inc., AgileCraft LLC, Loom, Inc., Opsgenie, Inc., and Trello,
+Inc.) adhere to the Data Privacy Framework Principles regarding the
+collection, use, and retention of personal data that is transferred from the
+European Union and Switzerland to the U.S.
 
 Atlassian, Inc. has self-certified its commitment to comply with the EU-U.S.
 DPF Principles and relies on the European Commission’s adequacy decision for
@@ -772,14 +777,13 @@ the EU-U.S. DPF to receive personal data transfers from the European
 Union/European Economic Area.
 
 Atlassian, Inc. has self-certified its commitment to comply with the UK
-Extension to the EU-U.S. DPF, but will not rely on the UK Extension to the
-EU-U.S. DPF to receive personal data transfers from the United Kingdom (and
-Gibraltar) until the date of entry into force of the United Kingdom’s
-anticipated adequacy regulations implementing the data bridge for the UK
-Extension to the EU-U.S. DPF.
+Extension to the EU-U.S. DPF, and relies on the UK Extension to the EU-U.S.
+DPF to receive personal data transfers from the United Kingdom (and
+Gibraltar).
 
 To view Atlassian’s certifications, please visit [this
-page](http://www.dataprivacyframework.gov/) and search for ”Atlassian”.
+page](http://www.dataprivacyframework.gov/) and search for ”Atlassian” and
+“Loom”.
 
 As required under the principles, when we receive information under the Data
 Privacy Framework and then transfer it to a third-party service provider
@@ -1228,6 +1232,10 @@ seal/validation?rid=540ec164-5d63-4016-9aa9-16be73ff682d)
 
 ##  Key Changes
 
+**Effective April 1, 2024**
+
+We have incorporated Loom into the Privacy Policy.  
+  
 **Effective July 17, 2023**
 
 We have replaced the section **Privacy Shield Notice** with **EU-U.S. Data
