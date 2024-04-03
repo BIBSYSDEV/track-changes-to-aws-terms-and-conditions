@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: March 27, 2024
+####  Last Updated: April 2, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -2436,13 +2436,26 @@ model. We will not access or use your customized model except as necessary to
 maintain or provide the Amazon Bedrock Service, or as necessary to comply with
 the law or a binding order of a governmental body.
 
-**50.12.5.** PartyRock is intended for personal and educational use, and not
+**50.12.5.** Mistral on Bedrock. Any Mistral Models offered on Amazon Bedrock
+(“Mistral Models”) are trained and developed by Mistral AI (“Mistral”) and are
+Third-Party Content. If you use the Mistral Models the following additional
+terms apply:
+
+  * Mistral Models are provided on an “as is” basis and may be modified, updated, or enhanced from time to time.
+  * AWS may share information with Mistral about your use of the Mistral Models, including Account Information and usage information (but not Your Content), for Mistral’s internal business analytics and support of the Mistral Models on Bedrock.
+  * Mistral owns all right, title, and interest in and to the Mistral Models. You will not have any access to the weights or source code of the Mistral Models without Mistral’s consent.
+  * Subject to the limitations below, Mistral will defend you against any third-party claim alleging that the Mistral Models or output from the Mistral Models infringes or misappropriates that third-party’s intellectual property rights.
+  * Mistral will have no indemnity obligations or liability for any third-party claim arising from:(i) output generated in connection with inputs or other data provided by you that infringe or misappropriate another party’s intellectual property rights;(ii) your combination of the Mistral Models with your or a third-party’s software or hardware where the claim would not have arisen but for this combination (iii) your interference with or failure to enable available filters and other tools or follow instructions made available for the Mistral Models; (iv) your breach of this section 50.12.5; (v) your fine-tuned, refined, customized, or otherwise modified Mistral Models where the alleged infringement or misappropriation would not have occurred but for this fine-tuning, refinement, customization, or modification; or (v) your failure to comply with applicable law.
+  * To the extent permitted by applicable law, and except with respect to Mistral’s indemnity obligations to you: Mistral will not be liable for any indirect, special, incidental, punitive, exemplary or consequential damages (including real or alleged loss of revenues) or any liabilities, damages and costs incurred by you in the case of: (i) a force majeure event; (ii) any cause not attributable to Mistral; or (iii) output of a Mistral Model being similar or identical to any other customer’s output; and for any such claims Mistral’s liability to you will be limited to the lower of the aggregate payments you made to AWS for your use of the Mistral Models in the immediately preceding 4 months and EUR 10,000, except for Mistral’s open source models where the maximum liability will be the lower of 1 month of payments and EUR 1,000.
+  * You will defend, indemnify, and hold harmless Mistral, its affiliates, and its licensors from and against any losses arising out of a third-party claim caused by: (a) your use of the Mistral Models in violation of this section 50.12.5; (b) your application (if any); and (c) by any finetuned, refined, customized or modified Mistral Model where the claim would not have arisen but for this fine-tuning, refinement, customization, or modification.
+
+**50.12.6.** PartyRock is intended for personal and educational use, and not
 for commercial or business use. You may not use PartyRock if you are younger
 than 18. We do not knowingly collect information from anyone under 18, but if
 we discover that we have inadvertently collected information from anyone under
 18, we will delete that information.
 
-**50.12.6**. PartyRock Data. We use the input that you provide and output that
+**50.12.7**. PartyRock Data. We use the input that you provide and output that
 you generate when using PartyRock (“PartyRock Data”) in accordance with the
 [PartyRock Privacy Page](https://partyrock.aws/privacy). As described in the
 [PartyRock Privacy Page](https://partyrock.aws/privacy), we may use PartyRock
@@ -2455,7 +2468,7 @@ Data to maintain and provide PartyRock and enforce our policies, including to
 develop and improve our fraud, abuse, and AI safety operations. PartyRock Data
 does not constitute Your Content as defined in the Agreement.  
 
-**50.12.7.** PartyRock Apps. “PartyRock App” means any application created or
+**50.12.8.** PartyRock Apps. “PartyRock App” means any application created or
 remixed through PartyRock, including any app snapshot and all corresponding
 source code. By creating or remixing a PartyRock App, you hereby grant: (a)
 AWS and its affiliates a worldwide, non-exclusive, fully paid-up, royalty-free
@@ -4451,4 +4464,51 @@ In addition to the Agreement and these Service Terms, use of Amazon WorkSpaces
 Thin Client devices is subject to [device
 terms](https://aws.amazon.com/workspaces/thin-client/terms/). Please review
 the device terms before using an Amazon WorkSpaces Thin Client device.
+
+####  103\. AWS Deadline Cloud
+
+**103.1**. When you use AWS Deadline Cloud, you have the option to license
+digital content creation software (“ **DCC Software** ”) from separate third-
+party providers. DCC Software is Third-Party Content.  If you elect to use DCC
+Software, you agree that AWS is not a party to any agreement between you and
+any DCC Software provider governing your use of the DCC Software, AWS is not
+responsible or liable to you for the DCC Software, and AWS does not make any
+representations or warranties with respect to the DCC Software. The following
+additional terms and conditions apply to use of DCC Software:
+
+a. Your use of Foundry’s Software is subject to the terms and conditions of
+the [Foundry End User License Agreement](https://www.foundry.com/eula).
+
+b. Your use of Side Effects Software Inc.’s Software is subject to the terms
+and conditions of the [Side Effects Software License
+Agreement](https://www.sidefx.com/legal/license-agreement/).
+
+c.  Your use of Autodesk’s Software is subject to the terms and conditions of
+the [Autodesk License and Services
+Agreement](https://download.autodesk.com/global/dlm_eula/English.html), the
+[Autodesk Terms of Use](https://www.autodesk.com/company/terms-of-use), and
+the [Autodesk Additional
+Terms](https://d1.awsstatic.com/legal/awsserviceterms/Autodesk_DeadlineCloud_Additional_Terms.pdf).
+
+d. Your use of Autodesk’s Arnold for Maya is subject to the terms and
+conditions of the End User License Agreement which is installed on the worker
+in the Arnold EULA folder.
+
+e. Your use of Blender Foundation's Software is subject to the terms and
+conditions of the [GNU General Public
+License](https://www.gnu.org/licenses/gpl-3.0.html).
+
+f. Your use of Luxion’s Keyshot is subject to the terms and conditions of the
+[Terms and Conditions](https://www.keyshot.com/terms/).
+
+**103.2.** AWS does not offer support services for DCC Software. You may
+request support directly from the applicable DCC Software provider, who may
+require your agreement with additional terms and conditions, including privacy
+notices. AWS is not responsible for any support provided by third-party DCC
+Software providers, and makes no guarantees about such services.
+
+**103.3**. AWS may change, deprecate, or discontinue any offering of DCC
+Software at any time upon notice to you. We will provide you with prior notice
+of any deprecation or discontinuation of DCC Software where practicable under
+the circumstances.
 
