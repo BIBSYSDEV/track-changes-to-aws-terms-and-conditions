@@ -1,16 +1,28 @@
 ## Master Cloud Agreement
 
 This is the standard cloud agreement applicable to Miro’s Enterprise Plan
-users. Miro requires a signed Order Form for Enterprise Plan purchases. Please
-contact [sales@miro.com](mailto:sales@miro.com) for details.
+users. Miro requires a signed Order Form for Enterprise Plan purchases. For
+Orders executed prior to February 1, 2024, please refer to the [Prior Master
+Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-
+agreement-mca-versions/).
+
+Please contact [sales@miro.com](mailto:sales@miro.com) for details.
 
 This is the standard cloud agreement applicable to Miro’s Enterprise Plan
-users. Miro requires a signed Order Form for Enterprise Plan purchases. Please
-contact [sales@miro.com](mailto:sales@miro.com) for details.
+users. Miro requires a signed Order Form for Enterprise Plan purchases. For
+Orders executed prior to February 1, 2024, please refer to the [Prior Master
+Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-
+agreement-mca-versions/).
+
+Please contact [sales@miro.com](mailto:sales@miro.com) for details.
 
 This is the standard cloud agreement applicable to Miro’s Enterprise Plan
-users. Miro requires a signed Order Form for Enterprise Plan purchases. Please
-contact [sales@miro.com](mailto:sales@miro.com) for details.
+users. Miro requires a signed Order Form for Enterprise Plan purchases. For
+Orders executed prior to February 1, 2024, please refer to the [Prior Master
+Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-
+agreement-mca-versions/).
+
+Please contact [sales@miro.com](mailto:sales@miro.com) for details.
 
 Publication date: February 1, 2024
 
