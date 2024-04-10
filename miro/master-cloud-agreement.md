@@ -1,5 +1,23 @@
 ## Master Cloud Agreement
 
+Any translated versions of the Agreement in a language other than English are
+provided as a courtesy only. In the event of any conflict or discrepancy
+between any translated version of the Agreement and the English language
+version, [the English language version](https://miro.com/legal/master-cloud-
+agreement/) shall prevail.
+
+Any translated versions of the Agreement in a language other than English are
+provided as a courtesy only. In the event of any conflict or discrepancy
+between any translated version of the Agreement and the English language
+version, [the English language version](https://miro.com/legal/master-cloud-
+agreement/) shall prevail.
+
+Any translated versions of the Agreement in a language other than English are
+provided as a courtesy only. In the event of any conflict or discrepancy
+between any translated version of the Agreement and the English language
+version, [the English language version](https://miro.com/legal/master-cloud-
+agreement/) shall prevail.
+
 This is the standard cloud agreement applicable to Miro’s Enterprise Plan
 users. Miro requires a signed Order Form for Enterprise Plan purchases. For
 Orders executed prior to February 1, 2024, please refer to the [Prior Master
