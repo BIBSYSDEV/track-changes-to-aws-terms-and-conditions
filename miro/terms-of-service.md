@@ -35,12 +35,13 @@ Publication date July 19, 2021
 Effective date September 1, 2021
 
 This Miro Terms of Service (“ **Agreement** ”) is entered into by and between
-RealtimeBoard Inc. dba Miro (“ **Miro** ”) and the entity or person placing an
-order for or accessing the Service (“ **Customer** ” or “ **you** ”). This
-Agreement consists of the terms and conditions set forth below and any Orders.
-If you are accessing or using the Service on behalf of your company, you
-represent that you are authorized to accept this Agreement on behalf of your
-company, and all references to “you” reference your company.
+RealtimeBoard Inc. dba Miro or the Miro Affiliate identified in an Order (“
+**Miro** ”) and the entity or person placing an order for or accessing the
+Service (“ **Customer** ” or “ **you** ”). This Agreement consists of the
+terms and conditions set forth below and any Orders. If you are accessing or
+using the Service on behalf of your company, you represent that you are
+authorized to accept this Agreement on behalf of your company, and all
+references to “you” reference your company.
 
 The “ **Effective Date** ” of this Agreement is the date which is the earlier
 of (a) Customer’s initial access to the Service through any online
