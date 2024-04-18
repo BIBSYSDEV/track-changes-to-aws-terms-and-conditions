@@ -50,17 +50,19 @@ Archives
 
   * [Terms & Policy Archives](https://slack.com/policy-archives)
 
- **Last Updated: March 20, 2023**
+ **Last Updated: April 17, 2024**
 
-The [Main Services Agreement](/main-services-agreement) (“ **MSA** ”) and
-these Slack Supplemental Terms (“ **Supplemental Terms** ”) are legally
+The Salesforce [Main Services Agreement](/main-services-agreement) (“ **MSA**
+”) and these Slack Supplemental Terms (“ **Supplemental Terms** ”) are legally
 binding and govern your acquisition and use of Slack. These Supplemental Terms
 apply in addition to the MSA and form an integral part of the MSA (together,
 the MSA and Supplemental Terms are the “ **Slack Terms** ”). Capitalized terms
 used but not defined in these Supplemental Terms have the meanings given to
 them in the MSA. “ **SFDC** ” means the applicable Salesforce entity, as
 defined in the MSA, except as modified herein for online orders of Slack
-Services.
+Services. Additional information related to the Slack Services may be found in
+the Documentation at <https://sfdc.co/ptd>. For the avoidance of doubt, the
+MSA takes precedence over the Documentation.
 
 ## Search Optimization Authorization
 
