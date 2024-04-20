@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: April 2, 2024
+####  Last Updated: April 19, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -4132,7 +4132,7 @@ your use of AWS Clean Rooms to identify a person or associate such information
 with an identifiable person, unless otherwise permitted by the applicable
 third party contributor of the data.
 
-**92.2. AWS Clean Rooms ML (Preview)**
+**92.2. AWS Clean Rooms ML**
 
 **92.2.1.** You will not, and will not allow any third-party to, use AWS Clean
 Rooms ML to, directly or indirectly, develop or improve a similar or competing
