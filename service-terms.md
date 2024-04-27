@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: April 23, 2024
+####  Last Updated: April 26, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -2963,13 +2963,13 @@ failure to make additional arrangements to access Emergency Services.
 **54.3.** There are important service limitations with Amazon Connect. You
 must carefully review and comply with the applicable technical documentation
 at all times, including limitations related to call rates and frequency,
-automated calling, calls to certain regions and others. If you believe you
-will exceed any limitations for legitimate reasons, you must contact customer
-service ahead of time to request applicable exceptions, which we may or may
-not make in our reasonable discretion. Amazon Connect does not support calls
-to or from facsimile machines or modems. Any caller identification service
-provided as a part of Amazon Connect is not guaranteed to function at all
-times.
+automated calling, calls to certain regions, use of caller identification
+data, and others. If you believe you will exceed any limitations for
+legitimate reasons, you must contact customer service ahead of time to request
+applicable exceptions, which we may or may not make in our reasonable
+discretion. Amazon Connect does not support calls to or from facsimile
+machines or modems. Any caller identification service provided as a part of
+Amazon Connect is not guaranteed to function at all times.
 
 **54.4.** It is your responsibility to use Amazon Connect in compliance with
 the laws and regulations of the countries where you and your call agents are
