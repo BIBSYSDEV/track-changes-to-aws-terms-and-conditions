@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: April 30, 2024
+####  Last Updated: May 7, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -2348,12 +2348,13 @@ Generative AI Output to you. “Generative AI Output” means output generated b
 a generative artificial intelligence model in response to inputs or other data
 provided by you. “Indemnified Generative AI Services” means, collectively,
 generally available features of Amazon Titan Text Express, Amazon Titan Text
-Lite, Amazon Titan Text Embeddings, Amazon Titan Multimodal Embeddings, Amazon
-Titan Image Generator, AWS HealthScribe, Amazon Personalize, Amazon Q
-(including Amazon Q Developer Pro in-line code suggestions previously known as
-Amazon CodeWhisperer Professional, but excluding Amazon Q Developer Free
-Tier), Amazon Connect Contact Lens, and Amazon Lex. The following terms apply
-to the Indemnified Generative AI Services:  
+Lite, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan
+Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon
+Personalize, Amazon Q (including Amazon Q Developer Pro in-line code
+suggestions previously known as Amazon CodeWhisperer Professional, but
+excluding Amazon Q Developer Free Tier), Amazon Connect Contact Lens, and
+Amazon Lex. The following terms apply to the Indemnified Generative AI
+Services:  
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
