@@ -1,7 +1,6 @@
 #  Privacy Policy
 
-_Effective starting: April 1, 2024_ ([view archived
-versions](/legal/archives))
+_Effective starting: May 17, 2024_ ([view archived versions](/legal/archives))
 
 ##  What this policy covers
 
@@ -628,13 +627,14 @@ documentation (see [Atlassian
 Documentation](https://support.atlassian.com/atlassian-account/docs/update-
 your-profile-and-visibility-settings/), [Trello
 Help](https://support.atlassian.com/trello/docs/my-trello-account/), and [Loom
-Documentation](https://www.loom.com/account-settings)) give you the ability to
-access and update certain information about you from within the Service. For
-example, you can access your profile information from your account and search
-for content containing information about you using key word searches in the
-Service. You can update your profile information within your profile settings
-and modify content that contains information about you using the editing tools
-associated with that content.
+Documentation](https://support.loom.com/hc/en-us/articles/360003473338-How-to-
+edit-your-personal-account-settings)) give you the ability to access and
+update certain information about you from within the Service. For example, you
+can access your profile information from your account and search for content
+containing information about you using key word searches in the Service. You
+can update your profile information within your profile settings and modify
+content that contains information about you using the editing tools associated
+with that content.
 
 _**Deactivate your account**_ : If you no longer wish to use our Services, you
 or your administrator may be able to deactivate your Services account. If you
@@ -764,26 +764,29 @@ transfer.
 On July 10, 2023, the European Commission’s adequacy decision for the EU-U.S.
 Data Privacy Framework (EU-U.S. DPF) entered into force.
 
-  
 Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc.,
-Dogwood Labs, Inc., AgileCraft LLC, Loom, Inc., Opsgenie, Inc., and Trello,
-Inc.) adhere to the Data Privacy Framework Principles regarding the
-collection, use, and retention of personal data that is transferred from the
-European Union and Switzerland to the U.S.
+Dogwood Labs, Inc., AgileCraft LLC, Halp, Inc., Loom, Inc., Opsgenie, Inc.,
+and Trello, Inc.) adhere to the Data Privacy Framework Principles regarding
+the collection, use, and retention of personal data that is transferred from
+the European Union and Switzerland to the U.S.
 
-Atlassian, Inc. has self-certified its commitment to comply with the EU-U.S.
-DPF Principles and relies on the European Commission’s adequacy decision for
-the EU-U.S. DPF to receive personal data transfers from the European
-Union/European Economic Area.
-
-Atlassian, Inc. has self-certified its commitment to comply with the UK
-Extension to the EU-U.S. DPF, and relies on the UK Extension to the EU-U.S.
-DPF to receive personal data transfers from the United Kingdom (and
-Gibraltar).
-
-To view Atlassian’s certifications, please visit [this
-page](http://www.dataprivacyframework.gov/) and search for ”Atlassian” and
-“Loom”.
+Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the
+UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework
+(Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Atlassian
+has certified to the U.S. Department of Commerce that it adheres to the
+EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard
+to the processing of personal data received from the European Union and the
+United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the
+EU-U.S. DPF. Atlassian has certified to the U.S. Department of Commerce that
+it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF
+Principles) with regard to the processing of personal data received from
+Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict
+between the terms in this privacy policy and the EU-U.S. DPF Principles and/or
+the Swiss-U.S. DPF Principles, the DPF Principles shall govern. To learn more
+about the Data Privacy Framework Program, please visit the Data Privacy
+Framework Program website [here](https://www.dataprivacyframework.gov/). To
+view Atlassian’s certifications, search for “Atlassian” in the Data Privacy
+Framework List.
 
 As required under the principles, when we receive information under the Data
 Privacy Framework and then transfer it to a third-party service provider
@@ -1231,6 +1234,11 @@ seal/seal?rid=540ec164-5d63-4016-9aa9-16be73ff682d)](//privacy.truste.com/privac
 seal/validation?rid=540ec164-5d63-4016-9aa9-16be73ff682d)
 
 ##  Key Changes
+
+**Effective May 17, 2024**
+
+We have updated the section Data Privacy Framework Notice as part of our Data
+Privacy Framework certification.
 
 **Effective April 1, 2024**
 
