@@ -5,7 +5,7 @@
 
 *Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.  
 
-####  Last Updated: March 27, 2024
+####  Last Updated: May 17, 2024
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -775,7 +775,22 @@ ve Danışmanlık Hizmetleri Limited Şirketi, the parties agree as follows:
 
 “If we are required to pay any stamp tax in relation to this Agreement or any
 other document related to this Agreement, we may charge you and you will pay
-us 50% of the amounts of any stamp tax paid by us.”  
+us 50% of the amounts of any stamp tax paid by us.”
+
+(d) If the applicable AWS Contracting Party is Amazon Web Services Malaysia
+Sdn. Bhd., the parties agree as follows:
+
+Section 9.1 (Liability Disclaimers) is deleted and replaced with the
+following:
+
+“9.1 Liability Disclaimers. EXCEPT FOR PAYMENT OBLIGATIONS UNDER SECTION 7,
+NEITHER AWS NOR YOU, NOR ANY OF THEIR AFFILIATES OR LICENSORS, WILL HAVE
+LIABILITY TO THE OTHER UNDER ANY CAUSE OF ACTION OR THEORY OF LIABILITY, EVEN
+IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LIABILITY, FOR (A)
+INDIRECT, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, (B) THE VALUE OF
+YOUR CONTENT, (C) LOSS OF PROFITS, REVENUES, CUSTOMERS, OPPORTUNITIES, OR
+GOODWILL, OR (D) UNAVAILABILITY OF THE SERVICES OR AWS CONTENT (THIS DOES NOT
+LIMIT ANY SERVICE CREDITS UNDER SERVICE LEVEL AGREEMENTS).”
 
 ####  12\. Definitions.
 
