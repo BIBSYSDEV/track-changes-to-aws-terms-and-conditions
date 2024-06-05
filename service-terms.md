@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: May 7, 2024
+####  Last Updated: June 4, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -3828,13 +3828,20 @@ Provider for processing which may be outside of the AWS region in which your
 request was made. However, any Open Data requests will be processed by AWS in
 the AWS region in which your request was made.  
 
-**82.2.** AWS may change, deprecate, or discontinue any Geolocation Provider
+**82.2.** Location Data provided through Amazon Location Service should be
+evaluated for accuracy as appropriate for your use case. You are responsible
+for making your own assessment of whether your use of Amazon Location Service
+meets applicable legal and regulatory requirements. You and your End Users are
+solely responsible for all decisions made, advice given, actions taken, and
+failures to take action based on your use of Amazon Location Service.
+
+**82.3.** AWS may change, deprecate, or discontinue any Geolocation Provider
 or Geolocation Provider Feature at any time upon notice to you. We will
 provide you with prior notice of any deprecation or discontinuation of a
 Geolocation Provider or Geolocation Provider Feature where practicable under
 the circumstances.  
 
-**82.3.** For Geolocation Providers other than Open Data, you may not:  
+**82.4.** For Geolocation Providers other than Open Data, you may not:  
 
 a. Scrape, systematically collect, duplicate, store, or cache the data
 provided to you from Amazon Location Service (e.g., map tiles, forward and
@@ -3877,7 +3884,7 @@ for purposes of sale or distribution to others.
 f. Place your company name or marks, or any third-party advertisements, on or
 in the Location Data (e.g., on a map display).
 
-**82.4.** In addition to the restrictions in Section 82.3, if you use HERE as
+**82.5.** In addition to the restrictions in Section 82.3, if you use HERE as
 your Geolocation Provider, you may not:  
 
 a. Store or cache any Location Data for Japan, including any geocoding or
@@ -3886,13 +3893,13 @@ reverse-geocoding results.
 b. Layer routes from HERE on top of a map from another third-party provider,
 or layer routes from another third-party provider on top of maps from HERE.
 
-**82.5.** In addition to the restrictions in Section 82.3, if you use Esri as
+**82.6.** In addition to the restrictions in Section 82.3, if you use Esri as
 your Geolocation Provider, you may not, without our express written consent,
 use any of its Geolocation Provider Features for asset management or asset
 tracking use cases (i.e., to locate, track, or route any vehicles, cargo,
 personnel, or other assets that you use in your business).
 
-**82.6.** You may not use Amazon Location Service for any hazardous, unsafe,
+**82.7.** You may not use Amazon Location Service for any hazardous, unsafe,
 or illegal activities, including any use in, or association with, any
 hazardous environments or critical systems that may lead to serious bodily
 injury or death or cause environmental or property damage. You are solely
@@ -3900,18 +3907,19 @@ responsible for all liability that may arise in connection with any such use.
 **  
 **
 
-**82.7.** If we reasonably determine you are using Amazon Location Service in
-a manner intended to avoid incurring appropriate usage fees, we may suspend or
-terminate your access to, or limit your use of, Amazon Location Service
-immediately upon notice to you.
+**82.8.** We may suspend or terminate your access to, or limit your use of,
+Amazon Location Service immediately upon notice to you, if we reasonably
+determine you are using Amazon Location Service in violation of our terms,
+including in any manner intended to avoid incurring appropriate usage fees or
+in violation of applicable law or order of a governmental body.
 
-**82.8.** Open Data uses OpenStreetMap data.
+**82.9.** Open Data uses OpenStreetMap data.
 [OpenStreetMap](https://www.openstreetmap.org/copyright) is licensed under the
 Open Data Commons Open Database License (ODbL) by the OpenStreetMap
 Foundation. You agree to comply with the ODbL and acknowledge the attribution
 and share-alike provisions therein.
 
-**82.9.** Attribution for Location Data can be found
+**82.10.** Attribution for Location Data can be found
 [here](https://docs.aws.amazon.com/location/latest/developerguide/data-
 attribution.html). You must pass through attribution for Location Data that
 you make available to others via your application or its product
