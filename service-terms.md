@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: June 4, 2024
+####  Last Updated: June 11, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -3667,45 +3667,14 @@ compliance requirements applicable to any personal data or confidential
 information in your data or content. You may not share data or content that
 contains protected health information with the third party vendor workforce.  
 
-####  77\. Amazon Honeycode
+####  77\. AWS Private Certificate Authority
 
-**77.1**. End User Permissions. When you access a Honeycode Team established
-under another Amazon Honeycode account, you will be an End User for purposes
-of Honeycode.
-
-**77.1.1.** Honeycode allows you to collaborate with other End Users by
-inviting them to a team that you establish under your Honeycode account
-(“Honeycode Team”). You may invite and enable End Users to access certain
-Honeycode features under your Honeycode Team(s). You may grant these End Users
-permissions to create, edit, and share your Honeycode workbooks, apps,
-automations, and other Honeycode assets; and permissions to invite additional
-End Users to do the same. You are responsible for the conduct of End Users on
-your Honeycode Team(s), including the content they create, and for maintaining
-all End User permissions for purposes of data security and access. You are
-responsible for all fees you and End Users on your Honeycode Team(s) may
-accrue for using Honeycode or any affiliated service.
-
-**77.1.2.** You or End Users you delegate with administrative privileges over
-certain Honeycode features (“Honeycode Team Administrators”) may manage
-access, use, and permissions within your Honeycode Team. Honeycode Team
-Administrators may also control End User access to certain administrative
-functionality, including changing, adding, or removing permissions, or
-changing billable tiers.
-
-**77.1.3.** Unless you delegate your permissions of your Honeycode Team, you
-agree that termination of your Honeycode account or deletion of any of your
-Content in Honeycode, whether by you or by us, may also terminate your End
-Users’ access to your Content and may delete any associated End User Content.
-
-**77.2.** Nonuse. If during the previous 3 months you have registered no usage
-of your Honeycode account, we may delete, without liability of any kind, your
-account and any associated Content, upon 30 days prior notice to you.
-
-**77.3.** Workbooks for Data Storage. You may only use Honeycode for its
-intended purpose as set forth herein and in the technical documentation. Any
-other use, including but not limited to, creating and maintaining multiple
-workbooks for the primary purpose of storing and accessing data, is not
-permitted and may result in us deleting your Content.
+**77.1. AWS Private Certificate Authority Connector for SCEP (Preview).** When
+you use AWS Private CA Connector for SCEP (Preview) with Microsoft Intune,
+certain functionalities are enabled by accessing Microsoft Intune through
+Microsoft APIs. Your use of the AWS Private CA Connector for SCEP and
+accompanying AWS Services does not remove your need to have a valid license
+for your use of the Microsoft Intune service.
 
 ####  78\. Wavelength Zones/Local Zones
 
