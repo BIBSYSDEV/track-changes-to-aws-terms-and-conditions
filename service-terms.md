@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: June 11, 2024
+####  Last Updated: June 27, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1155,41 +1155,48 @@ demand usage prices will apply to your use of Amazon DynamoDB.
 
 ####  20\. AWS Marketplace
 
-**20.1.** Except to the extent Content made available through AWS Marketplace
-is provided to you under a separate license that expressly states otherwise,
-neither you nor any End User may, or may attempt to, (a) modify, alter, tamper
-with, repair, or otherwise create derivative works of any Content, (b) reverse
-engineer, disassemble, or decompile the Content or apply any other process or
-procedure to derive the source code of any software included in the Content,
-(c) resell or sublicense the Content, (d) transfer Content outside the
-Services without specific authorization to do so, or (e) tamper with or
-circumvent any controls or make unauthorized copies of the Content.
+**20.1.**  Buyer Terms. If you purchase or obtain access to any Content or
+services through AWS Marketplace, the following AWS Marketplace Buyer Terms
+apply to you:
 
-**20.2.** AWS may stop providing AWS Marketplace (or any features of or
+**20.1.1.** Except to the extent Content made available through AWS
+Marketplace is provided to you under a separate license that expressly states
+otherwise, neither you nor any End User may, or may attempt to, (a) modify,
+alter, tamper with, repair, or otherwise create derivative works of any
+Content, (b) reverse engineer, disassemble, or decompile the Content or apply
+any other process or procedure to derive the source code of any software
+included in the Content, (c) resell or sublicense the Content, (d) transfer
+Content outside the Services without specific authorization to do so, or (e)
+tamper with or circumvent any controls or make unauthorized copies of the
+Content.
+
+**20.1.2.**  AWS may stop providing AWS Marketplace (or any features of or
 listings within AWS Marketplace), without prior notice to you. In addition,
 AWS may disable or remove Content you have purchased on AWS Marketplace, if
 AWS reasonably determines that the Content may violate any Policies or any
 other regulations, policies, or laws.
 
-**20.3.**  To the extent authorized by the respective third party provider on
-AWS Marketplace, AWS may disable access to or remove any Third Party Content
-you purchased or subscribed to on AWS Marketplace in the event of overdue and
-uncollected payments, upon AWS providing you with at least 30 days’ advance
-written notice.
+**20.1.3.**  To the extent authorized by the respective third party provider
+on AWS Marketplace, AWS may disable access to or remove any Third Party
+Content you purchased or subscribed to on AWS Marketplace in the event of
+overdue and uncollected payments, upon AWS providing you with at least 30
+days’ advance written notice.
 
-**20.4.** Professional services offered on AWS Marketplace by third parties
+**20.1.4.** Professional services offered on AWS Marketplace by third parties
 are subject to separate terms and conditions specified by the respective third
 party. AWS has no control over and makes no guarantees about such services.
 
-**20.5.**  If you are a buyer on AWS Marketplace, you are responsible for
+**20.1.5.**  If you are a buyer on AWS Marketplace, you are responsible for
 collecting tax documentation, withholding as required, and filing all tax
 forms with your applicable tax authorities for your AWS Marketplace
 transactions. If you are a buyer making a payment of U.S. source services or
 royalty income to a non-U.S. third party provider, all such collection,
 withholding, and filing obligations are yours as we do not act as a
-Withholding Agent as defined by U.S. Treas. Reg. 1.1441-7(a).
+Withholding Agent as defined by U.S. Treas. Reg. 1.1441-7(a). In certain
+countries, AWS will collect fees and taxes on behalf of the seller and remit
+the taxes and subscription payment to the seller.
 
-**20.6.** For purposes of facilitating your purchases from third parties on
+**20.1.6.** For purposes of facilitating your purchases from third parties on
 AWS Marketplace, the applicable AWS Contracting Party under the Agreement is
 set out in the table below. Notwithstanding the foregoing, Amazon Web
 Services, Inc. continues to be the invoicing party for third party products
@@ -1260,7 +1267,7 @@ Amazon Web Services EMEA SARL
 
 38 Avenue John F. Kennedy, L-1855, Luxembourg  
   
-Any other country that is not listed in this table above, excluding China
+Any other country that is not listed in this table above
 
 |
 
@@ -1282,10 +1289,10 @@ purchase on AWS Marketplace is from a third party that has been onboarded to
 Amazon Web Services EMEA SARL. Otherwise, Amazon Web Services, Inc. is the
 applicable AWS Contracting Party.
 
-**20.7.** If you are an AWS customer located in India, parties agree that this
-Section 20.7 will be applicable:  
+**20.1.7.** If you are an AWS customer located in India, parties agree that
+this Section 20.1.7 will be applicable:  
 
-**20.7.1.  **If you have provided your Goods and Services Tax (GST)
+**20.1.7.1.  **If you have provided your Goods and Services Tax (GST)
 registration number to us so that it can be applied to your purchases, then
 the information you provide with your registration (including your GST
 registration number and the name and address associated with your GST
@@ -1293,8 +1300,8 @@ registration) will be shared with third parties from whom you have purchased
 software on the AWS Marketplace to the extent necessary for those third
 parties to comply with GST invoicing regulations and requirements.  
 
-**20.7.2.  **The purchase fees and charges payable by you will be exclusive of
-all applicable Taxes, and will be made free and clear of any deduction or
+**20.1.7.2.  **The purchase fees and charges payable by you will be exclusive
+of all applicable Taxes, and will be made free and clear of any deduction or
 withholding, as may be required by law. For clarity, if any such deduction or
 withholding (including but not limited to cross-border withholding taxes) is
 required on any payment, you will pay such additional amount, as necessary, to
@@ -1309,6 +1316,11 @@ from you. AWS or its affiliates will not collect, and you will not pay, any
 Taxes for which you furnish us a properly completed exemption certificate, or
 a direct payment permit certificate, for which AWS or its affiliates may claim
 an available exemption from such Taxes.
+
+**20.2.  **Seller Terms. If you promote, license, sell, provide or provide
+access to any Content or services through AWS Marketplace, the [Service Terms
+for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply
+to you.
 
 ####  21\. AWS Ground Station
 
@@ -3586,15 +3598,57 @@ also subject to the terms that govern those Services.
 
 ####  73\. AWS Data Exchange
 
-**73.1.** The AWS Marketplace Service Terms apply to your use of AWS Data
-Exchange. Your use of Content obtained through AWS Data Exchange remains
+**73.1.** The [Service Terms for AWS Marketplace
+Sellers](https://aws.amazon.com/legal/seller-terms) apply to your use of AWS
+Data Exchange. Your use of Content obtained through AWS Data Exchange remains
 subject to the AWS Acceptable Use Policy, even if used outside of our
 Services.
 
 **73.2.**  You may not use any Content obtained through AWS Data Exchange that
 was anonymized, de-identified, or otherwise disassociated from an identifiable
 person in any manner that would attempt to re-identify, de-anonymize, or
-otherwise associate such Content with an identifiable person.  
+otherwise associate such Content with an identifiable person.
+
+**73.3.**  If we remove your Data Offering (as defined in the [Service Terms
+for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms)), then
+we may also cancel any current associated subscriptions if we determine, in
+our sole discretion, that your Data Offering: (a) poses a security risk to us
+or a Subscriber (as defined in the [Service Terms for AWS Marketplace
+Sellers](https://aws.amazon.com/legal/seller-terms)); (b) could subject us,
+our affiliates, or any third party to liability; (c) could be fraudulent; or
+(d) violates the AWS Marketplace Service Terms.  
+
+**73.4.**  Except as agreed to in writing between you and the respective
+Subscriber, otherwise permitted by law, in addition to any other restrictions
+on your use of Subscriber Information (as defined in the [Service Terms for
+AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms)) in the
+Service Terms for AWS Marketplace Sellers, you may only use Subscriber
+Information for compliance verification in connection with Subscribers
+acquiring rights to the underlying content of your Data Offerings.
+
+**73.5.**  You represent and warrant to us that to the extent your Data
+Offerings contains any data that (i) identifies or can be used by a Subscriber
+or other third party to identify a natural person; or (ii) otherwise may be
+deemed to be personal data or personal information under applicable laws or
+regulations with respect to the Subscriber, then such data (a) has already
+lawfully been made available to the general public, such as via governmental
+records, widely distributed media, or legally required public disclosures; and
+(b) does not include sensitive data or sensitive information about an
+individual or shall not otherwise be deemed to be sensitive data or sensitive
+information under applicable laws and regulations, including without
+limitation, information relating to biometric or genetic data, health, racial
+or ethnic origin, political opinions, religious or philosophical beliefs, sex
+or sexual orientation, trade union membership, or personal payment or
+sensitive personal data.
+
+**73.6.**  If you do not specify license rights for your Data Offerings, you
+agree to license your Data Offerings under the terms of the template Data
+Subscription Agreement available at
+<https://aws.amazon.com/marketplace/features/standardized-contracts>.
+
+**73.7.**  Your use of AWS Data Exchange is subject to the fees described in
+the [AWS Data Exchange User Guide](https://docs.aws.amazon.com/data-
+exchange/latest/userguide/what-is.html).
 
 ####  74\. AWS End of Support Migration Program for Windows Server
 
