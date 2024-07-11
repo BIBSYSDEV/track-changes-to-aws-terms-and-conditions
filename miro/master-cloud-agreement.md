@@ -93,7 +93,7 @@ described in the Documentation. Miro has no liability for how others may
 access or use Customer Content as a result of Customer’s or its Users’
 decision to share a Board.
 
-2.7. _Restrictions_.Except as expressly authorized in this Section 2 **,**
+2.7. _Restrictions_. Except as expressly authorized in this Section 2 **,**
 Customer will not, and will not permit its Users to: (a) provide access to,
 distribute, sell or sublicense the Services to a third party, (b) use the
 Services on behalf of, or to provide any product or service to, third parties,
@@ -139,7 +139,7 @@ comply with its respective obligations under the DPA. Additionally, where Miro
 acts as a controller, Miro uses Usage Data and User account information as
 described in its Privacy Policy.
 
-4.4. _Data Export_ **.** During the Subscription Term or within 30 days
+4.4. _Data Export_. **** During the Subscription Term or within 30 days
 thereafter (the “Data Export Period”), Customer may export its Customer
 Content using the export features described in the Documentation. If Customer
 elects to proactively delete its account at any time, all associated Customer
@@ -647,7 +647,7 @@ processing-addendum/>.
 
 “ **Documentation** ” means Miro’s usage guidelines and standard technical
 documentation for the Service, the current version of which is at
-<https://help.miro.com/hc/en-us>.
+<https://help.miro.com/hc/de>.
 
 “ **High-Risk Activities** ” means activities where use or failure of the
 Services could lead to death, personal injury, or environmental damage,
