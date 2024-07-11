@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: June 27, 2024
+####  Last Updated: July 10, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -231,6 +231,15 @@ account will be made with the tax-exempt organization’s funds.
 **1.22.4  **We may, in our sole discretion, reject your request for tax exempt
 status or revoke the tax exempt status of your account at any time.
 
+**1.22.5** If you turn on [tax settings
+inheritance](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/manage-
+account-payment.html#manage-account-tax-linked-accounts), you warrant that the
+application of any tax exemption on your Management Account to your
+Organization’s Member Accounts (both as defined in the AWS Organizations
+section below) complies with applicable tax laws. If a governmental authority
+determines that the correct amount of tax has not been collected on your
+purchases, you will promptly reimburse AWS for any associated costs.
+
 **1.23.** If you use any artificial intelligence and machine learning
 Services, features, and functionality (including third-party models) that we
 provide, you will comply with the [AWS Responsible AI
@@ -239,9 +248,9 @@ Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 **1.24.** Certain Services may incorporate generative AI features, powered by
 Amazon Bedrock, that enable you to use prompts to generate output, including:
 Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon
-DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, and AWS
-HealthScribe. The Amazon Bedrock automated abuse detection mechanisms may
-apply to such services. See
+DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, AWS
+HealthScribe, and AWS App Studio (Preview). The Amazon Bedrock automated abuse
+detection mechanisms may apply to such services. See
 [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
 detection.html) for more details.
 
@@ -252,6 +261,12 @@ the Services to mine cryptocurrency without our prior written approval.
 another, subject to the terms of the AWS Account Assignment Requirements,
 posted [here](https://aws.amazon.com/legal/aws-account-assignment-
 requirements/).
+
+**1.27**. To benefit from any contract with AWS enabling you to use AWS
+Services under the same terms as your affiliate's Agreement solely because
+your accounts are joined as Member Accounts of their Organization (as defined
+in the AWS Organizations section below), your AWS Contracting Party must be a
+signatory to your affiliate's Agreement.
 
 ####  2\. Betas and Previews
 
@@ -2228,9 +2243,9 @@ Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake,
 Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, PartyRock, an Amazon
 Bedrock Playground (“PartyRock”), Amazon Personalize, Amazon Polly, Amazon Q,
 Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe
-Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, and AWS
-HealthScribe. “AI Content” means Your Content that is processed by an AI
-Service.
+Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS
+HealthScribe, and AWS App Studio (Preview). “AI Content” means Your Content
+that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
