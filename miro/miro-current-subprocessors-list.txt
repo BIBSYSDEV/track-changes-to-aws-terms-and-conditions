@@ -8,7 +8,7 @@ Address
 
 Description of Processing
 
-Location of Processing
+Location
 
 Website
 
@@ -20,8 +20,7 @@ Amazon Web Services, Inc.
 
 Infrastructure
 
-Ireland | Germany | United
-States
+United States
 
 https://aws.amazon.com/
 
@@ -58,7 +57,7 @@ Singel 118A, 1015 AE Amsterdam, Netherlands
 
 Customer Success/Support
 
-Netherlands
+The Netherlands
 
 https://www.insided.com/
 
@@ -83,7 +82,7 @@ California, 518 S. 9th St. #300 Boise
 
 Customer Support
 
-United States | Philippines
+United States
 
 https://www.partnerhero.com/
 
@@ -160,5 +159,149 @@ European Union (Netherlands)
 RealtimeBoard, Inc.
 
 United States
+
+1
+
+MIRO THIRD PARTY AI MODELS
+Last updated: 17 July 2024
+AI Model (Service)
+
+Used By Miro For
+
+Hosted By
+
+Licensed To Miro Under
+
+Restrictions w/ Impact to Customer Use
+
+DenseNet
+
+Image Classification
+
+Miro (via AWS)
+
+Apache 2.0
+
+N/A
+
+distilbert-base-multilingual-cased
+
+Sticky Notes Clustering
+
+Miro (via AWS)
+
+Apache 2.0
+
+N/A
+
+GPT-3.5 (Azure OpenAI)
+
+Sticky Notes Clustering Mindmap,
+Codeblock, Add Similar Sticky Notes,
+Summarize, Cards, Sequence Diagram,
+Presentations
+
+Microsoft Corporation
+
+Microsoft License Terms for Online Services
+
+Use must be compliant with Acceptable Use
+Policy for Online Services and the Azure OpenAI
+Code of Conduct
+
+InSPyReNet
+
+Remove Background
+
+Miro (via AWS)
+
+MIT
+
+N/A
+
+MobileNetv2
+
+Smart Drawings
+
+Miro (via AWS)
+
+Apache 2.0
+
+N/A
+
+Read OCR (Azure OpenAI)
+
+Sticky Capture
+
+Microsoft Corporation
+
+Microsoft License Terms for Online Services
+
+Use must be compliant with Acceptable Use
+Policy for Online Services and the Azure OpenAI
+Code of Conduct
+
+Real-ESRGAN
+
+Remove Background
+
+Miro (via AWS)
+
+BSD 3
+
+N/A
+
+StabilityAI Diffusion XL Refiner 1.0
+
+Image Generation
+
+Miro (via AWS)
+
+RAIL++-M License
+
+Use must be compliant with Attachment A (Use
+Restrictions) of the RAIL++-M License
+
+Salesforce/blip2-flan-t5-xl
+
+Image Captioning
+
+Miro (via AWS)
+
+MIT
+
+N/A
+
+Segmind Stable Diffusion 1B (SSD-1B)
+
+Image Generation
+
+Miro (via AWS)
+
+Apache 2.0
+
+N/A
+
+SSD MobileNetv2
+
+Sticky Capture
+
+Miro (via AWS)
+
+Apache 2.0
+
+N/A
+
+Universal Sentence Encoder multilingual
+
+Sticky Notes Clustering
+
+Miro (via AWS)
+
+Apache 2.0
+
+N/A
+
+2
 
 
