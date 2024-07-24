@@ -642,12 +642,12 @@ the SaaS Service) including from Third-Party Platforms.
 Customer provides to Miro in connection with Technical Services.
 
 “ **DPA** ” means the Data Processing Addendum between the parties, the
-current version of which is at<https://miro.com/legal/customer-data-
+current version of which is at <https://miro.com/legal/customer-data-
 processing-addendum/>.
 
 “ **Documentation** ” means Miro’s usage guidelines and standard technical
 documentation for the Service, the current version of which is at
-<https://help.miro.com/hc/de>.
+<https://help.miro.com/hc>.
 
 “ **High-Risk Activities** ” means activities where use or failure of the
 Services could lead to death, personal injury, or environmental damage,
