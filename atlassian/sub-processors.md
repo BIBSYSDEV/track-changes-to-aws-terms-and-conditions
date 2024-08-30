@@ -1,6 +1,6 @@
 #  Atlassian Sub-processors
 
-_Current as of April 1, 2024_
+_Effective Starting September 30, 2024_
 
 ###  Third-Party Sub-processors
 
@@ -32,11 +32,9 @@ pinned data remains in your specified location as described on this
 [page.](https://support.atlassian.com/security-and-access-
 policies/docs/understand-data-residency/)  
   
-[Subscribe to an RSS feed](/legal/sub-processors/rss) or [sign up for
+[Sign up for
 emails](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
-to be notified when we add new Atlassian sub-processors (note: you will need
-to cut and paste the "Subscribe to an RSS feed" URL into an RSS Feed Reader to
-monitor updates).
+to be notified when we add new Atlassian sub-processors.
 
 ###  Sub-processor
 
@@ -89,6 +87,39 @@ Location of Processing
 
 EEA (Sweden, Ireland and Germany), UK, Canada, Australia, Brazil, Singapore,
 South Korea, USA, India, Japan
+
+|
+
+Security Measures
+
+[ AWS Compliance Programs  ](https://aws.amazon.com/compliance/programs/)  
+  
+Amazon Web Services, Inc. (AWS Bedrock)
+
+|
+
+Applicable Cloud Products
+
+All Applicable Cloud Products with Atlassian Intelligence or Rovo
+
+|
+
+Nature and Purpose of Processing
+
+Generative AI services provider for intelligence product features
+
+|
+
+Categories of personal data
+
+Personal data contained in user account information and text or files created
+by customer and stored in Applicable Cloud Products
+
+|
+
+Location of Processing
+
+USA
 
 |
 
@@ -170,15 +201,17 @@ Databricks, Inc.
 
 Applicable Cloud Products
 
-Jira Cloud Products (excluding Jira Align), Confluence, Bitbucket, Statuspage,
-Compass, Forge, Beacon
+Beacon, Bitbucket, Compass, Confluence, Forge, Jira Cloud Products (excluding
+Jira Align), Statuspage, and all Applicable Cloud Products with Atlassian
+Intelligence, Loom AI, or Rovo
 
 |
 
 Nature and Purpose of Processing
 
-Infrastructure provider to enable customer data querying and analytics product
-features
+Infrastructure provider to enable customer data querying, and analytics
+product features,For Cloud Products with Atlassian Intelligence, Loom AI, or
+Rovo: Infrastructure provider to train Machine Learning models
 
 |
 
@@ -231,6 +264,74 @@ Brazil, Mexico
 Security Measures
 
 Access only through Atlassian managed VPN, VDI, and MDM for computing devices  
+  
+Google Vertext AI
+
+|
+
+Applicable Cloud Products
+
+All Applicable Cloud Products with Atlassian Intelligence or Rovo
+
+|
+
+Nature and Purpose of Processing
+
+Generative AI services provider for intelligence product features
+
+|
+
+Categories of personal data
+
+Personal data contained in user account information and text or files created
+by customer and stored in Applicable Cloud Products
+
+|
+
+Location of Processing
+
+USA
+
+|
+
+Security Measures
+
+[ Google Privacy Terms & Security Measures
+](https://cloud.google.com/terms/data-processing-addendum)  
+  
+Intercom, Inc.
+
+|
+
+Applicable Cloud Products
+
+Rovo
+
+|
+
+Nature and Purpose of Processing
+
+Cloud-based in-app support chat platform
+
+|
+
+Categories of personal data
+
+Personal data contained in Rovo Search query during in-app support
+communications
+
+|
+
+Location of Processing
+
+USA
+
+|
+
+Security Measures
+
+[ Intercom Security ](https://www.intercom.com/help/en/articles/264-security-
+at-intercom)  
   
 K15t GmbH
 
@@ -307,7 +408,7 @@ Mailgun Technologies, Inc.
 
 Applicable Cloud Products
 
-Statuspage, Opsgenie, Jira Cloud Products (excluding Jira Align)
+Jira Cloud Products (excluding Jira Align), Opsgenie,Statuspage
 
 |
 
@@ -340,8 +441,8 @@ Message Systems, Inc. dba SparkPost
 
 Applicable Cloud Products
 
-Jira Cloud Products (excluding Jira Align), Confluence, Bitbucket, Statuspage,
-Compass, Forge, Trello
+Bitbucket, Compass, Confluence, Forge, Jira Cloud Products (excluding Jira
+Align), Statuspage, Trello
 
 |
 
@@ -543,7 +644,7 @@ OpenAI, L.L.C.
 
 Applicable Cloud Products
 
-All Applicable Cloud Products using Atlassian Intelligence or Loom AI
+All Applicable Cloud Products with Atlassian Intelligence, Loom AI, or Rovo
 
 |
 
@@ -595,7 +696,7 @@ by customer and shared during Loom support communications
 
 Location of Processing
 
-Honduras, Romania, South Africa, Philippines
+Philippines, Romania, South Africa
 
 |
 
@@ -642,8 +743,8 @@ Pubnub, Inc.
 
 Applicable Cloud Products
 
-Jira Cloud Products (excluding Jira Align), Confluence, Bitbucket, Statuspage,
-Compass, Forge, Opsgenie
+Bitbucket, Compass, Confluence,Forge, Jira Cloud Products (excluding Jira
+Align), Opsgenie, Statuspage
 
 |
 
@@ -670,47 +771,13 @@ Security Measures
 [Trust Center ](https://www.pubnub.com/trust/)  
 [ FAQ ](https://www.pubnub.com/trust/faq/)  
   
-Segment
-
-|
-
-Applicable Cloud Products
-
-Loom
-
-|
-
-Nature and Purpose of Processing
-
-Data analytics distribution service
-
-|
-
-Categories of personal data
-
-Personal data contained in user account information and text or files created
-by customer and stored in Applicable Cloud Products
-
-|
-
-Location of Processing
-
-USA
-
-|
-
-Security Measures
-
-[ Segment Trust Center  ](https://segment.com/trust-center/)  
-  
 SoftServe, Inc.
 
 |
 
 Applicable Cloud Products
 
-Jira Cloud Products (excluding Jira Align), Confluence, Bitbucket, Statuspage,
-Compass, Forge, Atlas
+Bitbucket, Compass, Confluence, Forge, Jira Cloud Products, Statuspage
 
 |
 
@@ -743,8 +810,8 @@ Twilio, Inc.
 
 Applicable Cloud Products
 
-Jira Cloud Products (excluding Jira Align), Confluence, Bitbucket, Statuspage,
-Compass, Forge, Trello, Opsgenie
+Bitbucket, Compass, Confluence, Forge, Jira Cloud Products (excluding Jira
+Align), Opsgenie, Statuspage, Trello
 
 |
 
@@ -769,6 +836,39 @@ USA, for support requests only: EEA and Singapore
 Security Measures
 
 [ Twilio Trust Center  ](https://www.twilio.com/en-us/trust-center)  
+  
+Twilio, Inc (Twilio-Segment)
+
+|
+
+Applicable Cloud Products
+
+Loom
+
+|
+
+Nature and Purpose of Processing
+
+Data analytics distribution service
+
+|
+
+Categories of personal data
+
+Personal data contained in user account information and text or files created
+by customer and stored in Applicable Cloud Products
+
+|
+
+Location of Processing
+
+USA
+
+|
+
+Security Measures
+
+[ Segment Trust Center ](https://segment.com/trust-center/)  
   
 Zendesk
 
@@ -855,8 +955,8 @@ Atlassian PTY, Ltd
 
 Applicable Cloud Products
 
-Jira Software, Confluence, Bitbucket, Statuspage, Compass, Forge, Atlassian
-Analytics, Jira Product Discovery, Trello, Opsgenie, Jira Align
+Jira, Confluence, Bitbucket, Statuspage, Compass, Forge, Atlassian Analytics,
+Jira Product Discovery, Trello, Opsgenie, Jira Align
 
 |
 
