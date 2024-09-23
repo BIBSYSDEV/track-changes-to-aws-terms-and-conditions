@@ -64,9 +64,11 @@ jobs:
           curl https://miro.com/legal/terms-of-service/ -o tmp/miro-terms-of-service.html
           html2markdown tmp/miro-terms-of-service.html > tmp/miro-terms-of-service.md
           csplit tmp/miro-terms-of-service.md '/## Terms of Service/'
-          csplit xx01 '/  \*  \*\*Product\*\*/'  --suppress-matched
-          mv xx00 miro/terms-of-service.md
-          rm -f xx01
+          #csplit xx01 '/  \*  \*\*Product\*\*/'  --suppress-matched
+          #mv xx00 miro/terms-of-service.md
+          #rm -f xx01
+          mv xx01 miro/terms-of-service.md
+          rm -f xx00
       - name: Miro - Process Master Cloud Agreement
         run: |
           curl https://miro.com/legal/master-cloud-agreement/ -o tmp/miro-master-cloud-agreement.html
