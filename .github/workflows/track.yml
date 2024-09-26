@@ -74,9 +74,11 @@ jobs:
           curl https://miro.com/legal/master-cloud-agreement/ -o tmp/miro-master-cloud-agreement.html
           html2markdown tmp/miro-master-cloud-agreement.html > tmp/miro-master-cloud-agreement.md
           csplit tmp/miro-master-cloud-agreement.md '/## Master Cloud Agreement/'
-          csplit xx01 '/  \* \*\*Product\*\*/'  --suppress-matched
-          mv xx00 miro/master-cloud-agreement.md
-          rm -f xx01
+          #csplit xx01 '/  \* \*\*Product\*\*/'  --suppress-matched
+          #mv xx00 miro/master-cloud-agreement.md
+          #rm -f xx01
+          mv xx01 miro/master-cloud-agreement.md
+          rm -f xx00
       - name: Miro - Process SLA
         run: |
           curl https://miro.com/legal/documents/Miro-Service-Level-Agreement.pdf -o tmp/miro-service-level-agreement.pdf
