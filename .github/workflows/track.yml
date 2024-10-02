@@ -88,9 +88,11 @@ jobs:
           curl https://miro.com/legal/privacy-policy/ -o tmp/miro-privacy-policy.html
           html2markdown tmp/miro-privacy-policy.html > tmp/miro-privacy-policy.md
           csplit tmp/miro-privacy-policy.md '/## Privacy Policy/'
-          csplit xx01 '/  \*  \*\*Product\*\*/'  --suppress-matched
-          mv xx00 miro/privacy-policy.md
-          rm -f xx01
+          #csplit xx01 '/  \*  \*\*Product\*\*/'  --suppress-matched
+          #mv xx00 miro/privacy-policy.md
+          #rm -f xx01
+          #mv xx01 miro/privacy-policy.md
+          #rm -f xx00
       - name: Miro - Process Subprocessors
         run: |
           curl https://miro.com/legal/documents/Miro-Current-Subprocessors-List.pdf -o tmp/miro-current-subprocessors-list.pdf
