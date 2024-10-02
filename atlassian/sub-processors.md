@@ -265,7 +265,7 @@ Security Measures
 
 Access only through Atlassian managed VPN, VDI, and MDM for computing devices  
   
-Google Vertext AI
+Google Vertex AI
 
 |
 

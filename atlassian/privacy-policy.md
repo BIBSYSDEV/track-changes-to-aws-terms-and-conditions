@@ -419,9 +419,10 @@ case we will let you know if we are unable to and why.
 **Disclosing to third parties**
 
 We disclose information to third parties that help us operate, provide,
-improve, integrate, customize, support and market our Services. Data obtained
-through the short code program will not be shared with any third parties for
-their marketing reasons/purposes.
+improve, integrate, customize, support and market our Services. All the above
+categories exclude text messaging originator opt-in data and consent; this
+information will not be shared with any third parties, excluding aggregators
+and providers of the text messaging services.
 
 _**Service Providers**_ : We work with third-party service providers to
 provide website and application development, hosting, maintenance, backup,
@@ -554,7 +555,7 @@ deletion is possible.
 
 _**Account information**_ : We retain your account information for as long as
 your account is active and a reasonable period thereafter in case you decide
-to re-activate the Services. aWe also retain some of your information as
+to re-activate the Services. We also retain some of your information as
 necessary to comply with our legal obligations, to resolve disputes, to
 enforce our agreements, to support business operations, and to continue to
 develop and improve our Services. Where we retain information for Service
