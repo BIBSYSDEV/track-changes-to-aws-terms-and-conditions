@@ -1,5 +1,5 @@
 MIRO SUB-PROCESSORS
-Last updated: 20 February 2024
+Last updated: 30 September 2024
 Name
 
 Co. Number
@@ -8,7 +8,7 @@ Address
 
 Description of Processing
 
-Location
+Location*
 
 Website
 
@@ -23,6 +23,19 @@ Infrastructure
 United States
 
 https://aws.amazon.com/
+
+Braze, Inc.
+
+024567792
+
+63 Madison Avenue, Building 28, East 28th Street, 13th
+floor, New York, NY 10016
+
+Service Related Emails
+
+United States
+
+https://www.braze.com/
 
 Gainsight, Inc.
 
@@ -43,7 +56,6 @@ Google LLC
 1600 Amphitheatre Parkway, Mountain View, CA 94043
 
 Sensitive Data Discovery
-(Enterprise Guard)
 
 United States
 
@@ -86,30 +98,17 @@ United States
 
 https://www.partnerhero.com/
 
-The Rocket Science Group, LLC
+Skilljar, Inc.
 
-2303505
+5327841
 
-675 Ponce De Leon Avenue, Northeast Suite 5000
-Atlanta, GA 30308
+113 Cherry Street, Suite #29434, Seattle, WA 98104
 
-Service Related Emails
-
-United States
-
-https://mailchimp.com/
-
-Thought Industries, Inc.
-
-463655883
-
-3 Post Office Square 4th Floor, Boston, MA 02109
-
-Customer Training
+Customer Training | Miro Academy
 
 United States
 
-https://www.thoughtindustries.com/
+https://www.skilljar.com/
 
 Zendesk, Inc.
 
@@ -119,18 +118,36 @@ Zendesk, Inc.
 
 Customer Support Tickets
 
-Germany
+United States
 
 https://www.zendesk.com/
+
+* location of storage may be limited to certain jurisdictions if a Miro customer chooses a Miro data residency offering
 
 MIRO AFFILIATES
 Affiliate
 
 Location
 
+Affiliate
+
+Location
+
+Cardinal Web, Inc.
+
+United States
+
+RealtimeBoard, Inc.
+
+United States
+
 Miro Armenia LLC (formerly Teamwork LLC)
 
 Armenia
+
+UizardApp Aps
+
+Denmark
 
 Miro Australia Pty Ltd
 
@@ -138,7 +155,11 @@ Australia
 
 Miro DACH GmbH
 
-European Union (Germany)
+Germany
+
+Miro Denmark ApS
+
+Denmark
 
 Miro EMEA UK Limited
 
@@ -150,20 +171,16 @@ Japan
 
 Miro Worldwide France, SAS
 
-European Union (France)
+France
 
 RealtimeBoard B.V.
 
-European Union (Netherlands)
-
-RealtimeBoard, Inc.
-
-United States
+The Netherlands
 
 1
 
 MIRO THIRD PARTY AI MODELS
-Last updated: 17 July 2024
+Last updated: 30 September 2024
 AI Model (Service)
 
 Used By Miro For
@@ -194,12 +211,61 @@ Apache 2.0
 
 N/A
 
+FLUX.1-schnell
+
+Image Generation
+
+Miro (via AWS)
+
+Apache 2.0
+
+N/A
+
 GPT-3.5 (Azure OpenAI)
 
 Sticky Notes Clustering Mindmap,
 Codeblock, Add Similar Sticky Notes,
 Summarize, Cards, Sequence Diagram,
-Presentations
+ER Diagram, Presentations, UML Class,
+Write Assist
+
+Microsoft Corporation
+
+Microsoft License Terms for Online Services
+
+Use must be compliant with Acceptable Use
+Policy for Online Services and the Azure OpenAI
+Code of Conduct
+
+GPT-4o (Azure OpenAI)
+
+Sticky Notes (GenAIPanel), Docs, ER
+Diagram
+
+Microsoft Corporation
+
+Microsoft License Terms for Online Services
+
+Use must be compliant with Acceptable Use
+Policy for Online Services and the Azure OpenAI
+Code of Conduct
+
+GPT-4-turbo
+
+Flowchart
+
+Microsoft Corporation
+
+Microsoft License Terms for Online Services
+
+Use must be compliant with Acceptable Use
+Policy for Online Services and the Azure OpenAI
+Code of Conduct
+
+Azure Content Safety
+
+Output Moderation
+(for all LLM-based requests)
 
 Microsoft Corporation
 
@@ -303,5 +369,7 @@ Apache 2.0
 N/A
 
 2
+
+3
 
 
