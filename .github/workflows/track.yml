@@ -149,12 +149,9 @@ jobs:
           rm -f xx01
       - name: Slack - Process subprocessors
         run: |
-          curl https://slack.com/slack-subprocessors -o tmp/slack-subprocessors.html
-          html2markdown tmp/slack-subprocessors.html > tmp/slack-subprocessors.md
-          csplit tmp/slack-subprocessors.md '/# Slack Subprocessors/'
-          csplit xx01 '/### Try Slack with your team for free/' --suppress-matched
-          mv xx00 slack/subprocessors.md
-          rm -f xx01
+          curl https://slack.com/slack-subprocessors -o tmp/slack-subprocessors.pdf
+          pdftotext tmp/slack-subprocessors.pdf slack/subprocessors.txt
+          #rm -f slack/subprocessors.md
       - name: Slack - Process affiliates
         run: |
           curl https://slack.com/affiliates -o tmp/slack-affiliates.html
