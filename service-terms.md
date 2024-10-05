@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: September 25, 2024
+####  Last Updated: October 4, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1443,6 +1443,9 @@ Visibility Service, you will be notified of that termination and you will have
 30 days following that termination to retrieve Your Content from the Service
 if you choose to do so, after which time Your Content will be removed.
 
+**24.6. Amazon Q in AWS Supply Chain.** Section 50 below applies to Amazon Q
+in AWS Supply Chain.
+
 ####  25\. Amazon AppStream 2.0
 
 **25.1.** NVIDIA Software. If your application uses the NVIDIA graphics
@@ -2569,7 +2572,8 @@ we may use AI Content processed by Amazon Q, such as prompts and responses
 (“Amazon Q Content”), for service improvement as described below. Currently,
 this Section 50.13 applies only to Amazon Q Developer Free Tier, but we may
 add Amazon Q features from time to time as they launch. This Section 50.13
-does not apply to Amazon Q Business or Amazon Q Developer Pro.
+does not apply to Amazon Q Business, Amazon Q Developer Pro, or Amazon Q in
+AWS Supply Chain.
 
 **50.13.1.** **Service Improvement.** You agree and instruct that we may use
 Amazon Q Content to develop and improve Amazon Q and its underlying
