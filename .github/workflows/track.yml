@@ -149,7 +149,7 @@ jobs:
           rm -f xx01
       - name: Slack - Process subprocessors
         run: |
-          curl https://slack.com/slack-subprocessors -o tmp/slack-subprocessors.pdf
+          curl -L https://slack.com/slack-subprocessors -o tmp/slack-subprocessors.pdf
           pdftotext tmp/slack-subprocessors.pdf slack/subprocessors.txt
           #rm -f slack/subprocessors.md
       - name: Slack - Process affiliates
