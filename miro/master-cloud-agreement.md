@@ -577,7 +577,8 @@ as agent for the other.
 the Software and Services shall comply with Laws, including applicable anti-
 bribery and anti-money laundering laws and regulations. Miro shall comply with
 principles outlined in its Code of Conduct available at
-<https://miro.com/legal/code-of-conduct/>.
+[https://miro.com/legal/code-of-conduct/](https://miro.com/legal/code-of-
+conduct/).
 
 17.12. _Export_. Each party agrees to comply with all relevant U.S. and
 foreign export and import control Laws or regulations applicable to its
@@ -642,12 +643,13 @@ the SaaS Service) including from Third-Party Platforms.
 Customer provides to Miro in connection with Technical Services.
 
 “ **DPA** ” means the Data Processing Addendum between the parties, the
-current version of which is at <https://miro.com/legal/customer-data-
-processing-addendum/>.
+current version of which is at [https://miro.com/legal/customer-data-
+processing-addendum/](https://miro.com/legal/customer-data-processing-
+addendum/).
 
 “ **Documentation** ” means Miro’s usage guidelines and standard technical
 documentation for the Service, the current version of which is at
-<https://help.miro.com/hc>.
+[https://help.miro.com/hc](https://help.miro.com/hc).
 
 “ **High-Risk Activities** ” means activities where use or failure of the
 Services could lead to death, personal injury, or environmental damage,
@@ -667,7 +669,8 @@ references this MCA, that is executed by the Customer and accepted by Miro.
 and SLA.
 
 “ **Privacy Policy** ” means the Privacy Policy, the current version of which
-is at <https://miro.com/legal/privacy-policy/>
+is at [https://miro.com/legal/privacy-policy/](https://miro.com/legal/privacy-
+policy/)
 
 “ **Prohibited Data** ” means any (a) special categories of data enumerated in
 European Union Regulation 2016/679, Article 9(1) or any successor legislation,
@@ -696,15 +699,16 @@ European Union and their respective governmental, judicial, or regulatory
 institutions, agencies, departments, and authorities.
 
  **" Security Policy**” means the Miro Security Policy, the current version of
-which is available at <https://miro.com/legal/documents/Miro-Security-
-Policy.pdf>
+which is available at [https://miro.com/legal/documents/Miro-Security-
+Policy.pdf](https://miro.com/legal/documents/Miro-Security-Policy.pdf)
 
 “ **Services** ” means the SaaS Services, the Technical Services, and any
 other services Miro may provide to Customer under this Agreement.
 
 “ **SLA** ” means the Miro Service Level Agreement, the current version of
-which is at <https://miro.com/legal/documents/Miro-Service-Level-
-Agreement.pdf>.
+which is at [https://miro.com/legal/documents/Miro-Service-Level-
+Agreement.pdf](https://miro.com/legal/documents/Miro-Service-Level-
+Agreement.pdf).
 
 “ **Software** ” means any Miro client software, scripts, apps, or other code
 provided to Customer by Miro for use with the Service.
@@ -718,7 +722,8 @@ additional cost. If Customer elects to purchase enhanced or premium support,
 this will be identified in the applicable Order.
 
 “ **Support Policy** ” means the Miro Support Policy, the current version of
-which is at <https://miro.com/legal/documents/Miro-Support-Policy.pdf>
+which is at [https://miro.com/legal/documents/Miro-Support-
+Policy.pdf](https://miro.com/legal/documents/Miro-Support-Policy.pdf)
 
 “ **Technical Services** ” means any training, enablement or other technical
 services provided by Miro related to the SaaS Service, as identified in an
@@ -736,4 +741,96 @@ Customer’s use of the Services, but excluding Customer Content.
 invites to access and use the SaaS Service as further described in the
 Documentation, which may include Customer’s and its Affiliates’ employees,
 consultants, contractors or other third parties.
+
+##### Product
+
+[Online whiteboard](/online-whiteboard/)[Apps &
+Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
+Developer Platform](https://developers.miro.com/)[Miro for
+Devices](/apps/)[Enterprise Guard](https://miro.com/enterprise-
+guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
+
+### Product
+
+[Online whiteboard](/online-whiteboard/)[Apps &
+Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
+Developer Platform](https://developers.miro.com/)[Miro for
+Devices](/apps/)[Enterprise Guard](https://miro.com/enterprise-
+guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
+
+##### Solutions
+
+[Meetings and Workshops](/meetings-and-workshops/)[Brainstorming &
+Ideation](/brainstorming/)[Agile
+practices](/agile/)[Diagramming](/diagramming/)[Research & Design](/research-
+and-design/)[Strategy & Planning](/strategic-planning/)[Mind Map](/mind-
+map/)[Concept Map](/concept-map/)[Online Sticky Notes](/online-sticky-
+notes/)[Flowchart Maker](/flowchart/)[Wireframe](/wireframe/)
+
+### Solutions
+
+[Meetings and Workshops](/meetings-and-workshops/)[Brainstorming &
+Ideation](/brainstorming/)[Agile
+practices](/agile/)[Diagramming](/diagramming/)[Research & Design](/research-
+and-design/)[Strategy & Planning](/strategic-planning/)[Mind Map](/mind-
+map/)[Concept Map](/concept-map/)[Online Sticky Notes](/online-sticky-
+notes/)[Flowchart Maker](/flowchart/)[Wireframe](/wireframe/)
+
+##### Resources
+
+[Miro Academy](https://academy.miro.com/)[Help
+Center](https://help.miro.com/hc/en-
+us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
+Community](/community/)[Miro Events](https://community.miro.com/events)
+
+### Resources
+
+[Miro Academy](https://academy.miro.com/)[Help
+Center](https://help.miro.com/hc/en-
+us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
+Community](/community/)[Miro Events](https://community.miro.com/events)
+
+##### Company
+
+[About us](/about/)[Careers 🚀](/careers/)[Miro in the
+News](/newsroom/)[Customer Stories](/blog/customer-stories/)
+
+### Company
+
+[About us](/about/)[Careers 🚀](/careers/)[Miro in the
+News](/newsroom/)[Customer Stories](/blog/customer-stories/)
+
+##### Plans and Pricing
+
+[Pricing](/pricing/)[Business](/business-
+plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
+agencies?lp=1/)[Education](/education-
+whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
+sales](/contact/sales/)
+
+### Plans and Pricing
+
+[Pricing](/pricing/)[Business](/business-
+plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
+agencies?lp=1/)[Education](/education-
+whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
+sales](/contact/sales/)
+
+* * *
+
+[](https://twitter.com/mirohq "Twitter")[](https://www.facebook.com/TryMiro
+"Facebook")[](https://www.linkedin.com/company/mirohq
+"Linkedin")[](https://www.instagram.com/mirohq/
+"Instagram")[](https://www.youtube.com/user/RealtimeBoardEng "Youtube")
+
+[](https://apps.apple.com/us/app/miro-collaborative-
+whiteboard/id1180074773?from=footer_menu&source=miro_website "App
+Store")[](https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website
+"Google Play")
+
+Miro © 2024
+
+[Terms of Service](https://miro.com/legal/terms-of-service/)[Privacy
+Policy](https://miro.com/legal/privacy-policy/)[Manage Cookies](/manage-
+cookies/)
 

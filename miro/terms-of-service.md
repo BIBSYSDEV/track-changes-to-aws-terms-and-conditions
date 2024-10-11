@@ -66,7 +66,7 @@ the types and content of all Customer Content it submits to the Service.
 
 ###  2\. The Service
 
-####  2.1 Permitted Use
+####  **2.1 Permitted Use**
 
 During the Subscription Term, Customer may access and use the Service only for
 its internal business or personal purposes in accordance with the
@@ -75,7 +75,7 @@ us?flash_digest=bfda2c343061082eb1856eccce466eabf0618fcf) and this Agreement,
 including any usage limits in an Order. This includes the right to copy and
 use the Software as part of Customer’s authorized use of the Service.
 
-####  2.2 Users
+####  **2.2 Users**
 
 Only Users may access or use the Service. Each User must keep its login
 credentials confidential and not share them with anyone else. Customer is
@@ -86,7 +86,7 @@ any compromise of its User login credentials. Miro uses User account
 information as described in its [Privacy
 Policy](https://miro.com/legal/privacy-policy/).
 
-####  2.3 Administrators
+####  **2.3 Administrators**
 
 Customer may designate a User as an administrator with control over Customer’s
 Service account, including management of Users and Customer Content, as
@@ -94,7 +94,7 @@ described in the [Documentation](https://help.miro.com/hc/en-
 us?flash_digest=bfda2c343061082eb1856eccce466eabf0618fcf). Customer is fully
 responsible for its choice of administrators and any actions they take.
 
-####  2.4 Customer Affiliates
+####  **2.4 Customer Affiliates**
 
 Customer’s Affiliates may use the Service as Users of Customer. Alternatively,
 an Affiliate of Customer may enter its own Order(s) as mutually agreed with
@@ -104,7 +104,7 @@ Neither Customer nor any Customer Affiliate has any rights under each other’s
 agreement with Miro, and breach or termination of any such agreement is not
 breach nor termination under any other.
 
-####  2.5 Registration Using Corporate Email
+####  **2.5 Registration Using Corporate Email**
 
 If you created an account using an email address belonging to your employer or
 other entity, you represent and warrant that you have authority to create an
@@ -116,25 +116,25 @@ information from the account, (ii) restrict or terminate your access to the
 Service and (iii) prevent you from later disassociating such account from the
 Customer.
 
-####  2.6 Access to Third Party Boards
+####  **2.6 Access to Third Party Boards**
 
 If you are invited to another Customer’s Board, you acknowledge that your
 access to that Board as well as any content you submit will be under the sole
 control of that other Customer.
 
-####  2.7 Sharing Settings
+#### **2.7 Sharing Settings**
 
 Through the Service you control who you share Boards with (including making
 Boards public). Miro has no liability for how others may access or use
 Customer Content as a result of your or your Users’ decision to share a Board.
 
-####  2.8 Age Requirement for Users
+####  **2.8 Age Requirement for Users**
 
 The Service is not intended for, and may not be used by, anyone under the age
 of 16. Customer is responsible for ensuring that all Users are at least 16
 years old.
 
-####  2.9 Restrictions
+####  **2.9 Restrictions**
 
 Customer will not (and will not permit anyone else to) do any of the
 following: (a) provide access to, distribute, sell or sublicense the Service
@@ -162,7 +162,7 @@ During the Subscription Term, Miro will provide Support in accordance with the
 
 ###  4\. Customer Content
 
-####  4.1 Data Use
+####  **4.1 Data Use**
 
 Customer grants Miro the non-exclusive, worldwide right to use, copy, store,
 transmit and display Customer Content and to modify and create derivative
@@ -170,19 +170,19 @@ works of Customer Content (for reformatting or other technical purposes), but
 only as necessary to provide the Service, Support and any Technical Services
 to Customer under this Agreement.
 
-####  4.2 Security
+####  **4.2 Security**
 
 Miro uses reasonable technical and organizational measures designed to protect
 the Service and Customer Content as described in the [Security
 Policy](https://miro.com/static/legal/Miro-Security-Policy.pdf).
 
-####  4.3 Personal Data
+#### **4.3 Personal Data**
 
 Each party agrees to comply with the
 [DPA](https://assets.ctfassets.net/a6zo0szqvm4a/5aE0a0XtexowbZVMjKbFy6/f92b3f6561cc32dfca920ba304307d1a/Customer_DPA_w_out_SCC__Web_Version__APR1222__Non-
 Executable_.pdf).
 
-####  4.4 Data Export
+####  **4.4 Data Export**
 
 During the Subscription Term or within 30 days thereafter, Customer may export
 its Customer Content from the Service using the export features described in
@@ -195,7 +195,7 @@ cannot be retrieved.
 
 ###  5\. Customer Obligations
 
-####  5.1 Generally
+####  **5.1 Generally**
 
 Customer is responsible for its Customer Content, including its content and
 accuracy, and agrees to comply with Laws in using the Service. Customer
@@ -206,7 +206,7 @@ violating or infringing Laws, third-party rights (including intellectual
 property, publicity or privacy rights) or any terms or privacy policies that
 apply to the Customer Content.
 
-####  5.2 Prohibited Uses
+#### **5.2 Prohibited Uses**
 
 Customer must not use the Service with Prohibited Data or for High Risk
 Activities. Customer acknowledges that the Service is not intended to meet any
@@ -215,7 +215,7 @@ is not a Business Associate as defined under HIPAA. Notwithstanding anything
 else in this Agreement, Miro has no liability for Prohibited Data or use of
 the Service for High Risk Activities.
 
-####  5.3 Individual User Account Takeover
+####  **5.3 Individual User Account Takeover**
 
 The Service may contain functionality allowing Customer to convert accounts
 previously registered by individuals using email addresses from Customer’s
@@ -261,7 +261,7 @@ Section 2 (The Service) and Section 5 (Customer Obligations).
 
 ###  9\. Commercial Terms
 
-#### 9.1 Subscription Term
+####  **9.1 Subscription Term**
 
 Unless otherwise specified in the applicable Order, each Subscription Term
 will renew for successive 12-month periods, unless either party gives the
@@ -270,7 +270,7 @@ Subscription Term ends. Upon notice of non-renewal, Customer will not be
 charged for the next billing cycle but will not receive any refunds or credits
 for amounts that have already been charged.
 
-####  9.2 Fees and Taxes
+####  **9.2 Fees and Taxes**
 
 Fees are as described in each Order. Customer will reimburse Miro for pre-
 approved travel and lodging expenses it incurs in providing Technical
@@ -293,7 +293,7 @@ expenses are exclusive of Taxes.
 
 ###  10\. Warranties and Disclaimers
 
-####  10.1 Limited Warranty
+####  **10.1 Limited Warranty**
 
 Miro warrants to Customer that:
 
@@ -305,7 +305,7 @@ Subscription Term (the “ **Performance Warranty** ”) and (b) Miro will perfo
 any Technical Services in a professional and workmanlike manner (the “
 **Technical Services Warranty** ”).
 
-####  10.2 Warranty Remedy
+####  **10.2 Warranty Remedy**
 
 If Miro breaches Section 10.1 (Limited Warranty) and Customer makes a
 reasonably detailed warranty claim within 30 days of discovering the issue,
@@ -321,7 +321,7 @@ warranties do not apply to (a) issues caused by misuse or unauthorized
 modifications, (b) issues in or caused by Third-Party Platforms or other
 third-party systems or (c) Trials and Betas or other free or evaluation use.
 
-####  10.3 Disclaimers
+####  **10.3 Disclaimers**
 
  **Except as expressly provided in Section 10.1 (Limited Warranty), the
 Service, Support, Technical Services and all related Miro services are
@@ -340,12 +340,12 @@ period.**
 
 ###  11\. Term and Termination
 
-####  11.1 Term
+####  **11.1 Term**
 
 This Agreement starts on the Effective Date and continues until 90 days after
 expiration or termination of all Subscription Terms.
 
-####  11.2 Termination for Cause
+####  **11.2 Termination for Cause**
 
 Either party may terminate this Agreement (including all Orders) if the other
 party (a) fails to cure a material breach of this Agreement (including a
@@ -355,7 +355,7 @@ deed, creditors’ arrangement, composition or comparable proceeding, or if such
 a proceeding is instituted against that party and not dismissed within 60
 days.
 
-####  11.3 Termination for Convenience
+#### **11.3 Termination for Convenience**
 
 Either party may terminate this Agreement (including all Orders) at any time
 for any reason upon 90 days’ notice to the other party, provided (i) Customer
@@ -363,7 +363,7 @@ will not be entitled to a refund of any pre-paid fees and (ii) if Customer has
 not already paid all applicable fees for the then-current Subscription Term,
 any such fees that are outstanding will become immediately due and payable.
 
-####  11.4 Effect of Termination
+####  **11.4 Effect of Termination**
 
 Upon expiration or termination of this Agreement or an Order, Customer’s
 access to the Service and Technical Services will cease, other than limited
@@ -376,7 +376,7 @@ Information may be retained in the receiving party’s standard backups after
 deletion but will remain subject to this Agreement’s confidentiality
 restrictions.
 
-####  11.5 Survival
+####  **11.5 Survival**
 
 These Sections survive expiration or termination of this Agreement: 2.9
 (Restrictions), 4.4 (Data Export), 5 (Customer Obligations), 9.2 (Fees and
@@ -404,9 +404,9 @@ may use the feedback or suggestions without restriction or obligation.
 
 ###  13\. Limitations of Liability
 
-####  13.1 Consequential Damages Waiver
+####  **13.1 Consequential Damages Waiver**
 
-**The disclaimer in this Section 13.1 (Consequential Damages Waiver) will not
+ **The disclaimer in this Section 13.1 (Consequential Damages Waiver) will not
 apply to the extent prohibited by Laws. Except for Excluded Claims, neither
 party (nor its suppliers) will have any liability arising out of or related to
 this Agreement for any loss of use, lost data, lost profits, failure of
@@ -414,14 +414,14 @@ security mechanisms, revenues, goodwill, interruption of business or any
 indirect, special, incidental, reliance or consequential damages of any kind,
 even if informed of their possibility in advance.**
 
-####  13.2 Liability Cap
+#### **13.2 Liability Cap**
 
  **Except for Excluded Claims, each party’s (and its suppliers’) entire
 liability arising out of or related to this Agreement will not exceed in
 aggregate the amounts paid or payable by Customer to Miro during the prior 12
 months under this Agreement.**
 
-####  13.3 Excluded Claims
+####  **13.3 Excluded Claims**
 
 “ **Excluded Claims** ” means: (a) Customer’s breach of Sections 2.9
 (Restrictions) or 5 (Customer Obligations), (b) either party’s breach of
@@ -431,7 +431,7 @@ Section 14.2 (Indemnification by Customer), (d) either party’s willful
 misconduct or (e) Miro’s performance of the Service that results in death,
 personal injury or damage to tangible property.
 
-#### 13.4 Nature of Claims and Failure of Essential Purpose
+####  **13.4 Nature of Claims and Failure of Essential Purpose**
 
 The waivers and limitations in this Section 13 apply regardless of the form of
 action, whether in contract, tort (including negligence), strict liability or
@@ -440,7 +440,7 @@ Agreement fails of its essential purpose.
 
 ###  14\. Indemnification
 
-####  14.1 Indemnification by Miro
+####  **14.1 Indemnification by Miro**
 
 Miro will defend Customer from and against any third-party claim to the extent
 alleging that the Service, when used by Customer as authorized in this
@@ -449,7 +449,7 @@ secret, and will indemnify and hold harmless Customer against any damages or
 costs awarded against Customer (including reasonable attorneys’ fees) or
 agreed in settlement by Miro resulting from the claim.
 
-####  14.2 Indemnification by Customer
+#### **14.2 Indemnification by Customer**
 
 Customer will defend Miro from and against any third-party claim to the extent
 resulting from Customer Content, Customer Materials or Customer’s breach or
@@ -458,7 +458,7 @@ hold harmless Miro against any damages or costs awarded against Miro
 (including reasonable attorneys’ fees) or agreed in settlement by Customer
 resulting from the claim.
 
-####  14.3 Procedures
+####  **14.3 Procedures**
 
 The indemnifying party’s obligations in this Section 14 are subject to
 receiving (a) prompt notice of the claim, (b) the exclusive right to control
@@ -471,7 +471,7 @@ refrain from taking any action (other than relating to use of the Service,
 when Miro is the indemnifying party). The indemnified party may participate in
 a claim with its own counsel at its own expense.
 
-####  14.4 Mitigation and Exceptions
+####  **14.4 Mitigation and Exceptions**
 
 In response to an actual or potential infringement claim, if required by
 settlement or injunction or as Miro determines necessary to avoid material
@@ -497,7 +497,7 @@ infringement of third-party intellectual property rights.**
 
 ###  15\. Confidentiality
 
-####  15.1 Definition
+####  **15.1 Definition**
 
 “ **Confidential Information** ” means information disclosed to the receiving
 party under this Agreement that is designated by the disclosing party as
@@ -507,7 +507,7 @@ disclosure. Miro’s Confidential Information includes the terms and conditions
 of this Agreement and any technical or performance information about the
 Service. Customer’s Confidential Information includes Customer Content.
 
-####  15.2 Obligations
+####  **15.2 Obligations**
 
 As receiving party, each party will (a) hold Confidential Information in
 confidence and not disclose it to third parties except as permitted in this
@@ -520,7 +520,7 @@ need to know (including, for Miro, the subcontractors referenced in Section
 15 and they are bound to confidentiality obligations no less protective than
 this Section 15.
 
-####  15.3 Exclusions
+####  **15.3 Exclusions**
 
 These confidentiality obligations do not apply to information that the
 receiving party can document (a) is or becomes public knowledge through no
@@ -529,7 +529,7 @@ receipt under this Agreement, (c) it rightfully received from a third party
 without breach of confidentiality obligations or (d) it independently
 developed without using the disclosing party’s Confidential Information.
 
-####  15.4. Remedies
+#### **15.4. Remedies**
 
 Unauthorized use or disclosure of Confidential Information may cause
 substantial harm for which damages alone are an insufficient remedy. Each
@@ -588,7 +588,7 @@ constitute Customer’s acceptance of such updated version.
 
 ###  20\. General Terms
 
-####  20.1 Assignment
+####  **20.1 Assignment**
 
 Neither party may assign this Agreement without the prior consent of the other
 party, except that either party may assign this Agreement in connection with a
@@ -597,7 +597,7 @@ all its assets or voting securities. Any non-permitted assignment is void.
 This Agreement will bind and inure to the benefit of each party’s permitted
 successors and assigns.
 
-####  20.2 Governing Law, Jurisdiction and Venue
+####  **20.2 Governing Law, Jurisdiction and Venue**
 
 This Agreement is governed by the laws of the State of California and the
 United States without regard to conflicts of laws provisions and without
@@ -606,13 +606,13 @@ The jurisdiction and venue for actions related to this Agreement will be the
 state and United States federal courts located in San Francisco, California
 and both parties submit to the personal jurisdiction of those courts.
 
-####  20.3 Attorneys’ Fees and Costs
+####  **20.3 Attorneys’ Fees and Costs**
 
 The prevailing party in any action to enforce this Agreement will be entitled
 to recover its reasonable attorneys’ fees and costs in connection with such
 action.
 
-####  20.4 Notices
+####  **20.4 Notices**
 
 Except as set out in this Agreement, any notice or consent under this
 Agreement must be in writing and will be deemed given: (a) upon receipt if by
@@ -626,7 +626,7 @@ address Customer provided at registration. Either party may update its address
 with notice to the other party. Miro may also send operational notices to
 Customer by email or through the Service.
 
-####  20.5 Entire Agreement
+####  **20.5 Entire Agreement**
 
 This Agreement (which includes all Orders, the Policies and the
 [DPA](https://miro.com/static/legal/Miro-Data-Processing-Addendum.pdf)) is the
@@ -637,7 +637,7 @@ are to be construed without limitation. This Agreement may be executed in
 counterparts (including electronic copies and PDFs), each of which is deemed
 an original and which together form one and the same agreement.
 
-####  20.6 Amendments
+####  **20.6 Amendments**
 
 Except as otherwise provided herein, any amendments, modifications or
 supplements to this Agreement must be in writing and signed by each party’s
@@ -650,14 +650,14 @@ order, business form or vendor management portal will not amend or modify this
 Agreement and are expressly rejected by Miro; any of these documents are for
 administrative purposes only and have no legal effect.
 
-####  20.7 Waivers and Severability
+####  **20.7 Waivers and Severability**
 
 Waivers must be signed by the waiving party’s authorized representative and
 cannot be implied from conduct. If any provision of this Agreement is held
 invalid, illegal or unenforceable, it will be limited to the minimum extent
 necessary so the rest of this Agreement remains in effect.
 
-####  20.8 Force Majeure
+####  **20.8 Force Majeure**
 
 Neither party is liable for any delay or failure to perform any obligation
 under this Agreement (except for a failure to pay fees) due to events beyond
@@ -665,18 +665,18 @@ its reasonable control, such as a strike, blockade, war, act of terrorism,
 riot, Internet or utility failures, refusal of government license or natural
 disaster.
 
-####  20.9 Subcontractors
+####  **20.9 Subcontractors**
 
 Miro may use subcontractors and permit them to exercise Miro’s rights, but
 Miro remains responsible for their compliance with this Agreement and for its
 overall performance under this Agreement.
 
-####  20.10 Independent Contractors
+####  **20.10 Independent Contractors**
 
 The parties are independent contractors, not agents, partners or joint
 venturers.
 
-####  20.11 Export
+####  **20.11 Export**
 
 Customer agrees to comply with all relevant U.S. and foreign export and import
 Laws in using the Service. Customer (a) represents and warrants that it is not
@@ -688,7 +688,7 @@ of any U.S. export embargo, prohibition or restriction and (c) will not submit
 to the Service any information controlled under the U.S. International Traffic
 in Arms Regulations.
 
-####  20.12 Open Source
+####  **20.12 Open Source**
 
 The Software may incorporate third-party open source software (“ **OSS** ”),
 as listed in the [Documentation](https://help.miro.com/hc/en-
@@ -696,7 +696,7 @@ us?flash_digest=bfda2c343061082eb1856eccce466eabf0618fcf) or by Miro upon
 request. To the extent required by the OSS license, that license will apply to
 the OSS on a stand-alone basis instead of this Agreement.
 
-####  20.13 Government End-Users
+#### **20.13 Government End-Users**
 
 Elements of the Service are commercial computer software. If the user or
 licensee of the Service is an agency, department, or other entity of the
@@ -708,7 +708,7 @@ Regulation 12.212 for civilian purposes and Defense Federal Acquisition
 Regulation Supplement 227.7202 for military purposes. The Service was
 developed fully at private expense. All other use is prohibited.
 
-#### 20.14 Reseller Orders
+####  **20.14 Reseller Orders**
 
 This Section applies to any access to the Service purchased by Customer
 through a Reseller. (a) Commercial Terms. Instead of paying Miro, Customer
@@ -829,4 +829,96 @@ Customer’s use of the Service, but excluding Customer Content.
 invites to use the Service, as further described in the
 [Documentation](https://help.miro.com/hc/en-
 us?flash_digest=bfda2c343061082eb1856eccce466eabf0618fcf).
+
+##### Product
+
+[Online whiteboard](/online-whiteboard/)[Apps &
+Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
+Developer Platform](https://developers.miro.com/)[Miro for
+Devices](/apps/)[Enterprise Guard](https://miro.com/enterprise-
+guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
+
+### Product
+
+[Online whiteboard](/online-whiteboard/)[Apps &
+Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
+Developer Platform](https://developers.miro.com/)[Miro for
+Devices](/apps/)[Enterprise Guard](https://miro.com/enterprise-
+guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
+
+##### Solutions
+
+[Meetings and Workshops](/meetings-and-workshops/)[Brainstorming &
+Ideation](/brainstorming/)[Agile
+practices](/agile/)[Diagramming](/diagramming/)[Research & Design](/research-
+and-design/)[Strategy & Planning](/strategic-planning/)[Mind Map](/mind-
+map/)[Concept Map](/concept-map/)[Online Sticky Notes](/online-sticky-
+notes/)[Flowchart Maker](/flowchart/)[Wireframe](/wireframe/)
+
+### Solutions
+
+[Meetings and Workshops](/meetings-and-workshops/)[Brainstorming &
+Ideation](/brainstorming/)[Agile
+practices](/agile/)[Diagramming](/diagramming/)[Research & Design](/research-
+and-design/)[Strategy & Planning](/strategic-planning/)[Mind Map](/mind-
+map/)[Concept Map](/concept-map/)[Online Sticky Notes](/online-sticky-
+notes/)[Flowchart Maker](/flowchart/)[Wireframe](/wireframe/)
+
+##### Resources
+
+[Miro Academy](https://academy.miro.com/)[Help
+Center](https://help.miro.com/hc/en-
+us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
+Community](/community/)[Miro Events](https://community.miro.com/events)
+
+### Resources
+
+[Miro Academy](https://academy.miro.com/)[Help
+Center](https://help.miro.com/hc/en-
+us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
+Community](/community/)[Miro Events](https://community.miro.com/events)
+
+##### Company
+
+[About us](/about/)[Careers 🚀](/careers/)[Miro in the
+News](/newsroom/)[Customer Stories](/blog/customer-stories/)
+
+### Company
+
+[About us](/about/)[Careers 🚀](/careers/)[Miro in the
+News](/newsroom/)[Customer Stories](/blog/customer-stories/)
+
+##### Plans and Pricing
+
+[Pricing](/pricing/)[Business](/business-
+plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
+agencies?lp=1/)[Education](/education-
+whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
+sales](/contact/sales/)
+
+### Plans and Pricing
+
+[Pricing](/pricing/)[Business](/business-
+plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
+agencies?lp=1/)[Education](/education-
+whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
+sales](/contact/sales/)
+
+* * *
+
+[](https://twitter.com/mirohq "Twitter")[](https://www.facebook.com/TryMiro
+"Facebook")[](https://www.linkedin.com/company/mirohq
+"Linkedin")[](https://www.instagram.com/mirohq/
+"Instagram")[](https://www.youtube.com/user/RealtimeBoardEng "Youtube")
+
+[](https://apps.apple.com/us/app/miro-collaborative-
+whiteboard/id1180074773?from=footer_menu&source=miro_website "App
+Store")[](https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website
+"Google Play")
+
+Miro © 2024
+
+[Terms of Service](https://miro.com/legal/terms-of-service/)[Privacy
+Policy](https://miro.com/legal/privacy-policy/)[Manage Cookies](/manage-
+cookies/)
 
