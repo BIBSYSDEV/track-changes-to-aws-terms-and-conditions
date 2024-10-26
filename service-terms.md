@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: October 10, 2024
+####  Last Updated: October 25, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1654,6 +1654,11 @@ provide the Service. You agree that you are solely responsible for your or
 your End User’s use of the WhatsApp Business Solution, the content you or your
 End Users send through the WhatsApp Business Solution, and compliance with
 applicable Meta or WhatsApp terms.
+
+**29.12.**  Your use of the AWS End User Messaging Service in certain
+countries is subject to additional [Country Specific Communications Service
+Terms](https://aws.amazon.com/service-terms/country-specific-communications-
+service-terms/).
 
 ####  30\. AWS Lambda
 
