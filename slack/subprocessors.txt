@@ -3416,8 +3416,7 @@ United States
 
 Hosting Provider for all functionality and Amazon Web Services, Inc.
 provider of generative artificial
-intelligence servicesand provider of
-generative artificial intelligence services.
+intelligence services.
 
 Germany
 United Kingdom
@@ -3498,10 +3497,10 @@ Purpose of Processing
 Sub-processors
 
 Slack services, including Slack AI
+Amazon Web Services, Inc.
 (excluding GovSlack): Hosting provider
 for all functionality. Customers may
-
-Amazon Web Services, Inc.
+select a data region, but as described in
 
 Locations
 
@@ -3509,16 +3508,15 @@ Additional Details
 
 United States
 Australia
-62
+Canada
 
+62
 Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-select a data region, but as described in
-this help article, certain Customer Data
+this help article, certain Customer Data
 may be stored outside this data region.
 
-Canada
 France
 Germany
 
@@ -3578,12 +3576,8 @@ Customer Data may be transmitted through any AWS
 GovCloud Edge region to provide better and faster
 service response time depending, for example, on the
 location of Slack Users.
-63
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Slack Huddles functionality (excluding
+Slack Huddles functionality (excluding
 GovSlack): audio and video streams.
 
 Amazon Chime (by Amazon
@@ -3591,7 +3585,12 @@ Web Services, Inc.)
 
 United States
 Australia
-Brazil
+63
+
+Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Brazil
 Canada
 France
 Germany
@@ -3604,7 +3603,6 @@ South Africa
 South Korea
 Sweden
 United Kingdom
-
 Slack Clips functionality (excluding
 GovSlack): conversion of source video
 for improved playback
@@ -3620,13 +3618,13 @@ Germany
 India
 Japan
 South Korea
-64
+United Kingdom
 
+64
 Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-United Kingdom
-Slack Huddles and Slack Clips
+Slack Huddles and Slack Clips
 functionality (excluding GovSlack):
 transcripts for Slack Huddles and Slack
 Clips
