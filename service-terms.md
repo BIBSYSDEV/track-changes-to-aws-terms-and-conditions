@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: November 1, 2024
+####  Last Updated: November 7, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1358,8 +1358,8 @@ separate relationship with any such individual or entity.
 
 **21.5.** If your AWS Contracting Party is AWS Serviços Brasil Ltda., AWS
 Ground Station continues to be sold and provided to you by Amazon Web
-Services, Inc. (or other entity identified ~~~~as applicable); but AWS
-Serviços Brasil Ltda. remains your AWS Contracting Party under the Agreement.  
+Services, Inc. (or other entity identified as applicable); but AWS Serviços
+Brasil Ltda. remains your AWS Contracting Party under the Agreement.  
 
 ####  22\. Amazon Elastic Transcoder
 
@@ -1712,6 +1712,8 @@ data and your End Users’ mailboxes.
 LLC, an affiliate of AWS, and not AWS, but are otherwise subject to the terms
 of the Agreement.
 
+  
+
 ####  32\. Amazon WorkSpaces Application Manager (Amazon WAM)
 
 **32.1.** When you use Amazon WAM, you also use Amazon WorkSpaces, and your
@@ -1791,10 +1793,10 @@ conducting automated security verification.
 
 ####  36\. Amazon OpenSearch Service
 
-Amazon OpenSearch ** ~~~~**Service creates daily automated snapshots of your
-Amazon OpenSearch Service domains. We will maintain these automated snapshots
-for a period of at least 14 days after they are created. We may delete
-automated snapshots at any time after 14 days.  
+Amazon OpenSearch Service creates daily automated snapshots of your Amazon
+OpenSearch Service domains. We will maintain these automated snapshots for a
+period of at least 14 days after they are created. We may delete automated
+snapshots at any time after 14 days.  
 
 ####  37\. AWS Database Migration Service
 
@@ -2649,7 +2651,7 @@ these features.
 ####  53\. Amazon Chime and Amazon Chime SDK
 
 **53.1.** In this section, “Amazon Chime” includes Amazon Chime and Amazon
-Chime SDK. ****
+Chime SDK.
 
 **53.2.** End Users.
 
@@ -3366,7 +3368,7 @@ policies, terms or conditions governing your payment of up-front fees,
 including any fiscal or appropriation laws, or other policies or restrictions
 governing up-front payments for goods or services.
 
-**60.8.  **Amazon SageMaker Studio Lab ****
+**60.8.  **Amazon SageMaker Studio Lab
 
 **60.8.1.** You acknowledge that we may store your Content that is processed
 by Amazon SageMaker Studio Lab in AWS regions outside the AWS region where you
@@ -4381,15 +4383,33 @@ Inc. is the AWS Contracting Party under the Agreement.
 **92.1.** You may not use AWS Clean Rooms or any information obtained from
 your use of AWS Clean Rooms to identify a person or associate such information
 with an identifiable person, unless otherwise permitted by the applicable
-third party contributor of the data.
+third-party contributor of the data.
 
-**92.2. AWS Clean Rooms ML**
+**92.2.** AWS Clean Rooms may provide you with the ability to collaborate (an
+“AWS Clean Rooms Collaboration”) with other AWS customers (an “Other AWS
+Customer”). You may make available Your Content, including a dataset and/or a
+custom model, as part of an AWS Clean Rooms Collaboration. You may also
+disclose Your Content to, or receive Third-Party Content from an Other AWS
+Customer.
 
-**92.2.1.** You will not, and will not allow any third-party to, use AWS Clean
+**92.3.** If you request deletion of Your Content from the AWS Clean Rooms
+Collaboration dataset, or if an Other AWS Customer that is a participant to
+the AWS Clean Rooms Collaboration requests deletion of its Third-Party Content
+from the AWS Clean Rooms Collaboration dataset, we will delete all Your
+Content and all Third-Party Content from the AWS Clean Rooms Collaboration
+dataset.
+
+**92.4.** Any interaction as part of an AWS Clean Rooms Collaboration will be
+governed by separate terms and conditions between you and such Other AWS
+Customer (if any).
+
+**92.5. AWS Clean Rooms ML**
+
+**92.5.1.** You will not, and will not allow any third-party to, use AWS Clean
 Rooms ML to, directly or indirectly, develop or improve a similar or competing
 product or service to AWS Clean Rooms ML.
 
-**92.2.2.** AWS Clean Rooms ML is not intended for use in, or in association
+**92.5.2.** AWS Clean Rooms ML is not intended for use in, or in association
 with, the operation of any hazardous environments or critical systems that may
 lead to serious bodily injury or death or cause environmental or property
 damage. AWS Clean Rooms ML may be used in connection with supporting
