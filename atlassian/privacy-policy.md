@@ -530,7 +530,7 @@ We use industry standard technical and organizational measures to secure the
 information we store. For more information on where and how we store your
 information, please see the [Atlassian Trust](/trust), [Trello
 Trust](https://trello.com/en-US/trust), and [Jira Align
-Trust](/software/jira/align/trust) pages.
+Trust](/software/jira/align/security) pages.
 
 While we implement safeguards designed to protect your information, no
 security system is impenetrable and due to the inherent nature of the
