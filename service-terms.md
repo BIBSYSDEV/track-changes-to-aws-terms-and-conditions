@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: November 7, 2024
+####  Last Updated: November 8, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -80,7 +80,10 @@ account. The AWS Contracting Party for an account may change as described in
 the Agreement, and the new AWS Contracting Party will be responsible for
 issuing any invoices to you after such change, including monthly invoices.
 Invoices for each account will reflect the AWS Contracting Party that is
-responsible for that account during the applicable billing period.
+responsible for that account during the applicable billing period. You agree
+to accept invoices from AWS electronically, in a format and method of delivery
+as determined by AWS, e.g., in a PDF format, as permitted under applicable
+law.
 
 If, as of the time of a change of the AWS Contracting Party responsible for
 your account, you have made an up-front payment for any Services under such
@@ -1711,8 +1714,6 @@ data and your End Users’ mailboxes.
 **31.8.** Portions of Amazon WorkMail in Japan are sold and provided by AMCS
 LLC, an affiliate of AWS, and not AWS, but are otherwise subject to the terms
 of the Agreement.
-
-  
 
 ####  32\. Amazon WorkSpaces Application Manager (Amazon WAM)
 
