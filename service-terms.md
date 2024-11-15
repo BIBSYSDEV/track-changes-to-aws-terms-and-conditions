@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: November 8, 2024
+####  Last Updated: November 14, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1361,8 +1361,8 @@ separate relationship with any such individual or entity.
 
 **21.5.** If your AWS Contracting Party is AWS Serviços Brasil Ltda., AWS
 Ground Station continues to be sold and provided to you by Amazon Web
-Services, Inc. (or other entity identified as applicable); but AWS Serviços
-Brasil Ltda. remains your AWS Contracting Party under the Agreement.  
+Services, Inc. (or other entity identified ~~~~as applicable); but AWS
+Serviços Brasil Ltda. remains your AWS Contracting Party under the Agreement.  
 
 ####  22\. Amazon Elastic Transcoder
 
@@ -1794,10 +1794,10 @@ conducting automated security verification.
 
 ####  36\. Amazon OpenSearch Service
 
-Amazon OpenSearch Service creates daily automated snapshots of your Amazon
-OpenSearch Service domains. We will maintain these automated snapshots for a
-period of at least 14 days after they are created. We may delete automated
-snapshots at any time after 14 days.  
+Amazon OpenSearch ** ~~~~**Service creates daily automated snapshots of your
+Amazon OpenSearch Service domains. We will maintain these automated snapshots
+for a period of at least 14 days after they are created. We may delete
+automated snapshots at any time after 14 days.  
 
 ####  37\. AWS Database Migration Service
 
@@ -1833,64 +1833,46 @@ conjunction with AWS Amplify.
 **39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management,
 AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics,
 AWS IoT SiteWise, AWS IoT FleetWise , AWS IoT TwinMaker, FreeRTOS, AWS IoT
-ExpressLink, and AWS IoT Greengrass.  
+ExpressLink, Amazon Kinesis Video Streams, and AWS IoT Greengrass.  
 
-**39.2**. AWS IoT Services are not intended for use in, or in association
-with, the operation of any hazardous environments or critical systems that may
-lead to serious bodily injury or death or cause environmental or property
-damage, and you are solely responsible for all liability that may arise in
-connection with any such use.
+**39.2**. AWS IoT Services are not designed or intended for, and may not be
+used for, any use case where any error, defect, unavailability, or other
+deficiency or failure of any AWS IoT Service could lead to bodily injury or
+death or cause environmental or property damage. You are solely responsible
+for: (a) using AWS IoT Services in a manner that is safe and compliant with
+applicable laws and industry-specific requirements and standards; (b) testing
+your use of AWS IoT Services (such as any delivery of remote commands) prior
+to deployment in your products and services, and ongoing monitoring of your
+use of AWS IoT Services thereafter; (c) any recalls and corrective action for
+your or your End Users’ products and services that use AWS IoT Services; and
+(d) any other liability arising from your use of AWS IoT Services in violation
+of this paragraph.
 
-**39.3.** Device Shadow data for an individual device may be deleted if you do
-not update the Device Shadow data for an individual device within any given
-12-month period. Device Registry data for an individual device may be deleted
-if you do not update the Registry data for an individual device within any
-given 7-year period. Once Device Shadow or Registry data has been updated for
-an individual device the data restriction time frame for that individual
-device resets, and the Device Shadow and Registry data storage time frame for
-an individual device starts over.
+**39.3.** You may not rely on data collected through your use of AWS IoT
+Services as a substitute for any human monitoring of physical systems
+necessary to assess whether such systems are operating properly or safely.
 
-**39.4**. You are responsible for the creation, distribution, and security
+**39.4.** AWS IoT Core Device Shadow data for an individual device may be
+deleted if you do not update the Device Shadow data for an individual device
+within any given 12-month period. AWS IoT Core Device Registry data for an
+individual device may be deleted if you do not update the Registry data for an
+individual device within any given 7-year period. Once Device Shadow or
+Registry data has been updated for an individual device the data restriction
+time frame for that individual device resets, and the Device Shadow and
+Registry data storage time frame for an individual device starts over.
+
+**39.5**. You are responsible for the creation, distribution, and security
 (including enabling of access) of any IoT devices connected to or enabled by
 your AWS account.
 
-**39.5.**  AWS IoT FleetWise is designed to help customers collect data from
-fleets of vehicles and transfer it to the Services for analysis and
-processing. Vehicle data collected through your use of AWS IoT FleetWise is
-intended for informational purposes only (including to help you train cloud-
-based artificial intelligence and machine learning models), and you may not
-use AWS IoT FleetWise to control or operate vehicle functions. You are solely
-responsible for all liability that may arise in connection with any use
-outside of AWS IoT FleetWise’s intended purpose and in any manner contrary to
-applicable vehicle regulations.
+**39.6.**  The AWS IoT FleetWise Edge Agent Reference Implementation is
+intended to help you develop your Edge Agent for AWS IoT FleetWise and
+includes sample code that you may reference or modify so your Edge Agent meets
+your requirements. You are solely responsible for your Edge Agent, including
+ensuring that your Edge Agent and any updates and modifications thereto are
+deployed and maintained safely and securely in any vehicles.
 
-**39.6.** Vehicle data collected through your use of AWS IoT FleetWise should
-be evaluated for accuracy as appropriate for your use case, including for
-purposes of meeting any compliance obligations you may have under applicable
-vehicle safety regulations (such as safety monitoring and reporting
-obligations). Such evaluation should include collecting and reviewing
-information through other industry standard means and sources (such as reports
-from drivers of vehicles). You and your End Users are solely responsible for
-all decisions made, advice given, actions taken, and failures to take action
-based on your use of AWS IoT FleetWise.
-
-**39.7.**  The Edge Agent Reference Implementation is intended to help you
-develop your Edge Agent for AWS IoT FleetWise and includes sample code that
-you may reference or modify so your Edge Agent meets your requirements. You
-are solely responsible for your Edge Agent, including ensuring that your Edge
-Agent and any updates and modifications thereto are deployed and maintained
-safely and securely in any vehicles.
-
-**39.8.  **AWS IoT TwinMaker is designed to help customers build digital twins
-of physical systems such as machines, factory equipment, and buildings. Data
-collected through your use of AWS IoT TwinMaker should be evaluated for
-accuracy as appropriate for your use case. AWS IoT TwinMaker should not be
-used as a substitute for human monitoring of physical systems for purposes of
-assessing whether such systems are operating safely. You and your End Users
-are solely responsible for all decisions made, advice given, actions taken,
-and failures to take action based on your use of AWS IoT TwinMaker.
-
-**39.9.** AWS IoT ExpressLink is AWS cloud connectivity software and
+**39.7.** AWS IoT ExpressLink is AWS cloud connectivity software and
 specifications that select AWS Partner Network (APN) Partners may incorporate
 into hardware modules they develop, manufacture, and offer to AWS customers.
 If you purchase a hardware module (including any evaluation kit) from an APN
@@ -1900,7 +1882,7 @@ use of the module, AWS is not responsible or liable to you for the module, and
 AWS does not make any representations or warranties with respect to the
 module.  
 
-**39.10.** The FreeRTOS Extended Maintenance Plan (“FreeRTOS EMP”) provides
+**39.8.** The FreeRTOS Extended Maintenance Plan (“FreeRTOS EMP”) provides
 subscribing customers with security patches and critical bug fixes on a chosen
 FreeRTOS Long Term Support (LTS) version beyond the expiry of that version’s
 initial LTS period. FreeRTOS EMP is a “Service” for purposes of the Agreement.
@@ -1914,7 +1896,7 @@ transferrable, perpetual license to (a) modify and create derivative works of
 the EMP Patches and (b) to distribute the EMP Patches in object code form
 only.
 
-**39.11.** If you use Semtech as your geolocation provider in the AWS IoT Core
+**39.9.** If you use Semtech as your geolocation provider in the AWS IoT Core
 Device Location feature, you authorize AWS to transmit your geolocation
 request parameters (e.g., location data used to run the location solvers)
 and/or resulting output data generated by the feature (e.g., geographic
@@ -1925,7 +1907,7 @@ Device Core Location feature, the terms in Sections 82.1-82.5, 82.7-82.8, and
 82.10 apply. AWS may deprecate or discontinue any geolocation provider within
 the feature at any time upon notice to you.
 
-**39.12.** "AWS IoT Core for LoRaWAN Public Network Support” is a feature of
+**39.10.** "AWS IoT Core for LoRaWAN Public Network Support” is a feature of
 AWS IoT Core that helps customers connect their LoRaWAN devices to AWS using a
 publicly available LoRaWAN network (“Public LoRaWAN Network”), which is
 provided as a service by a third-party network provider (“LoRaWAN Network
@@ -1945,9 +1927,9 @@ LoRaWAN Network Provider can receive and transmit device messages, and provide
 support. AWS may change, deprecate, or discontinue the availability of the
 LoRaWAN Network Provider through AWS IoT Core at any time upon notice to you.
 
-**39.13.** **AWS IoT Core for Amazon Sidewalk**  
+**39.11.** **AWS IoT Core for Amazon Sidewalk**  
   
-**39.13.1.** “AWS IoT Core for Amazon Sidewalk” is a feature of AWS IoT Core
+**39.11.1.** “AWS IoT Core for Amazon Sidewalk” is a feature of AWS IoT Core
 that enables customers to build applications and devices that connect to a
 shared network of bridge devices (“Gateways”) that contribute low-bandwidth
 connection to Amazon Sidewalk-enabled devices to help extend their working
@@ -1965,7 +1947,7 @@ Security Requirements](https://docs.sidewalk.amazon/sidewalk-terms-and-
 agreements/security-program-requirements.html). We may suspend or terminate
 Amazon Sidewalk and/or your access to it at any time without prior notice.  
   
-**39.13.2.** You may not sell, distribute, or otherwise make available any
+**39.11.2.** You may not sell, distribute, or otherwise make available any
 device, component, or other product that connects to, enables connectivity to,
 or interacts with Amazon Sidewalk (an “AS Device”) unless that AS Device has
 been and remains qualified at all times through the Works with Amazon Sidewalk
@@ -1973,14 +1955,14 @@ been and remains qualified at all times through the Works with Amazon Sidewalk
 program](https://docs.sidewalk.amazon/qualification/sidewalk-qualification-
 faq.html).  
   
-**39.13.3.** We may collect and use certain information related to your AS
+**39.11.3.** We may collect and use certain information related to your AS
 Devices, including transmission and authentication identifiers. We use this
 data for purposes of maintaining and providing AWS IoT Core for Amazon
 Sidewalk. You provide specific authorization for AWS to use Ring LLC as a sub-
 processor in accordance with the DPA to process Customer Data in the US in
 order to make Amazon Sidewalk available for this feature.  
   
-**39.13.4.** Gateways are owned by customers who are contributing bandwidth
+**39.11.4.** Gateways are owned by customers who are contributing bandwidth
 from their Gateway’s existing internet service to Amazon Sidewalk, and are
 separate from and located outside of AWS data center facilities, servers,
 networking equipment, storage media, and host software systems. Consequently,
@@ -1990,7 +1972,7 @@ services in connection with their usage of or connectivity to Amazon Sidewalk,
 Amazon Sidewalk, and (iii) Amazon Sidewalk coverage, density, bandwidth, up-
 time, and availability is not guaranteed and may change without notice.  
   
-**39.13.5.** Subject to your compliance at all times with the Agreement and
+**39.11.5.** Subject to your compliance at all times with the Agreement and
 the [Works with Amazon Sidewalk Badge
 Guidelines](https://docs.sidewalk.amazon/sidewalk-terms-and-agreements/wwas-
 badge-guidelines.html), we hereby grant you a non-exclusive, royalty-free, and
@@ -2408,10 +2390,28 @@ Template](https://bja.ojp.gov/sites/g/files/xyckuh186/files/Publications/Face-
 Recognition-Policy-Development-Template-508-compliant.pdf) published by the
 U.S Department of Justice’s Bureau of Justice Assistance.
 
-**50.9.** Amazon has implemented a moratorium on use of Amazon Rekognition’s
+**50.9. Amazon Rekognition.** The following terms also apply to Amazon
+Rekognition:
+
+**50.9.1.** Amazon has implemented a moratorium on use of Amazon Rekognition’s
 face comparison feature by police departments in connection with criminal
 investigations. This moratorium does not apply to use of Amazon Rekognition’s
 face comparison feature to help identify or locate missing persons.
+
+**50.9.2.** You agree that if you use Amazon Rekognition’s face APIs to
+analyze, detect, or process faces in images or videos, then you instruct AWS,
+as your processor, to: (1) generate face vectors and extract other facial
+attributes on your behalf; (2) store your face vectors in a secure AWS
+environment; (3) store, delete, and search your face vectors only at your
+direction or as necessary to maintain or provide Amazon Rekognition or comply
+with the law or a binding order of a governmental body; and (4) not use your
+face vectors for any other purpose (unless you instruct otherwise in writing)
+or transfer them to any third party. As the owner and controller of your face
+vectors, you instruct us to store them solely within AWS’s secure environment.
+
+**50.9.3.** Your use of Amazon Rekognition is subject to additional [Biometric
+Notice and Consent Service Terms](https://aws.amazon.com/legal/biometric-
+notice-and-consent-terms).
 
 **50.10. Defense of Claims and Indemnity for Indemnified Generative AI
 Services.** AWS Services may incorporate generative AI features and provide
@@ -2652,7 +2652,7 @@ these features.
 ####  53\. Amazon Chime and Amazon Chime SDK
 
 **53.1.** In this section, “Amazon Chime” includes Amazon Chime and Amazon
-Chime SDK.
+Chime SDK. ****
 
 **53.2.** End Users.
 
@@ -2853,70 +2853,9 @@ competing product or service.
 **53.9. Amazon Chime SDK speaker search  
 **
 
-**53.9.1.** If you use Amazon Chime SDK speaker search in a jurisdiction that
-has legal requirements related to the collection, possession, processing, use,
-disclosure, or storage (“processing”) of any biometric information or
-identifiers (“biometric data”), including without limitation the Illinois
-Biometric Information Privacy Act (“BIPA”), the Texas Capture or Use of
-Biometric Identifier Act, the Washington Biometric Identifier statute, the
-California Consumer Privacy Act, the EU General Data Protection Regulation, or
-any other similar privacy laws or laws governing biometric data, then, in
-addition to complying with all applicable legal requirements, you must also,
-before processing any biometric data, provide legally adequate notices to all
-relevant data subjects from whom biometric data may be collected informing the
-data subjects of the processing, and you must obtain from all relevant data
-subjects from whom biometric data is collected any necessary consent
-(including informed written consent and explicit consent, where applicable) to
-the processing. Further, the notices required under this section must be
-provided on behalf of you and on behalf of AWS, and the consents obtained
-under this section must be obtained on behalf of you and on behalf of AWS.
-
-(a) Written policy and retention schedule: If your End User is a resident of
-or located in Illinois, and you are subject to the Illinois Biometric
-Information Privacy Act (“BIPA”), You must instruct AWS to permanently destroy
-biometric data when the initial purpose for collecting or obtaining such data
-has been satisfied, when an End User has requested that their data be deleted,
-or as otherwise required by law. Additionally, you instruct AWS to permanently
-destroy biometric data within three years after the End User's last
-interaction with the speaker search feature, as determined by AWS and in AWS’s
-sole discretion.
-
-(b) Written notice and release. You must provide the following information in
-writing to, and obtain an executed written release as required by BIPA from,
-each End User in Illinois: “[Your company name (“Company”)] uses Amazon Web
-Services as a service provider for speaker search services. Biometric
-identifiers and biometric information (“biometric data”) may be collected,
-stored, and used by Amazon Web Services on behalf of [Company] for the purpose
-of providing the speaker search services, including comparing the voice of a
-caller against previously stored voice data. Biometric data that is generated
-as part of this process will be retained for up to three years after your last
-interaction with [Company], or longer only if allowed or required by
-applicable law, and thereafter destroyed. Except as required or permitted by
-applicable law, [Company] will instruct Amazon Web Services to permanently
-destroy biometric data that is stored on [Company’s] behalf when the initial
-purpose for collecting or obtaining such data has been satisfied, within three
-years after your last interaction with the services, or after being informed
-by you that such data should be destroyed, whichever comes first. Biometric
-data may be transmitted between [Company] and Amazon Web Services as necessary
-to provide and receive this service. You hereby provide your express,
-informed, written release and consent for [Company] and Amazon Web Services to
-collect, use, and store your biometric data as described herein.”
-
-If you do not comply with these requirements or otherwise fail to comply with
-all applicable laws, you may not use the service. You agree to cooperate with
-AWS to confirm compliance with all applicable laws and these requirements upon
-AWS’s request, including by providing AWS with verification that you have
-obtained the required written release under BIPA and obtained other applicable
-consents from end users. You will defend and indemnify AWS for any and all
-damages, liabilities, penalties, fines, costs, and expenses (including
-reasonable attorneys’ fees) arising out of or in any way related to your
-direct or indirect failure to meet the requirements of this section or comply
-with applicable laws, and you will promptly provide AWS with proof of
-insurance coverage upon request. You hereby release AWS from all damages,
-liabilities, penalties, fines, costs, and expenses (including reasonable
-attorneys’ fees) in connection with any claim, action, audit, suit,
-investigation, or other proceedings related to your failure to meet such
-requirements or to otherwise comply with applicable law.
+**53.9.1.** Your use of Amazon Chime SDK speaker search is subject to
+additional [Biometric Notice and Consent Service
+Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms).
 
 **53.10.** Amazon Chime SDK ML Services use machine learning models that
 generate predictions based on patterns in data. Output generated by Amazon
@@ -3118,75 +3057,9 @@ used by themselves for any clinical decision-making or other clinical use.
 
 
 
-**54.8.1.** If you use Amazon Connect Voice ID in a jurisdiction that has
-legal requirements related to the collection, possession, processing, use,
-disclosure, or storage (“processing”) of any biometric information or
-identifiers (“biometric data”), including without limitation the Illinois
-Biometric Information Privacy Act (“BIPA”), the Texas Capture or Use of
-Biometric Identifier Act, the Washington Biometric Identifier statute, the
-California Consumer Privacy Act, the EU General Data Protection Regulation, or
-any other similar privacy laws or laws governing biometric data, then, in
-addition to complying with all applicable legal requirements, you must also,
-before processing any biometric data, provide legally adequate notices to all
-relevant data subjects from whom biometric data may be collected informing the
-data subjects of the processing, and you must obtain from all relevant data
-subjects from whom biometric data is collected any necessary consent
-(including informed written consent and explicit consent, where applicable) to
-the processing. Further, the notices required under this section must be
-provided on behalf of you and on behalf of AWS, and the consents obtained
-under this section must be obtained on behalf of you and on behalf of AWS.
-
-
-
-(a) **Written policy and retention schedule**. If your caller is a resident of
-or located in Illinois, and you are subject to BIPA, you must instruct AWS to
-permanently destroy biometric data when the initial purpose for collecting or
-obtaining such data has been satisfied, when a caller has requested that their
-data be deleted, or as otherwise required by law. Additionally, you instruct
-AWS to permanently destroy biometric data within three years after the
-caller's last interaction with the voice verification services, as determined
-by AWS and in AWS’s sole discretion.
-
-
-
-(b) **Written notice and release**. You must provide the following information
-in writing to, and obtain an executed written release as required by BIPA
-from, each caller in Illinois: “[Your company name (“Company”)] uses Amazon
-Web Services as a service provider for voice verification services. Biometric
-identifiers and biometric information (“biometric data”) may be collected,
-stored, and used by Amazon Web Services on behalf of [Company] for the purpose
-of providing the voice verification services, including comparing the voice of
-a caller against previously stored voice data. Biometric data that is
-generated as part of this process will be retained for up to three years after
-your last interaction with [Company], or longer only if allowed or required by
-applicable law, and thereafter destroyed. Except as required or permitted by
-applicable law, [Company] will instruct Amazon Web Services to permanently
-destroy biometric data that is stored on [Company’s] behalf when the initial
-purpose for collecting or obtaining such data has been satisfied, within three
-years after your last interaction with the services, or after being informed
-by you that such data should be destroyed, whichever comes first. Biometric
-data may be transmitted between [Company] and Amazon Web Services as necessary
-to provide and receive this service. You hereby provide your express,
-informed, written release and consent for [Company] and Amazon Web Services to
-collect, use, and store your biometric data as described herein.”
-
-
-
-If you do not comply with these requirements or otherwise fail to comply with
-all applicable laws, you may not use the service. You agree to cooperate with
-AWS to confirm compliance with all applicable laws and these requirements upon
-AWS’s request, including by providing AWS with verification that you have
-obtained the required written release under BIPA and obtained other applicable
-consents from end users. You will defend and indemnify AWS for any and all
-damages, liabilities, penalties, fines, costs, and expenses (including
-reasonable attorneys' fees) arising out of or in any way related to your
-direct or indirect failure to meet the requirements of this section or comply
-with applicable laws, and you will promptly provide AWS with proof of
-insurance coverage upon request. You hereby release AWS from all damages,
-liabilities, penalties, fines, costs, and expenses (including reasonable
-attorneys’ fees) in connection with any claim, action, audit, suit,
-investigation, or other proceedings related to your failure to meet such
-requirements or to otherwise comply with applicable law.
+**54.8.1.  **Your use of Amazon Connect Voice ID is subject to additional
+[Biometric Notice and Consent Service
+Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms).  
 
 
 
@@ -3369,7 +3242,7 @@ policies, terms or conditions governing your payment of up-front fees,
 including any fiscal or appropriation laws, or other policies or restrictions
 governing up-front payments for goods or services.
 
-**60.8.  **Amazon SageMaker Studio Lab
+**60.8.  **Amazon SageMaker Studio Lab ****
 
 **60.8.1.** You acknowledge that we may store your Content that is processed
 by Amazon SageMaker Studio Lab in AWS regions outside the AWS region where you
@@ -4631,68 +4504,9 @@ AWS and owned by AWS. You understand and agree that you and your End Users
 will not have any access to Palm Data, and you agree to notify your End Users
 of this before they use any Amazon One Enterprise Device.
 
-**101**. **5.** **Privacy.** You are responsible for providing legally
-adequate privacy notices to your End Users or any other person that uses
-Amazon One Enterprise Services at the Facility before they register or use the
-Amazon One Enterprise Service, and obtaining any necessary consent from such
-individuals, on your behalf and on AWS’s behalf, for the collecting,
-generating, analyzing, processing, storing, using, and deleting of their Palm
-Data, as required by applicable laws, including, without limitation, the
-Illinois Biometric Information Privacy Act (“BIPA”), the Texas Capture or Use
-of Biometric Identifier Act (“CUBI”), the Washington Biometric Identifier
-statute, Washington My Health My Data Act, the California Consumer Privacy
-Act, the EU General Data Protection Regulation, or any other similar privacy
-laws or laws governing biometric data. You agree to comply with AWS’s
-instructions in relation to additional notices or consents that AWS may
-require you to provide or obtain from your End Users that use the Amazon One
-Enterprise Service. You are required to obtain the consent of your End Users
-and anyone you authorize or permit to use the Service to the Amazon One
-Enterprise Terms of Use before they are allowed to register for or use the
-Service. You represent to us that you have provided all necessary notices and
-obtained all necessary consents, as required by law.
-
-a. You must instruct AWS to permanently destroy Palm Data when the initial
-purpose for collecting or obtaining such data has been satisfied, when an End
-User has requested that their Palm Data be deleted, when an End User is no
-longer an employee or authorized user of your Amazon One Enterprise Services
-or as otherwise required by law. Additionally, you must instruct AWS to
-permanently destroy an End User’s Palm Data within three years after the End
-User’s last interaction with the Amazon One Enterprise Services, as determined
-by AWS and in AWS’s sole discretion.
-
-b. You must minimally provide the following information in writing to, and
-obtain an executed written release from, each End User and anyone you
-authorize or permit to use the Service before allowing them to register for or
-use the Service: We use Amazon Web Services (“AWS”) as a service provider to
-provide enterprise identity verification services (the “Service”). Information
-about your palms that may be considered biometric identifiers and biometric
-information, specifically, palm images, palm signatures, embeddings, and
-representations (“Palm Data”), may be collected, generated, analyzed,
-processed, stored, used, and deleted by AWS on our behalf for as long as
-necessary to provide the Service on any device in any Company location while
-you are a Company authorized user of the Service. AWS will use Palm Data
-solely to provide the Service, and will not disclose Palm Data to any third
-parties, to us, or to you. Your Palm Data will be retained for up to two years
-after your last interaction with the Service (or as required by law), or after
-being informed that your Palm Data should be destroyed, whichever occurs
-first. By clicking “I Agree” you hereby provide your express, informed,
-written release and consent for us and/or AWS to collect, generate, analyze,
-process, store, use, and delete your Palm Data. Your Palm Data will be deleted
-if you do not complete registration or if you click “Cancel.”
-
-If you do not comply with these requirements or otherwise fail to comply with
-all applicable laws, you may not use the Amazon One Enterprise Service. You
-agree to cooperate with AWS to confirm compliance with all applicable laws and
-these requirements upon AWS’s request. You will defend and indemnify AWS for
-any and all damages, liabilities, penalties, fines, costs, and expenses
-(including reasonable attorneys' fees) arising out of or in any way related to
-your direct or indirect failure to meet the requirements of this section or
-comply with applicable laws, and you will promptly provide AWS with proof of
-insurance coverage upon request. You hereby release AWS from all damages,
-liabilities, penalties, fines, costs, and expenses (including reasonable
-attorneys’ fees) in connection with any claim, action, audit, suit,
-investigation, or other proceedings related to your failure to meet such
-requirements or to otherwise comply with applicable law.
+**101**. **5.**  Your use of Amazon One Enterprise Services is subject to
+additional [Biometric Notice and Consent Service
+Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms).
 
 **101.6.** **Privacy Rights Requests.** You are solely responsible for
 receiving submissions for and responding to any requests from your End Users
@@ -4783,4 +4597,10 @@ Software providers, and makes no guarantees about such services.
 Software at any time upon notice to you. We will provide you with prior notice
 of any deprecation or discontinuation of DCC Software where practicable under
 the circumstances.
+
+**103.4.** AWS Deadline Cloud is not intended for use in, or in association
+with, the operation of any hazardous environments or critical systems that may
+lead to serious body injury or death or cause environmental or property
+damage, and you are solely responsible for liability that may arise in
+connection with any such use.
 
