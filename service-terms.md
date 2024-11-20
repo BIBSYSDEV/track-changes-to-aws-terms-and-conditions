@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: November 15, 2024
+####  Last Updated: November 19, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -252,8 +252,8 @@ Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 Amazon Bedrock, that enable you to use prompts to generate output, including:
 Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon
 DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, AWS
-HealthScribe, and AWS App Studio (Preview). The Amazon Bedrock automated abuse
-detection mechanisms may apply to such services. See
+HealthScribe, and AWS App Studio. The Amazon Bedrock automated abuse detection
+mechanisms may apply to such services. See
 [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
 detection.html) for more details.
 
@@ -2269,8 +2269,8 @@ Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake,
 Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize,
 Amazon Polly, Amazon Q, Amazon Rekognition, Amazon Textract, Amazon
 Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS
-HealthImaging, AWS HealthScribe, and AWS App Studio (Preview). “AI Content”
-means Your Content that is processed by an AI Service.
+HealthImaging, AWS HealthScribe, and AWS App Studio. “AI Content” means Your
+Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
