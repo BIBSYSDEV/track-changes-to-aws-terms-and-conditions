@@ -57,14 +57,14 @@ your acceptance of this Agreement or accessing or using the Service, you are
 agreeing to be bound by the terms and conditions of this Agreement. Each party
 expressly agrees that this Agreement is legally binding upon it.**
 
-###  1\. Overview
+### 1\. Overview
 
 Miro offers a unique Service for visual collaboration that is designed to
 allow Users to create, collaborate and centralize communication through
 interactive online virtual whiteboards. Customer maintains sole control over
 the types and content of all Customer Content it submits to the Service.
 
-###  2\. The Service
+### 2\. The Service
 
 ####  **2.1 Permitted Use**
 
@@ -155,12 +155,12 @@ Service, (i) transmit any viruses or other harmful materials to the Service,
 illegal or unethical activities related to the Service or (l) use the Service
 to store or transmit material which contains illegal content.
 
-###  3\. Support
+### 3\. Support
 
 During the Subscription Term, Miro will provide Support in accordance with the
 [Support Policy](https://miro.com/static/legal/Miro-Support-Policy.pdf).
 
-###  4\. Customer Content
+### 4\. Customer Content
 
 ####  **4.1 Data Use**
 
@@ -178,9 +178,8 @@ Policy](https://miro.com/static/legal/Miro-Security-Policy.pdf).
 
 #### **4.3 Personal Data**
 
-Each party agrees to comply with the
-[DPA](https://assets.ctfassets.net/a6zo0szqvm4a/5aE0a0XtexowbZVMjKbFy6/f92b3f6561cc32dfca920ba304307d1a/Customer_DPA_w_out_SCC__Web_Version__APR1222__Non-
-Executable_.pdf).
+Each party agrees to comply with the [DPA](https://miro.com/legal/customer-
+data-processing-addendum/).
 
 ####  **4.4 Data Export**
 
@@ -193,7 +192,7 @@ schedule and procedures. If Customer elects to proactively delete its account
 at any time, all associated Customer Content will be deleted permanently and
 cannot be retrieved.
 
-###  5\. Customer Obligations
+### 5\. Customer Obligations
 
 ####  **5.1 Generally**
 
@@ -224,7 +223,7 @@ warrants that it has all necessary rights and consents to the extent it
 converts any existing accounts registered using email addresses from
 Customer’s domain into accounts under Customer’s control.
 
-###  6\. Suspension of Service
+### 6\. Suspension of Service
 
 Miro may suspend Customer’s or a User’s access to and use of the Service and
 related services if Customer breaches Section 2.8 (Age Requirement for Users),
@@ -236,7 +235,7 @@ Customer with prior notice of the suspension. Once Customer resolves the issue
 requiring suspension, Miro will promptly restore Customer’s or User’s access
 to the Service in accordance with this Agreement.
 
-###  7\. Third-Party Platforms
+### 7\. Third-Party Platforms
 
 Customer may choose to use the Service with Third-Party Platforms. Use of
 Third-Party Platforms is subject to Customer’s agreement with the relevant
@@ -247,7 +246,7 @@ providers use Customer Content. If Customer enables a Third-Party Platform
 with the Service, Miro may access and exchange Customer Content with the
 Third-Party Platform on Customer’s behalf.
 
-###  8\. Technical Services
+### 8\. Technical Services
 
 Any purchased Technical Services are as described in the relevant Order.
 Customer will give Miro timely access to Customer Materials reasonably needed
@@ -259,7 +258,7 @@ Service. Customer may use Technical Services deliverables only as part of its
 authorized use of the Service, subject to the same terms as for the Service in
 Section 2 (The Service) and Section 5 (Customer Obligations).
 
-###  9\. Commercial Terms
+### 9\. Commercial Terms
 
 ####  **9.1 Subscription Term**
 
@@ -291,7 +290,7 @@ withholding or similar taxes or levies that apply to its Orders, whether
 domestic or foreign (“ **Taxes** ”), other than Miro’s income tax. Fees and
 expenses are exclusive of Taxes.
 
-###  10\. Warranties and Disclaimers
+### 10\. Warranties and Disclaimers
 
 ####  **10.1 Limited Warranty**
 
@@ -338,7 +337,7 @@ Miro’s control. Customer may have other statutory rights, but any statutorily
 required warranties will be limited to the shortest legally permitted
 period.**
 
-###  11\. Term and Termination
+### 11\. Term and Termination
 
 ####  **11.1 Term**
 
@@ -387,7 +386,7 @@ Taxes), 10.3 (Disclaimers), 11.4 (Effect of Termination), 11.5 (Survival), 12
 remedy under this Agreement, including termination, does not limit other
 remedies a party may have.
 
-###  12\. Ownership
+### 12\. Ownership
 
 Neither party grants the other any rights or licenses not expressly set out in
 this Agreement. Except for Miro’s use rights in this Agreement, between the
@@ -402,7 +401,7 @@ Service and for other lawful business purposes. If Customer provides Miro with
 feedback or suggestions regarding the Service or other Miro offerings, Miro
 may use the feedback or suggestions without restriction or obligation.
 
-###  13\. Limitations of Liability
+### 13\. Limitations of Liability
 
 ####  **13.1 Consequential Damages Waiver**
 
@@ -438,7 +437,7 @@ action, whether in contract, tort (including negligence), strict liability or
 otherwise and will survive and apply even if any limited remedy in this
 Agreement fails of its essential purpose.
 
-###  14\. Indemnification
+### 14\. Indemnification
 
 ####  **14.1 Indemnification by Miro**
 
@@ -495,7 +494,7 @@ informed of modifications that would have avoided the alleged infringement or
 sets out Customer’s exclusive remedy and Miro’s entire liability regarding
 infringement of third-party intellectual property rights.**
 
-###  15\. Confidentiality
+### 15\. Confidentiality
 
 ####  **15.1 Definition**
 
@@ -536,7 +535,7 @@ substantial harm for which damages alone are an insufficient remedy. Each
 party may seek appropriate equitable relief, in addition to other available
 remedies, for breach or threatened breach of this Section 15.
 
-###  16\. Required Disclosures
+### 16\. Required Disclosures
 
 Nothing in this Agreement prohibits either party from making disclosures,
 including of Customer Content and other Confidential Information, if required
@@ -544,7 +543,7 @@ by Law, subpoena or court order, provided (if permitted by Law) it notifies
 the other party in advance and cooperates in any effort to obtain confidential
 treatment.
 
-###  17\. Trials and Betas
+### 17\. Trials and Betas
 
 If Customer receives access to the Service or Service features on a free or
 trial basis or as an alpha, beta or early access offering (“ **Trials and
@@ -558,7 +557,7 @@ else in this Agreement, Miro provides Trials and Betas “AS IS” with no
 warranty, indemnity or support and its liability for Trials and Betas will not
 exceed US$50.**
 
-###  18\. Publicity
+### 18\. Publicity
 
 Neither party may publicly announce this Agreement except with the other
 party’s prior consent or as required by Laws. However, Miro may include
@@ -586,7 +585,7 @@ order to continue using the Service, and, in any event, continued use of the
 Service after the updated version of this Agreement goes into effect will
 constitute Customer’s acceptance of such updated version.
 
-###  20\. General Terms
+### 20\. General Terms
 
 ####  **20.1 Assignment**
 
@@ -732,7 +731,7 @@ Customer’s use of the applicable Service under this Agreement will be deemed
 the amount paid or payable by Customer to Miro under this Agreement for
 purposes of Section 13 (Limitations of Liability).
 
-###  Definitions
+### Definitions
 
 “ **Affiliate** ” means an entity that, directly or indirectly, owns or
 controls, is owned or controlled by, or is under common ownership or control
