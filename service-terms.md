@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: November 19, 2024
+####  Last Updated: December 6, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -250,12 +250,18 @@ Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
 **1.24.** Certain Services may incorporate generative AI features, powered by
 Amazon Bedrock, that enable you to use prompts to generate output, including:
-Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon
-DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, AWS
-HealthScribe, and AWS App Studio. The Amazon Bedrock automated abuse detection
-mechanisms may apply to such services. See
+Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS
+Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize,
+Amazon Q, AWS AppFabric, AWS HealthScribe, and AWS App Studio.
+
+**1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply
+to such services. See
 [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
 detection.html) for more details.
+
+**1.24.2.** To improve performance, such services may use cross-region
+inference, using the optimal AWS Region to process your Content when running
+model inference. See the applicable service documentation for more details.
 
 **1.25.** You will not use, and will not facilitate or allow End Users to use,
 the Services to mine cryptocurrency without our prior written approval.
@@ -744,8 +750,8 @@ purposes of building a query for your metrics or logs.
 
 ** **
 
-**8.3.1.  **“Amazon CloudWatch Network Monitoring” includes Amazon CloudWatch
-Internet Monitor and Amazon CloudWatch Network Monitor.
+**8.3.1.** “Amazon CloudWatch Network Monitoring” includes Internet Monitor,
+Network Flow Monitor, and Network Synthetic Monitor.
 
 ** **
 
@@ -1322,7 +1328,9 @@ an available exemption from such Taxes.
 **20.2.  **Seller Terms. If you promote, license, sell, provide or provide
 access to any Content or services through AWS Marketplace, the [Service Terms
 for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply
-to you.
+to you. Your use of the Buy with AWS feature is subject to the [Buy with AWS
+Trademarks License](https://aws.amazon.com/legal/buy-with-aws-trademarks-
+license/).
 
 ####  21\. AWS Ground Station
 
@@ -1335,9 +1343,9 @@ by engaging with a legal professional if necessary.
 
 
 
-**21.2.  **You will not, and will not allow any third-party to, use Licensing
-Accelerator or AWS Ground Station to, directly or indirectly, develop or
-improve a similar or competing product or service.
+**21.2.  **You will not, and will not allow any third-party or End User to,
+use Licensing Accelerator or AWS Ground Station to, directly or indirectly,
+develop or improve a similar or competing product or service.
 
 
 
@@ -1349,20 +1357,57 @@ tools as appropriate, and not allowing unauthorized access to your data.
 
 
 **21.4.  **You represent and warrant that you own all right, title, and
-interest in, or have all necessary authority to permit use of, any space
-assets associated with your AWS account, and you agree to provide to AWS, upon
-request, documentation demonstrating such ownership or authority. AWS is not a
-party to any agreement you have or may enter into with any other individual or
-entity accessing or using the Services, any of Your Content, or any space
-assets associated with your account. You are solely responsible for your
-separate relationship with any such individual or entity.
+interest in, or have all necessary authority to permit use of, the Ephemeris
+API and any space assets associated with your AWS account, and you agree to
+provide to AWS, upon request, documentation demonstrating such ownership or
+authority.
 
 
 
-**21.5.** If your AWS Contracting Party is AWS Serviços Brasil Ltda., AWS
+**21.5.  **We reserve the right to refuse or cancel your contacts to comply
+with applicable laws or regulatory requirements.
+
+
+
+**21.6.** AWS is not a party to any agreement you have or may enter into with
+any other individual or entity accessing or using the Services, any of your
+Content, or any space assets associated with your account. You are solely
+responsible for your separate relationship with any such individual or entity,
+including without limitation screening such individual or entity and complying
+with all applicable data protection, import, re-import, export, and re-export
+control laws and country-specific sanctions programs.
+
+** **
+
+**21.7.** If your AWS Contracting Party is AWS Serviços Brasil Ltda., AWS
 Ground Station continues to be sold and provided to you by Amazon Web
 Services, Inc. (or other entity identified ~~~~as applicable); but AWS
-Serviços Brasil Ltda. remains your AWS Contracting Party under the Agreement.  
+Serviços Brasil Ltda. remains your AWS Contracting Party under the Agreement.
+
+
+
+**21.8.** If you are part of the AWS Ground Station Software Partner Program
+Pathway, you own the AWS account and will not allow any third-party, including
+the End User, to have access to your AWS account or AWS management console.
+You represent and warrant that you have obtained a Foundational Technical
+Review (FTR) for your Ground Station Offering. You are solely responsible for
+ensuring that End Users are appropriately licensed to use AWS Ground Station
+by providing the End Users’ licensing and any other technical information
+reasonably necessary to AWS to enable its use of AWS Ground Station. You will
+facilitate communications between AWS and your customers as requested by AWS
+in order to address any licensing considerations.
+
+
+
+**21.9.** If you are part of the Amazon Dedicated Antenna Program, AWS may
+make equipment available to you to support your use of AWS Ground Station (the
+“Ground Station Equipment”). AWS or its affiliates maintain all rights in and
+control of the Ground Station Equipment and is not selling, renting, leasing,
+or transferring any ownership, control, intellectual or other rights in the
+Ground Station Equipment to you. You will not, and will not purport to,
+assign, grant, or transfer the Ground Station Equipment or any interest in the
+Ground Station Equipment to any individual or entity, and any such purported
+assignment, grant or transfer is void.
 
 ####  22\. Amazon Elastic Transcoder
 
@@ -1801,27 +1846,18 @@ automated snapshots at any time after 14 days.
 
 ####  37\. AWS Database Migration Service
 
-**37.1.** The AWS Database Migration Service (DMS), including DMS Fleet
-Advisor and the AWS Schema Conversion Tool, is AWS Content under the
-[Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-
-terms/), and you and all End Users may install and/or use it solely for the
-purpose of migrating or moving data, provided that: (i) at least one of the
-source data store and target data store resides in AWS; and (ii) the source
-and target data stores are both listed in the DMS documentation of supported
+The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the
+AWS Schema Conversion Tool, is AWS Content under the [Intellectual Property
+License](https://aws.amazon.com/legal/aws-ip-license-terms/), and you and all
+End Users may install and/or use it solely for the purpose of migrating or
+moving data, provided that: (i) at least one of the source data store and
+target data store resides in AWS; and (ii) the source and target data stores
+are both listed in the DMS documentation of supported
 [sources](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html)
 and
 [targets](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html).
-
-**37.2.** The AWS Database Migration Service (DMS), including DMS Fleet
-Advisor and the AWS Schema Conversion Tool, collects performance metrics and
-usage patterns, including: the types of database engines and related
-configurations used; number of rows processed; and information related to
-schema, queries, compatibility, performance, and task duration and status;
-which when combined with database license and feature information are used to
-provide, maintain, and improve the quality of the Services and recommendations
-on potential database engine and instance migrations. DMS Fleet Advisor
-collects information about resources on your network that you designate for
-discovery.  
+DMS Fleet Advisor collects information about resources on your network that
+you designate for discovery.
 
 ####  38\. AWS Amplify
 
@@ -2233,8 +2269,11 @@ Account may purchase EC2 Reserved Instances on a Member Account’s behalf.
 Member Account will be jointly and severally liable for all charges accrued by
 the Member Accounts while joined in an Organization, but the Management
 Account will be billed for all such charges in accordance with the Management
-Account’s Agreement. If a Management Account is suspended for non-payment,
-then all Member Accounts in the Organization will be suspended.
+Account’s Agreement. If the Management Account enables Invoice Configuration,
+Member Accounts may also be billed for their charges or charges accrued by
+other Member Accounts in the Organization, as configured by the Management
+Account. If a Management Account is suspended for non-payment, then all Member
+Accounts in the Organization will be suspended.
 
 **48.3**. We may enable, with at least 14 days’ prior notice to you, all
 features in your Organization if requested by the Organization’s Management
@@ -2264,13 +2303,14 @@ Driver, in each case solely for use with Amazon Athena.
 ####  50\. AWS Machine Learning and Artificial Intelligence Services
 
 **50.1.**  “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru
-Profiler, Amazon CodeGuru Reviewer, Amazon Titan, Amazon Comprehend, Amazon
-Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake,
-Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize,
-Amazon Polly, Amazon Q, Amazon Rekognition, Amazon Textract, Amazon
-Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS
-HealthImaging, AWS HealthScribe, and AWS App Studio. “AI Content” means Your
-Content that is processed by an AI Service.
+Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and
+Titan models), Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps
+Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon
+Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, Amazon
+Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical,
+Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, and
+AWS App Studio. “AI Content” means Your Content that is processed by an AI
+Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
@@ -2417,14 +2457,15 @@ Services.** AWS Services may incorporate generative AI features and provide
 Generative AI Output to you. “Generative AI Output” means output generated by
 a generative artificial intelligence model in response to inputs or other data
 provided by you. “Indemnified Generative AI Services” means, collectively,
-generally available features of Amazon Titan Text Express, Amazon Titan Text
-Lite, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan
-Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon
-Personalize, Amazon Q (including Amazon Q Developer Pro in-line code
-suggestions previously known as Amazon CodeWhisperer Professional, but
-excluding Amazon Q Developer Free Tier), Amazon Connect Contact Lens, and
-Amazon Lex. The following terms apply to the Indemnified Generative AI
-Services:  
+generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon
+Nova Pro, Amazon Nova Canvas, Amazon Nova Reel **,** Amazon Titan Text
+Express, Amazon Titan Text Lite, Amazon Titan Text Premier, Amazon Titan Text
+Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator,
+AWS HealthScribe, Amazon Personalize, Amazon Q (including Amazon Q Developer
+Pro in-line code suggestions previously known as Amazon CodeWhisperer
+Professional, but excluding Amazon Q Developer Free Tier), Amazon Connect
+Contact Lens, and Amazon Lex. The following terms apply to the Indemnified
+Generative AI Services:  
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
@@ -2472,14 +2513,15 @@ of AI Services.
 
 **50.12. Amazon Bedrock.** The following terms apply to Amazon Bedrock:
 
-**50.12.1.** Third-party models are made available to you as “Third-Party
-Content” under your Agreement with AWS and are subject to additional third-
-party license terms specified in Amazon Bedrock and related documentation.
-Your access to and use of third-party models on Amazon Bedrock may require
-your use of AWS Marketplace, and in those cases Section 20 (AWS Marketplace)
-of the Service Terms apply. Notwithstanding anything to the contrary in the
-Agreement or Service Terms, for purposes of facilitating your purchases of
-Amazon Bedrock, Amazon Web Services, Inc. will be the AWS Contracting Party.
+**50.12.1.** Third-party models are made available to you either by AWS or by
+third party providers as “Third-Party Content” and may be subject to
+additional third-party license terms specified in Amazon Bedrock, these
+Service Terms, and related documentation. Your access to and use of third-
+party models on Amazon Bedrock may require your use of AWS Marketplace, and in
+those cases Section 20 (AWS Marketplace) of the Service Terms apply.
+Notwithstanding anything to the contrary in the Agreement or Service Terms,
+for purposes of facilitating your purchases of models sold sold by third
+parties, Amazon Web Services, Inc. will be the AWS Contracting Party.
 
 **50.12.2.** As part of providing the Service, Amazon Bedrock may use
 automated abuse detection mechanisms designed to detect harmful content,
@@ -2507,8 +2549,9 @@ model. We will not access or use your customized model except as necessary to
 maintain or provide the Amazon Bedrock Service, or as necessary to comply with
 the law or a binding order of a governmental body.
 
-**50.12.5.** Mistral on Bedrock. Any Mistral Models offered on Amazon Bedrock
-(“Mistral Models”) are trained and developed by Mistral AI (“Mistral”) and are
+**50.12.5.** Mistral on Bedrock. "Mistral Models" are any models trained and
+developed by Mistral AI ("Mistral") offered on Amazon Bedrock, with the
+exception of models offered on Amazon Bedrock Marketplace. Mistral Models are
 Third-Party Content. If you use the Mistral Models the following additional
 terms apply:
 
@@ -2523,11 +2566,12 @@ terms apply:
 **50.12.6.**   **Llama 3, Llama 3.1, and Llama 3.2 on Bedrock**. Llama 3,
 Llama 3.1, and Llama 3.2 are trained and developed by Meta Platforms, Inc. and
 Meta Platforms Ireland Limited (collectively, **“Meta”** ) and is Third-Party
-Content. If you use Llama 3 on Bedrock then the following additional terms
-apply: <https://llama.meta.com/llama3/license/>. If you use Llama 3.1 on
-Bedrock then the following additional terms apply: <https://github.com/meta-
-llama/llama-models/blob/main/models/llama3_1/LICENSE>. If you use Llama 3.2 on
-Bedrock then the following additional terms apply: <https://github.com/meta-
+Content. If you use Llama 3 on Bedrock (excluding Amazon Bedrock Marketplace)
+then the following additional terms apply:
+<https://llama.meta.com/llama3/license/>. If you use Llama 3.1 on Bedrock then
+the following additional terms apply: <https://github.com/meta-llama/llama-
+models/blob/main/models/llama3_1/LICENSE>. If you use Llama 3.2 on Bedrock
+then the following additional terms apply: <https://github.com/meta-
 llama/llama-models/blob/main/models/llama3_2/LICENSE>.
 
 **50.12.7.** Output generated by models accessed through Amazon Bedrock may
@@ -2539,13 +2583,14 @@ models.html#titanimage-watermark) for Amazon Titan Image Generator). Neither
 you nor any End User may modify, tamper with, remove, obscure, or otherwise
 alter such Provenance Data.
 
-**50.13.  Amazon Q. **To help Amazon Q provide the most relevant information,
+**50.13.  Amazon Q.** To help Amazon Q provide the most relevant information,
 we may use AI Content processed by Amazon Q, such as prompts and responses
 (“Amazon Q Content”), for service improvement as described below. Currently,
-this Section 50.13 applies only to Amazon Q Developer Free Tier, but we may
-add Amazon Q features from time to time as they launch. This Section 50.13
-does not apply to Amazon Q Business, Amazon Q Developer Pro, or Amazon Q in
-AWS Supply Chain.
+this Section 50.13 applies only to Amazon Q Developer Free Tier and Amazon Q
+Developer operational investigations (Preview), and we may add Amazon Q
+features or services from time to time as they launch. This Section 50.13 does
+not apply to any Amazon Q feature or service that is not listed in the prior
+sentence.
 
 **50.13.1.** **Service Improvement.** You agree and instruct that we may use
 Amazon Q Content to develop and improve Amazon Q and its underlying
@@ -3141,22 +3186,22 @@ Content stored by AWS Entity Resolution must be deleted under applicable law.
 Resolution, directly or indirectly, to develop or improve a similar or
 competing product or service.
 
-####  60\. Amazon SageMaker
+####  60\. Amazon SageMaker AI
 
 **60.1.**  You are responsible for providing legally adequate privacy notices
-to End Users of your products or services that use Amazon SageMaker (including
-End Users in your private workforce when using Amazon SageMaker Ground Truth)
-and obtaining all necessary consents from such End Users.
+to End Users of your products or services that use Amazon SageMaker AI
+(including End Users in your private workforce when using Amazon SageMaker
+Ground Truth) and obtaining all necessary consents from such End Users.
 
 **60.2.** Your use of the NVIDIA Corporation’s software, toolkits and drivers
 is subject to the terms and conditions of the [NVIDIA Cloud End User License
 Agreement](https://s3.amazonaws.com/EULA/NVidiaEULAforAWS.pdf).
 
-**60.3.** Amazon SageMaker is not intended for use in, or in association with,
-the operation of any hazardous environments or critical systems that may lead
-to serious body injury or death or cause environmental or property damage, and
-you are solely responsible for liability that may arise in connection with any
-such use.
+**60.3.** Amazon SageMaker AI is not intended for use in, or in association
+with, the operation of any hazardous environments or critical systems that may
+lead to serious body injury or death or cause environmental or property
+damage, and you are solely responsible for liability that may arise in
+connection with any such use.
 
 **60.4.** When using the public workforce of Amazon SageMaker Ground Truth:
 (a) you may not provide datasets that contain protected health information,
@@ -3179,21 +3224,21 @@ and data regarding your use of the Service, including model version, inference
 and upload times, and diagnostic data. We may use these metrics and data to
 improve the quality and feature sets of the Services and AWS Content.  
 
-**60.7.** We may change SageMaker Savings Plan (“SM Savings Plan”) pricing or
-terminate the program at any time. Any price changes will not apply to
-previously purchased SM Savings Plans. All amounts paid in connection with SM
-Savings Plans are nonrefundable, except that if we terminate the Agreement
-other than for cause, or terminate the SM Savings Plan program, we will refund
-you a pro rata portion of any up-front fee paid. SM Savings Plans are
-nontransferable and noncancellable, so you will be charged for the duration of
-the term you selected, even if you terminate the Agreement. Upon expiration or
-termination of the term of SM Savings Plans, the reserved pricing will expire
-and standard on-demand usage prices will apply. You are responsible for
-determining if you are subject to any limitations arising from the purchase or
-use of the SM Savings Plan and for complying with any applicable laws,
-policies, terms or conditions governing your payment of up-front fees,
-including any fiscal or appropriation laws, or other policies or restrictions
-governing up-front payments for goods or services.
+**60.7.** We may change SageMaker AI Savings Plan (“SM AI Savings Plan”)
+pricing or terminate the program at any time. Any price changes will not apply
+to previously purchased SM AI Savings Plans. All amounts paid in connection
+with SM AI Savings Plans are nonrefundable, except that if we terminate the
+Agreement other than for cause, or terminate the SM AI Savings Plan program,
+we will refund you a pro rata portion of any up-front fee paid. SM AI Savings
+Plans are nontransferable and noncancellable, so you will be charged for the
+duration of the term you selected, even if you terminate the Agreement. Upon
+expiration or termination of the term of SM AI Savings Plans, the reserved
+pricing will expire and standard on-demand usage prices will apply. You are
+responsible for determining if you are subject to any limitations arising from
+the purchase or use of the SM AI Savings Plan and for complying with any
+applicable laws, policies, terms or conditions governing your payment of up-
+front fees, including any fiscal or appropriation laws, or other policies or
+restrictions governing up-front payments for goods or services.
 
 **60.8.  **Amazon SageMaker Studio Lab ****
 
@@ -3215,7 +3260,10 @@ automatically deletes the information associated with your account and any
 associated Content.
 
 **60.8.4.** For purposes of your use of Amazon SageMaker Studio Lab, Amazon
-Web Services, Inc. is the AWS Contracting Party under the Agreement.  
+Web Services, Inc. is the AWS Contracting Party under the Agreement.
+
+**60.9.** For purposes of your use of Amazon SageMaker Partner AI Apps, Amazon
+Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
 ####  61\. AWS AppSync
 
@@ -3328,20 +3376,43 @@ with respect to such AWS Content or Third Party Content.
 party and provide to SAS for the purposes of the AWS Security Assurance
 Services are Your Content.  
 
-####  66\. Amazon WorkLink
+####  66\. AWS Data Transfer Terminal
 
-**66.1.** You and your End Users may only use the Amazon WorkLink client
-software on devices owned or controlled by you or your End Users and solely to
-access Your Content for internal business purposes. Each End User may be
-permitted to use a limited number of devices or sessions in any calendar
-month.
+**66.1.  **To use AWS Data Transfer Terminal, You connect Your storage
+device(s) to fiber connections that allow You to send data to Your AWS storage
+resources. These fiber connections are located in facilities with existing
+AWS-owned routers that are networked to AWS’s global network. These
+facilities, and the fiber between the AWS Data Transfer Terminal connection
+points and the AWS network router, may be owned and/or managed by our
+colocation providers. You and/or your designees may be asked to sign, accept,
+or otherwise agree to those colocation providers' terms, policies, and/or
+procedures as a condition of accessing an AWS Data Transfer Terminal facility,
+and you agree to comply with any such terms, policies, and/or procedures.  
 
-**66.2.** As part of regular operations, Amazon WorkLink may access your End
-Users’ devices that are provisioned as part of the Amazon WorkLink setup to
-perform configurations, health checks, and diagnostics on a regular basis.
-During the performance of these tasks, Amazon WorkLink will only retrieve
-performance, log data, and other information related to the operation and
-management of the Service.  
+**66.2.** You are solely responsible for applying appropriate security
+measures to Your data prior to and during Your use of the AWS Data Transfer
+Terminal Service, including but not limited to encrypting Your data in transit
+and not allowing unauthorized access to Your devices or an AWS Data Transfer
+Terminal facility.
+
+**66.3.** In order to provide the AWS Data Transfer Terminal Service, AWS
+collects personal information, such as names, of You and your designees (who
+will be entering the AWS Data Transfer Terminal facility) and shares that
+information with our colocation providers to grant physical access to the
+space(s). You are responsible for providing legally adequate privacy notices
+to your designees and obtaining necessary consents from them for the
+processing of such data.
+
+**66.4.** You will defend and indemnify AWS and its Affiliates for any and all
+claims, damages, liabilities, penalties, fines, costs, and expenses (including
+reasonable attorneys’ fees) arising out of or in any way related to Your or
+your designees’ actions while at or inside an AWS Data Transfer Terminal
+facility.
+
+**66.5.** You will reasonably cooperate with us to identify the source of any
+problem with AWS Data Transfer Terminal or related AWS Services that we
+reasonably believe may be attributable to Your or your designees' actions at
+or inside a Data Transfer Terminal facility.  
 
 ####  67\. AWS Training
 
@@ -4556,4 +4627,25 @@ with, the operation of any hazardous environments or critical systems that may
 lead to serious body injury or death or cause environmental or property
 damage, and you are solely responsible for liability that may arise in
 connection with any such use.
+
+####  104\. AWS Security Incident Response
+
+**104.1.** You represent and warrant to AWS that the person requesting any of
+your AWS accounts to be an AWS Security Incident Response Membership Account
+or Associated Account (as defined in the AWS Security Incident Response user
+guides posted on the AWS Site) is authorized to make such requests and procure
+AWS Security Incident Response services on your behalf and with respect to
+such AWS accounts.
+
+**104.2.** AWS and its affiliates will not be liable to you for any damages
+arising from (a) AWS’s actions taken pursuant to any instructions, requests,
+or pre-authorizations that you provide or approve, (b) you not following an
+instruction or recommendation from AWS, (c) your delay or withholding of
+approval for AWS to take a requested action, or (d) any change by you to your
+AWS Security Incident Response Membership Account (as defined in the AWS
+Security Incident Response user guides posted on the AWS Site).
+
+**104.3.** By enabling alert triaging you agree to grant AWS Security Incident
+Response permissions to access Amazon GuardDuty and AWS Security Hub to ingest
+alerts and create suppression rules on your behalf.
 
