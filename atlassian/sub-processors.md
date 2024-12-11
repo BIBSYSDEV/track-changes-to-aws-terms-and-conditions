@@ -466,9 +466,8 @@ USA, EEA
 
 Security Measures
 
-[ MessageBird Security Overview  ](https://support.messagebird.com/hc/en-
-us/articles/4413383848209-MessageBird-Security-
-Overview-#:~:text=MessageBird%20communications%20infrastructure%20and%20the,fully%20transparent%20with%20its%20clients.)  
+[ MessageBird Security Overview  ](https://docs.bird.com/connectivity-
+platform/data-governance-and-security/messagebird-security-overview)  
   
 Microsoft Corporation
 
