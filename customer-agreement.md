@@ -5,7 +5,7 @@
 
 *Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.  
 
-####  Last Updated: May 17, 2024
+####  Last Updated: December 23, 2024
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -899,8 +899,9 @@ Malaysia
 Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
 New Zealand  | Amazon Web Services New Zealand Limited | N/A | Level 5, 18
 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
-Singapore | Amazon Web Services Singapore Private Limited | N/A | 23 Church
-Street, #10-01, Singapore 049481  
+Singapore | Amazon Web Services Singapore Private Limited | N/A | Level 2,
+East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore
+018916  
   
 South Africa
 
