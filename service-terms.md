@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: December 6, 2024
+####  Last Updated: December 27, 2024
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -241,7 +241,9 @@ application of any tax exemption on your Management Account to your
 Organization’s Member Accounts (both as defined in the AWS Organizations
 section below) complies with applicable tax laws. If a governmental authority
 determines that the correct amount of tax has not been collected on your
-purchases, you will promptly reimburse AWS for any associated costs.
+purchases, you will assist AWS as necessary (including providing information
+and documentation as reasonably required) to substantiate your payment of
+those taxes and promptly reimburse AWS for any associated costs.
 
 **1.23.** If you use any artificial intelligence and machine learning
 Services, features, and functionality (including third-party models) that we
@@ -2520,8 +2522,8 @@ Service Terms, and related documentation. Your access to and use of third-
 party models on Amazon Bedrock may require your use of AWS Marketplace, and in
 those cases Section 20 (AWS Marketplace) of the Service Terms apply.
 Notwithstanding anything to the contrary in the Agreement or Service Terms,
-for purposes of facilitating your purchases of models sold sold by third
-parties, Amazon Web Services, Inc. will be the AWS Contracting Party.
+for purposes of facilitating your purchases of models sold by third parties,
+Amazon Web Services, Inc. will be the AWS Contracting Party.
 
 **50.12.2.** As part of providing the Service, Amazon Bedrock may use
 automated abuse detection mechanisms designed to detect harmful content,
