@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: December 27, 2024
+####  Last Updated: January 3, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -2631,15 +2631,7 @@ or suspend your data services or suspend your account.
 
 ####  52\. AWS Systems Manager
 
-**52.1.  **Systems Manager may collect and transmit to AWS information
-regarding your use of the Services, including inventory items (e.g.,
-application inventory and custom inventory items); parameters; configuration
-data (e.g., network and state configuration); telemetry and diagnostics data;
-update history and registry keys; resource groups; and patch metadata
-(“Systems Information”). Systems Information may be used by AWS to improve the
-Service.  
-
-**52.2.  **Certain features of this Service include functionality that allows
+**52.1.  **Certain features of this Service include functionality that allows
 notifications to be sent to a contact channel (e.g., telephone number, email
 address). Your use of these features instructs us to send notifications (e.g.,
 SMS/voice messages/emails) to the contact channels entered in the applicable
@@ -2647,7 +2639,7 @@ workflows and confirms that you are authorized to send such notifications.
 Carriers may charge for notifications sent or received in connection with
 these features.
 
-**52.3.** Your use of AWS-ApplyChefRecipes is subject to Section 23.2. above.  
+**52.2.** Your use of AWS-ApplyChefRecipes is subject to Section 23.2. above.  
 
 ####  53\. Amazon Chime and Amazon Chime SDK
 
