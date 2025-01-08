@@ -747,7 +747,7 @@ consultants, contractors or other third parties.
 [Online whiteboard](/online-whiteboard/)[Apps &
 Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
 Developer Platform](https://developers.miro.com/)[Miro for
-Devices](/apps/)[Enterprise Guard](https://miro.com/enterprise-
+Devices](/apps/)[Enterprise Guard](/enterprise-
 guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
 
 ### Product
@@ -755,7 +755,7 @@ guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
 [Online whiteboard](/online-whiteboard/)[Apps &
 Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
 Developer Platform](https://developers.miro.com/)[Miro for
-Devices](/apps/)[Enterprise Guard](https://miro.com/enterprise-
+Devices](/apps/)[Enterprise Guard](/enterprise-
 guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
 
 ##### Solutions
