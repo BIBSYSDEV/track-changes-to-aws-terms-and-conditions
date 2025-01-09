@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: January 4, 2025
+####  Last Updated: January 3, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -543,21 +543,19 @@ Agreement other than for cause, terminate an individual EC2 Reserved Instance
 or EC2 Dedicated Host Reservation type, or terminate the Savings Plans, EC2
 Reserved Instance or EC2 Dedicated Host pricing program(s), we will refund you
 a pro rata portion of any up-front fee paid in connection with any previously
-designated Savings Plans, EC2 Reserved Instances or EC2 Dedicated Hosts. We
-may terminate any or all of your Savings Plans, EC2 Reserved Instances, or EC2
-Dedicated Host Reservations if you are in breach of your payment obligations
-under the Agreement. You may not purchase EC2 Reserved Instances for the
-purpose of reselling them in the RI Marketplace, and we reserve the right to
-refuse or cancel your purchase if we suspect you are doing so. Upon expiration
-or termination of the term of Savings Plans, EC2 Reserved Instances or EC2
-Dedicated Host Reservations, the reserved pricing will expire and standard on-
-demand usage prices will apply. You are responsible for determining if you are
-subject to any limitations arising from the purchase or Savings Plans, EC2
-Reserved Instances or EC2 Dedicated Host Reservations. For example, you are
-responsible for complying with any applicable laws, policies, terms or
-conditions governing your payment of up-front fees or the expiration of
-reserved resources, including any fiscal or appropriation laws, or other
-policies or restrictions governing up-front payments for goods or services.
+designated Savings Plans, EC2 Reserved Instances or EC2 Dedicated Hosts. You
+may not purchase EC2 Reserved Instances for the purpose of reselling them in
+the RI Marketplace, and we reserve the right to refuse or cancel your purchase
+if we suspect you are doing so. Upon expiration or termination of the term of
+Savings Plans, EC2 Reserved Instances or EC2 Dedicated Host Reservations, the
+reserved pricing will expire and standard on-demand usage prices will apply.
+You are responsible for determining if you are subject to any limitations
+arising from the purchase or Savings Plans, EC2 Reserved Instances or EC2
+Dedicated Host Reservations. For example, you are responsible for complying
+with any applicable laws, policies, terms or conditions governing your payment
+of up-front fees or the expiration of reserved resources, including any fiscal
+or appropriation laws, or other policies or restrictions governing up-front
+payments for goods or services.
 
 **5.5.** EC2 Capacity Blocks for ML. AWS Capacity Blocks cannot be canceled
 nor can they be modified, and the full price of a Capacity Block is
@@ -872,11 +870,9 @@ Instances are nonrefundable, except that if we terminate the Agreement other
 than for cause, terminate an individual Reserved DB Instance type, or
 terminate the Reserved DB Instance program, we will refund you a pro rata
 portion of any up-front fee paid in connection with any previously designated
-Reserved DB Instances. We may terminate any or all of your Reserved DB
-Instances if you are in breach of your payment obligations under the
-Agreement. Upon expiration or termination of the term of a Reserved DB
-Instance, the Reserved DB Instance pricing will expire and standard on-demand
-usage prices will apply to the database instance.
+Reserved DB Instances. Upon expiration or termination of the term of a
+Reserved DB Instance, the Reserved DB Instance pricing will expire and
+standard on-demand usage prices will apply to the database instance.
 
 **10.3. Using Oracle Software.**
 
@@ -1123,11 +1119,9 @@ amounts paid in connection with Reserved Cache Nodes are nonrefundable, except
 that if we terminate the Agreement other than for cause, terminate an
 individual Reserved Cache Node type, or terminate the Reserved Cache Node
 program, we will refund you a pro rata portion of any up-front fee paid in
-connection with any previously designated Reserved Cache Nodes. We may
-terminate any or all of your Reserved Cache Nodes if you are in breach of your
-payment obligations under the Agreement. Upon expiration or termination of the
-term of a Reserved Cache Node, standard on-demand usage prices will apply to
-the cache nodes you use.  
+connection with any previously designated Reserved Cache Nodes. Upon
+expiration or termination of the term of a Reserved Cache Node, standard on-
+demand usage prices will apply to the cache nodes you use.  
 
 ####  18\. AWS GovCloud (US) Service Terms
 
@@ -1165,11 +1159,9 @@ is nontransferable and all amounts paid in connection with the Amazon DynamoDB
 Reserved Capacity are nonrefundable, except that if we terminate the Agreement
 (other than for cause) or the Amazon DynamoDB Reserved Capacity program, we
 will refund you a pro rata portion of any up-front fee paid in connection with
-any previously purchased Amazon DynamoDB Reserved Capacity. We may terminate
-any or all of your Amazon DynamoDB Reserved Capacity if you are in breach of
-your payment obligations under the Agreement. Upon expiration or termination
-of the term of any Amazon DynamoDB Reserved Capacity, standard on-demand usage
-prices will apply to your use of Amazon DynamoDB.
+any previously purchased Amazon DynamoDB Reserved Capacity. Upon expiration or
+termination of the term of any Amazon DynamoDB Reserved Capacity, standard on-
+demand usage prices will apply to your use of Amazon DynamoDB.
 
 ####  20\. AWS Marketplace
 
@@ -2249,11 +2241,10 @@ Reserved Nodes are nontransferable, and all amounts paid in connection with
 Reserved Nodes are nonrefundable, except that if we terminate the Agreement
 other than for cause, terminate an individual Reserved Node type, or terminate
 the Reserved Node program, we will refund you a pro rata portion of any up-
-front fee paid in connection with any previously designated Reserved Node. We
-may terminate any or all of your Reserved Nodes if you are in breach of your
-payment obligations under the Agreement. Upon expiration or termination of the
-term of a Reserved Node, the Reserved Node pricing will expire and standard
-on-demand usage prices will apply to the Amazon Redshift node.  
+front fee paid in connection with any previously designated Reserved Node.
+Upon expiration or termination of the term of a Reserved Node, the Reserved
+Node pricing will expire and standard on-demand usage prices will apply to the
+Amazon Redshift node.  
 
 ####  47\. AWS Server Migration Service
 
@@ -3234,16 +3225,14 @@ with SM AI Savings Plans are nonrefundable, except that if we terminate the
 Agreement other than for cause, or terminate the SM AI Savings Plan program,
 we will refund you a pro rata portion of any up-front fee paid. SM AI Savings
 Plans are nontransferable and noncancellable, so you will be charged for the
-duration of the term you selected, even if you terminate the Agreement. We may
-terminate any or all of your SM AI Savings Plans if you are in breach of your
-payment obligations under the Agreement. Upon expiration or termination of the
-term of SM AI Savings Plans, the reserved pricing will expire and standard on-
-demand usage prices will apply. You are responsible for determining if you are
-subject to any limitations arising from the purchase or use of the SM AI
-Savings Plan and for complying with any applicable laws, policies, terms or
-conditions governing your payment of up-front fees, including any fiscal or
-appropriation laws, or other policies or restrictions governing up-front
-payments for goods or services.
+duration of the term you selected, even if you terminate the Agreement. Upon
+expiration or termination of the term of SM AI Savings Plans, the reserved
+pricing will expire and standard on-demand usage prices will apply. You are
+responsible for determining if you are subject to any limitations arising from
+the purchase or use of the SM AI Savings Plan and for complying with any
+applicable laws, policies, terms or conditions governing your payment of up-
+front fees, including any fiscal or appropriation laws, or other policies or
+restrictions governing up-front payments for goods or services.
 
 **60.8.  **Amazon SageMaker Studio Lab ****
 
