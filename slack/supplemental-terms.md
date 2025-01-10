@@ -50,15 +50,15 @@ Archives
 
   * [Terms & Policy Archives](https://slack.com/policy-archives)
 
- **Last Updated: April 17, 2024**
+**Last Updated: April 17, 2024**
 
-The Salesforce [Main Services Agreement](/main-services-agreement) (“ **MSA**
-”) and these Slack Supplemental Terms (“ **Supplemental Terms** ”) are legally
+The Salesforce [Main Services Agreement](/main-services-agreement) (“**MSA**
+”) and these Slack Supplemental Terms (“**Supplemental Terms** ”) are legally
 binding and govern your acquisition and use of Slack. These Supplemental Terms
 apply in addition to the MSA and form an integral part of the MSA (together,
-the MSA and Supplemental Terms are the “ **Slack Terms** ”). Capitalized terms
+the MSA and Supplemental Terms are the “**Slack Terms** ”). Capitalized terms
 used but not defined in these Supplemental Terms have the meanings given to
-them in the MSA. “ **SFDC** ” means the applicable Salesforce entity, as
+them in the MSA. “**SFDC** ” means the applicable Salesforce entity, as
 defined in the MSA, except as modified herein for online orders of Slack
 Services. Additional information related to the Slack Services may be found in
 the Documentation at <https://sfdc.co/ptd>. For the avoidance of doubt, the
@@ -101,83 +101,20 @@ dispute or lawsuit arising out of or in connection with the Slack Terms, and
 the courts that have jurisdiction over any such dispute or lawsuit, depend on
 where Customer is domiciled.
 
- **Domicile**
-
-|
-
- **SFDC Entity**
-
-|
-
- **Notices should be addressed to:**
-
-|
-
- **Governing Law**
-
-|
-
- **Venue**  
-  
+**Domicile**| **SFDC Entity**| **Notices should be addressed to:**|
+**Governing Law**| **Venue**  
 ---|---|---|---|---  
-  
-United States and Canada
-
-|
-
-Slack Technologies, LLC
-
-|
-
-Salesforce Tower, 415 Mission Street, San Francisco, CA 94105, attn: VP,
-Worldwide Sales Operations, with a copy to attn: General Counsel
-
-|
-
-California
-
-|
-
-San Francisco County, California  
-  
-Rest of World (Except Japan)
-
-|
-
-Slack Technologies Limited
-
-|
-
-Salesforce Tower, 60 R801, North Dock, Dublin, Ireland, attn: VP, Sales
-Operations, with a copy to attn.: Legal Department
-
-|
-
-England
-
-|
-
-London, England  
-  
-Japan
-
-|
-
-Slack Technologies Limited
-
-|
-
-Salesforce Tower, Nippon Life Marunouchi Garden Tower, Marunouchi 1-1-3,
-Chiyoda-ku, Tokyo, 100-0005 Japan, attn: Senior Director, Japan Sales
-Operations, with a copy to attn: General Counsel
-
-|
-
-Japan
-
-|
-
-Tokyo, Japan  
+United States and Canada| Slack Technologies, LLC| Salesforce Tower, 415
+Mission Street, San Francisco, CA 94105, attn: VP, Worldwide Sales Operations,
+with a copy to attn: General Counsel| California| San Francisco County,
+California  
+Rest of World (Except Japan)| Slack Technologies Limited| Salesforce Tower, 60
+R801, North Dock, Dublin, Ireland, attn: VP, Sales Operations, with a copy to
+attn.: Legal Department| England| London, England  
+Japan| Slack Technologies Limited| Salesforce Tower, Nippon Life Marunouchi
+Garden Tower, Marunouchi 1-1-3, Chiyoda-ku, Tokyo, 100-0005 Japan, attn:
+Senior Director, Japan Sales Operations, with a copy to attn: General Counsel|
+Japan| Tokyo, Japan  
   
 ## Changes to Terms
 
