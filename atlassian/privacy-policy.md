@@ -895,13 +895,7 @@ behavioral advertising under California law.
 ####  Recipients of “Sales” or “Sharing”  
   
 ---|---|---|---  
-  
-**Identifiers** , such as name, email address, unique identifiers associated
-with user or user account, IP Address
-
-|
-
-Purpose(s) for Collecting & Disclosing
+**Identifiers** , such as name, email address, unique identifiers associated with user or user account, IP Address  |  Purpose(s) for Collecting & Disclosing
 
   * Providing the Services
   * User authentication
@@ -914,28 +908,14 @@ Purpose(s) for Collecting & Disclosing
   * Internal research
   * Service enhancements
   * Customer support
-
-|
-
-Recipients of Disclosures for Business Purposes
+|  Recipients of Disclosures for Business Purposes
 
   * Atlassian Companies
   * Atlassian Partners
   * Service Providers
   * Third Party Apps
-
-|
-
-Recipients of “Sales” or “Sharing”
-
-Third Party Advertising Providers  
-  
-**Commercial information** , such as purchase details, transaction records,
-billing information, billing address, payment card details
-
-|
-
-Purpose(s) for Collecting & Disclosing
+|  Recipients of “Sales” or “Sharing” Third Party Advertising Providers  
+**Commercial information** , such as purchase details, transaction records, billing information, billing address, payment card details  |  Purpose(s) for Collecting & Disclosing
 
   * Providing the Services 
   * Billing 
@@ -946,81 +926,37 @@ Purpose(s) for Collecting & Disclosing
   * Internal research 
   * Service enhancements 
   * Customer support
-
-|
-
-Recipients of Disclosures for Business Purposes
+|  Recipients of Disclosures for Business Purposes
 
   * Atlassian Companies
   * Atlassian Partners
   * Service Providers
-
-|
-
-Recipients of “Sales” or “Sharing”
-
--NA-   
-  
-**Internet or other electronic network activity information** , such as
-information about your usage of the Services, pseudonymous IDs, clickstream
-data, device and connection information, browser information, crash data,
-referring/exit URLs, IP Address
-
-|
-
-Purpose(s) for Collecting & Disclosing
+|  Recipients of “Sales” or “Sharing” -NA-  
+**Internet or other electronic network activity information** , such as information about your usage of the Services, pseudonymous IDs, clickstream data, device and connection information, browser information, crash data, referring/exit URLs, IP Address  |  Purpose(s) for Collecting & Disclosing
 
   * Providing the Services 
   * Internal research 
   * Service enhancements
-
-|
-
-Recipients of Disclosures for Business Purposes
+|  Recipients of Disclosures for Business Purposes
 
   * Atlassian Companies
   * Atlassian Partners
   * Event Sponsors
   * Service Providers
-
-|
-
-Recipients of “Sales” or “Sharing”
-
--NA-   
-  
-**Visual information** , such as photos or avatars, with your consent,
-recordings of your attendance at our events
-
-|
-
-Purpose(s) for Collecting & Disclosing
+|  Recipients of “Sales” or “Sharing” -NA-  
+**Visual information** , such as photos or avatars, with your consent, recordings of your attendance at our events  |  Purpose(s) for Collecting & Disclosing
 
   * Providing the Services
   * Internal research
   * Service enhancements
-
-|
-
-Recipients of Disclosures for Business Purposes
+|  Recipients of Disclosures for Business Purposes
 
   * Atlassian Companies
   * Atlassian Partners
   * Event Sponsors
   * Service Providers
-
-|
-
-Recipients of “Sales” or “Sharing”
-
--NA-   
-  
-**Professional or employment information** , such as job title, company name,
-company domain
-
-|
-
-Purpose(s) for Collecting & Disclosing
+|  Recipients of “Sales” or “Sharing” -NA-  
+**Professional or employment information** , such as job title, company name, company domain  |  Purpose(s) for Collecting & Disclosing
 
   * Providing the Services
   * Analytics and research
@@ -1030,92 +966,43 @@ Purpose(s) for Collecting & Disclosing
   * Internal research 
   * Service enhancements
   * Customer support
-
-|
-
-Recipients of Disclosures for Business Purposes
+|  Recipients of Disclosures for Business Purposes
 
   * Atlassian Companies
   * Atlassian Partners
   * Service Providers
-
-|
-
-Recipients of “Sales” or “Sharing”
-
--NA-   
-  
-**Geolocation data** , such as your approximate location, IP address, time
-zone
-
-|
-
-Purpose(s) for Collecting & Disclosing
+|  Recipients of “Sales” or “Sharing” -NA-  
+**Geolocation data** , such as your approximate location, IP address, time zone  |  Purpose(s) for Collecting & Disclosing
 
   * Providing the Services
   * Internal research 
   * Service enhancements
   * Marketing-Customer support
-
-|
-
-Recipients of Disclosures for Business Purposes
+|  Recipients of Disclosures for Business Purposes
 
   * Atlassian Companies
   * Atlassian Partners
   * Service Providers
-
-|
-
-Recipients of “Sales” or “Sharing”
-
-Third Party Advertising Providers  
-  
-**Inferences** (drawn about you based on other personal information we
-collect), such as preferences, interests, user behavior data
-
-|
-
-Purpose(s) for Collecting & Disclosing
+|  Recipients of “Sales” or “Sharing” Third Party Advertising Providers  
+**Inferences** (drawn about you based on other personal information we collect), such as preferences, interests, user behavior data  |  Purpose(s) for Collecting & Disclosing
 
   * Providing the Services
   * Internal research
   * Marketing
-
-|
-
-Recipients of Disclosures for Business Purposes
+|  Recipients of Disclosures for Business Purposes
 
   * Atlassian Companies
   * Service Providers
-
-|
-
-Recipients of “Sales” or “Sharing”
-
-Third Party Advertising Providers  
-  
-**Sensitive personal information** , such as login credentials and passwords
-
-|
-
-Purpose(s) for Collecting & Disclosing
+|  Recipients of “Sales” or “Sharing” Third Party Advertising Providers  
+**Sensitive personal information** , such as login credentials and passwords  |  Purpose(s) for Collecting & Disclosing
 
   * User authentication
   * Service access controls
-
-|
-
-Recipients of Disclosures for Business Purposes
+|  Recipients of Disclosures for Business Purposes
 
   * Atlassian Companies
   * Service Providers
-
-|
-
-Recipients of “Sales” or “Sharing”
-
--NA-   
+|  Recipients of “Sales” or “Sharing” -NA-  
   
 If you have questions about the categories of information we may collect about
 you or the sources of such information, please be sure to visit the section of
