@@ -44,21 +44,21 @@ Please contact [sales@miro.com](mailto:sales@miro.com) for details.
 
 Publication date: February 1, 2024
 
-This Master Cloud Agreement (“ **MCA** ”) is between RealtimeBoard Inc. dba
-Miro, or the Miro Affiliate identified in an Order (“ **Miro** ”) and the
-customer identified below (“ **Customer** ”) and applies to all Orders entered
+This Master Cloud Agreement (“**MCA** ”) is between RealtimeBoard Inc. dba
+Miro, or the Miro Affiliate identified in an Order (“**Miro** ”) and the
+customer identified below (“**Customer** ”) and applies to all Orders entered
 into with Customer. This MCA is effective upon the date of last execution by
-the parties (“ **Effective Date ").** Certain capitalized terms are defined in
+the parties (“**Effective Date ").** Certain capitalized terms are defined in
 Section 18 (Definitions) and others are defined contextually in this
 Agreement.
 
-###  **1\. Overview**.
+### **1\. Overview**.
 
 Miro offers a unique SaaS Service for visual collaboration that is designed to
 allow Users to create, collaborate and centralize communication through an
 interactive visual workspace for innovation.
 
-###  **2\. The SaaS Service**.
+### **2\. The SaaS Service**.
 
 2.1. _Permitted Use_. Miro grants to Customer a worldwide, non-transferable,
 non-exclusive, non-sublicensable right to access and use the SaaS Service
@@ -93,7 +93,7 @@ described in the Documentation. Miro has no liability for how others may
 access or use Customer Content as a result of Customer’s or its Users’
 decision to share a Board.
 
-2.7. _Restrictions_. Except as expressly authorized in this Section 2 **,**
+2.7. _Restrictions_. Except as expressly authorized in this Section 2**,**
 Customer will not, and will not permit its Users to: (a) provide access to,
 distribute, sell or sublicense the Services to a third party, (b) use the
 Services on behalf of, or to provide any product or service to, third parties,
@@ -120,7 +120,7 @@ During the Subscription Term the SaaS Service will be subject to the
 [SLA](https://miro.com/static/legal/Miro-Service-Level-Agreement.pdf). Miro
 will provide Customer with Support in accordance with the Support Policy.
 
-###  **4\. Customer Content**.
+### **4\. Customer Content**.
 
 4.1. _Data Use_. Customer grants Miro the non-exclusive, worldwide, limited
 right to use, copy, store, transmit, and display Customer Content and to
@@ -139,7 +139,7 @@ comply with its respective obligations under the DPA. Additionally, where Miro
 acts as a controller, Miro uses Usage Data and User account information as
 described in its Privacy Policy.
 
-4.4. _Data Export_. **** During the Subscription Term or within 30 days
+4.4. _Data Export_.**** During the Subscription Term or within 30 days
 thereafter (the “Data Export Period”), Customer may export its Customer
 Content using the export features described in the Documentation. If Customer
 elects to proactively delete its account at any time, all associated Customer
@@ -165,7 +165,7 @@ requirements, and that Miro is not a Business Associate as defined under
 HIPAA. Notwithstanding anything else in this Agreement, Miro has no liability
 for Prohibited Data or use of the Services for High-Risk Activities.
 
-###  **6\. Suspension of Service**.
+### **6\. Suspension of Service**.
 
 Miro may suspend Customer or a User’s access to and use of all or any part of
 the Services if (a) Customer fails to pay any undisputed fee(s) within 10 days
@@ -178,7 +178,7 @@ suspension. Once Customer resolves the issue leading to suspension, Miro will
 promptly restore Customer’s or User’s access to the relevant Services in
 accordance with this Agreement.
 
-###  **7\. Integration with Third-Party Platforms**.
+### **7\. Integration with Third-Party Platforms**.
 
 Miro allows integrations with Third Party Platforms. If Customer elects to use
 Third-Party Platforms with the Services, (a) such use of Third-Party Platforms
@@ -191,7 +191,7 @@ the Third-Party Platform in relation to Customer’s use of the Service.
 Customer shall not use integration with Third-Party Platforms to circumvent
 any restrictions under this Agreement.
 
-###  **8\. Technical Services**.
+### **8\. Technical Services**.
 
 Any purchased Technical Services are as described in the relevant Order.
 Customer will give Miro timely access to Customer Materials reasonably needed
@@ -224,7 +224,7 @@ registration, participation, and payment processing) and Customer shall
 reimburse Miro for any such fees and charges set forth in an invoice. Fees are
 exclusive of all Taxes. Customer is responsible for any sales, use, goods and
 services, value-added, withholding or similar taxes or levies that apply to
-its Orders, whether domestic or foreign (“ **Taxes** ”), other than Miro’s
+its Orders, whether domestic or foreign (“**Taxes** ”), other than Miro’s
 income tax. If Customer is exempt from Taxes, then Customer shall provide a
 valid exemption certificate to Miro upon execution of the applicable Order.
 
@@ -247,7 +247,7 @@ Miro is not party to (or responsible under) any separate agreement between
 Customer and Reseller. Miro is not responsible for Reseller’s acts, omissions,
 products, or services.
 
-###  **10\. Warranties and Disclaimers**.
+### **10\. Warranties and Disclaimers**.
 
 10.1. _Limited Warranty_. Miro warrants to Customer that:
 
@@ -275,20 +275,20 @@ warranties do not apply to (a) issues caused by misuse or unauthorized
 modifications, (b) issues in or caused by Third-Party Platforms or other
 third-party systems or (c) Trials and Betas or other free or evaluation use.
 
-10.3. ******_Disclaimers_**. **Except as expressly provided in Section 10.1
+10.3.******_Disclaimers_**. **Except as expressly provided in Section 10.1
 (Limited Warranty), the Services are provided “AS IS.” Miro and its suppliers
 make no other commitments, assurances, warranties, whether express, implied,
 statutory, or otherwise, including warranties of merchantability, fitness for
-a particular purpose, title or noninfringement**. **Without limiting its
+a particular purpose, title or noninfringement**.**Without limiting its
 express obligations in Sections 3 (SLA and Support) and 4.2 (Security), Miro
 does not warrant that Customer’s use of the Services will be uninterrupted or
 error-free or that the Services will meet Customer’s requirements, operate in
 combination with third-party services used by Customer or maintain Customer
-Content without loss**. **Miro is not liable for delays, failures, or problems
+Content without loss**.**Miro is not liable for delays, failures, or problems
 inherent in use of the Internet and electronic communications or other systems
 outside Miro’s control.**
 
-###  **11\. Term and Termination**.
+### **11\. Term and Termination**.
 
 11.1. _Term_. This Agreement starts on the Effective Date and shall continue
 to apply until all Orders have expired or been terminated in accordance with
@@ -324,7 +324,7 @@ Agreement: 2.7 (Restrictions), 4.4 (Data Export), 5 (Customer Obligations),
 remedy under this Agreement, including termination, does not limit other
 remedies a party may have.
 
- **12\. Ownership**. Neither party grants the other any rights or licenses not
+**12\. Ownership**. Neither party grants the other any rights or licenses not
 expressly set out in this Agreement. Except for Miro’s use rights in this
 Agreement, between the parties Customer retains all intellectual property and
 other rights in Customer Content and Customer Materials provided to Miro.
@@ -342,26 +342,26 @@ Customer Content or reference Customer as the source.
 
 ### **13\. Limitations of Liability**.
 
-13.1. **_Exclusions of Liability_** **. Subject to Section 13.3, neither party
+13.1. **_Exclusions of Liability_****. Subject to Section 13.3, neither party
 (nor its suppliers) will have any liability arising out of or related to this
 Agreement for any loss of use, lost data, lost profits, lost revenues, loss of
 goodwill, interruption of business or for any indirect, special, incidental,
 reliance, or consequential damages of any kind, even if informed of their
 possibility in advance.**
 
-13.2. **_Liability Cap_** **. Subject to Section 13.3, each party’s entire
+13.2. **_Liability Cap_****. Subject to Section 13.3, each party’s entire
 aggregate liability arising out of or related to this Agreement will not
 exceed in the aggregate the amounts paid or payable by Customer to Miro during
 the prior 12 months under this Agreement.**
 
-13.3. **_Uncapped Claims_** **. Nothing in Section 13.1 or 13.2 shall be taken
+13.3. **_Uncapped Claims_****. Nothing in Section 13.1 or 13.2 shall be taken
 to limit or exclude either party’s liability for (a) breach of Section 2.7
 (Restrictions), (b) indemnification obligations in Section 14
 (Indemnification), (c) a party’s infringement, misappropriation, or violation
 of the other party’s intellectual property rights, (d) willful misconduct or
 (e) death, personal injury, or damage to tangible property.**
 
-13.4. **_Nature of Claims and Failure of Essential Purpose_** **. The waivers
+13.4. **_Nature of Claims and Failure of Essential Purpose_****. The waivers
 and limitations in this Section 13 (Limitation of Liability) apply regardless
 of the form of action, whether in contract, tort (including negligence),
 strict liability or otherwise and will survive and apply even if any limited
@@ -370,7 +370,7 @@ limitations set forth in this Section 13, there shall be no limit to either
 party’s liability arising out of Customer’s payment obligations or liability
 which cannot be excluded or limited under applicable law.**
 
-###  **14\. Indemnification**.
+### **14\. Indemnification**.
 
 14.1. _Indemnification by Miro_. Miro will (a) defend Customer from and
 against any unrelated third-party claim (“Claim”) to the extent alleging that
@@ -379,7 +379,7 @@ secret, and (b) indemnify and hold harmless Customer against any damages or
 costs finally awarded against Customer (including reasonable attorneys’ fees)
 or agreed in settlement by Miro resulting from the Claim.
 
-14.2. _Indemnification by Customer_ **.** Customer will (a) defend Miro from
+14.2. _Indemnification by Customer_**.** Customer will (a) defend Miro from
 and against any unrelated third-party claim to the extent resulting from
 Customer Content, Customer Materials (if applicable), or Customer’s breach or
 alleged breach of Section 5 (Customer Obligations), and (b) indemnify and hold
@@ -387,7 +387,7 @@ harmless Miro against any damages or costs finally awarded against Miro
 (including reasonable attorneys’ fees) or agreed in settlement by Customer
 resulting from the Claim.
 
-14.3. _Procedures_ **.** The indemnifying party’s obligations in this Section
+14.3. _Procedures_**.** The indemnifying party’s obligations in this Section
 14 are subject to receiving (a) prompt notice of the claim, provided, the
 right to indemnity shall not be affected by a failure or delay by the
 indemnified party in giving notice, unless the rights and remedies of the
@@ -426,9 +426,9 @@ other free or evaluation. **Sections 14.1 and 14.4 set forth Customer’s
 exclusive remedy and Miro’s entire liability regarding infringement of third-
 party intellectual property rights.**
 
-###  **15\. Confidentiality**.
+### **15\. Confidentiality**.
 
-15.1. _Definition_. “ **Confidential Information** ” means information
+15.1. _Definition_. “**Confidential Information** ” means information
 disclosed to the receiving party under this Agreement that is designated by
 the disclosing party as proprietary or confidential or that should be
 reasonably understood to be proprietary or confidential due to its nature and
@@ -468,10 +468,10 @@ Information, if required by Law, subpoena, or court order, provided (if
 permitted by Law) it notifies the other party in advance and cooperates in any
 effort to obtain confidential treatment.
 
-###  **16\. Trials and Betas**.
+### **16\. Trials and Betas**.
 
 If Customer receives access to the Services or Service features on a free or
-trial basis or as an alpha, beta, or early access offering (“ **Trials and
+trial basis or as an alpha, beta, or early access offering (“**Trials and
 Betas** ”), use is permitted only for Customer’s internal evaluation during
 the period designated by Miro (or if not designated, 30 days). Trials and
 Betas are optional and either party may terminate participation or discontinue
@@ -481,7 +481,7 @@ separately release, or never release. Trials and Betas and their features and
 performance metrics comprise Miro Confidential Information. **Notwithstanding
 anything else in this Agreement, Miro provides Trials and Betas “AS IS.”**
 
-###  **17\. General Terms**.
+### **17\. General Terms**.
 
 17.1. _Assignment_. Except as otherwise set forth in this Agreement, neither
 party may assign this Agreement without the prior consent of the other party,
@@ -597,16 +597,16 @@ information controlled under the U.S. International Traffic in Arms
 Regulations.
 
 17.13. _Open Source_. The Software may incorporate third-party open source
-software (“ **OSS** ”), as listed in the Documentation or by Miro upon
-request. To the extent required by the OSS license, that license will apply to
-the OSS on a stand-alone basis instead of this Agreement. Customer’s internal
-use of the unmodified Software as authorized in this Agreement will not
-require Customer to comply with the terms of the OSS licenses.
+software (“**OSS** ”), as listed in the Documentation or by Miro upon request.
+To the extent required by the OSS license, that license will apply to the OSS
+on a stand-alone basis instead of this Agreement. Customer’s internal use of
+the unmodified Software as authorized in this Agreement will not require
+Customer to comply with the terms of the OSS licenses.
 
-17.14. _Insurance_ **.** During the Subscription Term, Miro will carry
-industry standard insurance, (e.g. General Commercial Liability, Errors and
-Omissions (including Cyber), Worker’s Compensation), appropriate for the
-Services provided hereunder.
+17.14. _Insurance_**.** During the Subscription Term, Miro will carry industry
+standard insurance, (e.g. General Commercial Liability, Errors and Omissions
+(including Cyber), Worker’s Compensation), appropriate for the Services
+provided hereunder.
 
 17.15. _Government End-Users_. This section is applicable to U.S. government
 Users only. Elements of the Services are commercial computer software. If the
@@ -619,9 +619,9 @@ Regulation 12.212 for civilian purposes and Defense Federal Acquisition
 Regulation Supplement 227.7202 for military purposes. The SaaS Service was
 developed fully at private expense. All other use is prohibited.
 
-###  **18\. Definitions**.
+### **18\. Definitions**.
 
-“ **Affiliate** ” means an entity that, directly or indirectly, owns or
+“**Affiliate** ” means an entity that, directly or indirectly, owns or
 controls, is owned or controlled by, or is under common ownership or control
 with a party, where “ownership” means the beneficial ownership of fifty
 percent (50%) or more of an entity’s voting equity securities or other
@@ -631,52 +631,51 @@ management or affairs of an entity.
 **" Agreement"** means this MCA together with all Orders, exhibits, Policies,
 and the DPA.
 
-“ **Board** ” means an online workspace or other element of the SaaS Service
+“**Board** ” means an online workspace or other element of the SaaS Service
 displaying Customer Content.
 
-“ **Customer Content** ” means any data, content, or materials that Customer
+“**Customer Content** ” means any data, content, or materials that Customer
 (including its Users) submits to or creates within the SaaS Services
 (including through the use of any recording functionality provided as part of
 the SaaS Service) including from Third-Party Platforms.
 
-“ **Customer Materials** ” means materials, systems, and other resources that
+“**Customer Materials** ” means materials, systems, and other resources that
 Customer provides to Miro in connection with Technical Services.
 
-“ **DPA** ” means the Data Processing Addendum between the parties, the
-current version of which is at [https://miro.com/legal/customer-data-
-processing-addendum/](https://miro.com/legal/customer-data-processing-
-addendum/).
+“**DPA** ” means the Data Processing Addendum between the parties, the current
+version of which is at [https://miro.com/legal/customer-data-processing-
+addendum/](https://miro.com/legal/customer-data-processing-addendum/).
 
-“ **Documentation** ” means Miro’s usage guidelines and standard technical
+“**Documentation** ” means Miro’s usage guidelines and standard technical
 documentation for the Service, the current version of which is at
 [https://help.miro.com/hc](https://help.miro.com/hc).
 
-“ **High-Risk Activities** ” means activities where use or failure of the
+“**High-Risk Activities** ” means activities where use or failure of the
 Services could lead to death, personal injury, or environmental damage,
 including life support systems, emergency services, nuclear facilities,
 autonomous vehicles, or air traffic control.
 
-“ **Laws** ” means all local, state, federal and international laws,
+“**Laws** ” means all local, state, federal and international laws,
 regulations, and conventions, including those related to data privacy and data
 transfer, international communications, and export of technical or personal
 data applicable to Miro and Customer in their respective use and provision of
 the Services.
 
-“ **Order** ” means an order for access to and/or provision of Services that
+“**Order** ” means an order for access to and/or provision of Services that
 references this MCA, that is executed by the Customer and accepted by Miro.
 
-“ **Policies** ” means the Privacy Policy, Security Policy, Support Policy,
-and SLA.
+“**Policies** ” means the Privacy Policy, Security Policy, Support Policy, and
+SLA.
 
-“ **Privacy Policy** ” means the Privacy Policy, the current version of which
+“**Privacy Policy** ” means the Privacy Policy, the current version of which
 is at [https://miro.com/legal/privacy-policy/](https://miro.com/legal/privacy-
 policy/)
 
-“ **Prohibited Data** ” means any (a) special categories of data enumerated in
+“**Prohibited Data** ” means any (a) special categories of data enumerated in
 European Union Regulation 2016/679, Article 9(1) or any successor legislation,
 (b) patient, medical or other protected health information regulated by the
 Health Insurance Portability and Accountability Act (as amended and
-supplemented) (“ **HIPAA** ”), (c) credit, debit or other payment card data
+supplemented) (“**HIPAA** ”), (c) credit, debit or other payment card data
 subject to the Payment Card Industry Data Security Standards (PCI DSS), (d)
 other information subject to privacy regulation or protection under specific
 Laws such as the Children’s Online Privacy Protection Act or related rules or
@@ -684,12 +683,12 @@ regulations, I social security numbers, driver’s license numbers or other
 government ID numbers or (f) any medical data, financial data, data about
 minors, or other sensitive personal data protected under Laws.
 
- **“Reseller”** means a third party that (i) has a valid agreement with Miro
+**“Reseller”** means a third party that (i) has a valid agreement with Miro
 governing its provision of reseller services (including without limitation
 billing agent services) to Miro and (ii) has been authorized by Miro to resell
 (or act as billing agent with regard to) the Services.
 
- **“SaaS Service”** means Miro’s proprietary cloud service, as identified in
+**“SaaS Service”** means Miro’s proprietary cloud service, as identified in
 the relevant Order and as modified from time to time by Miro. The SaaS Service
 includes the Software and Documentation but does not include any Technical
 Services deliverables or Third-Party Platforms“
@@ -698,46 +697,46 @@ Services deliverables or Third-Party Platforms“
 European Union and their respective governmental, judicial, or regulatory
 institutions, agencies, departments, and authorities.
 
- **" Security Policy**” means the Miro Security Policy, the current version of
+**" Security Policy**” means the Miro Security Policy, the current version of
 which is available at [https://miro.com/legal/documents/Miro-Security-
 Policy.pdf](https://miro.com/legal/documents/Miro-Security-Policy.pdf)
 
-“ **Services** ” means the SaaS Services, the Technical Services, and any
-other services Miro may provide to Customer under this Agreement.
+“**Services** ” means the SaaS Services, the Technical Services, and any other
+services Miro may provide to Customer under this Agreement.
 
-“ **SLA** ” means the Miro Service Level Agreement, the current version of
+“**SLA** ” means the Miro Service Level Agreement, the current version of
 which is at [https://miro.com/legal/documents/Miro-Service-Level-
 Agreement.pdf](https://miro.com/legal/documents/Miro-Service-Level-
 Agreement.pdf).
 
-“ **Software** ” means any Miro client software, scripts, apps, or other code
+“**Software** ” means any Miro client software, scripts, apps, or other code
 provided to Customer by Miro for use with the Service.
 
-“ **Subscription Term** ” means the term for Customer’s use of the SaaS
-Service as identified in an Order.
+“**Subscription Term** ” means the term for Customer’s use of the SaaS Service
+as identified in an Order.
 
-“ **Support** ” means support for the SaaS Service provided to Customer as
+“**Support** ” means support for the SaaS Service provided to Customer as
 described in the Support Policy. Customer will receive support at no
 additional cost. If Customer elects to purchase enhanced or premium support,
 this will be identified in the applicable Order.
 
-“ **Support Policy** ” means the Miro Support Policy, the current version of
+“**Support Policy** ” means the Miro Support Policy, the current version of
 which is at [https://miro.com/legal/documents/Miro-Support-
 Policy.pdf](https://miro.com/legal/documents/Miro-Support-Policy.pdf)
 
-“ **Technical Services** ” means any training, enablement or other technical
+“**Technical Services** ” means any training, enablement or other technical
 services provided by Miro related to the SaaS Service, as identified in an
 Order.
 
-“ **Third-Party Platform** ” means any platform, add-on, service, product,
-app, or integration not provided by Miro that Customer elects to integrate or
+“**Third-Party Platform** ” means any platform, add-on, service, product, app,
+or integration not provided by Miro that Customer elects to integrate or
 enable for use with the Services.
 
-“ **Usage Data** ” means data relating to Customer’s use and consumption of
-the Services including Miro’s technical logs, data, and learnings about
-Customer’s use of the Services, but excluding Customer Content.
+“**Usage Data** ” means data relating to Customer’s use and consumption of the
+Services including Miro’s technical logs, data, and learnings about Customer’s
+use of the Services, but excluding Customer Content.
 
-“ **User** ” means any individual aged 16 or older who Customer permits or
+“**User** ” means any individual aged 16 or older who Customer permits or
 invites to access and use the SaaS Service as further described in the
 Documentation, which may include Customer’s and its Affiliates’ employees,
 consultants, contractors or other third parties.
