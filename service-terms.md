@@ -1212,84 +1212,12 @@ set out in the table below. Notwithstanding the foregoing, Amazon Web
 Services, Inc. continues to be the invoicing party for third party products
 that are resold by Amazon Web Services, Inc. on AWS Marketplace.  
 
-**Account Country**
-
-|
-
-**AWS Contracting Party**
-
-|
-
-**Facsimile**
-
-|
-
-**Mailing Address**  
-  
+**Account Country** | **AWS Contracting Party** | **Facsimile** | **Mailing Address**  
 ---|---|---|---  
-  
-Australia
-
-(w.e.f. 1 October 2022)
-
-|
-
-Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891)
-
-|
-
-N/A
-
-|
-
-Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
-  
-Japan
-
-(w.e.f. 1 October 2022)
-
-|
-
-Amazon Web Services Japan G.K.
-
-|
-
-N/A
-
-|
-
-1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
-  
-The countries within Europe, the Middle East, and Africa (except South Africa
-and Turkey) listed at1: <https://aws.amazon.com/legal/aws-emea-countries/>
-
-(w.e.f. 1 January 2022)
-
-|
-
-Amazon Web Services EMEA SARL
-
-|
-
-352 2789 0057
-
-|
-
-38 Avenue John F. Kennedy, L-1855, Luxembourg  
-  
-Any other country that is not listed in this table above
-
-|
-
-Amazon Web Services, Inc.
-
-|
-
-206-266-7010
-
-|
-
-410 Terry Avenue North,  
+Australia (w.e.f. 1 October 2022) | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
+Japan (w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
+The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: <https://aws.amazon.com/legal/aws-emea-countries/> (w.e.f. 1 January 2022) | Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg  
+Any other country that is not listed in this table above | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  
 Seattle, WA 98109-5210  
 U.S.A.  
   
@@ -1841,7 +1769,7 @@ conducting automated security verification.
 
 ####  36\. Amazon OpenSearch Service
 
-Amazon OpenSearch ** ~~~~**Service creates daily automated snapshots of your
+Amazon OpenSearch**~~~~**Service creates daily automated snapshots of your
 Amazon OpenSearch Service domains. We will maintain these automated snapshots
 for a period of at least 14 days after they are created. We may delete
 automated snapshots at any time after 14 days.  
@@ -2460,8 +2388,8 @@ Generative AI Output to you. “Generative AI Output” means output generated b
 a generative artificial intelligence model in response to inputs or other data
 provided by you. “Indemnified Generative AI Services” means, collectively,
 generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon
-Nova Pro, Amazon Nova Canvas, Amazon Nova Reel **,** Amazon Titan Text
-Express, Amazon Titan Text Lite, Amazon Titan Text Premier, Amazon Titan Text
+Nova Pro, Amazon Nova Canvas, Amazon Nova Reel**,** Amazon Titan Text Express,
+Amazon Titan Text Lite, Amazon Titan Text Premier, Amazon Titan Text
 Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator,
 AWS HealthScribe, Amazon Personalize, Amazon Q (including Amazon Q Developer
 Pro in-line code suggestions previously known as Amazon CodeWhisperer
@@ -2530,7 +2458,7 @@ automated abuse detection mechanisms designed to detect harmful content,
 including related to potential violations of our or third-party model
 providers’ terms of service or acceptable use policies. If these mechanisms
 detect apparent child sexual abuse material, you agree and instruct that we
-may report the incident **** to the National Center for Missing and Exploited
+may report the incident**** to the National Center for Missing and Exploited
 Children or other authority. In addition, we may share information, that does
 not include Your Content, about your use of a third-party model on Amazon
 Bedrock with the provider of that third-party model. See
@@ -2565,9 +2493,9 @@ terms apply:
   * To the extent permitted by applicable law, and except with respect to Mistral’s indemnity obligations to you: Mistral will not be liable for any indirect, special, incidental, punitive, exemplary or consequential damages (including real or alleged loss of revenues) or any liabilities, damages and costs incurred by you in the case of: (i) a force majeure event; (ii) any cause not attributable to Mistral; or (iii) output of a Mistral Model being similar or identical to any other customer’s output; and for any such claims Mistral’s liability to you will be limited to the lower of the aggregate payments you made to AWS for your use of the Mistral Models in the immediately preceding 4 months and EUR 10,000, except for Mistral’s open source models where the maximum liability will be the lower of 1 month of payments and EUR 1,000.
   * You will defend, indemnify, and hold harmless Mistral, its affiliates, and its licensors from and against any losses arising out of a third-party claim caused by: (a) your use of the Mistral Models in violation of this section 50.12.5; (b) your application (if any); and (c) by any finetuned, refined, customized or modified Mistral Model where the claim would not have arisen but for this fine-tuning, refinement, customization, or modification.
 
-**50.12.6.**   **Llama 3, Llama 3.1, and Llama 3.2 on Bedrock**. Llama 3,
-Llama 3.1, and Llama 3.2 are trained and developed by Meta Platforms, Inc. and
-Meta Platforms Ireland Limited (collectively, **“Meta”** ) and is Third-Party
+**50.12.6.**  **Llama 3, Llama 3.1, and Llama 3.2 on Bedrock**. Llama 3, Llama
+3.1, and Llama 3.2 are trained and developed by Meta Platforms, Inc. and Meta
+Platforms Ireland Limited (collectively, **“Meta”**) and is Third-Party
 Content. If you use Llama 3 on Bedrock (excluding Amazon Bedrock Marketplace)
 then the following additional terms apply:
 <https://llama.meta.com/llama3/license/>. If you use Llama 3.1 on Bedrock then
@@ -2644,7 +2572,7 @@ these features.
 ####  53\. Amazon Chime and Amazon Chime SDK
 
 **53.1.** In this section, “Amazon Chime” includes Amazon Chime and Amazon
-Chime SDK. ****
+Chime SDK.****
 
 **53.2.** End Users.
 
@@ -3234,7 +3162,7 @@ applicable laws, policies, terms or conditions governing your payment of up-
 front fees, including any fiscal or appropriation laws, or other policies or
 restrictions governing up-front payments for goods or services.
 
-**60.8.  **Amazon SageMaker Studio Lab ****
+**60.8.  **Amazon SageMaker Studio Lab****
 
 **60.8.1.** You acknowledge that we may store your Content that is processed
 by Amazon SageMaker Studio Lab in AWS regions outside the AWS region where you
@@ -3942,8 +3870,8 @@ Industrial AI Services with the AWS Mobile SDKs.
 **82.1.** When you use a feature of Amazon Location Service that is identified
 to you as being provided by a third-party geolocation service provider listed
 [here](https://aws.amazon.com/location/data-providers/) (each such feature,
-including Maps, Places, and Routing, a “ **Geolocation Provider Feature** ,”
-and each such provider, a " **Geolocation Provider** ”), you authorize AWS to
+including Maps, Places, and Routing, a “**Geolocation Provider Feature** ,”
+and each such provider, a "**Geolocation Provider** ”), you authorize AWS to
 transmit your request parameters (e.g., location searches) to the Geolocation
 Provider for processing which may be outside of the AWS region in which your
 request was made. However, any Open Data requests will be processed by AWS in
@@ -4024,8 +3952,8 @@ personnel, or other assets that you use in your business).
 or illegal activities, including any use in, or association with, any
 hazardous environments or critical systems that may lead to serious bodily
 injury or death or cause environmental or property damage. You are solely
-responsible for all liability that may arise in connection with any such use.
-**  
+responsible for all liability that may arise in connection with any such
+use.**  
 **
 
 **82.8.** We may suspend or terminate your access to, or limit your use of,
@@ -4480,7 +4408,7 @@ facility at which Amazon One Enterprise Devices are installed and located
 (“Facility”) meets any requirements necessary to support the installation,
 maintenance, use, and removal of Amazon One Enterprise Devices as described in
 any Amazon One Enterprise Devices technical documentation or indicated to you
-during the ordering and installation process. **** You are responsible for any
+during the ordering and installation process.**** You are responsible for any
 damage to Amazon One Enterprise Devices at the Facility. The Amazon One
 Enterprise Device Terms of Use govern your purchase and use of Amazon One
 Enterprise Devices.
@@ -4522,7 +4450,7 @@ AWS and owned by AWS. You understand and agree that you and your End Users
 will not have any access to Palm Data, and you agree to notify your End Users
 of this before they use any Amazon One Enterprise Device.
 
-**101**. **5.**  Your use of Amazon One Enterprise Services is subject to
+**101**.**5.**  Your use of Amazon One Enterprise Services is subject to
 additional [Biometric Notice and Consent Service
 Terms](https://aws.amazon.com/legal/biometric-notice-and-consent-terms).
 
@@ -4572,7 +4500,7 @@ the device terms before using an Amazon WorkSpaces Thin Client device.
 ####  103\. AWS Deadline Cloud
 
 **103.1**. When you use AWS Deadline Cloud, you have the option to license
-digital content creation software (“ **DCC Software** ”) from separate third-
+digital content creation software (“**DCC Software** ”) from separate third-
 party providers. DCC Software is Third-Party Content.  If you elect to use DCC
 Software, you agree that AWS is not a party to any agreement between you and
 any DCC Software provider governing your use of the DCC Software, AWS is not

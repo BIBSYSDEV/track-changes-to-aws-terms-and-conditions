@@ -9,14 +9,14 @@
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
-This AWS Customer Agreement (this “ **Agreement** ”) contains the terms and
+This AWS Customer Agreement (this “**Agreement** ”) contains the terms and
 conditions that govern your access to and use of the Services (as defined
 below) and is an agreement between the applicable AWS Contracting Party
-specified in Section 12 below (also referred to as “ **AWS** ,” “ **we** ,” “
-**us** ,” or “ **our** ”) and you or the entity you represent (“ **you** ” or
-“ **your** ”). This Agreement takes effect when you click an “I Accept” button
+specified in Section 12 below (also referred to as “**AWS** ,” “**we** ,”
+“**us** ,” or “**our** ”) and you or the entity you represent (“**you** ” or
+“**your** ”). This Agreement takes effect when you click an “I Accept” button
 or check box presented with these terms or, if earlier, when you use any of
-the Services (the “ **Effective Date** ”). You represent to us that you are
+the Services (the “**Effective Date** ”). You represent to us that you are
 lawfully able to enter into contracts (e.g., you are not a minor). If you are
 entering into this Agreement for an entity, such as the company you work for,
 you represent to us that you have legal authority to bind that entity. Please
@@ -846,87 +846,21 @@ identified with a different AWS Contracting Party, you agree that the AWS
 Contracting Party identified with your new Account Country is your AWS
 Contracting Party, without any further action required by either party.  
 
-**Account Country**
-
-|
-
-**AWS Contracting Party**
-
-|
-
-**Facsimile**
-
-|
-
-**Mailing Address**  
-  
+**Account Country** | **AWS Contracting Party** | **Facsimile** | **Mailing Address**  
 ---|---|---|---  
-Australia | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A
-| Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
-  
-Brazil*
-
-|
-
-Amazon AWS Serviços Brasil Ltda.
-
-|
-
-N/A
-
-| A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors,
-Vila Nova Conceicao, São Paulo, Brasil  
-Canada | Amazon Web Services Canada, Inc. | N/A | 120 Bremner Blvd, 26th
-Floor, Toronto, Ontario, M5J 0A8, Canada  
-India |
-
-Amazon Web Services India Private Limited (formerly known as Amazon Internet
-Services Private Limited), having its registered office at Unit Nos. 1401 to
-1421 International Trade Tower, Nehru Place, New Delhi 110019, India
-
-| 011-47985609 |
-
-Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019,
-India.  
-  
-Japan | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome,
-Shinagawa-ku, Tokyo, 141-0021, Japan  
-  
-Malaysia
-
-| Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710
-(1154031-W)) | N/A | Level 26 & Level 35, The Gardens North Tower, Lingkaran
-Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
-New Zealand  | Amazon Web Services New Zealand Limited | N/A | Level 5, 18
-Viaduct Harbour Ave, Auckland, 1010, New Zealand  
-Singapore | Amazon Web Services Singapore Private Limited | N/A | Level 2,
-East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore
-018916  
-  
-South Africa
-
-|
-
-Amazon Web Services South Africa Proprietary Limited
-
-|
-
-206-266-7010
-
-|
-
-Wembley Square 2, 134 Solan Road, Gardens, Cape Town, 8001, South Africa  
-  
-South Korea | Amazon Web Services Korea LLC | N/A | L12, East tower, 231,
-Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
-Türkiye | AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited
-Şirketi | N/A | Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand
-Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
-Any country within Europe, the Middle East, or Africa (excluding South Africa)
-("EMEA")** |  Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John
-F. Kennedy, L-1855, Luxembourg  
-Any country that is not listed in this table above. | Amazon Web Services,
-Inc. | 206-266-7010 | 410 Terry Avenue North,  
+Australia | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
+Brazil* | Amazon AWS Serviços Brasil Ltda.  | N/A | A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, São Paulo, Brasil   
+Canada | Amazon Web Services Canada, Inc. | N/A | 120 Bremner Blvd, 26th Floor, Toronto, Ontario, M5J 0A8, Canada  
+India | Amazon Web Services India Private Limited (formerly known as Amazon Internet Services Private Limited), having its registered office at Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, New Delhi 110019, India | 011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India.  
+Japan | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
+Malaysia | Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) | N/A | Level 26 & Level 35, The Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
+New Zealand  | Amazon Web Services New Zealand Limited | N/A | Level 5, 18 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
+Singapore | Amazon Web Services Singapore Private Limited | N/A | Level 2, East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916  
+South Africa | Amazon Web Services South Africa Proprietary Limited  | 206-266-7010 | Wembley Square 2, 134 Solan Road, Gardens, Cape Town, 8001, South Africa   
+South Korea | Amazon Web Services Korea LLC | N/A | L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
+Türkiye | AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi | N/A | Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
+Any country within Europe, the Middle East, or Africa (excluding South Africa) ("EMEA")** |  Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg  
+Any country that is not listed in this table above. | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  
 Seattle, WA 98109-5210  
 U.S.A.  
   
@@ -958,58 +892,21 @@ Content under their own AWS account, rather than under your account.
 "Governing Laws" and “Governing Courts” mean, for each AWS Contracting Party,
 the laws and courts set forth in the following table:  
 
-**AWS Contracting Party**
-
-|
-
-**Governing Laws**
-
-|
-
-**Governing Courts**  
-  
+**AWS Contracting Party** | **Governing Laws** | **Governing Courts**  
 ---|---|---  
-Amazon AWS Serviços Brasil Ltda | The laws of Brazil |
-
-The courts of the City of São Paulo, State of São Paulo  
-  
-Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | The laws of New
-South Wales | The courts of New South Wales  
-Amazon Web Services Canada, Inc. | The laws of the Province of Ontario, Canada
-and federal laws of Canada applicable therein | The provincial or federal
-courts located in Toronto, Ontario, Canada  
-  
-Amazon Web Services EMEA SARL
-
-|
-
-The laws of the Grand Duchy of Luxembourg
-
-|
-
-The courts in the district of Luxembourg City  
-  
-Amazon Web Services, Inc. | The laws of the State of Washington | The state or
-Federal courts in King County, Washington  
-Amazon Web Services India Private Limited (AWS India) | The laws of India |
-The courts in New Delhi, India  
+Amazon AWS Serviços Brasil Ltda | The laws of Brazil | The courts of the City of São Paulo, State of São Paulo  
+Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | The laws of New South Wales | The courts of New South Wales  
+Amazon Web Services Canada, Inc. | The laws of the Province of Ontario, Canada and federal laws of Canada applicable therein | The provincial or federal courts located in Toronto, Ontario, Canada  
+Amazon Web Services EMEA SARL | The laws of the Grand Duchy of Luxembourg | The courts in the district of Luxembourg City  
+Amazon Web Services, Inc. | The laws of the State of Washington | The state or Federal courts in King County, Washington  
+Amazon Web Services India Private Limited (AWS India) | The laws of India | The courts in New Delhi, India   
 Amazon Web Services Japan G.K. | The laws of Japan | The Tokyo District Court  
-Amazon Web Services Korea LLC | The laws of the State of Washington | The
-state or Federal courts in King County, Washington  
-Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710
-(1154031-W)) | The laws of Malaysia | The courts of Malaysia  
-Amazon Web Services New Zealand Limited | The laws of New Zealand | The courts
-of New Zealand  
-Amazon Web Services Singapore Private Limited |
-
-The laws of the State of Washington
-
-| The state or Federal courts in King County, Washington  
-Amazon Web Services South Africa Proprietary Limited | The laws of the
-Republic of South Africa | The South Gauteng High Court, Johannesburg  
-AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi | The
-laws of the Grand Duchy of Luxembourg | The courts in the district of
-Luxembourg City  
+Amazon Web Services Korea LLC | The laws of the State of Washington | The state or Federal courts in King County, Washington  
+Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) | The laws of Malaysia | The courts of Malaysia  
+Amazon Web Services New Zealand Limited | The laws of New Zealand | The courts of New Zealand  
+Amazon Web Services Singapore Private Limited | The laws of the State of Washington | The state or Federal courts in King County, Washington  
+Amazon Web Services South Africa Proprietary Limited | The laws of the Republic of South Africa | The South Gauteng High Court, Johannesburg  
+AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi | The laws of the Grand Duchy of Luxembourg | The courts in the district of Luxembourg City  
   
 
 
