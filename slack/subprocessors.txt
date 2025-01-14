@@ -1,5 +1,5 @@
 Salesforce Infrastructure and Sub-processors
-Published: December 17, 2024
+Published: January 13, 2025
 
 Scope
 This documentation describes the infrastructure environment, sub-processors and certain other entities material to the services and managed
@@ -33,7 +33,7 @@ detailing how, and for what features, each infrastructure is used.
 1 Rights of ALBERT EINSTEIN are used with permission of The Hebrew University of Jerusalem. Represented exclusively by Greenlight.
 
 1
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Sub-processor Notifications
@@ -68,7 +68,7 @@ redirected to another data center in the same region, if necessary, to maintain 
 redirect to another EMEA data center. Temporary developer testing environments branded as “Scratch Orgs” may be provisioned in a different Salesforceoperated data center from a Customer’s instance of the Covered Services, but within the same region as such instance. Scratch Orgs created by public cloud
 Customers reside within the Public Cloud Infrastructure.
 2
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Content Delivery Networks (“CDNs”)
@@ -93,7 +93,7 @@ Hyperforce is Salesforce’s next-generation infrastructure foundation for deplo
 Please see the charts below for available locations for individual Covered Services.
 
 3
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Support For All Services
@@ -155,7 +155,7 @@ salesforce.com Sarl
 Thailand
 4
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Salesforce.com (Thailand)
@@ -220,7 +220,7 @@ South Korea
 France
 5
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Germany
@@ -253,7 +253,7 @@ Ireland
 United Kingdom
 
 6
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Provider of generative artificial
@@ -302,7 +302,7 @@ United Kingdom
 Germany
 7
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Sweden
@@ -347,7 +347,7 @@ refers to the version of Order Management released
 prior to February 19, 2020.
 
 8
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Customer Data is hosted in one of the following
@@ -412,7 +412,7 @@ CloudFront and then the customer’s CDN.
 Germany
 9
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider for Commerce Cloud Einstein.
@@ -490,7 +490,7 @@ Australia
 Germany
 
 10
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Additional Hosting Provider for Trade Promotion Google, Inc.
@@ -536,11 +536,7 @@ Prediction Builder. For these SKUs, also see infrastructure details for Einstein
 SKUs that are branded “Intelligence”, such as Manufacturing Cloud Intelligence, include certain features of Sales Cloud Einstein as well. For these
 SKUs, also see infrastructure details for Sales Cloud Einstein.
 
-11
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Customer 360 Data Manager
+Customer 360 Data Manager
 Purpose of Processing
 
 Sub-processors
@@ -554,7 +550,11 @@ Additional Details
 
 United States
 
-Kabushiki Kaisha
+11
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Kabushiki Kaisha
 Japan
 salesforce Japan, also
 known as Salesforce
@@ -597,12 +597,9 @@ Japan, Singapore, or South Korea may be eligible to have
 an instance of Customer Data Cloud provisioned to
 Japan. See here and here for further information.
 
-12
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-England
-
+England
+United Kingdom
+Canada
 Provider of generative artificial intelligence
 services.
 
@@ -610,7 +607,11 @@ OpenAI, L.L.C.
 
 United States
 
-CDN for all functionality.
+12
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+CDN for all functionality.
 
 Akamai Technologies, Global
 Inc.
@@ -645,16 +646,16 @@ Canada
 Australia
 India
 Japan
-13
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Singapore
+Singapore
 South Korea
 France
 Germany
-Sweden
+13
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Sweden
 United Kingdom
 Provider of generative artificial
 intelligence services.
@@ -698,6 +699,8 @@ Japan
 Germany
 Ireland
 
+Brazil
+
 Additional Details
 If a Customer enables NLP functionality for Bots and has
 Salesforce Services data stored in the EMEA region, then
@@ -708,22 +711,21 @@ some related Customer Data will be stored in Japan,
 India or the United States.
 If a Customer enables NLP functionality for Bots and has
 Salesforce Services data stored outside of EMEA or
-14
+APAC, then some related Customer Data will be stored
+in the United States.
+Following June 2023, Customer’s Einstein Bots data may
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+14
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-APAC, then some related Customer Data will be stored
-in the United States.
-Brazil
-Canada
+Canada
 France
 India
 Singapore
 South Korea
 Sweden
 
-Following June 2023, Customer’s Einstein Bots data may
 be processed in one of these specified locations if
 Customer’s Salesforce Services org is in or near the
 location.
@@ -744,13 +746,20 @@ United Kingdom
 Einstein Conversation Insights
 See infrastructure details for Salesforce Services.
 Purpose of Processing
+
+Sub-processors
+
 Hosting Provider for all functionality.
 Customer Data is hosted in Europe if the
 Customer’s Salesforce Services org is in
 Europe. Otherwise, Customer Data is hosted
 in the United States.
 
-Sub-processors
+Amazon Web
+Services, Inc.
+
+Service provider of transcription services.
+
 Amazon Web
 Services, Inc.
 
@@ -764,19 +773,14 @@ If Customer enables Einstein Conversation Insights,
 some related Customer Data will be stored in the United
 States regardless of where Customer’s Sales Cloud data
 is located.
-15
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Service provider of transcription services.
-
-Amazon Web
-Services, Inc.
 
 United States
 
-Einstein Conversation Mining
+15
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Einstein Conversation Mining
 Purpose of Processing
 Hosting Provider for all functionality.
 
@@ -810,11 +814,7 @@ Additional Details
 Amazon Web Services, United States
 Inc.
 
-16
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Einstein Relationship Insights
+Einstein Relationship Insights
 Purpose of Processing
 
 Sub-processors
@@ -835,7 +835,11 @@ Additional Details
 
 United States
 
-Emergency Program Management
+16
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Emergency Program Management
 Emergency Program Management is a managed package that runs on top of Salesforce Services–see infrastructure details for Salesforce Services.
 
 Employee Productivity
@@ -864,17 +868,16 @@ United Kingdom
 Canada
 India
 Australia
-17
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Japan
+Japan
 
 Enablement (including Enablement Lite)
 See infrastructure details for Salesforce Services.
 
-Enhanced Messaging
+17
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Enhanced Messaging
 Enhanced Messaging works as an add-on to Sales Cloud and Service Cloud, and uses the Sales Cloud and Service Cloud infrastructure—see
 infrastructure details for Salesforce Services. Additional sub-processors for this Service are:
 Purpose of Processing
@@ -899,12 +902,8 @@ Japan
 South Korea
 India
 Singapore
-18
+Ireland
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Ireland
 Service and hosting provider used for
 transmission and conversation storage
 services.
@@ -914,7 +913,12 @@ Amazon Web Services, Inc.
 United States
 Brazil
 Canada
-Germany
+18
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Germany
 France
 Sweden
 United Kingdom
@@ -928,11 +932,7 @@ Feedback Management
 See infrastructure details for Salesforce Services. Some Customers who purchase Feedback Management may have access to CRM Analytics; for
 Customers who use this functionality, see infrastructure details for CRM Analytics.
 
-19
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Financial Services Cloud
+Financial Services Cloud
 Financial Services Cloud (including Digital Lending) see infrastructure details for Salesforce Services. Einstein Activity Capture for Financial Services
 Cloud–see infrastructure details for Salesforce Services. Financial Services Cloud also includes features that may use the Einstein Generative AI
 Services, please see the infrastructure details for these features. Some Customers who purchase Financial Services Cloud have access to Salesforce
@@ -955,7 +955,11 @@ Generation feature. Customer Data is hosted
 Canada
 in one of the following regions.
 Australia
-India
+19
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+India
 Japan
 Singapore
 South Korea
@@ -972,12 +976,8 @@ Germany
 India
 Australia
 Japan
-20
+Brazil
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Brazil
 Provider of generative artificial intelligence
 services.
 
@@ -1006,7 +1006,12 @@ Brazil
 Canada
 Australia
 India
-Japan
+20
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Japan
 Singapore
 South Korea
 France
@@ -1032,19 +1037,13 @@ US-GOV-WEST and Customer Data through various points, including any of
 AWS-US-GOV-EAST its data centers, but the storage and processing of
 )
 Customer Data will be limited to these regions.
-21
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Government Cloud Plus - Defense
+Government Cloud Plus - Defense
 Purpose of Processing
-
-Sub-processors
-
 Hosting Provider for all functionality.
 Customer Data is stored on AWS US-GOVEAST region.
 
+Sub-processors
 Amazon Web Services,
 Inc.
 
@@ -1058,7 +1057,11 @@ Customer Data through various points, including any of
 its data centers, but the storage and processing of
 Customer Data will be limited to this region.
 
-Health Cloud
+21
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Health Cloud
 Health Cloud is an extension of the Salesforce Services and a managed package that runs on top of the Salesforce Services–see infrastructure
 details for Salesforce Services. Health Cloud also includes features that may use the Einstein Generative AI Services, please see the infrastructure
 details for these features. Some Customers who purchase Health Cloud have access to Salesforce Maps Lite; for Customers who use this
@@ -1091,12 +1094,8 @@ France
 Germany
 Sweden
 United Kingdom
-22
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Hosting provider of data processing and Amazon Web Services, Inc.
+Hosting provider of data processing and Amazon Web Services, Inc.
 storage for Unified Health Scoring
 feature. Customer Data is hosted in one
 of the following regions.
@@ -1106,16 +1105,12 @@ United States
 Service provider of runtime services
 Amazon Web Services, Inc.
 used by FHIR APIs powered by MuleSoft.
-Customer Data is processed in one of
-the following regions.
 
 United States
 
 Germany
 
 Brazil
-Canada
-Australia
 
 If a Customer: (a) enables the Unified Health Scoring
 feature as an add-on to Health Cloud, and (b) has
@@ -1125,10 +1120,21 @@ stored on AWS infrastructure.
 If a Customer: (a) enables the FHIR APIs powered by
 MuleSoft feature as an add-on to Health Cloud, and (b)
 has Customer Data transmitted using runtime services,
+
+Canada
+22
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Customer Data is processed in one of
+the following regions.
+
+Australia
+Japan
+
 that Customer Data will be processed on AWS
 infrastructure.
 
-Japan
 Singapore
 Germany
 
@@ -1136,11 +1142,7 @@ Ireland
 
 United Kingdom
 
-23
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Provider of generative artificial
+Provider of generative artificial
 intelligence services.
 
 Microsoft Corporation
@@ -1151,8 +1153,12 @@ Germany
 India
 Australia
 Japan
-Brazil
+23
 
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Brazil
 Provider of generative artificial
 intelligence services.
 
@@ -1188,19 +1194,18 @@ United States
 Germany
 United States
 Canada
-24
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-United States
+United States
 United Kingdom
 United States
 Singapore
 United States
 India
 
-Sales Engagement (formerly High Velocity Sales)
+24
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Sales Engagement (formerly High Velocity Sales)
 Sales Engagement works as an add-on to Sales Cloud, and uses the Sales Cloud infrastructure–see infrastructure details for Salesforce Services.
 Sales Engagement also includes Salesforce Inbox and Einstein Activity Capture, as well as Einstein Conversational Insights– see infrastructure details
 for Salesforce Inbox and Einstein Conversation Insights. Additional sub-processors for this Service are:
@@ -1234,24 +1239,18 @@ Purpose of Processing
 
 Sub-processors
 
-Locations
-
-Additional Details
-
-25
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Hosting Provider for Covered Services
+Hosting Provider for Covered Services
 designated as “Services on the Hyperforce
 Operating Zone infrastructure” or “HF OZ.”
 
 Amazon Web Services,
 Inc.
 
+Locations
 Germany
 Switzerland
 
+Additional Details
 During signup, Hyperforce OZ Customers can select one
 of the listed countries to store Customer Data. For
 Customers who were part of the EU Operating Zone
@@ -1262,8 +1261,12 @@ Union. In limited circumstances, Customer Data may be
 stored and/or processed elsewhere, as described in the
 “Services on the Hyperforce Operating Zone
 Infrastructure” section of the Hyperforce SPARC.
+25
 
-Intelligent Form Reader
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Intelligent Form Reader
 Purpose of Processing
 
 Sub-processors
@@ -1288,11 +1291,7 @@ Ireland
 India
 United Kingdom
 
-26
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Life Sciences Cloud
+Life Sciences Cloud
 Life Sciences Cloud is an extension of the Salesforce Services–see infrastructure details for Salesforce Services. Life Sciences Cloud also includes
 features that may use the Einstein Generative AI Services, please see the infrastructure details for these features. Additional sub-processors for this
 Service are:
@@ -1310,13 +1309,17 @@ Canada
 Australia
 India
 Japan
-Singapore
+26
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Singapore
 South Korea
 France
 Germany
 Sweden
 United Kingdom
-
 Service provider of runtime services
 Amazon Web Services, Inc.
 used by FHIR APIs powered by MuleSoft.
@@ -1338,15 +1341,14 @@ Japan
 Singapore
 Germany
 
-27
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Ireland
+Ireland
 
 United Kingdom
+27
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
 
-Provider of generative artificial
+Provider of generative artificial
 intelligence services.
 
 Microsoft Corporation
@@ -1366,11 +1368,7 @@ OpenAI, L.L.C.
 
 United States
 
-28
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-LiveMessage
+LiveMessage
 Purpose of Processing
 
 Sub-processors
@@ -1390,7 +1388,11 @@ United States
 Germany
 Ireland
 
-Loyalty Management
+28
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Loyalty Management
 Loyalty Management is an extension of the Salesforce Services and a managed package that runs on top of Salesforce Services–see infrastructure
 details for Salesforce Services. Loyalty Management also includes features that may use the Einstein Generative AI Services, please see the
 infrastructure details for these features.
@@ -1424,11 +1426,7 @@ OpenAI, L.L.C.
 
 United States
 
-29
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Manufacturing Cloud
+Manufacturing Cloud
 See infrastructure details for Salesforce Services. Manufacturing Cloud also includes features that may use the Einstein Generative AI Services,
 please see the infrastructure details for these features. Some Customers who purchase Manufacturing Cloud have access to Salesforce Maps Lite;
 for Customers who use this functionality, see infrastructure details for Salesforce Maps.
@@ -1440,8 +1438,6 @@ Sub-processors
 Hosting Provider of document
 generation processing for Server-Side
 Document Generation feature.
-Customer Data is hosted in one of the
-following regions.
 
 Amazon Web Services, Inc.
 
@@ -1452,6 +1448,14 @@ Additional Details
 United States
 Brazil
 Canada
+
+29
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Customer Data is hosted in one of the
+following regions.
+
 Brazil
 Canada
 Australia
@@ -1480,12 +1484,8 @@ powered by MuleSoft feature as an add-on to
 Manufacturing Cloud, and (b) has Customer Data
 transmitted using runtime services, that Customer Data
 will be processed on AWS infrastructure.
-30
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-India
+India
 Japan
 Singapore
 South Korea
@@ -1493,7 +1493,11 @@ France
 Germany
 Sweden
 United Kingdom
-Provider of generative artificial
+30
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Provider of generative artificial
 intelligence services.
 
 Microsoft Corporation
@@ -1524,6 +1528,11 @@ Sub-processors
 Hosting Provider for all functionality. Salesforce, Inc.
 Customer Data is hosted in the United
 States for Customers with instances
+on first-party infrastructure, and
+primarily in Europe for a limited
+number of Customers that have
+consented to their instance being
+hosted on Hyperforce.
 
 Locations
 
@@ -1531,15 +1540,9 @@ Additional Details
 
 United States
 
-31
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-on first-party infrastructure, and
-primarily in Europe for a limited
-number of Customers that have
-consented to their instance being
-hosted on Hyperforce.
+Applicable only in as much as Ad Studio interoperates
+with and runs partially on Marketing Cloud Engagement
+infrastructure.
 
 Amazon Web Services, Inc.
 
@@ -1559,8 +1562,12 @@ certain ancillary Customer Data will also be hosted on
 Salesforce, Inc., first-party infrastructure in the United
 States or Amazon Web Services, Inc. infrastructure in
 the United States
+31
 
-Marketing Cloud: Intelligence and Intelligence Data Pipelines (formerly Datorama)
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Marketing Cloud: Intelligence and Intelligence Data Pipelines (formerly Datorama)
 Purpose of Processing
 
 Sub-processors
@@ -1576,13 +1583,13 @@ and region, but Customers may
 request Azure and/or an alternate
 hosting location instead.
 
+Google, LLC.
+
 Locations
 United States
 Germany
 Ireland
 United States
-
-Ireland
 
 Additional Details
 If a Customer is using the Marketing Cloud connector in
@@ -1593,17 +1600,14 @@ temporarily be stored in an AWS S3 bucket in the same
 region as the Customer’s Marketing Cloud Engagement
 account before being stored in the Customer’s
 Intelligence account.
+
+Ireland
+
 Additionally, if a Customer is hosted on Azure, limited
 account information, such as admin contact details and
 Intelligence products purchased by the Customer, used
 for provisioning accounts may still be processed, but not
 stored, in AWS.
-
-32
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Google, LLC.
 
 United States
 
@@ -1620,7 +1624,11 @@ Akamai Technologies, Inc.
 
 Global
 
-Marketing Cloud: Intelligence Reports for Engagement (formerly Datorama Reports)
+32
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Marketing Cloud: Intelligence Reports for Engagement (formerly Datorama Reports)
 Unless your Order Form for the Marketing Cloud Engagement Services expressly excludes Intelligence Reports, Intelligence Reports is included with
 a purchase of the Marketing Cloud Engagement Services and can be accessed through the Marketing Cloud Engagement Services. Intelligence
 Reports also runs on the Intelligence infrastructure, unless provisioned for Marketing Cloud Engagement on AWS - India (Hyperforce) in which case
@@ -1660,11 +1668,7 @@ Australia
 United States
 Ireland
 
-33
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Marketing Cloud: Evergage
+Marketing Cloud: Evergage
 Evergage includes Data Science Workbench, Data Warehouse, and Evergage
 Purpose of Processing
 
@@ -1681,12 +1685,18 @@ Additional Details
 United States
 Germany
 
-Marketing Cloud: Marketing Cloud Engagement
+33
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Marketing Cloud: Marketing Cloud Engagement
 Marketing Cloud Engagement includes Audience Builder, Automation Studio, Content Builder, Email Studio, Marketing Cloud Engagement, Journey
 Builder, Mobile Studio, and Web Studio.
 Purpose of Processing
 
 Sub-processors
+
+Locations
 
 Hosting Provider for all functionality Salesforce, Inc.
 ● Audience Builder,
@@ -1706,13 +1716,18 @@ Customer Data is hosted in one of the
 following regions using both
 Salesforce and Google infrastructure.
 
-If the Customer is eligible to be
-hosted on Hyperforce and has
+United States
 
 Amazon Web Services, Inc.
+If the Customer is eligible to be
+hosted on Hyperforce and has
+requested to have their Customer
+Data hosted on Hyperforce, Customer
+Data will be hosted in one of the
+following regions on AWS.
 
-Locations
 United States
+
 France
 Germany
 
@@ -1728,29 +1743,21 @@ United States
 Belgium
 Germany
 
-United States
+India
 
 Hyperforce runs on infrastructure provided by Amazon
 Web Services, Inc. Currently such infrastructure is hosted
-
-34
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-requested to have their Customer
-Data hosted on Hyperforce, Customer
-Data will be hosted in one of the
-following regions on AWS.
-
-India
-
 on AWS in data centers located in the United States,
 India, Australia, and Japan.
 
 Australia
 Japan
 
-CDN for all functionality
+34
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+CDN for all functionality
 
 Akamai Technologies, Inc.
 
@@ -1788,7 +1795,7 @@ Canada
 Switzerland
 
 35
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Marketing Cloud Growth Edition and Marketing Cloud Advanced Edition
@@ -1815,6 +1822,7 @@ United States
 
 Germany
 
+Switzerland
 Canada
 United Kingdom
 Brazil
@@ -1825,7 +1833,7 @@ Akamai Technologies, Global
 Inc.
 
 36
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Marketing Cloud: Personalization (formerly Interaction Studio)
@@ -1888,7 +1896,7 @@ Additional Details
 United States
 
 37
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 ●
@@ -1963,7 +1971,7 @@ hosted in any location provided by Google, listed at
 Global Locations - Regions & Zones.
 
 38
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Marketing Cloud: Social Studio
@@ -2016,7 +2024,7 @@ Japan
 South Korea
 39
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 India
@@ -2048,7 +2056,7 @@ India
 Singapore
 
 40
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 MuleSoft: MuleSoft Anypoint Platform, MuleSoft Composer, and MuleSoft Robotic Process Automation (RPA)
@@ -2110,7 +2118,7 @@ eu-west-1 (Ireland) is re-routed to eu-central-1
 (Frankfurt)
 41
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Asia Pacific:
@@ -2190,7 +2198,7 @@ United States
 United Kingdom
 
 42
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 User analytics provider for MuleSoft
@@ -2247,7 +2255,7 @@ India
 Australia
 43
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Japan
@@ -2317,7 +2325,7 @@ Germany
 India
 
 44
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Nonprofit Cloud and Nonprofit Cloud for Grantmaking
@@ -2362,7 +2370,7 @@ Australia
 Japan
 
 45
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Brazil
@@ -2424,13 +2432,13 @@ Canada
 Australia
 India
 Japan
-Singapore
 46
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-South Korea
+Singapore
+South Korea
 France
 Germany
 Sweden
@@ -2471,17 +2479,50 @@ Referral Marketing
 See infrastructure details for Salesforce Services. Referral Marketing also includes some Marketing Cloud functionality (i.e. Journey Builder and MC
 Engagement). Therefore, see also infrastructure details for Marketing Cloud.
 
-Revenue Cloud Advanced
-Formerly Revenue Lifecycle Management. See infrastructure details for Salesforce Services. Customers who purchase Revenue Cloud Advanced also
-have access to Salesforce Contracts, PDF generation functionality through Field Service, and product and quoteline import functionality through
 47
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-Data Cloud. For Customers who use these functionalities, see infrastructure details for Salesforce Contracts, Field Service PDF generation, and Data
-Cloud, respectively.
+Revenue Cloud Advanced
+Formerly Revenue Lifecycle Management. See infrastructure details for Salesforce Services. Customers who purchase Revenue Cloud Advanced also
+have access to Salesforce Contracts, PDF generation functionality through Field Service, and product and quoteline import functionality through
+Data Cloud. For Customers who use these functionalities, see infrastructure details for Salesforce Contracts, Field Service PDF generation, and Data
+Cloud, respectively. Additional subprocessors for this service are:
+Purpose of Processing
+Hosting Provider for Advanced
+Configurator
 
-Safety Cloud
+Sub-processors
+Amazon Web Services, Inc.
+
+Locations
+
+Additional Details
+
+Australia
+Brazil
+Canada
+France
+Germany
+India
+Indonesia
+Ireland
+Italy
+Japan
+Singapore
+South Korea
+Sweden
+Switzerland
+United Arab
+Emirates
+United Kingdom
+United States
+48
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Safety Cloud
 See infrastructure details for Salesforce Services.
 
 Sales Cloud Einstein
@@ -2523,14 +2564,14 @@ Brazil
 Canada
 Australia
 India
-48
+Japan
+Singapore
+49
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-Japan
-Singapore
-South Korea
+South Korea
 France
 Germany
 Sweden
@@ -2572,8 +2613,12 @@ Ireland
 regions.
 Australia
 Japan
-49
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Amazon Web Services, Inc.
+
+United States
+
+50
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider of document
@@ -2582,9 +2627,6 @@ Document Generation feature.
 Customer Data is hosted in one of the
 following regions.
 
-Amazon Web Services, Inc.
-
-United States
 Brazil
 Canada
 Australia
@@ -2627,6 +2669,8 @@ Global
 
 Service provider for search
 functionality. Customer Data will be
+processed in one of the following
+regions.
 
 Coveo
 
@@ -2635,17 +2679,15 @@ Canada
 
 Additional Details
 
-50
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-processed in one of the following
-regions.
-
 France
 Germany
 Ireland
-Italy
+51
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Italy
 The Netherlands
 United Kingdom
 
@@ -2697,8 +2739,8 @@ Germany
 
 United States
 
-51
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+52
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Salesforce Order Management
@@ -2759,8 +2801,8 @@ Additional Details
 
 United States
 
-52
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+53
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider for all functionality.
@@ -2815,8 +2857,8 @@ United States
 
 3 References to Nonprofit Cloud Case Management refer to the managed package.
 
-53
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+54
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Data will be transmitted in one of the
@@ -2847,15 +2889,19 @@ OpenAI, L.L.C.
 
 United States
 
-54
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Salesforce Services4
+Salesforce Services4
 Salesforce Services are Chatter, Database.com,Experience Cloud (formerly Community Cloud), Lightning Platform (including Force.com and
 Salesforce Shield), Sales Cloud, Service Cloud, and Site.com. The same infrastructure and sub-processors are used to host B2B Commerce, B2B
 Commerce on Lightning Experience, and IoT Explorer.
-Some Customers who purchase the Salesforce Services have access to Social Customer Service, Customer Data Cloud, Einstein Bots, Einstein
+
+4 Salesforce offers many packages that include some or all of the features in the Salesforce Services. These packages will link to this section, and may include
+
+some or all of the features listed below. See Where is my Salesforce Instance Located?
+55
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Some Customers who purchase the Salesforce Services have access to Social Customer Service, Customer Data Cloud, Einstein Bots, Einstein
 Conversation Insights, Sales Cloud Einstein, and Sales Engagement. For Customers who use this functionality, see infrastructure details for Social
 Studio, infrastructure details for Customer Data Cloud, infrastructure details for Einstein Conversations Insights, infrastructure for Sales Cloud
 Einstein, and infrastructure details for Sales Engagement accordingly.
@@ -2897,19 +2943,16 @@ Japan
 Amazon Web Services, Inc.
 
 Australia
-
-4 Salesforce offers many packages that include some or all of the features in the Salesforce Services. These packages will link to this section, and may include
-
-some or all of the features listed below. See Where is my Salesforce Instance Located?
-55
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Brazil
+Brazil
 Canada
 France
 Germany
-India
+
+56
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+India
 Indonesia
 Ireland
 Italy
@@ -2926,20 +2969,13 @@ Hosting Provider for Account
 Intelligence features Account News,
 Lightning News, Account Logos, and
 Account Autofill, and Einstein
+Opportunity Scoring, and Einstein Deal
+Insights.
 
 Amazon Web Services, Inc.
 
 United States
 
-Account Intelligence feature is on by default for all
-new Customers.
-
-56
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Opportunity Scoring, and Einstein Deal
-Insights.
 Hosting provider for Einstein Prediction Amazon Web Services, Inc.
 Builder, Einstein for Nonprofits, and
 Einstein Recommendation Builder.
@@ -2950,7 +2986,16 @@ Data is hosted in the United States.
 
 United States
 
-Hosting Provider for Einstein Activity
+Account Intelligence feature is on by default for all
+new Customers.
+
+Germany
+
+57
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Hosting Provider for Einstein Activity
 Capture. Customer Data is hosted in
 Europe for Customers with their
 Salesforce Services org in Europe.
@@ -2975,8 +3020,6 @@ Web Services, Inc.
 Germany
 Ireland
 
-Germany
-
 France
 Germany
 
@@ -2997,16 +3040,16 @@ United States or India in addition to their region.
 
 United States
 Germany
-57
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-United Kingdom
+United Kingdom
 Canada
 India
 Australia
-Japan
+58
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Japan
 Brazil
 Hosting Provider and Service Provider to Amazon Web Services, Inc.
 support scheduling and optimization
@@ -3041,18 +3084,18 @@ Amazon Web Services, Inc.
 United States
 Canada
 Brazil
-58
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Germany
+Germany
 France
 United Kingdom
 Sweden
 Switzerland
 Italy
-Australia
+59
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Australia
 Japan
 South Korea
 Singapore
@@ -3082,12 +3125,7 @@ pages rendered by Site.com and Force.com sites–
 including webpage content and data tables to be
 served to website visitors, as well as static resources
 like images, files, and JavaScript and CSS code.
-59
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Force.com sites and Site.com Customers can control
+Force.com sites and Site.com Customers can control
 the cache duration for Akamai Technologies, Inc.
 Learn more: Force.com sites, Site.com.
 Additionally, to facilitate site operation and optimize
@@ -3095,7 +3133,12 @@ content delivery, Salesforce operates Salesforce
 infrastructure in certain of its data centers that
 contain identifying information about, and static
 resources for, Site.com and Force.com sites.
-CDN for my.site.com sites.
+
+60
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+CDN for my.site.com sites.
 
 Akamai Technologies, Inc.
 
@@ -3113,19 +3156,13 @@ Customers can opt-out of leveraging Salesforce
 Content Delivery Network (CDN) by contacting
 Support. Learn More.
 
-60
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-CDN for Experience Cloud, D2C
+CDN for Experience Cloud, D2C
 Commerce (formerly B2B2C
 Commerce), B2B Commerce, B2B
 Commerce on Lightning Experience,
 DXP, and CMS.
 
 Akamai Technologies, Inc.
-
-CDN for Lightning Experience
 
 Global
 
@@ -3153,13 +3190,28 @@ page load times and site performance. Static public
 resources will flow through the distributed Cloudfront
 network of edge servers, which optimizes routing and
 caches publicly cacheable content. Salesforce CDN
-through Cloudfront can serve the domain with a
+
+CDN for Lightning Experience
+Cloudfront (Amazon Web
+Services, Inc.)
+
+61
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+through Cloudfront can serve the domain with a
 dedicated HTTPS certificate. Salesforce CDN leverages
 many Cloudfront product capabilities to optimize
 performance and scale. Learn more. Customers can
 opt-out of CDN for Lightning Experience by contacting
 customer support. Opt-ing out of CDN for Lightning
 Experience may minimally impact performance.
+Salesforce Services
+Salesforce Edge: Hosting provider for
+Availability zones/Edge servers for all
+functionality
+
+Amazon Web Services, Inc.
 
 Global
 
@@ -3168,21 +3220,7 @@ Salesforce Edge region to provide better and faster
 service response time depending, for example, on the
 location of Users. Learn more.
 
-Cloudfront (Amazon Web
-Services, Inc.)
-
-Salesforce Services
-Salesforce Edge: Hosting provider for
-Availability zones/Edge servers for all
-functionality
-
-Amazon Web Services, Inc.
-
-61
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Service Provider used for transmission Heroku, Inc. (on Amazon Web United States
+Service Provider used for transmission Heroku, Inc. (on Amazon Web United States
 services for Salesforce Services
 Services, Inc.)
 Lightning Experience Configuration
@@ -3213,16 +3251,23 @@ Service Provider used for transmission Amazon Web Services, Inc.
 services for Salesforce Slack Integration
 Proxy.
 
+Microsoft Teams Integration is a feature available to
+Sales Cloud and Service Cloud.
+
 United States
 
-Service Provider used for transmission
+62
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Service Provider used for transmission
 services for Pub/Sub API.
-
-United States
 
 Amazon Web Services, Inc.
 
+United States
 Germany
+
 Service Provider used for transmission
 services for Event Relay.
 
@@ -3230,9 +3275,6 @@ Amazon Web Services, Inc.
 
 United States
 Germany
-
-Microsoft Teams Integration is a feature available to
-Sales Cloud and Service Cloud.
 
 The Pub/Sub API is available for use with Platform
 Events, Change Data Capture, and Real Time Event
@@ -3249,12 +3291,8 @@ Services, Inc.)
 Heroku is used to coordinate interactions between
 the source control system and the Salesforce
 environment(s) composing the deployment pipeline.
-62
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Service Provider used for processing and Amazon Web Services, Inc.
+Service Provider used for processing and Amazon Web Services, Inc.
 storage purposes for Scale Test.
 
 United States
@@ -3294,21 +3332,11 @@ Australia
 Germany
 Canada
 
-Service Provider used for transmission Amazon Web Services, Inc.
+Service Provider used for transmission
 services for Headless Browser Service.
 Customer Data is processed in one of
-the following regions depending on
-where your Salesforce Services are
-hosted. If your org is hosted on
-Hyperforce infrastructure on AWS, then
-Customer Data will be processed in that
-infrastructure. If your org is hosted on
-Salesforce’s own first-party
-infrastructure, then your Customer Data
-will be processed as indicated here.
-Service provider of Digital Engagement
-support for the WhatsApp Messaging
-Channel
+
+Amazon Web Services, Inc.
 
 United States
 Germany
@@ -3317,18 +3345,32 @@ Headless Browser Service is currently used for pdf
 export functionality, and CRM Analytics integration
 with Slack.
 
+63
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+the following regions depending on
+where your Salesforce Services are
+hosted. If your org is hosted on
+Hyperforce infrastructure on AWS, then
+Customer Data will be processed in that
+infrastructure. If your org is hosted on
+Salesforce’s own first-party
+infrastructure, then your Customer Data
+will be processed as indicated here.
+
 France
 Japan
 Australia
 Canada
 
+Service provider of Digital Engagement
+support for the WhatsApp Messaging
+Channel
+
 Cognizant Worldwide Limited Philippines
 
-63
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Service provider for processing and
+Service provider for processing and
 routing services – if Customer has
 enabled enhanced routing in their
 Omni-Channel Settings.
@@ -3355,8 +3397,12 @@ Japan
 South Korea
 India
 Singapore
+64
 
-Salesforce Spiff
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Salesforce Spiff
 Purpose of Processing
 Hosting provider for all functionality.
 Customer’s org is hosted either on
@@ -3382,18 +3428,7 @@ Finland
 
 Germany
 
-Additional Details
-United States is default hosting location; Data is
-hosted in Finland upon customer request
-
-United States is default hosting location; Data is
-hosted in Germany upon customer request
-
-64
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Service provider for connectors to other Workato, Inc.
+Service provider for connectors to other Workato, Inc.
 platforms
 
 United States
@@ -3405,7 +3440,18 @@ United States
 
 Mailgun Technologies, Inc.
 
-Salesforce Starter (fka Self-Service CRM), including Marketing Email Sends
+Additional Details
+United States is default hosting location; Data is
+hosted in Finland upon customer request
+
+United States is default hosting location; Data is
+hosted in Germany upon customer request
+
+65
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Salesforce Starter (fka Self-Service CRM), including Marketing Email Sends
 Salesforce Starter (fka Self-Service CRM) marketing functionality, including Marketing Email Sends, runs partially on the Sales, Service and
 Experience Cloud infrastructures - see infrastructure details for Salesforce Services, and relies on data from, and writes data to, Customer Data
 Cloud infrastructure. Salesforce Starter (fka Self-Service CRM) marketing functionality also incorporates features run on the following
@@ -3439,21 +3485,21 @@ United States
 Germany
 Ireland
 United Kingdom
-65
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Canada
+Canada
 Japan
 Australia
-Hosting Provider for Einstein Case
-Amazon Web Services, Inc.
-Classification and Einstein Case WrapUp.
 
 Customers in the APAC region may also have data
 stored on Amazon Web Services infrastructure in the
 United States or India in addition to their region.
+66
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Hosting Provider for Einstein Case
+Amazon Web Services, Inc.
+Classification and Einstein Case WrapUp.
 
 United States
 Germany
@@ -3487,17 +3533,16 @@ France
 Sweden
 United Kingdom
 Australia
-66
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Japan
+Japan
 South Korea
 India
 Singapore
+67
 
-Einstein Generative AI Services
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Einstein Generative AI Services
 Einstein Generative AI Services include Covered Services branded as “Agentforce”, Einstein for Platform, Einstein for Sales, Einstein for Service,
 Einstein for Field Service, Einstein GPT for Commerce, Einstein GPT for Sales, Einstein GPT for Service, Pre-Work Brief (available through the Field
 Service - Einstein 1 Edition SKU), the Customer Experience Intelligence feature of Service Cloud,5 and Einstein Generative AI Services for Salesforce
@@ -3534,27 +3579,16 @@ provider of generative artificial
 intelligence services.
 
 Germany
+United Kingdom
+Canada
+India
+Australia
 
 Additional Details
 
 Customers in Australia who use the Service Replies
 feature may also have data stored on Amazon Web
 Services infrastructure India.
-
-United Kingdom
-
-5 This Documentation applies to the Customer Experience Cloud Intelligence feature of Service Cloud if the Customer uses the Generative AI
-
-features instead of bringing their own Natural Language Processing service for sentiment analysis.
-67
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Canada
-India
-Australia
-Japan
-
 If Customer Data is routed to a third-party LLM
 provider via an endpoint hosted on Amazon Web
 Services the disclosed region closest to Customer’s
@@ -3562,7 +3596,15 @@ Salesforce Org applies. In the event of a failover,
 Customer Data is temporarily re-routed through an
 endpoint hosted on Amazon Web Services in the US.
 
-Brazil
+Japan
+5 This Documentation applies to the Customer Experience Cloud Intelligence feature of Service Cloud if the Customer uses the Generative AI
+
+features instead of bringing their own Natural Language Processing service for sentiment analysis.
+68
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Brazil
 Provider of artificial voice services for
 Agentforce Sales Coach
 
@@ -3585,34 +3627,35 @@ Purpose of Processing
 
 Sub-processors
 
+Locations
+
 Provider of scheduling and optimization ClickSoftware, Inc.
 functionality for all functionality.
 Customer Data is processed in one of
 the following regions.
 
-Locations
-
-Additional Details
-
 United States
-Australia
-Germany
-68
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Service Provider for support scheduling Amazon Web Services, Inc.
+Service Provider for support scheduling Amazon Web Services, Inc.
 and optimization functionality for all
 functionality. Customer Data is
 processed in one of the following
 regions.
 
 United States
+
+Additional Details
+
+Australia
+Germany
 Australia
 Germany
 
-Slack
+69
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Slack
 Applicable to the services branded as (a) Slack, including Slack AI and (b) GovSlack.
 Purpose of Processing
 
@@ -3661,16 +3704,16 @@ time, depending, for example, on the location of
 Slack Users.
 
 India
-69
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Ireland
+Ireland
 Japan
 Singapore
 South Africa
 United Kingdom
-GovSlack services: Hosting provider for
+70
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+GovSlack services: Hosting provider for
 all functionality.
 
 Amazon Web Services, Inc.
@@ -3711,17 +3754,17 @@ France
 Germany
 India
 Ireland
-
-70
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Italy
+Italy
 Japan
 Singapore
 South Africa
 South Korea
-Sweden
+71
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Sweden
 United Kingdom
 Slack Clips functionality (excluding
 GovSlack): conversion of source video
@@ -3755,13 +3798,9 @@ France
 Germany
 India
 Japan
-71
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-South Korea
+South Korea
 United Kingdom
+
 Slack Huddles functionality (GovSlack):
 audio and video streams.
 
@@ -3770,7 +3809,11 @@ Web Services, Inc.)
 
 United States
 
-Slack Clips functionality (GovSlack):
+72
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Slack Clips functionality (GovSlack):
 Amazon Web Services, Inc.
 conversion of source video for improved Elemental MediaConvert
 playback
@@ -3828,14 +3871,14 @@ locations is available here.
 
 Australia
 Canada
-72
+Ireland
+Japan
+73
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-Ireland
-Japan
-United Kingdom
+United Kingdom
 Hosting Provider for Explore in Tableau. Amazon Web Services, Inc.
 
 United States
@@ -3885,18 +3928,18 @@ Amazon Web Services, Inc.
 
 Global
 
-73
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-CDN for all functionality.
+CDN for all functionality.
 
 Cloudfront (Amazon Web
 Services, Inc.)
 
 Global
 
-Tableau Einstein
+74
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Tableau Einstein
 Tableau Einstein runs on the same infrastructure as the Salesforce Services (see infrastructure details for Salesforce Services). When features are
 available in Marketing Cloud Growth Edition or Nonprofit Cloud, please see infrastructure details for each of these services, including for location
 information.
@@ -3924,6 +3967,9 @@ generation processing for Server-Side
 Document Generation feature for
 Vlocity Communications package,
 Vlocity Media and Entertainment
+package, Vlocity Energy & Utilities
+package, Vlocity Insurance package,
+Vlocity Health package, and Vlocity
 
 Amazon Web Services, Inc.
 
@@ -3931,20 +3977,17 @@ United States
 Brazil
 Canada
 France
-74
-
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-package, Vlocity Energy & Utilities
-package, Vlocity Insurance package,
-Vlocity Health package, and Vlocity
-Government package. Customer Data is
-hosted in one of the following regions.
-
 Germany
 Sweden
 United Kingdom
+75
+
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Government package. Customer Data is
+hosted in one of the following regions.
+
 Australia
 India
 Japan
@@ -3990,20 +4033,20 @@ Japan
 Singapore
 Germany
 Ireland
-75
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-United Kingdom
+United Kingdom
 Service provider for Digital Commerce
 and Order Management Plus packages
-used to process application, database,
-and system log files.
 
 SumoLogic, Inc.
 
 United States
+76
 
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+used to process application, database,
+and system log files.
 Provider of generative artificial
 intelligence services.
 
@@ -4041,9 +4084,9 @@ Locations
 Additional Details
 
 United States
-76
 
-Copyright 2000 – 2024 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+77
+Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 
