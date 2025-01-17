@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: January 3, 2025
+####  Last Updated: January 16, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -247,7 +247,8 @@ those taxes and promptly reimburse AWS for any associated costs.
 
 **1.23.** If you use any artificial intelligence and machine learning
 Services, features, and functionality (including third-party models) that we
-provide, you will comply with the [AWS Responsible AI
+provide, it’s your responsibility to ensure that your use complies with all
+applicable laws, rules, and regulations, and the [AWS Responsible AI
 Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
 **1.24.** Certain Services may incorporate generative AI features, powered by
@@ -1227,10 +1228,16 @@ purchase on AWS Marketplace is from a third party that has been onboarded to
 Amazon Web Services EMEA SARL. Otherwise, Amazon Web Services, Inc. is the
 applicable AWS Contracting Party.
 
-**20.1.7.** If you are an AWS customer located in India, parties agree that
-this Section 20.1.7 will be applicable:  
+**20.1.7.  **The contract term of your purchase or subscription commences on
+the date specified in the end user license agreement, order form, or other
+contract between you and the applicable third party provider. If no contract
+term is specified, then the contract term commences on the date specified in
+your AWS Marketplace invoice.
 
-**20.1.7.1.  **If you have provided your Goods and Services Tax (GST)
+**20.1.8.** If you are an AWS customer located in India, parties agree that
+this Section 20.1.8 will be applicable:  
+
+**20.1.8.1.  **If you have provided your Goods and Services Tax (GST)
 registration number to us so that it can be applied to your purchases, then
 the information you provide with your registration (including your GST
 registration number and the name and address associated with your GST
@@ -1238,7 +1245,7 @@ registration) will be shared with third parties from whom you have purchased
 software on the AWS Marketplace to the extent necessary for those third
 parties to comply with GST invoicing regulations and requirements.  
 
-**20.1.7.2.  **The purchase fees and charges payable by you will be exclusive
+**20.1.8.2.  **The purchase fees and charges payable by you will be exclusive
 of all applicable Taxes, and will be made free and clear of any deduction or
 withholding, as may be required by law. For clarity, if any such deduction or
 withholding (including but not limited to cross-border withholding taxes) is
@@ -1256,9 +1263,10 @@ a direct payment permit certificate, for which AWS or its affiliates may claim
 an available exemption from such Taxes.
 
 **20.2.  **Seller Terms. If you promote, license, sell, provide or provide
-access to any Content or services through AWS Marketplace, the [Service Terms
-for AWS Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply
-to you. Your use of the Buy with AWS feature is subject to the [Buy with AWS
+access to any Content or services through AWS Marketplace, or authorize
+another party to do so on your behalf, then the [Service Terms for AWS
+Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply to you.
+Your use of the Buy with AWS feature is subject to the [Buy with AWS
 Trademarks License](https://aws.amazon.com/legal/buy-with-aws-trademarks-
 license/).
 
@@ -4532,6 +4540,11 @@ License](https://www.gnu.org/licenses/gpl-3.0.html).
 
 f. Your use of Luxion’s Keyshot is subject to the terms and conditions of the
 [Terms and Conditions](https://www.keyshot.com/terms/).
+
+g. Your use of Maxon’s Software is subject to the terms and conditions of the
+[End User License
+Agreement](https://www.maxon.net/en/legal/eula?srsltid=AfmBOooegkZ4k2Tgpx-
+aMRbm7UjNfmDn-VNRibvDuZqGgpANSwjV7T-k).
 
 **103.2.** AWS does not offer support services for DCC Software. You may
 request support directly from the applicable DCC Software provider, who may
