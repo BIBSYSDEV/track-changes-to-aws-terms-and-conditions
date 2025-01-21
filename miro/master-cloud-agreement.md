@@ -324,21 +324,23 @@ Agreement: 2.7 (Restrictions), 4.4 (Data Export), 5 (Customer Obligations),
 remedy under this Agreement, including termination, does not limit other
 remedies a party may have.
 
-**12\. Ownership**. Neither party grants the other any rights or licenses not
-expressly set out in this Agreement. Except for Miro’s use rights in this
-Agreement, between the parties Customer retains all intellectual property and
-other rights in Customer Content and Customer Materials provided to Miro.
-Except for Customer’s use rights in this Agreement, Miro and its licensors
-retain all intellectual property and other rights in the Services,
-deliverables and related Miro technology, templates, formats, and dashboards,
-including any modifications or improvements to these items made by Miro. Miro
-may generate and use Usage Data to operate, improve, analyze, and support the
-Services and for other lawful business purposes, provided Usage Data shall not
-contain Customer Content. If Customer provides Miro with feedback or
-suggestions (“Feedback”) regarding the Services or other Miro offerings, Miro
-may use such Feedback without restriction or obligation, provided Feedback
-shall be subject to Section 15 (Confidentiality) and shall not contain
-Customer Content or reference Customer as the source.
+### **12\. Ownership**.
+
+Neither party grants the other any rights or licenses not expressly set out in
+this Agreement. Except for Miro’s use rights in this Agreement, between the
+parties Customer retains all intellectual property and other rights in
+Customer Content and Customer Materials provided to Miro. Except for
+Customer’s use rights in this Agreement, Miro and its licensors retain all
+intellectual property and other rights in the Services, deliverables and
+related Miro technology, templates, formats, and dashboards, including any
+modifications or improvements to these items made by Miro. Miro may generate
+and use Usage Data to operate, improve, analyze, and support the Services and
+for other lawful business purposes, provided Usage Data shall not contain
+Customer Content. If Customer provides Miro with feedback or suggestions
+(“Feedback”) regarding the Services or other Miro offerings, Miro may use such
+Feedback without restriction or obligation, provided Feedback shall be subject
+to Section 15 (Confidentiality) and shall not contain Customer Content or
+reference Customer as the source.
 
 ### **13\. Limitations of Liability**.
 
