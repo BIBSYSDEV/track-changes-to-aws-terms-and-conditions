@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: February 5, 2025
+####  Last Updated: February 12, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -4547,6 +4547,9 @@ g. Your use of Maxon’s Software is subject to the terms and conditions of the
 [End User License
 Agreement](https://www.maxon.net/en/legal/eula?srsltid=AfmBOooegkZ4k2Tgpx-
 aMRbm7UjNfmDn-VNRibvDuZqGgpANSwjV7T-k).
+
+h. Your use of Adobe After Effects is subject to the terms and conditions of
+the [Adobe General Terms of Use](https://www.adobe.com/legal/terms.html).
 
 **103.2.** AWS does not offer support services for DCC Software. You may
 request support directly from the applicable DCC Software provider, who may
