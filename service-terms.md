@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: February 12, 2025
+####  Last Updated: February 20, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1889,11 +1889,10 @@ Provider”). The LoRaWAN Network Provider is solely responsible for the
 operation and security of its Public LoRaWAN Network (including its gateways
 and any other equipment), which is separate from and located outside of AWS
 data center facilities, servers, networking equipment, storage media, and host
-software systems. Your use of Everynet BV’s Public LoRaWAN Network is subject
-to their [terms and
-conditions](https://support.everynet.com/portal/en/kb/articles/network-user-
-agreement). AWS has no control over, and makes no guarantees about, any Public
-LoRaWAN Network.
+software systems. Your use of Netmore AB and its affiliates' Public LoRaWAN
+Network is subject to their [terms and
+conditions](https://netmoregroup.com/network-terms-and-conditions/). AWS has
+no control over, and makes no guarantees about, any Public LoRaWAN Network.
 
 If you use this feature, you authorize AWS to transmit to the LoRaWAN Network
 Provider device identification codes and related device information so the

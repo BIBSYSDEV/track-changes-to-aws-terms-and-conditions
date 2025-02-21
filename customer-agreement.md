@@ -5,7 +5,7 @@
 
 *Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.  
 
-####  Last Updated: December 23, 2024
+####  Last Updated: February 20, 2025
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -115,18 +115,19 @@ you or an End User obligating us to provide such support or services.
 you more frequently for fees accrued if we reasonably suspect that your
 account is fraudulent or at risk of non-payment. You will pay us the
 applicable fees and charges for use of the Services as described on the AWS
-Site using one of the payment methods we support. All amounts payable by you
-under this Agreement will be paid to us without setoff or counterclaim, and
-without any deduction or withholding. Fees and charges for any new Service or
-new feature of a Service will be effective when we post updated fees and
-charges on the AWS Site, unless we expressly state otherwise in a notice. We
-may increase or add new fees and charges for any existing Services you are
-using by giving you at least 30 days’ prior notice. We may elect to charge you
-interest at the rate of 1.5% per month (or the highest rate permitted by law,
-if less) on all late payments. If we suspend your account under Section 4.1 or
-terminate your use of the Services pursuant to Section 5.2(b)(ii), we may
-elect not to bill you for fees and charges after suspension unless your
-account is reinstated.
+Site using one of the payment methods we support. If there is a problem
+charging your default payment method, we may charge any other valid payment
+method associated with your account. All amounts payable by you under this
+Agreement will be paid to us without setoff or counterclaim, and without any
+deduction or withholding. Fees and charges for any new Service or new feature
+of a Service will be effective when we post updated fees and charges on the
+AWS Site, unless we expressly state otherwise in a notice. We may increase or
+add new fees and charges for any existing Services you are using by giving you
+at least 30 days’ prior notice. We may elect to charge you interest at the
+rate of 1.5% per month (or the highest rate permitted by law, if less) on all
+late payments. If we suspend your account under Section 4.1 or terminate your
+use of the Services pursuant to Section 5.2(b)(ii), we may elect not to bill
+you for fees and charges after suspension unless your account is reinstated.
 
 3.2 Taxes.
 
