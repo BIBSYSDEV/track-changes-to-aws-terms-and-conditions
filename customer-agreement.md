@@ -5,7 +5,7 @@
 
 *Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.  
 
-####  Last Updated: February 20, 2025
+####  Last Updated: March 05, 2025
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -857,7 +857,7 @@ Japan | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa
 Malaysia | Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) | N/A | Level 26 & Level 35, The Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
 New Zealand  | Amazon Web Services New Zealand Limited | N/A | Level 5, 18 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
 Singapore | Amazon Web Services Singapore Private Limited | N/A | Level 2, East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916  
-South Africa | Amazon Web Services South Africa Proprietary Limited  | 206-266-7010 | Wembley Square 2, 134 Solan Road, Gardens, Cape Town, 8001, South Africa   
+South Africa | Amazon Web Services South Africa Proprietary Limited  | 206-266-7010 | 29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925   
 South Korea | Amazon Web Services Korea LLC | N/A | L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
 Türkiye | AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi | N/A | Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
 Any country within Europe, the Middle East, or Africa (excluding South Africa) ("EMEA")** |  Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg  
