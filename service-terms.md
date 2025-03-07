@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: February 20, 2025
+####  Last Updated: March 6, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1961,6 +1961,32 @@ your AS Devices in our marketing materials to identify you as a participant in
 the WWAS program, including your name, logo, images, and videos of your AS
 Devices.
 
+**39.12.** **Managed integrations (Preview).** Managed integrations is a
+feature of AWS IoT Device Management that allows you to create or access
+cloud-to-cloud connectors which link your AWS resources with one or more of
+your devices (“C2C Connectors”). Any C2C Connector you create is Your Content,
+and any C2C Connector created by another customer that you access is Third-
+Party Content. AWS does not create or manage any C2C Connectors.
+
+You may share your C2C Connectors with other AWS customers. If you do, you
+authorize AWS as your service provider to list those C2C Connectors and
+related contact information on the AWS Console and on the AWS Site and you
+understand that other AWS customers may contact you. You are solely
+responsible for granting customers access to your C2C Connectors and for any
+terms governing another AWS customer’s access to your C2C Connectors. All such
+terms are solely between you and such other AWS customer. If you do not
+specify any such terms before granting access, you thereby grant such customer
+a non-exclusive license to access, use, copy, distribute or otherwise exploit
+such C2C Connector for any personal or business purposes.
+
+If AWS makes available to you any contact information of any provider of a C2C
+Connector, you may only use this contact information to submit an inquiry
+about the applicable third party C2C Connector. You may not process, share,
+sell or license this contact information for marketing or any other purpose.
+Any terms, including any applicable privacy notices, governing your use of any
+third-party C2C Connector are solely between you and the third-party offering
+the C2C Connector.
+
 ####  40\. Amazon QuickSight
 
 **40.1.**  You may enable End Users to use Amazon QuickSight under your
@@ -2068,28 +2094,40 @@ party trust provider at any time without prior notice.
 
 ####  43\. Amazon GameLift
 
-**43.1.** You may only access or use Amazon GameLift for video game server
-hosting; provided however, that this restriction does not apply to your use of
-the FlexMatch feature independent of other Amazon GameLift features.
+**43.1. Amazon GameLift Servers**
 
-**43.2.** We or our affiliates may delete, upon 30 days' notice to you, any of
-Your Content uploaded to Amazon GameLift if it has not been run in more than 3
-months.
+**43.1.1.** You may only access or use Amazon GameLift Servers for video game
+server hosting; provided however, that this restriction does not apply to your
+use of the FlexMatch feature independent of other Amazon GameLift Servers
+features.
 
-**43.3.** Your use of Amazon GameLift Local is governed by the [Amazon
-GameLift Local License Agreement](https://aws.amazon.com/gamelift-local-
-license/).
+**43.1.2.** We or our affiliates may delete, upon 30 days' notice to you, any
+of Your Content uploaded to Amazon GameLift Servers if it has not been run in
+more than 3 months.
 
-**43.4.** The Amazon GameLift Spot Instance program allows you request that
-certain Amazon GameLift instances run pursuant to the Amazon GameLift Spot
-instance pricing and payment terms set forth on the Amazon GameLift product
-detail page on the Site (each requested instance, a “GL Spot Instance”). We
-may terminate the Amazon GameLift Spot Instance program at any time. We may
-terminate, stop, or hibernate GL Spot Instances at any time and without any
-notice to you for AWS capacity requirements. You should configure your game to
-ensure it is fault tolerant and will correctly handle interruptions. GL Spot
-Instances may not be used with certain Services, features and third-party
-software we specify, including those listed in Section 5.3, above.  
+**43.1.3.** Your use of Amazon GameLift Servers Local is governed by the
+[Amazon GameLift Servers Local License
+Agreement](https://aws.amazon.com/gamelift-local-license/).
+
+**43.1.4.** The Amazon GameLift Servers Spot Instance program allows you
+request that certain Amazon GameLift Servers instances run pursuant to the
+Amazon GameLift Servers Spot instance pricing and payment terms set forth on
+the Amazon GameLift Servers product detail page on the Site (each requested
+instance, a “GL Spot Instance”). We may terminate the Amazon GameLift Servers
+Spot Instance program at any time. We may terminate, stop, or hibernate GL
+Spot Instances at any time and without any notice to you for AWS capacity
+requirements. You should configure your game to ensure it is fault tolerant
+and will correctly handle interruptions. GL Spot Instances may not be used
+with certain Services, features and third-party software we specify, including
+those listed in Section 5.3, above.
+
+**43.2.  Amazon GameLift Streams**
+
+**43.2.1.** Amazon GameLift Streams is not intended for use in, or in
+association with, the operation of any hazardous environments or critical
+systems that may lead to serious bodily injury or death or cause environmental
+or property damage, and you are solely responsible for liability that may
+arise in connection with any such use.
 
 ####  44\. AWS Application Discovery Service
 
