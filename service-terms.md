@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: March 10, 2025
+####  Last Updated: March 21, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -2436,11 +2436,9 @@ generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon
 Nova Pro, Amazon Nova Canvas, Amazon Nova Reel**,** Amazon Titan Text Express,
 Amazon Titan Text Lite, Amazon Titan Text Premier, Amazon Titan Text
 Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator,
-AWS HealthScribe, Amazon Personalize, Amazon Q (including Amazon Q Developer
-Pro in-line code suggestions previously known as Amazon CodeWhisperer
-Professional, but excluding Amazon Q Developer Free Tier), Amazon Connect
-Contact Lens, and Amazon Lex. The following terms apply to the Indemnified
-Generative AI Services:  
+AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q Developer
+Free Tier), Amazon Connect Contact Lens, and Amazon Lex. The following terms
+apply to the Indemnified Generative AI Services:  
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
@@ -2491,9 +2489,11 @@ of AI Services.
 **50.12.1.** Third-party models are made available to you either by AWS or by
 third party providers as “Third-Party Content” and may be subject to
 additional third-party license terms specified in Amazon Bedrock, these
-Service Terms, and related documentation. Your access to and use of third-
-party models on Amazon Bedrock may require your use of AWS Marketplace, and in
-those cases Section 20 (AWS Marketplace) of the Service Terms apply.
+Service Terms, and related documentation. We may share information, that does
+not include Your Content, about your use of a third-party model on Amazon
+Bedrock with the provider of that third-party model. Your access to and use of
+third-party models on Amazon Bedrock may require your use of AWS Marketplace,
+and in those cases Section 20 (AWS Marketplace) of the Service Terms apply.
 Notwithstanding anything to the contrary in the Agreement or Service Terms,
 for purposes of facilitating your purchases of models sold by third parties,
 Amazon Web Services, Inc. will be the AWS Contracting Party.
@@ -2504,11 +2504,10 @@ including related to potential violations of our or third-party model
 providers’ terms of service or acceptable use policies. If these mechanisms
 detect apparent child sexual abuse material, you agree and instruct that we
 may report the incident**** to the National Center for Missing and Exploited
-Children or other authority. In addition, we may share information, that does
-not include Your Content, about your use of a third-party model on Amazon
-Bedrock with the provider of that third-party model. See
+Children or other authority. See
 [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
-detection.html) for more details.
+detection.html) for more details about abuse detection on Bedrock and related
+information sharing with third parties.
 
 **50.12.3.** Provisioned throughput commitments for Bedrock. We may change
 provisioned throughput commitment pricing or stop offering commitments for
