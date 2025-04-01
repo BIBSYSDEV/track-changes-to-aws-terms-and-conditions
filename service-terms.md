@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: March 21, 2025
+####  Last Updated: March 31, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -1213,10 +1213,11 @@ set out in the table below. Notwithstanding the foregoing, Amazon Web
 Services, Inc. continues to be the invoicing party for third party products
 that are resold by Amazon Web Services, Inc. on AWS Marketplace.  
 
-**Account Country** | **AWS Contracting Party** | **Facsimile** | **Mailing Address**  
+| **Account Country** | **AWS Contracting Party** | **Facsimile** | **Mailing Address**  
 ---|---|---|---  
 Australia (w.e.f. 1 October 2022) | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
 Japan (w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
+South Korea (w.e.f. 1 April 2025) | Amazon Web Services Korea LLC | N/A | L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
 The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: <https://aws.amazon.com/legal/aws-emea-countries/> (w.e.f. 1 January 2022) | Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg  
 Any other country that is not listed in this table above | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  
 Seattle, WA 98109-5210  
