@@ -782,14 +782,18 @@ notes/)[Flowchart Maker](/flowchart/)[Wireframe](/wireframe/)
 [Miro Academy](https://academy.miro.com/)[Help
 Center](https://help.miro.com/hc/en-
 us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
-Community](/community/)[Miro Events](https://community.miro.com/events)
+Community](/community/)[Miro
+Events](https://community.miro.com/events)[Solution Partners](/find-a-
+partner/)
 
 ### Resources
 
 [Miro Academy](https://academy.miro.com/)[Help
 Center](https://help.miro.com/hc/en-
 us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
-Community](/community/)[Miro Events](https://community.miro.com/events)
+Community](/community/)[Miro
+Events](https://community.miro.com/events)[Solution Partners](/find-a-
+partner/)
 
 ##### Company
 
