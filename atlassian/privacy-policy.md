@@ -76,7 +76,7 @@ _**Content you provide through our products**_ : The Services include the
 Atlassian products you use, where we collect and store content that you post,
 send, receive and share. This content includes any information about you that
 you may choose to include. Examples of content we collect and store include:
-the summary and description added to a Jira issue, the pages you create in
+the summary and description added to a Jira work item, the pages you create in
 Confluence, the name of a Trello board, your repositories and pull requests in
 Bitbucket, information regarding an incident in Statuspage or Opsgenie, any
 stories you name in Jira Align, any forms you create in Jira, and any feedback
@@ -172,7 +172,7 @@ interest to you.
 
 _**Other users of the Services**_ : Other users of our Services may provide
 information about you when they submit content through the Services. For
-example, you may be mentioned in a Jira issue or paged via an Opsgenie
+example, you may be mentioned in a Jira work item or paged via an Opsgenie
 incident opened by someone else, a team member may upload content about you to
 a Trello board, or your team’s story status may be discussed in Jira Align. We
 also receive your email address from other Service users when they provide it
@@ -374,8 +374,8 @@ copy and download that content based on settings you or your administrator (if
 applicable) select. Some of the collaboration features of the Services display
 some or all of your profile information to other Service users when you
 disclose or interact with specific content. For example, when you comment on a
-Confluence page or Jira issue, we display your profile picture and name next
-to your comments so that other users with access to the page or issue
+Confluence page or Jira work item, we display your profile picture and name
+next to your comments so that other users with access to the page or issue
 understand who made the comment. Similarly, when you publish a Confluence
 page, your name is displayed as the author of that page, and Service users
 with permission to view the page can view your profile information as well.
