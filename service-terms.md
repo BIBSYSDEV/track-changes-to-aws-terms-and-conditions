@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: March 31, 2025
+####  Last Updated: April 8, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -2434,12 +2434,12 @@ Generative AI Output to you. “Generative AI Output” means output generated b
 a generative artificial intelligence model in response to inputs or other data
 provided by you. “Indemnified Generative AI Services” means, collectively,
 generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon
-Nova Pro, Amazon Nova Canvas, Amazon Nova Reel**,** Amazon Titan Text Express,
-Amazon Titan Text Lite, Amazon Titan Text Premier, Amazon Titan Text
-Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image Generator,
-AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q Developer
-Free Tier), Amazon Connect Contact Lens, and Amazon Lex. The following terms
-apply to the Indemnified Generative AI Services:  
+Nova Pro, Amazon Nova Canvas, Amazon Nova Reel**,**  Amazon Nova Sonic, Amazon
+Titan Text Express, Amazon Titan Text Lite, Amazon Titan Text Premier, Amazon
+Titan Text Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image
+Generator, AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q
+Developer Free Tier), Amazon Connect Contact Lens, and Amazon Lex. The
+following terms apply to the Indemnified Generative AI Services:  
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
