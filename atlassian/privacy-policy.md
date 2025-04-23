@@ -1,6 +1,7 @@
 #  Privacy Policy
 
-_Effective starting: May 17, 2024_ ([view archived versions](/legal/archives))
+_Effective starting: April 25, 2025_ ([view archived
+versions](/legal/archives))
 
 ##  What this policy covers
 
@@ -687,7 +688,9 @@ from our promotional email list or registration database. Even after you opt
 out from receiving promotional messages from us, you will continue to receive
 transactional messages from us regarding our Services. You can opt out of some
 notification messages in your account settings. Please note, you will continue
-to receive generic ads.
+to receive generic ads. If personal data is to be used in a way not previously
+disclosed, or shared with external parties not covered in this policy, you
+will be provided the opportunity to opt-out.
 
 _**Opt out of targeted advertising**_ : Where applicable under local law, you
 may have the right to opt out of targeted advertising by clicking here and
@@ -760,7 +763,7 @@ contractual data protection clauses, binding corporate rules for transfers to
 data processors, or other appropriate legal mechanisms to safeguard the
 transfer.
 
-**Data Privacy Framework Notice**
+**EU–US, Swiss–US and UK –Extension Data Privacy Framework**
 
 On July 10, 2023, the European Commission’s adequacy decision for the EU-U.S.
 Data Privacy Framework (EU-U.S. DPF) entered into force.
@@ -772,50 +775,55 @@ the collection, use, and retention of personal data that is transferred from
 the European Union and Switzerland to the U.S.
 
 Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the
-UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework
+UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework
 (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Atlassian
 has certified to the U.S. Department of Commerce that it adheres to the
 EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard
-to the processing of personal data received from the European Union and the
-United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the
-EU-U.S. DPF. Atlassian has certified to the U.S. Department of Commerce that
-it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF
-Principles) with regard to the processing of personal data received from
-Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict
-between the terms in this privacy policy and the EU-U.S. DPF Principles and/or
-the Swiss-U.S. DPF Principles, the DPF Principles shall govern. To learn more
-about the Data Privacy Framework Program, please visit the Data Privacy
-Framework Program website [here](https://www.dataprivacyframework.gov/). To
-view Atlassian’s certifications, search for “Atlassian” in the Data Privacy
-Framework List.
+to the processing of personal data received from the European Union in
+reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in
+reliance on the UK Extension to the EU-U.S. DPF. Atlassian has certified to
+the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy
+Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing
+of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
+If there is any conflict between the terms in this policy and the EU-U.S. DPF
+Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.
+To learn more about the Data Privacy Framework (DPF) program, and to view our
+certification, please visit <https://www.dataprivacyframework.gov/.>
 
-As required under the principles, when we receive information under the Data
-Privacy Framework and then transfer it to a third-party service provider
-acting as an agent on our behalf, we have certain liability under the Data
-Privacy Framework if the agent processes the information in a manner
-inconsistent with the Data Privacy Framework and we are responsible for the
-event giving rise to the damage.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and
+the Swiss-U.S. DPF, Atlassian commits to refer unresolved complaints
+concerning our handling of personal data received in reliance on the EU-U.S.
+DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to TRUSTe, an
+alternative dispute resolution provider based in the United States. If you do
+not receive timely acknowledgment of your DPF Principles-related complaint
+from us, or if we have not addressed your DPF Principles-related complaint to
+your satisfaction, please visit <https://feedback-
+form.trustarc.com/watchdog/request> for more information or to file a
+complaint. These dispute resolution services are provided at no cost to you.
 
-We encourage you to contact us as provided below should you have a Data
-Privacy Framework related (or general privacy-related) complaint. If you have
-an unresolved privacy or data use concern that we have not addressed
-satisfactorily, please contact our [U.S.-based third-party dispute resolution
-provider](https://feedback-form.truste.com/watchdog/request) (free of charge).
-Through this third-party dispute resolution provider, we have also committed
-to cooperating and complying with the information and advice provided by an
-informal panel of data protection authorities in the European Economic Area,
-and/or the Swiss Federal Data Protection and Information Commissioner (as
-applicable) in relation to unresolved complaints (as further described in the
-Data Privacy Framework Principles). You may also contact your local data
-protection authority within the European Economic Area or Switzerland (as
-applicable) for unresolved complaints.
+The Federal Trade Commission has jurisdiction over Atlassian’s compliance with
+the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
 
-Under certain conditions, more fully described on the [Data Privacy Framework
-website](https://www.dataprivacyframework.gov/), including when other dispute
-resolution procedures have been exhausted, you may invoke binding arbitration.
+For complaints regarding EU-U.S. DPF, the UK Extension to the EU-U.S DPF, and
+Swiss-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you
+have the possibility, under certain conditions, to invoke binding arbitration.
+Further information can be found on the official DPF website: [Data Privacy
+Framework](https://www.dataprivacyframework.gov/).
 
-Atlassian, Inc. is subject to the investigatory and enforcement powers of the
-U.S. Federal Trade Commission (FTC).
+In certain situations, Atlassian may be required to disclose personal data in
+response to lawful requests by public authorities, including to meet national
+security or law enforcement requirements.
+
+In the context of onward transfers, Atlassian is accountable for the
+processing of personal data it receives, under the EU-U.S. DPF, the UK
+Extension to the EU-U.S. DPF, and Swiss-U.S. DPF and subsequently transfers to
+a third party acting as an agent on its behalf. Atlassian remains liable under
+the EU-U.S. DPF Principles, and the UK Extension to the EU-U.S. DPF, and the
+Swiss-U.S. DPF Principles if the Atlassian’s agent processes personal
+information in a manner inconsistent with the EU-U.S. DPF Principles, and the
+UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles, unless the
+Atlassian proves that it is not responsible for the event giving rise to
+damage.
 
 ##  Other important privacy information
 
@@ -1122,6 +1130,11 @@ seal/seal?rid=540ec164-5d63-4016-9aa9-16be73ff682d)](//privacy.truste.com/privac
 seal/validation?rid=540ec164-5d63-4016-9aa9-16be73ff682d)
 
 ##  Key Changes
+
+**Effective April 25, 2025**
+
+We have updated the section EU – US, Swiss – US and UK – Extension Data
+Privacy Framework as part of our Data Privacy Framework re-certification.
 
 **Effective May 17, 2024**
 
