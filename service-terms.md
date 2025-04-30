@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: April 8, 2025
+####  Last Updated: April 29, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -551,7 +551,7 @@ if we suspect you are doing so. Upon expiration or termination of the term of
 Savings Plans, EC2 Reserved Instances or EC2 Dedicated Host Reservations, the
 reserved pricing will expire and standard on-demand usage prices will apply.
 You are responsible for determining if you are subject to any limitations
-arising from the purchase or Savings Plans, EC2 Reserved Instances or EC2
+arising from the purchase of Savings Plans, EC2 Reserved Instances or EC2
 Dedicated Host Reservations. For example, you are responsible for complying
 with any applicable laws, policies, terms or conditions governing your payment
 of up-front fees or the expiration of reserved resources, including any fiscal
@@ -1646,6 +1646,11 @@ applicable Meta or WhatsApp terms.
 countries is subject to additional [Country Specific Communications Service
 Terms](https://aws.amazon.com/service-terms/country-specific-communications-
 service-terms/).
+
+**29.13.** AWS End User Messaging's SMS Protect feature uses statistical
+models that generate SMS Artificially Inflated Traffic (AIT) risk predictions
+based on patterns in data. SMS Protect does not guarantee the accuracy of such
+predictions or complete protection from AIT.
 
 ####  30\. AWS Lambda
 
