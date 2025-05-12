@@ -145,7 +145,7 @@ Miro Armenia LLC (formerly Teamwork LLC)
 
 Armenia
 
-UizardApp Aps
+UizardApp ApS
 
 Denmark
 
@@ -180,7 +180,7 @@ The Netherlands
 1
 
 MIRO THIRD PARTY AI MODELS
-Last updated: 30 September 2024
+Last updated: April 29, 2025
 AI Model (Service)
 
 Used By Miro For
@@ -190,6 +190,45 @@ Hosted By
 Licensed To Miro Under
 
 Restrictions w/ Impact to Customer Use
+
+GPT-4o (Azure OpenAI)
+
+Sticky Notes Clustering, AI Sidekicks (Product
+Marketing Alliance, Product Leader, Agile Coach),
+Create Doc, Create Diagram (Flow Chart), Create
+Sticky Notes
+
+Microsoft Corporation
+
+Microsoft License Terms for Online
+Services
+
+Use must be compliant with Acceptable Use Policy
+for Online Services and the Azure OpenAI Code of
+Conduct
+
+GPT-4o mini (Azure OpenAI)
+
+Conversation Summaries, Create Diagram (Mind
+Map, ERD), Change Tone, Fix Grammar/Spelling,
+Rewrite for Clarity, Shorten Text, Translate
+Generate Mind Map, Mind Map (Expand with Ideas,
+Expand with Topics, Expand with Questions)
+
+Azure Content Safety
+
+Output Moderation (for all LLM-based requests)
+
+Claude 3.7 Sonnet
+
+Digitize Diagram
+
+Amazon Web Services, Inc.
+
+Anthropic on Bedrock Commercial Terms of Service
+
+Use must be compliant with the Anthropic Usage
+Policy
 
 DenseNet
 
@@ -211,70 +250,6 @@ Apache 2.0
 
 N/A
 
-FLUX.1-schnell
-
-Image Generation
-
-Miro (via AWS)
-
-Apache 2.0
-
-N/A
-
-GPT-3.5 (Azure OpenAI)
-
-Sticky Notes Clustering Mindmap,
-Codeblock, Add Similar Sticky Notes,
-Summarize, Cards, Sequence Diagram,
-ER Diagram, Presentations, UML Class,
-Write Assist
-
-Microsoft Corporation
-
-Microsoft License Terms for Online Services
-
-Use must be compliant with Acceptable Use
-Policy for Online Services and the Azure OpenAI
-Code of Conduct
-
-GPT-4o (Azure OpenAI)
-
-Sticky Notes (GenAIPanel), Docs, ER
-Diagram
-
-Microsoft Corporation
-
-Microsoft License Terms for Online Services
-
-Use must be compliant with Acceptable Use
-Policy for Online Services and the Azure OpenAI
-Code of Conduct
-
-GPT-4-turbo
-
-Flowchart
-
-Microsoft Corporation
-
-Microsoft License Terms for Online Services
-
-Use must be compliant with Acceptable Use
-Policy for Online Services and the Azure OpenAI
-Code of Conduct
-
-Azure Content Safety
-
-Output Moderation
-(for all LLM-based requests)
-
-Microsoft Corporation
-
-Microsoft License Terms for Online Services
-
-Use must be compliant with Acceptable Use
-Policy for Online Services and the Azure OpenAI
-Code of Conduct
-
 InSPyReNet
 
 Remove Background
@@ -295,18 +270,6 @@ Apache 2.0
 
 N/A
 
-Read OCR (Azure OpenAI)
-
-Sticky Capture
-
-Microsoft Corporation
-
-Microsoft License Terms for Online Services
-
-Use must be compliant with Acceptable Use
-Policy for Online Services and the Azure OpenAI
-Code of Conduct
-
 Real-ESRGAN
 
 Remove Background
@@ -316,17 +279,6 @@ Miro (via AWS)
 BSD 3
 
 N/A
-
-StabilityAI Diffusion XL Refiner 1.0
-
-Image Generation
-
-Miro (via AWS)
-
-RAIL++-M License
-
-Use must be compliant with Attachment A (Use
-Restrictions) of the RAIL++-M License
 
 Salesforce/blip2-flan-t5-xl
 
@@ -358,6 +310,17 @@ Apache 2.0
 
 N/A
 
+StabilityAI Diffusion XL Refiner 1.0
+
+Image Generation
+
+Miro (via AWS)
+
+RAIL++-M License
+
+Use must be compliant with Attachment A (Use
+Restrictions) of the RAIL++-M License
+
 Universal Sentence Encoder multilingual
 
 Sticky Notes Clustering
@@ -369,7 +332,5 @@ Apache 2.0
 N/A
 
 2
-
-3
 
 
