@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: May 9, 2025
+####  Last Updated: May 15, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -255,7 +255,7 @@ Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 Amazon Bedrock, that enable you to use prompts to generate output, including:
 Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS
 Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize,
-Amazon Q, AWS AppFabric, AWS HealthScribe, and AWS App Studio.
+Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, and AWS App Studio.
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply
 to such services. See
@@ -2287,11 +2287,11 @@ Driver, in each case solely for use with Amazon Athena.
 Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and
 Titan models), Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps
 Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon
-Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, Amazon
-Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical,
-Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, and
-AWS App Studio. “AI Content” means Your Content that is processed by an AI
-Service.
+Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS
+Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon
+Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS
+HealthScribe, and AWS App Studio. “AI Content” means Your Content that is
+processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
@@ -2299,24 +2299,24 @@ and the Services may generate the same or similar results across customers.
 
 **50.3.**  You agree and instruct that for Amazon CodeGuru Profiler, Amazon
 Comprehend, Amazon Lex, Amazon Polly, Amazon Rekognition, Amazon Textract,
-Amazon Transcribe, and Amazon Translate: (a) we may use and store AI Content
-that is processed by each of the foregoing AI Services to develop and improve
-the applicable AI Service and its underlying technologies; (b) we may use and
-store AI Content that is not personal data to develop and improve AWS and
-affiliate machine-learning and artificial-intelligence technologies; and (c)
-solely in connection with the development and improvement described in clauses
-(a) and (b), we may store such AI Content in an AWS region outside of the AWS
-region where you are using such AI Service. This Section does not apply to
-Amazon Comprehend Medical, Amazon Transcribe Medical, AWS HealthScribe, Amazon
-Comprehend Detect PII or any AI Service that is not listed in the first
-sentence of this Section 50.3. You may instruct AWS not to use and store AI
-Content processed by an AI Service to develop and improve that Service or
-technologies of AWS or its affiliates by configuring an AI services opt-out
-policy using AWS Organizations. For access to AI Services via AWS Builder ID,
-you may instruct AWS to refrain from using and storing AI Content processed by
-an AI Service to develop and improve that Service or technologies of AWS or
-its affiliates by using the opt-out mechanism indicated in the applicable
-service documentation.  
+Amazon Transcribe, Amazon Translate, and AWS Transform: (a) we may use and
+store AI Content that is processed by each of the foregoing AI Services to
+develop and improve the applicable AI Service and its underlying technologies;
+(b) we may use and store AI Content that is not personal data to develop and
+improve AWS and affiliate machine-learning and artificial-intelligence
+technologies; and (c) solely in connection with the development and
+improvement described in clauses (a) and (b), we may store such AI Content in
+an AWS region outside of the AWS region where you are using such AI Service.
+This Section does not apply to Amazon Comprehend Medical, Amazon Transcribe
+Medical, AWS HealthScribe, Amazon Comprehend Detect PII or any AI Service that
+is not listed in the first sentence of this Section 50.3. You may instruct AWS
+not to use and store AI Content processed by an AI Service to develop and
+improve that Service or technologies of AWS or its affiliates by configuring
+an AI services opt-out policy using AWS Organizations. For access to AI
+Services via AWS Builder ID, you may instruct AWS to refrain from using and
+storing AI Content processed by an AI Service to develop and improve that
+Service or technologies of AWS or its affiliates by using the opt-out
+mechanism indicated in the applicable service documentation.  
 
 **50.4.**  You are responsible for providing legally adequate privacy notices
 to End Users of your products or services that use any AI Service and
@@ -2443,9 +2443,9 @@ Nova Pro, Amazon Nova Premier, Amazon Nova Canvas, Amazon Nova Reel**,**
 Amazon Nova Sonic, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon
 Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan Multimodal
 Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon
-Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), Amazon Connect
-Contact Lens, and Amazon Lex. The following terms apply to the Indemnified
-Generative AI Services:  
+Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS Transform,
+Amazon Connect Contact Lens, and Amazon Lex. The following terms apply to the
+Indemnified Generative AI Services:  
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
@@ -2456,25 +2456,25 @@ judgment or settlement.
 
 **50.10.2.  **AWS will have no obligations or liability under Section 50.10.1
 with respect to any claim: (i) arising from Generative AI Output generated in
-connection with inputs or other data provided by you that, alone or in
-combination, infringe or misappropriate another party’s intellectual property
-rights; (ii) if you interfere with or fail to enable available filters and
-other tools, or disregard instructions made available for the Indemnified
-Generative AI Service; (iii) if your use of the Indemnified Generative AI
-Service breaches the Agreement; (iv) if you have fine-tuned, refined,
-customized, or otherwise modified an Indemnified Generative AI Service and the
-alleged infringement or misappropriation would not have occurred but for this
-fine-tuning, refinement, customization, or modification; (v) arising after you
-receive notice to stop using the Generative AI Output; (vi) arising from
-Generative AI Output that you know or reasonably should know may infringe or
-misappropriate another party’s intellectual property rights; or (vii) alleging
-that your use of Generative AI Output infringes a third party’s trademark or
-related rights. The remedies in this Section 50.10 are the sole and exclusive
-remedies under the Agreement for any third-party claims alleging that the
-Generative AI Output generated by an Indemnified Generative AI Service
-infringes or misappropriates a third party’s intellectual property rights.
-AWS’s defense and payment obligations under this Section 50.10 will not be
-subject to any damages cap under the Agreement.
+connection with inputs or other data provided by you where such inputs or
+other data, alone or in combination, infringe or misappropriate another
+party’s intellectual property rights; (ii) if you interfere with or fail to
+enable available filters and other tools, or disregard instructions made
+available for the Indemnified Generative AI Service; (iii) if your use of the
+Indemnified Generative AI Service breaches the Agreement; (iv) if you have
+fine-tuned, refined, customized, or otherwise modified an Indemnified
+Generative AI Service and the alleged infringement or misappropriation would
+not have occurred but for this fine-tuning, refinement, customization, or
+modification; (v) arising after you receive notice to stop using the
+Generative AI Output; (vi) arising from Generative AI Output that you know or
+reasonably should know may infringe or misappropriate another party’s
+intellectual property rights; or (vii) alleging that your use of Generative AI
+Output infringes a third party’s trademark or related rights. The remedies in
+this Section 50.10 are the sole and exclusive remedies under the Agreement for
+any third-party claims alleging that the Generative AI Output generated by an
+Indemnified Generative AI Service infringes or misappropriates a third party’s
+intellectual property rights. AWS’s defense and payment obligations under this
+Section 50.10 will not be subject to any damages cap under the Agreement.
 
 **50.10.3.  **The obligations under this Section 50.10 will apply only if you:
 (a) give AWS prompt written notice of the claim; (b) permit AWS to control the
@@ -2598,6 +2598,10 @@ Amazon Q Content for service improvement as described in this Section 50.13 by
 (i) configuring an AI services opt-out policy using AWS Organizations, (ii) if
 you use Amazon Q in the IDE, by adjusting your settings in the IDE, or (iii)
 using the opt-out mechanism described in the Amazon Q documentation.
+
+**50.14. AWS Transform.** By using AWS Transform, you agree to run the
+transformed workload on AWS for a minimum of 24 months from the date that the
+transformation is complete.
 
 ####  51\. Amazon Lightsail
 
