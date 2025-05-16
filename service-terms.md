@@ -1,6 +1,6 @@
 #  AWS Service Terms
 
-####  Last Updated: May 15, 2025
+####  Last Updated: May 16, 2025
 
 ####  1\. Universal Service Terms (Applicable to All Services)
 
@@ -2598,10 +2598,6 @@ Amazon Q Content for service improvement as described in this Section 50.13 by
 (i) configuring an AI services opt-out policy using AWS Organizations, (ii) if
 you use Amazon Q in the IDE, by adjusting your settings in the IDE, or (iii)
 using the opt-out mechanism described in the Amazon Q documentation.
-
-**50.14. AWS Transform.** By using AWS Transform, you agree to run the
-transformed workload on AWS for a minimum of 24 months from the date that the
-transformation is complete.
 
 ####  51\. Amazon Lightsail
 
