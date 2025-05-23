@@ -743,7 +743,7 @@ invites to access and use the SaaS Service as further described in the
 Documentation, which may include Customer’s and its Affiliates’ employees,
 consultants, contractors or other third parties.
 
-##### Product
+### Product
 
 [Online whiteboard](/online-whiteboard/)[Apps &
 Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
@@ -759,7 +759,7 @@ Developer Platform](https://developers.miro.com/)[Miro for
 Devices](/apps/)[Enterprise Guard](/enterprise-
 guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
 
-##### Solutions
+### Solutions
 
 [Meetings and Workshops](/meetings-and-workshops/)[Brainstorming &
 Ideation](/brainstorming/)[Agile
@@ -777,7 +777,7 @@ and-design/)[Strategy & Planning](/strategic-planning/)[Mind Map](/mind-
 map/)[Concept Map](/concept-map/)[Online Sticky Notes](/online-sticky-
 notes/)[Flowchart Maker](/flowchart/)[Wireframe](/wireframe/)
 
-##### Resources
+### Resources
 
 [Miro Academy](https://academy.miro.com/)[Help
 Center](https://help.miro.com/hc/en-
@@ -795,7 +795,7 @@ Community](/community/)[Miro
 Events](https://community.miro.com/events)[Solution Partners](/find-a-
 partner/)
 
-##### Company
+### Company
 
 [About us](/about/)[Careers 🚀](/careers/)[Miro in the
 News](/newsroom/)[Customer Stories](/blog/customer-stories/)
@@ -805,7 +805,7 @@ News](/newsroom/)[Customer Stories](/blog/customer-stories/)
 [About us](/about/)[Careers 🚀](/careers/)[Miro in the
 News](/newsroom/)[Customer Stories](/blog/customer-stories/)
 
-##### Plans and Pricing
+### Plans and Pricing
 
 [Pricing](/pricing/)[Business](/business-
 plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
