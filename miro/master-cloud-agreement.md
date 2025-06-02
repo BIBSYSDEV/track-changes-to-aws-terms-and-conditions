@@ -810,16 +810,14 @@ News](/newsroom/)[Customer Stories](/blog/customer-stories/)
 [Pricing](/pricing/)[Business](/business-
 plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
 agencies/)[Education](/education-
-whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
-sales](/contact/sales/)
+whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Book a demo](/contact/sales/)
 
 ### Plans and Pricing
 
 [Pricing](/pricing/)[Business](/business-
 plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
 agencies/)[Education](/education-
-whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
-sales](/contact/sales/)
+whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Book a demo](/contact/sales/)
 
 * * *
 
