@@ -1,11 +1,11 @@
-#  AWS Customer Agreement
+# AWS Customer Agreement
 
 **For additional information related to each AWS Contracting Party, see the
-[AWS Contracting Party FAQs](https://aws.amazon.com/legal/sor-faqs).
+[AWS Contracting Party FAQs](https://aws.amazon.com/legal/sor-faqs/).
 
-*Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.  
+*Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.
 
-####  Last Updated: March 05, 2025
+## Last Updated: March 05, 2025
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -23,7 +23,7 @@ you represent to us that you have legal authority to bind that entity. Please
 see Section 12 for definitions of certain capitalized terms used in this
 Agreement.  
 
-####  1\. AWS Responsibilities
+## 1\. AWS Responsibilities
 
 1.1 General. You may access and use the Services in accordance with this
 Agreement. Service Level Agreements and Service Terms apply to certain
@@ -69,7 +69,7 @@ discontinue or add Service Level Agreements, provided, however, that we will
 provide at least 90 days’ advance notice for adverse changes to any Service
 Level Agreement.  
 
-####  2\. Your Responsibilities.
+## 2\. Your Responsibilities.
 
 2.1 Your Accounts. You will comply with the terms of this Agreement and all
 laws, rules and regulations applicable to your use of the Services. To access
@@ -109,7 +109,7 @@ access to Your Content and the Services by such End User. We do not provide
 any support or services to End Users unless we have a separate agreement with
 you or an End User obligating us to provide such support or services.
 
-####  3\. Fees and Payment.
+## 3\. Fees and Payment.
 
 3.1 Service Fees. We calculate and bill fees and charges monthly. We may bill
 you more frequently for fees accrued if we reasonably suspect that your
@@ -193,9 +193,9 @@ applicable withholding taxes on such fees and charges to the applicable
 government treasury and issue us a withholding tax certificate evidencing such
 deposit, following receipt of the withholding tax certificate in original
 form, we will reimburse to you an amount equal to the taxes that are evidenced
-as deposited.  
+as deposited.
 
-####  4\. Temporary Suspension.
+## 4\. Temporary Suspension.
 
 4.1 Generally. We may suspend your or any End User’s right to access or use
 any portion or all of the Services immediately upon notice to you if we
@@ -225,7 +225,7 @@ period of suspension that we bill to you; and
 (b) you will not be entitled to any service credits under the Service Level
 Agreements for any period of suspension.
 
-####  5\. Term; Termination.
+## 5\. Term; Termination.
 
 5.1 Term. The term of this Agreement will commence on the Effective Date and
 will remain in effect until terminated under this Section 5. Any notice of
@@ -252,9 +252,9 @@ you:
 (A) for cause if we have the right to suspend under Section 4 and the issue
 giving us the right to suspend either:
 
-a.  is not capable of being remedied; or
+a. is not capable of being remedied; or
 
-b.  has not been remedied within 30 days of us suspending your service under
+b. has not been remedied within 30 days of us suspending your service under
 Section 4.1;
 
 (B) if our relationship with a third-party partner who provides software or
@@ -295,7 +295,7 @@ For any use of the Services after the Termination Date, the terms of this
 Agreement will apply and you will pay the applicable fees at the rates under
 Section 3.
 
-####  6\. Proprietary Rights.
+## 6\. Proprietary Rights.
 
 6.1 Your Content. Except as provided in this Section 6, we obtain no rights
 under this Agreement from you (or your licensors) to Your Content. You consent
@@ -333,7 +333,7 @@ restriction. You hereby irrevocably assign to us all right, title, and
 interest in and to the Suggestions and agree to provide us any assistance we
 require to document, perfect, and maintain our rights in the Suggestions.
 
-####  7\. Indemnification.
+## 7\. Indemnification.
 
 7.1 General. You will defend, indemnify, and hold harmless us, our affiliates
 and licensors, and each of their respective employees, officers, directors,
@@ -388,7 +388,7 @@ no event will a party agree to any settlement of any claim that involves any
 commitment, other than the payment of money, without the written consent of
 the other party.
 
-####  8\. Disclaimers.
+## 8\. Disclaimers.
 
 THE SERVICES AND AWS CONTENT ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT
 PROHIBITED BY LAW, OR TO THE EXTENT ANY STATUTORY RIGHTS APPLY THAT CANNOT BE
@@ -402,7 +402,7 @@ OF DEALING OR USAGE OF TRADE, (III) THAT THE SERVICES OR AWS CONTENT OR THIRD-
 PARTY CONTENT WILL BE UNINTERRUPTED, ERROR FREE OR FREE OF HARMFUL COMPONENTS,
 AND (IV) THAT ANY CONTENT WILL BE SECURE OR NOT OTHERWISE LOST OR ALTERED.
 
-####  9\. Limitations of Liability.
+## 9\. Limitations of Liability.
 
 9.1 Liability Disclaimers. EXCEPT FOR PAYMENT OBLIGATIONS UNDER SECTION 7,
 NEITHER AWS NOR YOU, NOR ANY OF THEIR AFFILIATES OR LICENSORS, WILL HAVE
@@ -412,17 +412,16 @@ INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, (B) THE
 VALUE OF YOUR CONTENT, (C) LOSS OF PROFITS, REVENUES, CUSTOMERS,
 OPPORTUNITIES, OR GOODWILL, OR (D) UNAVAILABILITY OF THE SERVICES OR AWS
 CONTENT (THIS DOES NOT LIMIT ANY SERVICE CREDITS UNDER SERVICE LEVEL
-AGREEMENTS).
+AGREEMENTS).9.2 Damages Cap. EXCEPT FOR PAYMENT OBLIGATIONS UNDER SECTION 7,
+THE AGGREGATE LIABILITY UNDER THIS AGREEMENT OF EITHER AWS OR YOU, AND ANY OF
+THEIR RESPECTIVE AFFILIATES OR LICENSORS, WILL NOT EXCEED THE AMOUNTS PAID BY
+YOU TO AWS UNDER THIS AGREEMENT FOR THE SERVICES THAT GAVE RISE TO THE
+LIABILITY DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE; EXCEPT THAT NOTHING
+IN THIS SECTION 9 WILL LIMIT YOUR OBLIGATION TO PAY AWS FOR YOUR USE OF THE
+SERVICES PURSUANT TO SECTION 3, OR ANY OTHER PAYMENT OBLIGATIONS UNDER THIS
+AGREEMENT.
 
-9.2 Damages Cap. EXCEPT FOR PAYMENT OBLIGATIONS UNDER SECTION 7, THE AGGREGATE
-LIABILITY UNDER THIS AGREEMENT OF EITHER AWS OR YOU, AND ANY OF THEIR
-RESPECTIVE AFFILIATES OR LICENSORS, WILL NOT EXCEED THE AMOUNTS PAID BY YOU TO
-AWS UNDER THIS AGREEMENT FOR THE SERVICES THAT GAVE RISE TO THE LIABILITY
-DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE; EXCEPT THAT NOTHING IN THIS
-SECTION 9 WILL LIMIT YOUR OBLIGATION TO PAY AWS FOR YOUR USE OF THE SERVICES
-PURSUANT TO SECTION 3, OR ANY OTHER PAYMENT OBLIGATIONS UNDER THIS AGREEMENT.
-
-####  10\. Modifications to the Agreement.
+## 10\. Modifications to the Agreement.
 
 We may modify this Agreement (including any Policies) at any time by posting a
 revised version on the AWS Site or by otherwise notifying you in accordance
@@ -434,7 +433,7 @@ responsibility to check the AWS Site regularly for modifications to this
 Agreement. We last modified this Agreement on the date listed at the beginning
 of this Agreement.
 
-####  11\. Miscellaneous.
+## 11\. Miscellaneous.
 
 11.1 Assignment. You will not assign or otherwise transfer this Agreement or
 any of your rights and obligations under this Agreement, without our prior
@@ -526,7 +525,7 @@ three arbitrators. The fees and expenses of the arbitrators and the
 administering authority, if any, will be paid in equal proportion by the
 parties.
 
-**(c)  If the applicable AWS Contracting Party is Amazon AWS Serviços Brasil
+(c) If the applicable AWS Contracting Party is Amazon AWS Serviços Brasil
 Ltda., the parties agree that the provisions of this Section 11.5(c) will
 apply. Disputes will be resolved by binding arbitration, rather than in court,
 in accordance with the then-applicable Rules of Arbitration of the
@@ -540,7 +539,7 @@ arbitration proceedings will not be disclosed by either party and will
 constitute confidential information. The Governing Courts will have exclusive
 jurisdiction for the sole purposes of (i) ensuring the commencement of the
 arbitral proceedings; and (ii) granting conservatory and interim measures
-prior to the constitution of the arbitral tribunal.**
+prior to the constitution of the arbitral tribunal.
 
 (d) If the applicable AWS Contracting Party is Amazon Web Services Australia
 Pty Ltd, the parties agree that the provisions of this Section 11.5(d) will
@@ -564,7 +563,7 @@ in Auckland, New Zealand. There will be three arbitrators. The fees and
 expenses of the arbitrators and the administering authority, if any, will be
 paid in equal proportion by the parties. The parties agree that the existence
 of and information relating to any such arbitration proceedings will not be
-disclosed by either party and will constitute confidential information.  
+disclosed by either party and will constitute confidential information.
 
 (f) If the applicable AWS Contracting Party is Amazon Web Services Malaysia
 Sdn. Bhd. (Registration No. 201501028710 (1154031-W)), the parties agree that
@@ -577,10 +576,10 @@ three arbitrators. The fees and expenses of the arbitrators and the
 administering authority, if any, will be paid in equal proportion by the
 parties. The parties agree that the existence of and information relating to
 any such arbitration proceedings will not be disclosed by either party and
-will constitute confidential information.  
+will constitute confidential information.
 
 (g) If the applicable AWS Contracting Party is AWS India, the parties agree
-that the provisions of this Section 11.5(g) will apply.  Disputes will be
+that the provisions of this Section 11.5(g) will apply. Disputes will be
 resolved by binding arbitration, rather than in court. Arbitration will be
 conducted by a panel consisting of three (3) arbitrators, with one (1)
 nominated by each party and the third chosen by the two (2) arbitrators so
@@ -601,7 +600,7 @@ intellectual property or other proprietary rights.
 
 (h) If the applicable AWS Contracting Party is AWS Turkey Pazarlama Teknoloji
 ve Danışmanlık Hizmetleri Limited Şirketi, the parties agree that the
-provisions of this Section 11.5(h) will apply.  Disputes will be resolved by
+provisions of this Section 11.5(h) will apply. Disputes will be resolved by
 arbitration administered by the International Chamber of Commerce
 International Court of Arbitration (the “ICC Court”) in accordance with the
 then-applicable arbitration rules (the “ICC Rules”).The arbitration
@@ -614,7 +613,7 @@ arbitrators fail to appoint a third arbitrator as the president within such 30
 day period, then the ICC Court will appoint the president. The parties agree
 that the existence of and information relating to any such arbitration
 proceedings will not be disclosed by either party and will constitute
-confidential information.  
+confidential information.
 
 11.6 Trade Compliance. In connection with this Agreement, each party will
 comply with all applicable import, re-import, sanctions, anti-boycott, export,
@@ -715,11 +714,10 @@ effect and intent of the original portion. If such construction is not
 possible, the invalid or unenforceable portion will be severed from this
 Agreement but the rest of the Agreement will remain in full force and effect.
 
-11.15  Account Country Specific Terms.  You agree to the following
-modifications to the Agreement that apply to your AWS Contracting Party as
-described below:
+11.15 Account Country Specific Terms. You agree to the following modifications
+to the Agreement that apply to your AWS Contracting Party as described below:
 
-(a)  If the applicable AWS Contracting Party is Amazon Web Services Australia
+(a) If the applicable AWS Contracting Party is Amazon Web Services Australia
 Pty Ltd, the parties agree as follows:
 
 (i) If the Services are subject to any statutory guarantees under the
@@ -732,23 +730,23 @@ Services supplied again.
 (ii) If this Agreement is a “consumer contract” or “small business contract”
 as defined in the Australian Competition and Consumer Act 2010:
 
-a.  Section 7.1 will not apply to the extent the applicable Losses or damages
+a. Section 7.1 will not apply to the extent the applicable Losses or damages
 are caused by AWS’s gross negligence or criminal misconduct. For these
 purposes, “gross negligence” means an act or omission by an employee who has
 authority to bind AWS that is negligent and a wilful and significant disregard
 of an obvious and material risk.
 
-b.  If we are required to give prior notice under Section 1.5 or Section 3, we
+b. If we are required to give prior notice under Section 1.5 or Section 3, we
 will give you this notice by email or a reasonably substitutable alternative
 means. If we modify this Agreement under Section 10 in a way that is
 materially adverse to you (as reasonably determined by AWS), we will give you
 at least 30 days’ prior notice of the modification by email or a reasonably
 substitutable alternative means.
 
-(b)  If the applicable AWS Contracting Party is Amazon Web Services Japan
-G.K., the parties agree as follows:
+(b) If the applicable AWS Contracting Party is Amazon Web Services Japan G.K.,
+the parties agree as follows:
 
-(i)  The following sentence is added at the end of Section 6.5 (Suggestions):
+(i) The following sentence is added at the end of Section 6.5 (Suggestions):
 
 “The foregoing assignment includes the assignment of the rights provided under
 Article 27 (Rights of Translation, Adaptation, etc.) and Article 28 (Right of
@@ -757,22 +755,21 @@ Act of Japan, and you agree not to exercise your moral rights against us, our
 affiliates or persons who use the Suggestions through the consent of us or our
 affiliates.”
 
-(ii)  The following sentences are added at the end of Section 9 (Limitation of
+(ii) The following sentences are added at the end of Section 9 (Limitation of
 Liability):
 
 “THE DISCLAIMER OR THE DAMAGES CAP IN THIS SECTION MAY NOT BE APPLIED TO
 DAMAGES CAUSED BY EITHER PARTY’S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT IF
 SUCH DISCLAIMER OR THE DAMAGES CAP ARE DEEMED AGAINST PUBLIC POLICY UNDER
-ARTICLE 90 OF THE CIVIL CODE.  IN THAT EVENT, THE SCOPE OF THE DISCLAIMER
-SHALL BE NARROWLY CONSTRUED IN SUCH MANNER AND THE DAMAGES CAP MAY BE
-INCREASED BY SUCH MINIMUM AMOUNT SO THAT THE DISCLAIMER OR THE DAMAGES CAP
-HEREUNDER WOULD NOT BE DEEMED AGAINST PUBLIC POLICY UNDER ARTICLE 90 OF THE
-CIVIL CODE.”
+ARTICLE 90 OF THE CIVIL CODE. IN THAT EVENT, THE SCOPE OF THE DISCLAIMER SHALL
+BE NARROWLY CONSTRUED IN SUCH MANNER AND THE DAMAGES CAP MAY BE INCREASED BY
+SUCH MINIMUM AMOUNT SO THAT THE DISCLAIMER OR THE DAMAGES CAP HEREUNDER WOULD
+NOT BE DEEMED AGAINST PUBLIC POLICY UNDER ARTICLE 90 OF THE CIVIL CODE.”
 
 (c) If the applicable AWS Contracting Party is AWS Turkey Pazarlama Teknoloji
 ve Danışmanlık Hizmetleri Limited Şirketi, the parties agree as follows:
 
-(i)   The following sentence is added at the end of Section 3.2(a) (Taxes):
+(i) The following sentence is added at the end of Section 3.2(a) (Taxes):
 
 “If we are required to pay any stamp tax in relation to this Agreement or any
 other document related to this Agreement, we may charge you and you will pay
@@ -793,11 +790,11 @@ YOUR CONTENT, (C) LOSS OF PROFITS, REVENUES, CUSTOMERS, OPPORTUNITIES, OR
 GOODWILL, OR (D) UNAVAILABILITY OF THE SERVICES OR AWS CONTENT (THIS DOES NOT
 LIMIT ANY SERVICE CREDITS UNDER SERVICE LEVEL AGREEMENTS).”
 
-####  12\. Definitions.
+## 12\. Definitions.
 
 “Acceptable Use Policy” means the policy located at
-[http://aws.amazon.com/aup](https://aws.amazon.com/aup/) (and any successor or
-related locations designated by us), as may be updated by us from time to
+[https://aws.amazon.com/aup](https://aws.amazon.com/aup/) (and any successor
+or related locations designated by us), as may be updated by us from time to
 time.
 
 “Account Country” is the country associated with your account. If you have
@@ -845,26 +842,38 @@ Content does not include the Services or Third-Party Content.
 on your Account Country. If you change your Account Country to one that is
 identified with a different AWS Contracting Party, you agree that the AWS
 Contracting Party identified with your new Account Country is your AWS
-Contracting Party, without any further action required by either party.  
+Contracting Party, without any further action required by either party.
 
-**Account Country** | **AWS Contracting Party** | **Facsimile** | **Mailing Address**  
+## AWS Contracting Party
+
+  
+
+  
+
+Account Country |  AWS Contracting Party |  Facsimile |  Mailing Address  
 ---|---|---|---  
-Australia | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
-Brazil* | Amazon AWS Serviços Brasil Ltda.  | N/A | A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, São Paulo, Brasil   
-Canada | Amazon Web Services Canada, Inc. | N/A | 120 Bremner Blvd, 26th Floor, Toronto, Ontario, M5J 0A8, Canada  
-India | Amazon Web Services India Private Limited (formerly known as Amazon Internet Services Private Limited), having its registered office at Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, New Delhi 110019, India | 011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India.  
-Japan | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
-Malaysia | Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) | N/A | Level 26 & Level 35, The Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
-New Zealand  | Amazon Web Services New Zealand Limited | N/A | Level 5, 18 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
-Singapore | Amazon Web Services Singapore Private Limited | N/A | Level 2, East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916  
-South Africa | Amazon Web Services South Africa Proprietary Limited  | 206-266-7010 | 29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925   
-South Korea | Amazon Web Services Korea LLC | N/A | L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
-Türkiye | AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi | N/A | Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
-Any country within Europe, the Middle East, or Africa (excluding South Africa) ("EMEA")** |  Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg  
-Any country that is not listed in this table above. | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  
+Australia |  Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) |  N/A |  Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
+Brazil* |  Amazon AWS Serviços Brasil Ltda.  |  N/A |  A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, São Paulo, Brasil   
+Canada |  Amazon Web Services Canada, Inc. |  N/A |  120 Bremner Blvd, 26th Floor, Toronto, Ontario, M5J 0A8, Canada  
+India |  Amazon Web Services India Private Limited (formerly known as Amazon Internet Services Private Limited), having its registered office at Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, New Delhi 110019, India |  011-47985609 |  Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India.  
+Japan |  Amazon Web Services Japan G.K. |  N/A |  1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
+Malaysia |  Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) |  N/A |  Level 26 & Level 35, The Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
+New Zealand |  Amazon Web Services New Zealand Limited |  N/A |  Level 5, 18 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
+Singapore |  Amazon Web Services Singapore Private Limited |  N/A |  Level 2, East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916  
+South Africa |  Amazon Web Services South Africa Proprietary Limited  |  206-266-7010 |  29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925   
+South Korea |  Amazon Web Services Korea LLC |  N/A |  L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
+Türkiye |  AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  N/A |  Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
+Any country within Europe, the Middle East, or Africa (excluding South Africa) ("EMEA")** |   Amazon Web Services EMEA SARL |  352 2789 0057 |  38 Avenue John F. Kennedy, L-1855, Luxembourg  
+Any country that is not listed in this table above. |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,  
 Seattle, WA 98109-5210  
 U.S.A.  
   
+  
+
+  
+
+  
+
 *Brazil is your Account Country only if you have provided a valid Brazilian Tax Registration Number (CPF/CNPJ number) for your account. If your billing address is located in Brazil but you have not provided a valid Brazilian Tax Registration Number (CPF/CNPJ number), then Amazon Web Services, Inc. is the AWS Contracting Party for your account.
 
 **See <https://aws.amazon.com/legal/aws-emea-countries> for a full list of
@@ -879,7 +888,7 @@ designated by us), as may be updated by us from time to time.
 
 “AWS Trademark Guidelines” means the guidelines and trademark license located
 at <http://aws.amazon.com/trademark-guidelines/> (and any successor or related
-locations designated by us), as may be updated by us from time to time.  
+locations designated by us), as may be updated by us from time to time.
 
 “Content” means software (including machine images), data, text, audio, video,
 or images.
@@ -888,39 +897,75 @@ or images.
 another user (a) accesses or uses Your Content, or (b) otherwise accesses or
 uses the Services under your account. The term “End User” does not include
 individuals or entities when they are accessing or using the Services or any
-Content under their own AWS account, rather than under your account.  
+Content under their own AWS account, rather than under your account.
 
 "Governing Laws" and “Governing Courts” mean, for each AWS Contracting Party,
-the laws and courts set forth in the following table:  
+the laws and courts set forth in the following table:
 
-**AWS Contracting Party** | **Governing Laws** | **Governing Courts**  
----|---|---  
-Amazon AWS Serviços Brasil Ltda | The laws of Brazil | The courts of the City of São Paulo, State of São Paulo  
-Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | The laws of New South Wales | The courts of New South Wales  
-Amazon Web Services Canada, Inc. | The laws of the Province of Ontario, Canada and federal laws of Canada applicable therein | The provincial or federal courts located in Toronto, Ontario, Canada  
-Amazon Web Services EMEA SARL | The laws of the Grand Duchy of Luxembourg | The courts in the district of Luxembourg City  
-Amazon Web Services, Inc. | The laws of the State of Washington | The state or Federal courts in King County, Washington  
-Amazon Web Services India Private Limited (AWS India) | The laws of India | The courts in New Delhi, India   
-Amazon Web Services Japan G.K. | The laws of Japan | The Tokyo District Court  
-Amazon Web Services Korea LLC | The laws of the State of Washington | The state or Federal courts in King County, Washington  
-Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) | The laws of Malaysia | The courts of Malaysia  
-Amazon Web Services New Zealand Limited | The laws of New Zealand | The courts of New Zealand  
-Amazon Web Services Singapore Private Limited | The laws of the State of Washington | The state or Federal courts in King County, Washington  
-Amazon Web Services South Africa Proprietary Limited | The laws of the Republic of South Africa | The South Gauteng High Court, Johannesburg  
-AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi | The laws of the Grand Duchy of Luxembourg | The courts in the district of Luxembourg City  
+## Governing Laws and Governing Courts
+
   
 
+  
+
+AWS Contracting Party |  Governing Laws |  Governing Courts  
+---|---|---  
+Amazon AWS Serviços Brasil Ltda |  The laws of Brazil  
+|  The courts of the City of São Paulo, State of São Paulo  
+  
+Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) |  The laws of New South Wales  
+|  The courts of New South Wales  
+  
+Amazon Web Services Canada, Inc |  The laws of the Province of Ontario, Canada and federal laws of Canada applicable therein  
+|  The provincial or federal courts located in Toronto, Ontario, Canada  
+  
+Amazon Web Services EMEA SARL |  The laws of the Grand Duchy of Luxembourg  
+|  The courts in the district of Luxembourg City  
+  
+Amazon Web Services, Inc. |  The laws of the State of Washington  
+|  The state or Federal courts in King County, Washington  
+  
+Amazon Web Services India Private Limited (AWS India) |  The laws of India  
+|  The courts in New Delhi, India  
+  
+Amazon Web Services Japan G.K. |  The laws of Japan  
+|  The Tokyo District Court  
+  
+Amazon Web Services Korea LLC |  The laws of the State of Washington  
+|  The state or Federal courts in King County, Washington  
+  
+Amazon Web Services Malaysia Sdn. Bhd. (Registration No. 201501028710 (1154031-W)) |  The laws of Malaysia  
+|  The courts of Malaysia  
+  
+Amazon Web Services New Zealand Limited |  The laws of New Zealand  
+|  The courts of New Zealand  
+  
+Amazon Web Services Singapore Private Limited |  The laws of the State of Washington  
+|  The state or Federal courts in King County, Washington  
+  
+Amazon Web Services South Africa Proprietary Limited |  The laws of the Republic of South Africa  
+|  The South Gauteng High Court, Johannesburg  
+  
+AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  The laws of the Grand Duchy of Luxembourg  
+|  The courts in the district of Luxembourg City  
+  
+  
+  
+
+  
+
+  
 
 “Indirect Taxes” means applicable taxes and duties, including, without
 limitation, VAT, service tax, GST, excise taxes, sales and transactions taxes,
-and gross receipts tax.
+and gross receipts tax.  
 
 “Intellectual Property License” means the separate license terms that apply to
 your access to and use of AWS Content and Services located at
 [https://aws.amazon.com/legal/aws-ip-license-
 terms](https://aws.amazon.com/legal/aws-ip-license-terms/) (and any successor
 or related locations designated by us), as may be updated by us from time to
-time.  
+time.
 
 “Losses” means any claims, damages, losses, liabilities, costs, and expenses
 (including reasonable attorneys’ fees).
@@ -934,8 +979,8 @@ designated by us), as may be updated by us from time to time.
 
 “Service” means each of the services made available by us or our affiliates,
 including those web services described in the Service Terms. Services do not
-include Third-Party Content.
-
+include Third-Party Content.  
+  
 “Service Level Agreement” means all service level agreements that we offer
 with respect to the Services and post on the AWS Site, as they may be updated
 by us from time to time. The service level agreements we offer with respect to
@@ -956,7 +1001,7 @@ that you provide to us.
 
 “Term” means the term of this Agreement described in Section 5.1.
 
-“Termination Date” means the effective date of termination provided in a
+"Termination Date” means the effective date of termination provided in a
 notice from one party to the other in accordance with Section 5.
 
 “Third-Party Content” means Content made available to you by any third party
@@ -967,5 +1012,5 @@ processing, storage or hosting by the Services in connection with your AWS
 account and any computational results that you or any End User derive from the
 foregoing through their use of the Services. For example, Your Content
 includes Content that you or any End User stores in Amazon Simple Storage
-Service. Your Content does not include Account Information.  
+Service. Your Content does not include Account Information.
 
