@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: May 16, 2025
+## Last Updated: June 9, 2025
 
   
 
@@ -4637,5 +4637,31 @@ Security Incident Response user guides posted on the AWS Site).
 
 **104.3.** By enabling alert triaging you agree to grant AWS Security Incident
 Response permissions to access Amazon GuardDuty and AWS Security Hub to ingest
-alerts and create suppression rules on your behalf.
+alerts and create suppression rules on your behalf.  
+
+## 105\. Amazon Elastic VMware Service (EVS) (Preview)
+
+**105.1.** License models - Under the "bring-your-own-license" (BYOL) option,
+AWS Elastic VMware Service enables you to provision VMware Cloud Foundation
+software and add-ons ("VCF Software") on Amazon EC2 instances.
+
+**105.2.** You must be eligible to use VCF Software with AWS Elastic VMware
+Service under your agreements with Broadcom. You are solely responsible for
+obtaining all required licenses and for complying with all applicable
+licensing requirements.
+
+**105.3.** You acknowledge that (a) the VCF Software deployed by EVS is
+neither sold nor distributed to you and may only be used in conjunction with
+EVS, and (b) EVS requires a persistent connection to your VCF deployment
+through the VPC subnet you provide (“Service Access Subnet”). You will not
+take any action that interferes with, impedes, or prevents AWS from accessing,
+managing or maintaining EVS, including modifying the Service Access Subnet (as
+specified in the documentation).  
+
+**105.4.** You will remain enrolled in Business Support or better during the
+entire period of your use of EVS.
+
+**105.5.** AWS may share Account Information, logs or other usage information
+with Broadcom to enable Broadcom to provide technical and sales support and
+verify license compliance.
 
