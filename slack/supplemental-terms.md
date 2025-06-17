@@ -50,7 +50,7 @@ Archives
 
   * [Terms & Policy Archives](https://slack.com/policy-archives)
 
-**Last Updated: April 17, 2024**
+**Last Updated: June 17, 2025**
 
 The Salesforce [Main Services Agreement](/main-services-agreement) (“**MSA**
 ”) and these Slack Supplemental Terms (“**Supplemental Terms** ”) are legally
@@ -80,6 +80,21 @@ ownership in and to aggregated machine learning results.
 For more information about our practices, including instructions on how to opt
 out, visit our [Privacy Principles](/trust/data-management/privacy-principles)
 page.
+
+## Multiple Infrastructure
+
+Services that interoperate between the Slack services and Salesforce services,
+including Salesforce Channels, are provided on one or more separate
+infrastructure(s) as described in the
+[](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/misc/salesforce-
+infrastructure-and-subprocessors.pdf)Infrastructure and Subprocessor
+Documentation and the Slack services’ and Salesforce services’ infrastructures
+may differ with respect to privacy and security protections and/or be hosted
+in different physical locations and are further described in the Salesforce
+Trust and Compliance Documentation. These Slack services interface with
+“Interoperable (but not Authorized)” Salesforce products and features, and
+therefore Customer acknowledges Customer Data is shared outside the Slack
+Services FedRAMP authorization boundary.
 
 ## Publicity
 
