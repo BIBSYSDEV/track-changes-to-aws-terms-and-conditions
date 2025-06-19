@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: June 17, 2025
+## Last Updated: June 18, 2025
 
   
 
@@ -2576,11 +2576,10 @@ alter such Provenance Data.
 **50.13.  Amazon Q.** To help Amazon Q provide the most relevant information,
 we may use AI Content processed by Amazon Q, such as prompts and responses
 (“Amazon Q Content”), for service improvement as described below. Currently,
-this Section 50.13 applies only to Amazon Q Developer Free Tier and Amazon Q
-Developer operational investigations (Preview), and we may add Amazon Q
-features or services from time to time as they launch. This Section 50.13 does
-not apply to any Amazon Q feature or service that is not listed in the prior
-sentence.
+this Section 50.13 applies only to Amazon Q Developer Free Tier, and we may
+add Amazon Q features or services from time to time as they launch. This
+Section 50.13 does not apply to any Amazon Q feature or service that is not
+listed in the prior sentence.
 
 **50.13.1.Service Improvement.** You agree and instruct that we may use Amazon
 Q Content to develop and improve Amazon Q and its underlying technologies, and
