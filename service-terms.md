@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: June 18, 2025
+## Last Updated: June 26, 2025
 
   
 
@@ -1905,7 +1905,7 @@ LoRaWAN Network Provider can receive and transmit device messages, and provide
 support. AWS may change, deprecate, or discontinue the availability of the
 LoRaWAN Network Provider through AWS IoT Core at any time upon notice to you.
 
-**39.11.****AWS IoT Core for Amazon Sidewalk**  
+**39.11. AWS IoT Core for Amazon Sidewalk**  
   
 **39.11.1.** “AWS IoT Core for Amazon Sidewalk” is a feature of AWS IoT Core
 that enables customers to build applications and devices that connect to a
@@ -1966,12 +1966,12 @@ your AS Devices in our marketing materials to identify you as a participant in
 the WWAS program, including your name, logo, images, and videos of your AS
 Devices.
 
-**39.12.****Managed integrations (Preview).** Managed integrations is a
-feature of AWS IoT Device Management that allows you to create or access
-cloud-to-cloud connectors which link your AWS resources with one or more of
-your devices (“C2C Connectors”). Any C2C Connector you create is Your Content,
-and any C2C Connector created by another customer that you access is Third-
-Party Content. AWS does not create or manage any C2C Connectors.
+**39.12. Managed integrations.** Managed integrations is a feature of AWS IoT
+Device Management that allows you to create or access cloud-to-cloud
+connectors which link your AWS resources with one or more of your devices
+(“C2C Connectors”). Any C2C Connector you create is Your Content, and any C2C
+Connector created by another customer that you access is Third-Party Content.
+AWS does not create or manage any C2C Connectors.
 
 You may share your C2C Connectors with other AWS customers. If you do, you
 authorize AWS as your service provider to list those C2C Connectors and
@@ -2492,17 +2492,13 @@ of AI Services.
 
 **50.12. Amazon Bedrock.** The following terms apply to Amazon Bedrock:
 
-**50.12.1.** Third-party models are made available to you either by AWS or by
-third party providers as “Third-Party Content” and may be subject to
-additional third-party license terms specified in Amazon Bedrock, these
-Service Terms, and related documentation. We may share information, that does
-not include Your Content, about your use of a third-party model on Amazon
-Bedrock with the provider of that third-party model. Your access to and use of
-third-party models on Amazon Bedrock may require your use of AWS Marketplace,
-and in those cases Section 20 (AWS Marketplace) of the Service Terms apply.
-Notwithstanding anything to the contrary in the Agreement or Service Terms,
-for purposes of facilitating your purchases of models sold by third parties,
-Amazon Web Services, Inc. will be the AWS Contracting Party.
+**50.12.1.  **Third-party models are available to you on Amazon Bedrock as
+“Third-Party Content”. By using a third-party model, you agree to the
+applicable terms [here](http://aws.amazon.com/legal/bedrock/third-party-
+models). Notwithstanding anything to the contrary in the Agreement or Service
+Terms, Section 20 (AWS Marketplace) above applies to your use of models sold
+by third parties, and Amazon Web Services, Inc. is the invoicing party with
+respect to these models.  
 
 **50.12.2.** As part of providing the Service, Amazon Bedrock may use
 automated abuse detection mechanisms designed to detect harmful content,
@@ -2529,42 +2525,11 @@ model. We will not access or use your customized model except as necessary to
 maintain or provide the Amazon Bedrock Service, or as necessary to comply with
 the law or a binding order of a governmental body.
 
-**50.12.5.** Mistral on Bedrock. "Mistral Models" are any models trained and
-developed by Mistral AI ("Mistral") offered on Amazon Bedrock, with the
-exception of models offered on Amazon Bedrock Marketplace. Mistral Models are
-Third-Party Content. If you use the Mistral Models the following additional
-terms apply:
+**50.12.5.  **We may share information, that does not include Your Content,
+about your use of a third-party model with the provider of that third-party
+model.  
 
-  * Mistral Models are provided on an “as is” basis and may be modified, updated, or enhanced from time to time.
-  * AWS may share information with Mistral about your use of the Mistral Models, including Account Information and usage information (but not Your Content), for Mistral’s internal business analytics and support of the Mistral Models on Bedrock.
-  * Mistral owns all right, title, and interest in and to the Mistral Models. You will not have any access to the weights or source code of the Mistral Models without Mistral’s consent.
-  * Subject to the limitations below, Mistral will defend you against any third-party claim alleging that the Mistral Models or output from the Mistral Models infringes or misappropriates that third-party’s intellectual property rights.
-  * Mistral will have no indemnity obligations or liability for any third-party claim arising from: (i) output generated in connection with inputs or other data provided by you that infringe or misappropriate another party’s intellectual property rights; (ii) your combination of the Mistral Models with your or a third-party’s software or hardware where the claim would not have arisen but for this combination (iii) your interference with or failure to enable available filters and other tools or follow instructions made available for the Mistral Models; (iv) your breach of this section 50.12.5; (v) your fine-tuned, refined, customized, or otherwise modified Mistral Models where the alleged infringement or misappropriation would not have occurred but for this fine-tuning, refinement, customization, or modification; or (v) your failure to comply with applicable law.
-  * To the extent permitted by applicable law, and except with respect to Mistral’s indemnity obligations to you: Mistral will not be liable for any indirect, special, incidental, punitive, exemplary or consequential damages (including real or alleged loss of revenues) or any liabilities, damages and costs incurred by you in the case of: (i) a force majeure event; (ii) any cause not attributable to Mistral; or (iii) output of a Mistral Model being similar or identical to any other customer’s output; and for any such claims Mistral’s liability to you will be limited to the lower of the aggregate payments you made to AWS for your use of the Mistral Models in the immediately preceding 4 months and EUR 10,000, except for Mistral’s open source models where the maximum liability will be the lower of 1 month of payments and EUR 1,000.
-  * You will defend, indemnify, and hold harmless Mistral, its affiliates, and its licensors from and against any losses arising out of a third-party claim caused by: (a) your use of the Mistral Models in violation of this section 50.12.5; (b) your application (if any); and (c) by any finetuned, refined, customized or modified Mistral Model where the claim would not have arisen but for this fine-tuning, refinement, customization, or modification.
-
-**50.12.6.**  **Llama 3, Llama 3.1, Llama 3.2, Llama 3.3, and Llama 4 on
-Bedrock**. Llama 3, Llama 3.1, Llama 3.2, Llama 3.3, and Llama 4 are trained
-and developed by Meta Platforms, Inc. and Meta Platforms Ireland Limited
-(collectively, “Meta”) and is Third-Party Content. If you use Llama 3 on
-Bedrock (excluding Amazon Bedrock Marketplace) then the following additional
-terms apply: <https://llama.meta.com/llama3/license/>. If you use Llama 3.1 on
-Bedrock then the following additional terms apply: <https://github.com/meta-
-llama/llama-models/blob/main/models/llama3_1/LICENSE>. If you use Llama 3.2 on
-Bedrock then the following additional terms apply: <https://github.com/meta-
-llama/llama-models/blob/main/models/llama3_2/LICENSE>. If you use Llama 3.3 on
-Bedrock then the following additional terms apply: <https://github.com/meta-
-llama/llama-models/blob/main/models/llama3_3/LICENSE>. If you use Llama 4 on
-Bedrock then the following additional terms apply:
-<https://www.llama.com/llama4/license/.>
-
-**50.12.7.  **DeepSeek-R1 on Bedrock. DeepSeek-R1 is trained and developed by
-Hangzhou DeepSeek Artificial Intelligence Co., Ltd. and its affiliates, and is
-Third-Party Content. If you use DeepSeek-R1 on Bedrock (excluding Amazon
-Bedrock Marketplace) then the following additional terms apply:
-<https://huggingface.co/deepseek-ai/DeepSeek-R1/blob/main/LICENSE>.
-
-**50.12.8.** Output generated by models accessed through Amazon Bedrock may
+**50.12.6.** Output generated by models accessed through Amazon Bedrock may
 include information such as metadata, digital signatures, or watermarks to
 identify it is generated using a generative artificial intelligence model
 ("Provenance Data"), as indicated in applicable documentation (for example,
