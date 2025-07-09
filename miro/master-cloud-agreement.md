@@ -835,5 +835,6 @@ Miro © 2025
 
 [Terms of Service](https://miro.com/legal/terms-of-service/)[Privacy
 Policy](https://miro.com/legal/privacy-policy/)[Manage Cookies](/manage-
-cookies/)
+cookies/)[Do Not Sell or Share My Personal Information](/legal/privacy-
+policy/?ccpa=true/)
 
