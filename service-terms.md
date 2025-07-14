@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: June 26, 2025
+## Last Updated: July 14, 2025
 
   
 
@@ -257,7 +257,8 @@ Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 Amazon Bedrock, that enable you to use prompts to generate output, including:
 Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS
 Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize,
-Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, and AWS App Studio.
+Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, and
+Kiro (Preview).
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply
 to such services. See
@@ -2289,33 +2290,34 @@ Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon
 Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS
 Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon
 Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS
-HealthScribe, and AWS App Studio. “AI Content” means Your Content that is
-processed by an AI Service.
+HealthScribe, AWS App Studio, and Kiro (Preview). “AI Content” means Your
+Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
 and the Services may generate the same or similar results across customers.
 
-**50.3.**  You agree and instruct that for Amazon CodeGuru Profiler, Amazon
+**50.3.** You agree and instruct that for Amazon CodeGuru Profiler, Amazon
 Comprehend, Amazon Lex, Amazon Polly, Amazon Rekognition, Amazon Textract,
-Amazon Transcribe, Amazon Translate, and AWS Transform: (a) we may use and
-store AI Content that is processed by each of the foregoing AI Services to
-develop and improve the applicable AI Service and its underlying technologies;
-(b) we may use and store AI Content that is not personal data to develop and
-improve AWS and affiliate machine-learning and artificial-intelligence
-technologies; and (c) solely in connection with the development and
-improvement described in clauses (a) and (b), we may store such AI Content in
-an AWS region outside of the AWS region where you are using such AI Service.
-This Section does not apply to Amazon Comprehend Medical, Amazon Transcribe
-Medical, AWS HealthScribe, Amazon Comprehend Detect PII or any AI Service that
-is not listed in the first sentence of this Section 50.3. You may instruct AWS
-not to use and store AI Content processed by an AI Service to develop and
-improve that Service or technologies of AWS or its affiliates by configuring
-an AI services opt-out policy using AWS Organizations. For access to AI
-Services via AWS Builder ID, you may instruct AWS to refrain from using and
-storing AI Content processed by an AI Service to develop and improve that
-Service or technologies of AWS or its affiliates by using the opt-out
-mechanism indicated in the applicable service documentation.
+Amazon Transcribe, Amazon Translate, AWS Transform, and Kiro (Preview): (a) we
+may use and store AI Content that is processed by each of the foregoing AI
+Services to develop and improve the applicable AI Service and its underlying
+technologies; (b) we may use and store AI Content that is not personal data to
+develop and improve AWS and affiliate machine-learning and artificial-
+intelligence technologies; and (c) solely in connection with the development
+and improvement described in clauses (a) and (b), we may store such AI Content
+in an AWS region outside of the AWS region where you are using such AI
+Service. This Section does not apply to Amazon Comprehend Medical, Amazon
+Transcribe Medical, AWS HealthScribe, Amazon Comprehend Detect PII or any AI
+Service that is not listed in the first sentence of this Section 50.3. You may
+instruct AWS not to use and store AI Content processed by an AI Service to
+develop and improve that Service or technologies of AWS or its affiliates by
+configuring an AI services opt-out policy using AWS Organizations. For access
+to AI Services via AWS Builder ID or a third-party authentication provider,
+you may instruct AWS to refrain from using and storing AI Content processed by
+an AI Service to develop and improve that Service or technologies of AWS or
+its affiliates by using the opt-out mechanism indicated in the applicable
+service documentation.
 
 **50.4.**  You are responsible for providing legally adequate privacy notices
 to End Users of your products or services that use any AI Service and
@@ -4527,6 +4529,10 @@ aMRbm7UjNfmDn-VNRibvDuZqGgpANSwjV7T-k).
 
 h. Your use of Adobe After Effects is subject to the terms and conditions of
 the [Adobe General Terms of Use](https://www.adobe.com/legal/terms.html).
+
+i. Your use of Chaos V-Ray is subject to the terms and conditions of the
+[Chaos End User License
+Agreement.](https://static.chaos.com/documents/assets/000/000/508/original/Chaos_EULA_20250517.pdf?1747475254)
 
 **103.2.** AWS does not offer support services for DCC Software. You may
 request support directly from the applicable DCC Software provider, who may
