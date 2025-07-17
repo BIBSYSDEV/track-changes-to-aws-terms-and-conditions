@@ -36,7 +36,7 @@ Notice](/legal/careers-privacy-notice) or the [Former Workplace Privacy
 Notice](/legal/formerworkforceprivacynotice). For information about how we
 process information submitted in a voluntary demographic survey during the
 application process, see our [Demographic Survey Privacy
-Notice](/legal/diversity-survey-privacy-notice). Atlassian, we and us refers
+Notice](/legal/demographic-survey-privacy-notice). Atlassian, we and us refers
 to Atlassian Pty Ltd, Atlassian US, Inc. and any of our corporate affiliates.
 We offer a wide range of products, [including our cloud, server and data
 center products](/software). We refer to all of these products, together with
