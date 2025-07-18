@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: July 14, 2025
+## Last Updated: July 17, 2025
 
   
 
@@ -3213,6 +3213,13 @@ Web Services, Inc. is the AWS Contracting Party under the Agreement.
 **60.9.** For purposes of your use of Amazon SageMaker Partner AI Apps, Amazon
 Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
+**60.10** When using Nova customization on SageMaker Training Jobs or
+SageMaker Hyperpod with Nova models, you will have exclusive use of your
+customized model. We will not access or use your customized model except as
+necessary to maintain or provide Nova customization on SageMaker Training Jobs
+or SageMaker Hyperpod, or as necessary to comply with the law or a binding
+order of a governmental body.
+
 ## 61\. AWS AppSync
 
 You agree not to and will not attempt to perform any network discovery or load
@@ -4533,6 +4540,10 @@ the [Adobe General Terms of Use](https://www.adobe.com/legal/terms.html).
 i. Your use of Chaos V-Ray is subject to the terms and conditions of the
 [Chaos End User License
 Agreement.](https://static.chaos.com/documents/assets/000/000/508/original/Chaos_EULA_20250517.pdf?1747475254)
+
+j. Your use of Epic’s Unreal Engine is subject to the terms and conditions of
+the [Unreal Engine End User License
+Agreement](https://www.unrealengine.com/en-US/eula/unreal).
 
 **103.2.** AWS does not offer support services for DCC Software. You may
 request support directly from the applicable DCC Software provider, who may

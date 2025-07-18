@@ -412,14 +412,15 @@ INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, (B) THE
 VALUE OF YOUR CONTENT, (C) LOSS OF PROFITS, REVENUES, CUSTOMERS,
 OPPORTUNITIES, OR GOODWILL, OR (D) UNAVAILABILITY OF THE SERVICES OR AWS
 CONTENT (THIS DOES NOT LIMIT ANY SERVICE CREDITS UNDER SERVICE LEVEL
-AGREEMENTS).9.2 Damages Cap. EXCEPT FOR PAYMENT OBLIGATIONS UNDER SECTION 7,
-THE AGGREGATE LIABILITY UNDER THIS AGREEMENT OF EITHER AWS OR YOU, AND ANY OF
-THEIR RESPECTIVE AFFILIATES OR LICENSORS, WILL NOT EXCEED THE AMOUNTS PAID BY
-YOU TO AWS UNDER THIS AGREEMENT FOR THE SERVICES THAT GAVE RISE TO THE
-LIABILITY DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE; EXCEPT THAT NOTHING
-IN THIS SECTION 9 WILL LIMIT YOUR OBLIGATION TO PAY AWS FOR YOUR USE OF THE
-SERVICES PURSUANT TO SECTION 3, OR ANY OTHER PAYMENT OBLIGATIONS UNDER THIS
-AGREEMENT.
+AGREEMENTS).
+
+9.2 Damages Cap. EXCEPT FOR PAYMENT OBLIGATIONS UNDER SECTION 7, THE AGGREGATE
+LIABILITY UNDER THIS AGREEMENT OF EITHER AWS OR YOU, AND ANY OF THEIR
+RESPECTIVE AFFILIATES OR LICENSORS, WILL NOT EXCEED THE AMOUNTS PAID BY YOU TO
+AWS UNDER THIS AGREEMENT FOR THE SERVICES THAT GAVE RISE TO THE LIABILITY
+DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE; EXCEPT THAT NOTHING IN THIS
+SECTION 9 WILL LIMIT YOUR OBLIGATION TO PAY AWS FOR YOUR USE OF THE SERVICES
+PURSUANT TO SECTION 3, OR ANY OTHER PAYMENT OBLIGATIONS UNDER THIS AGREEMENT.
 
 ## 10\. Modifications to the Agreement.
 
@@ -846,10 +847,6 @@ Contracting Party, without any further action required by either party.
 
 ## AWS Contracting Party
 
-  
-
-  
-
 Account Country |  AWS Contracting Party |  Facsimile |  Mailing Address  
 ---|---|---|---  
 Australia |  Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) |  N/A |  Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
@@ -868,12 +865,6 @@ Any country that is not listed in this table above. |  Amazon Web Services, Inc.
 Seattle, WA 98109-5210  
 U.S.A.  
   
-  
-
-  
-
-  
-
 *Brazil is your Account Country only if you have provided a valid Brazilian Tax Registration Number (CPF/CNPJ number) for your account. If your billing address is located in Brazil but you have not provided a valid Brazilian Tax Registration Number (CPF/CNPJ number), then Amazon Web Services, Inc. is the AWS Contracting Party for your account.
 
 **See <https://aws.amazon.com/legal/aws-emea-countries> for a full list of
@@ -903,10 +894,6 @@ Content under their own AWS account, rather than under your account.
 the laws and courts set forth in the following table:
 
 ## Governing Laws and Governing Courts
-
-  
-
-  
 
 AWS Contracting Party |  Governing Laws |  Governing Courts  
 ---|---|---  
@@ -950,15 +937,9 @@ AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  
 |  The courts in the district of Luxembourg City  
   
   
-  
-
-  
-
-  
-
 “Indirect Taxes” means applicable taxes and duties, including, without
 limitation, VAT, service tax, GST, excise taxes, sales and transactions taxes,
-and gross receipts tax.  
+and gross receipts tax.
 
 “Intellectual Property License” means the separate license terms that apply to
 your access to and use of AWS Content and Services located at
