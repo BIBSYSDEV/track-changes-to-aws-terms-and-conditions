@@ -44,12 +44,6 @@ Slack Community
 
   * [Slack Community Forum Terms of Service](https://slack.com/terms-of-service/community)
 
-### Contact
-
-Contact
-
-  * [Company Information](https://slack.com/company-information)
-
 ### Archives
 
 Archives
