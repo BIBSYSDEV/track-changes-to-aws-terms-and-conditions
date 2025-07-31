@@ -3,9 +3,9 @@
 **For additional information related to each AWS Contracting Party, see the
 [AWS Contracting Party FAQs](https://aws.amazon.com/legal/sor-faqs/).
 
-*Please note that as of January 1, 2024, customers located in Türkiye contract with our Türkiye based AWS Contracting Party, as provided in Section 12. See the [AWS Turkey FAQs](https://aws.amazon.com/legal/awstr/) for more information.
+*Please note that as of August 1, 2025, customers located in Indonesia contract with our Indonesia based AWS Contracting Party, as provided in Section 12. See the [AWS Indonesia FAQs](https://aws.amazon.com/legal/awsid/) for more information.
 
-## Last Updated: March 05, 2025
+## Last Updated: August 01, 2025
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -487,33 +487,33 @@ adjudicated in the Governing Courts, and you consent to exclusive jurisdiction
 and venue in the Governing Courts, subject to the additional provisions below.
 
 (a) If the applicable AWS Contracting Party is Amazon Web Services, Inc.,
-Amazon Web Services Canada, Inc., Amazon Web Services Korea LLC or Amazon Web
-Services Singapore Private Limited, the parties agree that the provisions of
-this Section 11.5(a) will apply. Disputes will be resolved by binding
-arbitration, rather than in court, except that either party may elect to
-proceed in small claims court if your claims qualify. The Federal Arbitration
-Act and federal arbitration law apply to this Agreement, except that if Amazon
-Web Services Canada, Inc. is the applicable AWS Contracting Party the Ontario
-Arbitration Act will apply to this Agreement. There is no judge or jury in
-arbitration, and court review of an arbitration award is limited. However, an
-arbitrator can award the same damages and relief as a court (including
-injunctive and declaratory relief or statutory damages), and must follow the
-terms of this Agreement as a court would. Before you may begin an arbitration
-proceeding, you must send a letter notifying us of your intent to pursue
-arbitration and describing your claim to our registered agent Corporation
-Service Company, 300 Deschutes Way SW, Suite 304, Tumwater, WA 98501. The
-arbitration will be conducted by the American Arbitration Association (AAA)
-under its commercial rules, which are available at www.adr.org or by calling
-1-800-778-7879. Payment of filing, administration and arbitrator fees will be
-governed by the AAA commercial fee schedule. We and you agree that any dispute
-resolution proceedings will be conducted only on an individual basis and not
-in a class, consolidated or representative action. We and you further agree
-that the underlying award in arbitration may be appealed pursuant to the AAA’s
-Optional Appellate Arbitration Rules. If for any reason a claim proceeds in
-court rather than in arbitration we and you waive any right to a jury trial.
-Notwithstanding the foregoing we and you both agree that you or we may bring
-suit in court to enjoin infringement or other misuse of intellectual property
-rights.
+Amazon Web Services Canada, Inc., Amazon Web Services Korea LLC, Amazon Web
+Services Singapore Private Limited or PT Amazon Web Services Indonesia, the
+parties agree that the provisions of this Section 11.5(a) will apply. Disputes
+will be resolved by binding arbitration, rather than in court, except that
+either party may elect to proceed in small claims court if your claims
+qualify. The Federal Arbitration Act and federal arbitration law apply to this
+Agreement, except that if Amazon Web Services Canada, Inc. is the applicable
+AWS Contracting Party the Ontario Arbitration Act will apply to this
+Agreement. There is no judge or jury in arbitration, and court review of an
+arbitration award is limited. However, an arbitrator can award the same
+damages and relief as a court (including injunctive and declaratory relief or
+statutory damages), and must follow the terms of this Agreement as a court
+would. Before you may begin an arbitration proceeding, you must send a letter
+notifying us of your intent to pursue arbitration and describing your claim to
+our registered agent Corporation Service Company, 300 Deschutes Way SW, Suite
+304, Tumwater, WA 98501. The arbitration will be conducted by the American
+Arbitration Association (AAA) under its commercial rules, which are available
+at www.adr.org or by calling 1-800-778-7879. Payment of filing, administration
+and arbitrator fees will be governed by the AAA commercial fee schedule. We
+and you agree that any dispute resolution proceedings will be conducted only
+on an individual basis and not in a class, consolidated or representative
+action. We and you further agree that the underlying award in arbitration may
+be appealed pursuant to the AAA’s Optional Appellate Arbitration Rules. If for
+any reason a claim proceeds in court rather than in arbitration we and you
+waive any right to a jury trial. Notwithstanding the foregoing we and you both
+agree that you or we may bring suit in court to enjoin infringement or other
+misuse of intellectual property rights.
 
 (b) If the applicable AWS Contracting Party is Amazon Web Services South
 Africa Proprietary Limited, the parties agree that the provisions of this
@@ -853,6 +853,7 @@ Australia |  Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) |  N/A 
 Brazil* |  Amazon AWS Serviços Brasil Ltda.  |  N/A |  A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, São Paulo, Brasil   
 Canada |  Amazon Web Services Canada, Inc. |  N/A |  120 Bremner Blvd, 26th Floor, Toronto, Ontario, M5J 0A8, Canada  
 India |  Amazon Web Services India Private Limited (formerly known as Amazon Internet Services Private Limited), having its registered office at Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, New Delhi 110019, India |  011-47985609 |  Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India.  
+Indonesia |  PT Amazon Web Services Indonesia |  N/A |  16th Floor, Sinar Mas Land Plaza, Jl. Jend. Sudirman Kav. 21, RT 12/RW 01, Karet, Setiabudi, Jakarta Selatan, Jakarta 12920, Indonesia  
 Japan |  Amazon Web Services Japan G.K. |  N/A |  1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
 Malaysia |  Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) |  N/A |  Level 26 & Level 35, The Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
 New Zealand |  Amazon Web Services New Zealand Limited |  N/A |  Level 5, 18 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
@@ -936,6 +937,7 @@ Amazon Web Services South Africa Proprietary Limited |  The laws of the Republic
 AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  The laws of the Grand Duchy of Luxembourg  
 |  The courts in the district of Luxembourg City  
   
+PT Amazon Web Services Indonesia |  The laws of the State of Washington |  The state or Federal courts in King Country, Washington  
   
 “Indirect Taxes” means applicable taxes and duties, including, without
 limitation, VAT, service tax, GST, excise taxes, sales and transactions taxes,
