@@ -27,7 +27,7 @@ jobs:
           curl https://aws.amazon.com/service-terms/ -o tmp/aws-service-terms.html
           html2markdown tmp/aws-service-terms.html > tmp/aws-service-terms.md
           csplit tmp/aws-service-terms.md '/AWS Service Terms/'
-          csplit xx01 '/Previous version/' --suppress-matched
+          csplit xx01 '/Previous Version/' --suppress-matched
           mv xx00 service-terms.md
           rm -f xx01
       - name: AWS - Process Customer Agreement
