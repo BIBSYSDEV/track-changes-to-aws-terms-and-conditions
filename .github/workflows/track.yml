@@ -109,7 +109,7 @@ jobs:
       - name: Atlassian - Download docs
         run: |
           curl https://www.atlassian.com/legal/data-processing-addendum  -o tmp/atlassian-data-processing-addendum.html
-          URL=$(lynx -dump -hiddenlinks=listonly tmp/atlassian-data-processing-addendum.html|grep "DPA.*\.pdf"|awk '{print $2}')
+          URL=$(lynx -dump -hiddenlinks=listonly tmp/atlassian-data-processing-addendum.html|grep "/AssetLink/.*\.pdf"|awk '{print $2}')
           curl $URL -o tmp/atlassian-data-processing-addendum.pdf
           curl https://www.atlassian.com/legal/sub-processors -o tmp/atlassian-sub-processors.html
           curl https://www.atlassian.com/legal/privacy-policy -o tmp/atlassian-privacy-policy.html
