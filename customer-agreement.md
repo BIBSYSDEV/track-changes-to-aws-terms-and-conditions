@@ -526,7 +526,7 @@ three arbitrators. The fees and expenses of the arbitrators and the
 administering authority, if any, will be paid in equal proportion by the
 parties.
 
-(c) If the applicable AWS Contracting Party is Amazon AWS Serviços Brasil
+**(c) If the applicable AWS Contracting Party is Amazon AWS Serviços Brasil
 Ltda., the parties agree that the provisions of this Section 11.5(c) will
 apply. Disputes will be resolved by binding arbitration, rather than in court,
 in accordance with the then-applicable Rules of Arbitration of the
@@ -540,7 +540,7 @@ arbitration proceedings will not be disclosed by either party and will
 constitute confidential information. The Governing Courts will have exclusive
 jurisdiction for the sole purposes of (i) ensuring the commencement of the
 arbitral proceedings; and (ii) granting conservatory and interim measures
-prior to the constitution of the arbitral tribunal.
+prior to the constitution of the arbitral tribunal.**
 
 (d) If the applicable AWS Contracting Party is Amazon Web Services Australia
 Pty Ltd, the parties agree that the provisions of this Section 11.5(d) will
@@ -937,7 +937,7 @@ Amazon Web Services South Africa Proprietary Limited |  The laws of the Republic
 AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  The laws of the Grand Duchy of Luxembourg  
 |  The courts in the district of Luxembourg City  
   
-PT Amazon Web Services Indonesia |  The laws of the State of Washington |  The state or Federal courts in King Country, Washington  
+PT Amazon Web Services Indonesia |  The laws of the State of Washington |  The state or Federal courts in King County, Washington  
   
 “Indirect Taxes” means applicable taxes and duties, including, without
 limitation, VAT, service tax, GST, excise taxes, sales and transactions taxes,
