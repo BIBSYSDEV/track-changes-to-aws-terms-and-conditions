@@ -870,7 +870,7 @@ Center](https://help.miro.com/hc/en-
 us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
 Community](/community/)[Miro
 Events](https://community.miro.com/events)[Solution Partners](/find-a-
-partner/)
+partner/)[Miro Security](https://trust.miro.com/)
 
 ### Resources
 
@@ -879,7 +879,7 @@ Center](https://help.miro.com/hc/en-
 us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
 Community](/community/)[Miro
 Events](https://community.miro.com/events)[Solution Partners](/find-a-
-partner/)
+partner/)[Miro Security](https://trust.miro.com/)
 
 ### Company
 
@@ -896,14 +896,16 @@ News](/newsroom/)[Customer Stories](/blog/customer-stories/)
 [Pricing](/pricing/)[Business](/business-
 plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
 agencies/)[Education](/education-
-whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Book a demo](/contact/sales/)
+whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
+sales](/contact/sales/)
 
 ### Plans and Pricing
 
 [Pricing](/pricing/)[Business](/business-
 plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
 agencies/)[Education](/education-
-whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Book a demo](/contact/sales/)
+whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
+sales](/contact/sales/)
 
 * * *
 
