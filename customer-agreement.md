@@ -5,7 +5,7 @@
 
 *Please note that as of August 1, 2025, customers located in Indonesia contract with our Indonesia based AWS Contracting Party, as provided in Section 12. See the [AWS Indonesia FAQs](https://aws.amazon.com/legal/awsid/) for more information.
 
-## Last Updated: August 01, 2025
+## Last Updated: September 09, 2025
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -335,18 +335,18 @@ require to document, perfect, and maintain our rights in the Suggestions.
 
 ## 7\. Indemnification.
 
-7.1 General. You will defend, indemnify, and hold harmless us, our affiliates
-and licensors, and each of their respective employees, officers, directors,
-and representatives from and against any Losses arising out of or relating to
-any third-party claim concerning: (a) your or any End Users’ use of the
-Services (including any activities under your AWS account and use by your
-employees and personnel); (b) breach of this Agreement or violation of
-applicable law by you, End Users or Your Content; or (c) a dispute between you
-and any End User. You will reimburse us for reasonable attorneys’ fees, as
-well as our employees’ and contractors’ time and materials spent responding to
-any third party subpoena or other compulsory legal order or process associated
-with third party claims described in (a) through (c) above at our then-current
-hourly rates.
+7.1 General. To the extent permitted by applicable law, you will defend,
+indemnify, and hold harmless us, our affiliates and licensors, and each of
+their respective employees, officers, directors, and representatives from and
+against any Losses arising out of or relating to any third-party claim
+concerning: (a) your or any End Users’ use of the Services (including any
+activities under your AWS account and use by your employees and personnel);
+(b) breach of this Agreement or violation of applicable law by you, End Users
+or Your Content; or (c) a dispute between you and any End User. You will
+reimburse us for reasonable attorneys’ fees, as well as our employees’ and
+contractors’ time and materials spent responding to any third party subpoena
+or other compulsory legal order or process associated with third party claims
+described in (a) through (c) above at our then-current hourly rates.
 
 7.2 Intellectual Property.
 
@@ -415,12 +415,14 @@ CONTENT (THIS DOES NOT LIMIT ANY SERVICE CREDITS UNDER SERVICE LEVEL
 AGREEMENTS).
 
 9.2 Damages Cap. EXCEPT FOR PAYMENT OBLIGATIONS UNDER SECTION 7, THE AGGREGATE
-LIABILITY UNDER THIS AGREEMENT OF EITHER AWS OR YOU, AND ANY OF THEIR
-RESPECTIVE AFFILIATES OR LICENSORS, WILL NOT EXCEED THE AMOUNTS PAID BY YOU TO
-AWS UNDER THIS AGREEMENT FOR THE SERVICES THAT GAVE RISE TO THE LIABILITY
-DURING THE 12 MONTHS BEFORE THE LIABILITY AROSE; EXCEPT THAT NOTHING IN THIS
-SECTION 9 WILL LIMIT YOUR OBLIGATION TO PAY AWS FOR YOUR USE OF THE SERVICES
-PURSUANT TO SECTION 3, OR ANY OTHER PAYMENT OBLIGATIONS UNDER THIS AGREEMENT.
+LIABILITY UNDER THIS AGREEMENT OF EITHER AWS OR YOU, AND ANY OF OUR RESPECTIVE
+AFFILIATES OR LICENSORS, WILL NOT EXCEED THE AMOUNTS PAID BY YOU TO AWS UNDER
+THIS AGREEMENT FOR THE SERVICES THAT GAVE RISE TO THE LIABILITY DURING THE 12
+MONTHS BEFORE THE LIABILITY AROSE; EXCEPT THAT NOTHING IN THIS SECTION 9 WILL
+LIMIT (A) YOUR OBLIGATION TO PAY AWS FOR YOUR USE OF THE SERVICES PURSUANT TO
+SECTION 3, OR ANY OTHER PAYMENT OBLIGATIONS UNDER THIS AGREEMENT, OR (B) ANY
+PARTY'S LIABILITY TO THE EXTENT SUCH LIABILITY CANNOT BE LIMITED UNDER
+APPLICABLE LAW.
 
 ## 10\. Modifications to the Agreement.
 
@@ -692,13 +694,13 @@ Agreement does not create any third-party beneficiary rights in any individual
 or entity that is not a party to this Agreement.
 
 11.12 U.S. Government Rights. The Services and AWS Content are provided to the
-U.S. Government as “commercial items,” “commercial computer software,”
+U.S. Government as “commercial services,” “commercial computer software,”
 “commercial computer software documentation,” and “technical data” with the
 same rights and restrictions generally applicable to the Services and AWS
 Content. If you are using the Services and AWS Content on behalf of the U.S.
 Government and these terms fail to meet the U.S. Government’s needs or are
 inconsistent in any respect with federal law, you will immediately discontinue
-your use of the Services and AWS Content. The terms “commercial item”
+your use of the Services and AWS Content. The terms “commercial service”
 “commercial computer software,” “commercial computer software documentation,”
 and “technical data” are defined in the Federal Acquisition Regulation and the
 Defense Federal Acquisition Regulation Supplement.
@@ -790,6 +792,16 @@ INDIRECT, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, (B) THE VALUE OF
 YOUR CONTENT, (C) LOSS OF PROFITS, REVENUES, CUSTOMERS, OPPORTUNITIES, OR
 GOODWILL, OR (D) UNAVAILABILITY OF THE SERVICES OR AWS CONTENT (THIS DOES NOT
 LIMIT ANY SERVICE CREDITS UNDER SERVICE LEVEL AGREEMENTS).”
+
+(e) If the applicable AWS Contracting Party is Amazon Web Services EMEA SARL,
+and your Account Country is located within the European Union, the parties
+agree as follows:
+
+Section 7.1 (Indemnification; General) will not apply to the extent the
+applicable Losses or damages are caused by AWS’s gross negligence or willful
+misconduct. In addition, none of the disclaimers or damage caps set forth in
+Section 9 (Limitations of Liability) will exclude or limit either party’s
+liability for such party’s gross negligence or willful misconduct.  
 
 ## 12\. Definitions.
 
