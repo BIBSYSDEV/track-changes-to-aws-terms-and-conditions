@@ -22,8 +22,8 @@ use our Services or interact with any other aspect of our business.**
 
 For individuals in the European Economic Area, United Kingdom, or the United
 States: please refer to the appropriate “[Regional
-disclosures](/legal/archives/privacy/privacy-20250425#regional-disclosures)”
-for additional details that may be relevant to you.
+disclosures](/legal/privacy-policy#regional-disclosures)” for additional
+details that may be relevant to you.
 
 This privacy policy is intended to help you understand:
 
@@ -68,9 +68,9 @@ organization directly.
   * Atlassian collects information directly from you when you provide it to us, automatically when you use our Services, and from other sources including other users of the Services, other services you link to your account, other Atlassian companies, partners, and third-party providers.
   * How we use information depends on which Services you use, how you use them, and any preferences you have communicated to us. We use information for a range of purposes described below, including to provide the Services and personalize your experience, to develop and improve our Services, to communicate with you, to conduct marketing and promotional activities, to provide customer support, to maintain Service safety and security, to protect our interests and rights, with your consent, and to aggregate or de-identify data.
   * We disclose information as described below, including to service providers, Atlassian partners, providers of third-party services, for compliance with enforcement requests and applicable laws, to enforce our terms and policies and our rights, to Atlassian affiliated companies or in connection with business transfers, as well as with your consent. Additionally, when you use the Services, we disclose certain information about you to other Service users as described in more detail below.
-  * Where applicable under local law, you may have certain rights or choices with respect to your personal information, including to request information about our processing of information, to request a copy of your information, to object to our use of information, to request the deletion or restriction of information, to request a disclosure of information in a portable format, or to opt out of certain disclosures of personal information and targeted advertising. See the “[How to access and control your information](/legal/archives/privacy/privacy-20250425#how-to-access-and-control-your-information)” section for more detail on specific choices and how to exercise the rights you may have.
-  * In the “[Regional disclosures](/legal/archives/privacy/privacy-20250425#regional-disclosures)” section, we provide additional information for individuals in the European Economic Area and United Kingdom, including information about the legal bases for processing information, international transfers, the specific rights applicable in these jurisdictions, and how to contact our EU and UK representatives. We also provide additional information for individuals in the United States, including details about information collected and disclosed in the past 12 months and specific rights available under applicable U.S. state laws.
-  * We provide details on how to contact us with any questions or concerns, or to exercise your rights, in the “[How to contact us](/legal/archives/privacy/privacy-20250425#how-to-contact-us)” section.
+  * Where applicable under local law, you may have certain rights or choices with respect to your personal information, including to request information about our processing of information, to request a copy of your information, to object to our use of information, to request the deletion or restriction of information, to request a disclosure of information in a portable format, or to opt out of certain disclosures of personal information and targeted advertising. See the “[How to access and control your information](/legal/privacy-policy#how-to-access-and-control-your-information)” section for more detail on specific choices and how to exercise the rights you may have.
+  * In the “[Regional disclosures](/legal/privacy-policy#regional-disclosures)” section, we provide additional information for individuals in the European Economic Area and United Kingdom, including information about the legal bases for processing information, international transfers, the specific rights applicable in these jurisdictions, and how to contact our EU and UK representatives. We also provide additional information for individuals in the United States, including details about information collected and disclosed in the past 12 months and specific rights available under applicable U.S. state laws.
+  * We provide details on how to contact us with any questions or concerns, or to exercise your rights, in the “[How to contact us](/legal/privacy-policy#how-to-contact-us)” section.
 
 ##  Information we collect
 
@@ -267,8 +267,8 @@ including information about new features, survey requests, newsletters, and
 events we think may be of interest to you. We also communicate with you about
 new Services, product offers, promotions, and contests. You can control
 whether you receive these communications as described below at “[How to access
-and control your information](/legal/archives/privacy/privacy-20250425#how-to-
-access-and-control-your-information)” under "Opt-out of communications."
+and control your information](/legal/privacy-policy#how-to-access-and-control-
+your-information)” under "Opt-out of communications."
 
 _**To provide customer support:**_ We use your information to resolve
 technical issues you encounter, to respond to your requests for assistance, to
@@ -486,8 +486,7 @@ _**Managed accounts:**_ If the Services are made available to you through an
 organization (e.g., your employer), we retain your information as long as
 required by the administrator of your account. For more information, see
 "Managed accounts and administrators" at the “[How we disclose
-information](/legal/archives/privacy/privacy-20250425#how-we-disclose-
-information)” section.
+information](/legal/privacy-policy#how-we-disclose-information)” section.
 
 _**Marketing information:**_ If you have elected to receive marketing emails
 from us, we retain information about your marketing preferences for a
@@ -504,9 +503,8 @@ information was created.
 Where applicable under local law, you may have certain rights with respect to
 your personal information. For more information about region-specific rights
 for residents of the European Economic Area, United Kingdom, and the United
-States, please refer to the “[Regional
-disclosures](/legal/archives/privacy/privacy-20250425#regional-disclosures)”
-section.
+States, please refer to the “[Regional disclosures](/legal/privacy-
+policy#regional-disclosures)” section.
 
 Depending on which jurisdiction you live in, you may have the right to request
 information about our processing of your information, to request a copy of
@@ -517,13 +515,12 @@ to request to correct or update your information, to request that we transfer
 your information to a third party, and to request to opt out of certain
 disclosures of personal information and targeted advertising.
 
-In the “[Your choices](/legal/archives/privacy/privacy-20250425#your-choices)”
-section, we describe the tools and processes for making different requests
-associated with these rights. You can exercise some of the choices by logging
-into the Services and using settings available within the Services or your
-account. For all other requests, you may contact us as provided in the “[How
-to contact us](/legal/archives/privacy/privacy-20250425#how-to-contact-us)”
-section.
+In the “[Your choices](/legal/privacy-policy#your-choices)” section, we
+describe the tools and processes for making different requests associated with
+these rights. You can exercise some of the choices by logging into the
+Services and using settings available within the Services or your account. For
+all other requests, you may contact us as provided in the “[How to contact
+us](/legal/privacy-policy#how-to-contact-us)” section.
 
 Your requests and choices may be limited in certain cases: for example, if
 fulfilling your request would reveal information about another person, or if
@@ -662,7 +659,7 @@ purpose:
 ####  
   
 ---|---  
-Purpose (see the [How we use information](/legal/archives/privacy/privacy-20250425#how-we-use-information) section for more detail)  |  Legal basis   
+Purpose (see the [How we use information](/legal/privacy-policy#how-we-use-information) section for more detail)  |  Legal basis   
   
   * To provide the Services and personalize your experience;
   * To develop and improve the Services, including machine learning and artificial intelligence model training;
@@ -944,13 +941,12 @@ Category of Information  |  Purpose(s) for Collecting & Disclosing  |  Recipient
   
 If you have questions about the categories of information we may collect about
 you or the sources of such information, please see the “[Information we
-collect](/legal/archives/privacy/privacy-20250425#information-we-collect)”
-section. For more details about our processing activities, please see the
-“[How we use information](/legal/archives/privacy/privacy-20250425#how-we-use-
-information)” section. And for more information about how we may disclose
-information to third parties, please see the “[How we disclose
-information](/legal/archives/privacy/privacy-20250425#how-we-disclose-
-information)” section.
+collect](/legal/privacy-policy#information-we-collect)” section. For more
+details about our processing activities, please see the “[How we use
+information](/legal/privacy-policy#how-we-use-information)” section. And for
+more information about how we may disclose information to third parties,
+please see the “[How we disclose information](/legal/privacy-policy#how-we-
+disclose-information)” section.
 
 _**Sensitive personal information:**_ We do not use or disclose sensitive
 personal information for purposes other than permitted under applicable law.
@@ -962,9 +958,9 @@ such time, we will either delete or de-identify your information or, if this
 is not possible (for example, because the information has been stored in
 backup archives), then we will securely store your information and isolate it
 from any further use until deletion is possible. Please see the “[How long we
-keep information](/legal/archives/privacy/privacy-20250425#how-long-we-keep-
-information)” section for more information about specific retention criteria
-for different categories of personal information.
+keep information](/legal/privacy-policy#how-long-we-keep-information)” section
+for more information about specific retention criteria for different
+categories of personal information.
 
 _**Your rights:**_ If you are a U.S. resident, you have the following rights
 regarding your personal information:
@@ -978,9 +974,8 @@ regarding your personal information:
   * The right to appeal our decision to deny your request, if applicable.
 
 For more information on how to exercise these your rights, please see the
-“[How to access and control your
-information](/legal/archives/privacy/privacy-20250425#how-to-access-and-
-control-your-information)” section. We encourage you to manage your
+“[How to access and control your information](/legal/privacy-policy#how-to-
+access-and-control-your-information)” section. We encourage you to manage your
 information, and to make use of the privacy controls we have included in our
 Services. In order to protect your information from unauthorized access or
 deletion, we may require you to provide additional information to verify your
@@ -1022,8 +1017,8 @@ information practices and the ways you can help protect your privacy.
 If you disagree with any changes to this privacy policy, you will need to stop
 using the Services and deactivate your account(s) and/or submit a request to
 delete your personal information, as outlined in the “[How to access and
-control your information](/legal/archives/privacy/privacy-20250425#how-to-
-access-and-control-your-information)” section.
+control your information](/legal/privacy-policy#how-to-access-and-control-
+your-information)” section.
 
 ##  How to contact us
 
@@ -1040,9 +1035,8 @@ E-Mail: [privacy@atlassian.com](mailto:privacy@atlassian.com)
 
 Individuals in the European Economic Area or United Kingdom may also contact
 the appropriate representatives identified in the “[European Economic Area and
-United Kingdom privacy
-disclosures](/legal/archives/privacy/privacy-20250425#european-economic-area-
-and-united-kingdom-privacy-disclosures)” section.
+United Kingdom privacy disclosures](/legal/privacy-policy#european-economic-
+area-and-united-kingdom-privacy-disclosures)” section.
 
 * * *
 
