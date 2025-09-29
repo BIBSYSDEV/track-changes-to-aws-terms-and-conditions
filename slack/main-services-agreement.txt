@@ -14,7 +14,7 @@ SUCH INDIVIDUAL MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
 The Services may not be accessed for purposes of monitoring their availability, performance or functionality, or for any other
 benchmarking or competitive purposes.
 SFDC’s direct competitors are prohibited from accessing the Services, except with SFDC’s prior written consent.
-This Agreement was last updated on September 15, 2025. It is effective between Customer and SFDC as of the date of Customer’s
+This Agreement was last updated on October 16, 2023. It is effective between Customer and SFDC as of the date of Customer’s
 accepting this Agreement (the “Effective Date”).
 1.
 
@@ -50,9 +50,9 @@ from time to time, accessible via help.salesforce.com or login to the applicable
 “Free Services” means Services that SFDC makes available to Customer free of charge. Free Services exclude Services offered
 as a free trial and Purchased Services.
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 1 of 17
+Page 1 of 15
 
 “Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms,
 time bombs and Trojan horses.
@@ -80,11 +80,11 @@ to use a Service, for whom Customer has purchased a subscription (or in the case
 charge, for whom a Service has been provisioned), and to whom Customer (or, when applicable, SFDC at Customer’s request)
 has supplied a user identification and password (for Services utilizing authentication). Users may include, for example,
 employees, consultants, contractors and agents of Customer, and third parties with which Customer transacts business.
-2.​
+2.
 
 SFDC RESPONSIBILITIES
 
-2.1​
+2.1
 
 Provision of Purchased Services. SFDC will (a) make the Services and Content available to Customer pursuant to this
 Agreement, and the applicable Order Forms and Documentation, (b) provide applicable SFDC standard support for the
@@ -98,7 +98,7 @@ applicable to SFDC’s provision of its Services to its customers generally (i.e
 the Services), and subject to Customer’s and Users’ use of the Services in accordance with this Agreement, the Documentation
 and the applicable Order Form.
 
-2.2​
+2.2
 
 Protection of Customer Data. SFDC will maintain appropriate administrative, physical, and technical safeguards for
 protection of the security, confidentiality and integrity of Customer Data, as described in the Documentation. Those safeguards
@@ -126,24 +126,24 @@ treated as its execution of the Standard Contractual Clauses and Appendices. Upo
 after the effective date of termination or expiration of this Agreement, SFDC will make Customer Data available to Customer
 for export or download as provided in the Documentation. After such 30-day period, SFDC will have no obligation to maintain
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 2 of 17
+Page 2 of 15
 
 or provide any Customer Data, and as provided in the Documentation will thereafter delete or destroy all copies of Customer
 Data in its systems or otherwise in its possession or control, unless legally prohibited.
-2.3​
+2.3
 
 SFDC Personnel. SFDC will be responsible for the performance of its personnel (including its employees and contractors) and
 their compliance with SFDC’s obligations under this Agreement, except as otherwise specified in this Agreement.
 
-2.4​
+2.4
 
 Beta Services. From time to time, SFDC may make Beta Services available to Customer at no charge. Customer may choose to
 try such Beta Services or not in its sole discretion. Any use of Beta Services is subject to the Beta Services terms at
 https://www.salesforce.com/company/legal/agreements/.
 
-2.5​
+2.5
 
 Free Trial. If Customer registers on SFDC’s or an Affiliate’s website for a free trial, SFDC will make the applicable Service(s)
 available to Customer on a trial basis free of charge until the earlier of (a) the end of the free trial period for which Customer
@@ -180,7 +180,7 @@ CUSTOMER SHALL REVIEW THE APPLICABLE SERVICE’S DOCUMENTATION DURING THE TRIAL 
 BECOME FAMILIAR WITH THE FEATURES AND FUNCTIONS OF THE SERVICES BEFORE MAKING A
 PURCHASE.
 
-2.6​
+2.6
 
 Free Services. SFDC may make Free Services available to Customer. Use of Free Services is subject to the terms and
 conditions of this Agreement. In the event of a conflict between this section and any other portion of this Agreement, this
@@ -193,9 +193,9 @@ exporting Customer Data from the Free Services prior to termination of Customer�
 provided that if SFDC terminates Customer’s account, except as required by law SFDC will provide Customer a reasonable
 opportunity to retrieve its Customer Data.
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 3 of 17
+Page 3 of 15
 
 NOTWITHSTANDING THE “REPRESENTATIONS, WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS”
 SECTION AND “INDEMNIFICATION BY SFDC” SECTION BELOW, THE FREE SERVICES ARE PROVIDED “AS-IS”
@@ -211,11 +211,11 @@ THE “LIMITATION OF LIABILITY” SECTION BELOW, CUSTOMER SHALL BE FULLY LIABLE 
 AGREEMENT TO SFDC AND ITS AFFILIATES FOR ANY DAMAGES ARISING OUT OF CUSTOMER’S USE OF THE
 FREE SERVICES, ANY BREACH BY CUSTOMER OF THIS AGREEMENT AND ANY OF CUSTOMER’S
 INDEMNIFICATION OBLIGATIONS HEREUNDER.
-3.​
+3.
 
 USE OF SERVICES AND CONTENT
 
-3.1​
+3.1
 
 Subscriptions. Unless otherwise provided in the applicable Order Form or Documentation, (a) Purchased Services and access
 to Content are purchased as subscriptions for the term stated in the applicable Order Form or in the applicable online purchasing
@@ -225,7 +225,7 @@ any added subscriptions will terminate on the same date as the underlying subscr
 not contingent on the delivery of any future functionality or features, or dependent on any oral or written public comments
 made by SFDC regarding future functionality or features.
 
-3.2​
+3.2
 
 Usage Limits. Services and Content are subject to usage limits specified in Order Forms and Documentation. If Customer
 exceeds a contractual usage limit, SFDC may work with Customer to seek to reduce Customer’s usage so that it conforms to
@@ -233,7 +233,7 @@ that limit. If, notwithstanding SFDC’s efforts, Customer is unable or unwillin
 will execute an Order Form for additional quantities of the applicable Services or Content promptly upon SFDC’s request,
 and/or pay any invoice for excess usage in accordance with the “Invoicing and Payment” section below.
 
-3.3​
+3.3
 
 Customer Responsibilities. Customer will (a) be responsible for Users’ compliance with this Agreement, Documentation and
 Order Forms, (b) be responsible for the accuracy, quality and legality of Customer Data, the means by which Customer acquired
@@ -248,7 +248,7 @@ judgment threatens the security, integrity or availability of SFDC’s services,
 Services, however SFDC will use commercially reasonable efforts under the circumstances to provide Customer with notice
 and an opportunity to remedy such violation or threat prior to any such suspension.
 
-3.4​
+3.4
 
 Usage Restrictions. Customer will not (a) make any Service or Content available to anyone other than Customer or Users, or
 use any Service or Content for the benefit of anyone other than Customer or its Affiliates, unless expressly stated otherwise in
@@ -265,14 +265,14 @@ or in an Order Form or the Documentation, (j) frame or mirror any part of any Se
 Customer's own intranets or otherwise for its own internal business purposes or as permitted in the Documentation, (k) except
 to the extent permitted by applicable law, disassemble, reverse engineer, or decompile a Service or Content or access it to (1)
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 4 of 17
+Page 4 of 15
 
 build a competitive product or service, (2) build a product or service using similar ideas, features, functions or graphics of the
 Service, (3) copy any ideas, features, functions or graphics of the Service, or (4) determine whether the Services are within the
 scope of any patent.
-3.5​
+3.5
 
 Removal of Content and Non-SFDC Applications. If Customer receives notice, including from SFDC, that Content or a
 Non-SFDC Application may no longer be used or must be removed, modified and/or disabled to avoid violating applicable law,
@@ -285,11 +285,11 @@ such third-party claimant or governmental authority, as applicable. In addition,
 holder to remove Content, or receives information that Content provided to Customer may violate applicable law or third-party
 rights, SFDC may discontinue Customer’s access to Content through the Services.
 
-4.​
+4.
 
 NON-SFDC PRODUCTS AND SERVICES
 
-4.1​
+4.1
 
 Non-SFDC Products and Services. SFDC or third parties may make available (for example, through a Marketplace or
 otherwise) third-party products or services, including, for example, Non-SFDC Applications and implementation and other
@@ -300,7 +300,7 @@ designated by SFDC as “certified” or otherwise, unless expressly provided ot
 responsible for any disclosure, modification or deletion of Customer Data resulting from access by such Non-SFDC
 Application or its provider.
 
-4.2​
+4.2
 
 Integration with Non-SFDC Applications. The Services may contain features designed to interoperate with Non-SFDC
 Applications. SFDC cannot guarantee the continued availability of such Service features, and may cease providing them
@@ -308,17 +308,17 @@ without entitling Customer to any refund, credit, or other compensation, if for 
 Non-SFDC Application ceases to make the Non-SFDC Application available for interoperation with the corresponding Service
 features in a manner acceptable to SFDC.
 
-5.​
+5.
 
 FEES AND PAYMENT
 
-5.1​
+5.1
 
 Fees. Customer will pay all fees specified in Order Forms. Except as otherwise specified herein or in an Order Form, (i) fees
 are based on Services and Content subscriptions purchased and not actual usage, (ii) payment obligations are non- cancelable
 and fees paid are non-refundable, and (iii) quantities purchased cannot be decreased during the relevant subscription term.
 
-5.2​
+5.2
 
 Invoicing and Payment. Customer will provide SFDC with valid and updated credit card information, or with a valid purchase
 order or alternative document reasonably acceptable to SFDC. If Customer provides credit card information to SFDC,
@@ -330,14 +330,14 @@ invoice Customer in advance and otherwise in accordance with the relevant Order 
 Form, invoiced fees are due net 30 days from the invoice date. Customer is responsible for providing complete and accurate
 billing and contact information to SFDC and notifying SFDC of any changes to such information.
 
-5.3​
+5.3
 
 Overdue Charges. If any invoiced amount is not received by SFDC by the due date, then without limiting SFDC’s rights or
 remedies, (a) those charges may accrue late interest at the rate of 1.5% of the outstanding balance per month, or the maximum
 rate permitted by law, whichever is lower, and/or (b) SFDC may condition future subscription renewals and Order Forms on
 payment terms shorter than those specified in the “Invoicing and Payment” section above.
 
-5.4​
+5.4
 
 Suspension of Service and Acceleration. If any charge owing by Customer under this or any other agreement for services is
 30 days or more overdue, (or 10 or more days overdue in the case of amounts Customer has authorized SFDC to charge to
@@ -347,17 +347,17 @@ such amounts are paid in full, provided that, other than for customers paying by
 been declined, SFDC will give Customer at least 10 days’ prior notice that its account is overdue, in accordance with the
 “Manner of Giving Notice” section below for billing notices, before suspending services to Customer.
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 5 of 17
+Page 5 of 15
 
-5.5​
+5.5
 
 Payment Disputes. SFDC will not exercise its rights under the “Overdue Charges” or “Suspension of Service and
 Acceleration” section above if Customer is disputing the applicable charges reasonably and in good faith and is cooperating
 diligently to resolve the dispute.
 
-5.6​
+5.6
 
 Taxes. SFDC's fees do not include any taxes, levies, duties or similar governmental assessments of any nature, including, for
 example, value-added, sales, use or withholding taxes, assessable by any jurisdiction whatsoever (collectively, “Taxes”).
@@ -366,22 +366,22 @@ collect Taxes for which Customer is responsible under this section, SFDC will in
 amount unless Customer provides SFDC with a valid tax exemption certificate authorized by the appropriate taxing authority.
 For clarity, SFDC is solely responsible for taxes assessable against it based on its income, property and employees.
 
-6.​
+6.
 
 PROPRIETARY RIGHTS AND LICENSES
 
-6.1​
+6.1
 
 Reservation of Rights. Subject to the limited rights expressly granted hereunder, SFDC, its Affiliates, its licensors and Content
 Providers reserve all of their right, title and interest in and to the Services and Content, including all of their related intellectual
 property rights. No rights are granted to Customer hereunder other than as expressly set forth herein.
 
-6.2​
+6.2
 
 Access to and Use of Content. Customer has the right to access and use applicable Content subject to the terms of applicable
 Order Forms, this Agreement and the Documentation.
 
-6.3​
+6.3
 
 License by Customer to SFDC. Customer grants SFDC, its Affiliates and applicable contractors a worldwide, limited-term
 license to host, copy, use, transmit, and display any Non-SFDC Applications and program code created by or for Customer
@@ -393,14 +393,14 @@ interoperation of that Non-SFDC Application with the Service. Subject to the lim
 right, title or interest from Customer or its licensors under this Agreement in or to any Customer Data, Non-SFDC Application
 or such program code.
 
-6.4​
+6.4
 
 License by Customer to Use Feedback. Customer grants to SFDC and its Affiliates a worldwide, perpetual, irrevocable,
 royalty-free license to use, distribute, disclose, and make and incorporate into its services any suggestion, enhancement request,
 recommendation, correction or other feedback provided by Customer or Users relating to the operation of SFDC’s or its
 Affiliates’ services.
 
-6.5​
+6.5
 
 Federal Government End Use Provisions. SFDC provides the Services, including related software and technology, for
 ultimate federal government end use in accordance with the following: The Services consist of “commercial items,” as defined
@@ -411,11 +411,11 @@ Agreement, except that, for U.S. Department of Defense end users, technical data
 furnished in accordance with DFARS 252.227-7015. If a government agency needs additional rights, it must negotiate a
 mutually acceptable written addendum to this Agreement specifically granting those rights.
 
-7.​
+7.
 
 CONFIDENTIALITY
 
-7.1​
+7.1
 
 Definition of Confidential Information. “Confidential Information” means all information disclosed by a party (“Disclosing
 Party”) to the other party (“Receiving Party”), whether orally or in writing, that is designated as confidential or that reasonably
@@ -431,11 +431,11 @@ independently developed by the Receiving Party. For the avoidance of doubt, the 
 “Confidentiality” section apply to Confidential Information exchanged between the parties in connection with the evaluation of
 additional SFDC services.
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 6 of 17
+Page 6 of 15
 
-7.2​
+7.2
 
 Protection of Confidential Information. As between the parties, each party retains all ownership rights in and to its
 Confidential Information. The Receiving Party will use the same degree of care that it uses to protect the confidentiality of its
@@ -451,7 +451,7 @@ accountant’s compliance with this “Confidentiality” section. Notwithstandi
 this Agreement and any applicable Order Form to a contractor or Non-SFDC Application Provider to the extent necessary to
 perform SFDC’s obligations under this Agreement, under terms of confidentiality materially as protective as set forth herein.
 
-7.3​
+7.3
 
 Compelled Disclosure. The Receiving Party may disclose Confidential Information of the Disclosing Party to the extent
 compelled by law to do so, provided the Receiving Party gives the Disclosing Party prior notice of the compelled disclosure (to
@@ -461,15 +461,15 @@ a civil proceeding to which the Disclosing Party is a party, and the Disclosing 
 Disclosing Party will reimburse the Receiving Party for its reasonable cost of compiling and providing secure access to that
 Confidential Information.
 
-8.​
+8.
 
 REPRESENTATIONS, WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS
 
-8.1​
+8.1
 
 Representations. Each party represents that it has validly entered into this Agreement and has the legal power to do so.
 
-8.2​
+8.2
 
 SFDC Warranties. SFDC warrants that during an applicable subscription term (a) this Agreement, the Order Forms and the
 Documentation will accurately describe the applicable administrative, physical, and technical safeguards for protection of the
@@ -479,7 +479,7 @@ Services, (c) the Services will perform materially in accordance with the applic
 Services. For any breach of a warranty above, Customer’s exclusive remedies are those described in the “Termination” and
 “Refund or Payment upon Termination” sections below.
 
-8.3​
+8.3
 
 Disclaimers. EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY WARRANTY OF ANY
 KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND EACH PARTY SPECIFICALLY
@@ -488,11 +488,11 @@ FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERM
 APPLICABLE LAW. SERVICES PROVIDED FREE OF CHARGE, CONTENT AND BETA SERVICES ARE PROVIDED
 “AS IS,” AND AS AVAILABLE EXCLUSIVE OF ANY WARRANTY WHATSOEVER.
 
-9.​
+9.
 
 MUTUAL INDEMNIFICATION
 
-9.1​
+9.1
 
 Indemnification by SFDC. SFDC will defend Customer against any claim, demand, suit or proceeding made or brought
 against Customer by a third party alleging that any Purchased Service infringes or misappropriates such third party’s intellectual
@@ -511,13 +511,13 @@ with specificity that the Services are the basis of the Claim Against Customer; 
 use or combination of the Services or any part thereof with software, hardware, data, or processes not provided by SFDC, if the
 Services or use thereof would not infringe without such combination; (III) a Claim Against Customer arises from Services
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 7 of 17
+Page 7 of 15
 
 under an Order Form for which there is no charge; or (IV) a Claim against Customer arises from Content, a Non-SFDC
 Application or Customer’s breach of this Agreement, the Documentation or applicable Order Forms.
-9.2​
+9.2
 
 Indemnification by Customer. Customer will defend SFDC and its Affiliates against any claim, demand, suit or proceeding
 made or brought against SFDC by a third party (a) alleging that the combination of a Non-SFDC Application or configuration
@@ -532,88 +532,103 @@ Customer may not settle any Claim Against SFDC unless it unconditionally release
 Customer all reasonable assistance, at Customer’s expense. The above defense and indemnification obligations do not apply if a
 Claim Against SFDC arises from SFDC’s breach of this Agreement, the Documentation or applicable Order Forms.
 
-9.3​
+9.3
 
 Exclusive Remedy. This “Mutual Indemnification” section states the indemnifying party’s sole liability to, and the indemnified
 party’s exclusive remedy against, the other party for any third-party claim described in this section.
 
-10.​
+10.
 
 LIMITATION OF LIABILITY
 
-10.1​ Limitation of Liability. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EACH PARTY TOGETHER WITH
+10.1 Limitation of Liability. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF EACH PARTY TOGETHER WITH
 ALL OF ITS AFFILIATES ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE TOTAL AMOUNT
 PAID BY CUSTOMER AND ITS AFFILIATES HEREUNDER FOR THE SERVICES GIVING RISE TO THE LIABILITY
 IN THE TWELVE MONTHS PRECEDING THE FIRST INCIDENT OUT OF WHICH THE LIABILITY AROSE. THE
 FOREGOING LIMITATION WILL APPLY WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS
 OF THE THEORY OF LIABILITY, BUT WILL NOT LIMIT CUSTOMER'S AND ITS AFFILIATES’ PAYMENT
 OBLIGATIONS UNDER THE “FEES AND PAYMENT” SECTION ABOVE.
-10.2​ Exclusion of Consequential and Related Damages. IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES HAVE
+10.2 Exclusion of Consequential and Related Damages. IN NO EVENT WILL EITHER PARTY OR ITS AFFILIATES HAVE
 ANY LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT FOR ANY LOST PROFITS, REVENUES,
 GOODWILL, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, BUSINESS INTERRUPTION OR
 PUNITIVE DAMAGES, WHETHER AN ACTION IS IN CONTRACT OR TORT AND REGARDLESS OF THE THEORY
 OF LIABILITY, EVEN IF A PARTY OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES OR IF A PARTY’S OR ITS AFFILIATES’ REMEDY OTHERWISE FAILS OF ITS ESSENTIAL PURPOSE.
 THE FOREGOING DISCLAIMER WILL NOT APPLY TO THE EXTENT PROHIBITED BY LAW.
-11.​
+11.
 
 TERM AND TERMINATION
 
-11.1​ Term of Agreement. This Agreement commences on the date Customer first accepts it and continues until all subscriptions
+11.1
+
+Term of Agreement. This Agreement commences on the date Customer first accepts it and continues until all subscriptions
 hereunder have expired or have been terminated.
-11.2​ Term of Purchased Subscriptions. The term of each subscription shall be as specified in the applicable Order Form. Except as
+
+11.2
+
+Term of Purchased Subscriptions. The term of each subscription shall be as specified in the applicable Order Form. Except as
 otherwise specified in an Order Form, subscriptions will automatically renew for additional one year terms, unless either party
 gives the other written notice (email acceptable) at least 30 days before the end of the relevant subscription term. Except as
 expressly provided in the applicable Order Form, renewal of promotional or one-time priced subscriptions will be at SFDC’s
 applicable list price in effect at the time of the applicable renewal. Notwithstanding anything to the contrary, any renewal in
 which subscription volume or subscription length for any Services has decreased from the prior term will result in re-pricing at
 renewal without regard to the prior term’s per-unit pricing.
-11.3​ Termination. A party may terminate this Agreement for cause (i) upon 30 days written notice to the other party of a material
+
+11.3
+
+Termination. A party may terminate this Agreement for cause (i) upon 30 days written notice to the other party of a material
 breach if such breach remains uncured at the expiration of such period, or (ii) if the other party becomes the subject of a petition
 in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors.
-11.4​ Refund or Payment upon Termination. If this Agreement is terminated by Customer in accordance with the “Termination”
+
+11.4
+
+Refund or Payment upon Termination. If this Agreement is terminated by Customer in accordance with the “Termination”
 section above, SFDC will refund Customer any prepaid fees covering the remainder of the term of all Order Forms after the
 effective date of termination. If this Agreement is terminated by SFDC in accordance with the “Termination” section above,
 Customer will pay any unpaid fees covering the remainder of the term of all Order Forms to the extent permitted by applicable
 law. In no event will termination relieve Customer of its obligation to pay any fees payable to SFDC for the period prior to the
 effective date of termination.
-SFDC-MSA, September 15, 2025​
 
-Page 8 of 17
+SFDC-MSA, October 16, 2023
 
-11.5​ Surviving Provisions. The sections titled “Free Services,” “Fees and Payment,” “Proprietary Rights and Licenses,”
+Page 8 of 15
+
+11.5
+
+Surviving Provisions. The sections titled “Free Services,” “Fees and Payment,” “Proprietary Rights and Licenses,”
 “Confidentiality,” “Disclaimers,” “Mutual Indemnification,” “Limitation of Liability,” “Refund or Payment upon Termination,”
 “Removal of Content and Non-SFDC Applications,” “Surviving Provisions” and “General Provisions” will survive any
 termination or expiration of this Agreement, and the section titled “Protection of Customer Data” will survive any termination
 or expiration of this Agreement for so long as SFDC retains possession of Customer Data.
-12.​
+
+12.
 
 GENERAL PROVISIONS
 
-12.1​ Export Compliance. The Services, Content, other SFDC technology, and derivatives thereof may be subject to export laws and
+12.1 Export Compliance. The Services, Content, other SFDC technology, and derivatives thereof may be subject to export laws and
 regulations of the United States and other jurisdictions. SFDC and Customer each represents that it is not on any U.S.
 government denied-party list. Customer will not permit any User to access or use any Service or Content in a U.S.-embargoed
 country or region (currently the Crimea, Luhansk or Donetsk regions, Cuba, Iran, North Korea, or Syria) or as may be updated
 from time to time at https://www.salesforce.com/company/legal/compliance/ or in violation of any U.S. export law or
 regulation.
-12.2​ Anti-Corruption. Neither party has received or been offered any illegal or improper bribe, kickback, payment, gift, or thing of
+12.2 Anti-Corruption. Neither party has received or been offered any illegal or improper bribe, kickback, payment, gift, or thing of
 value from an employee or agent of the other party in connection with this Agreement. Reasonable gifts and entertainment
 provided in the ordinary course of business do not violate the above restriction.
-12.3​ Entire Agreement and Order of Precedence. This Agreement is the entire agreement between SFDC and Customer regarding
+12.3 Entire Agreement and Order of Precedence. This Agreement is the entire agreement between SFDC and Customer regarding
 Customer’s use of Services and Content and supersedes all prior and contemporaneous agreements, proposals or
 representations, written or oral, concerning its subject matter. The parties agree that any term or condition stated in a Customer
 purchase order or in any other Customer order documentation (excluding Order Forms) is void. In the event of any conflict or
 inconsistency among the following documents, the order of precedence shall be: (1) the applicable Order Form, (2) this
 Agreement, and (3) the Documentation. Titles and headings of sections of this Agreement are for convenience only and shall
 not affect the construction of any provision of this Agreement.
-12.4​ Relationship of the Parties. The parties are independent contractors. This Agreement does not create a partnership, franchise,
+12.4 Relationship of the Parties. The parties are independent contractors. This Agreement does not create a partnership, franchise,
 joint venture, agency, fiduciary or employment relationship between the parties. Each party will be solely responsible for
 payment of all compensation owed to its employees, as well as all employment-related taxes.
-12.5​ Third-Party Beneficiaries. There are no third-party beneficiaries under this Agreement.
-12.6​ Waiver. No failure or delay by either party in exercising any right under this Agreement will constitute a waiver of that right.
-12.7​ Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, the provision
+12.5 Third-Party Beneficiaries. There are no third-party beneficiaries under this Agreement.
+12.6 Waiver. No failure or delay by either party in exercising any right under this Agreement will constitute a waiver of that right.
+12.7 Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, the provision
 will be deemed null and void, and the remaining provisions of this Agreement will remain in effect.
-12.8​ Assignment. Neither party may assign any of its rights or obligations hereunder, whether by operation of law or otherwise,
+12.8 Assignment. Neither party may assign any of its rights or obligations hereunder, whether by operation of law or otherwise,
 without the other party’s prior written consent (not to be unreasonably withheld); provided, however, either party may assign
 this Agreement in its entirety (including all Order Forms), without the other party’s consent to its Affiliate or in connection with
 a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets. Notwithstanding the foregoing, if a
@@ -622,14 +637,14 @@ other party, then such other party may terminate this Agreement upon written not
 will refund Customer any prepaid fees covering the remainder of the term of all subscriptions for the period after the effective
 date of such termination. Subject to the foregoing, this Agreement will bind and inure to the benefit of the parties, their
 respective successors and permitted assigns.
-12.9​ SFDC Contracting Entity, Notices, Governing Law, and Venue. The SFDC entity entering into this Agreement, the address
+12.9 SFDC Contracting Entity, Notices, Governing Law, and Venue. The SFDC entity entering into this Agreement, the address
 to which Customer should direct notices under this Agreement, the law that will apply in any dispute or lawsuit arising out of or
 in connection with this Agreement, and the courts that have jurisdiction over any such dispute or lawsuit, depend on where
 Customer is domiciled.
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 9 of 17
+Page 9 of 15
 
 For Customers domiciled in North or South America
 If Customer is
@@ -738,7 +753,7 @@ company,
 incorporated in
 Germany
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
 Notices should be addressed to:
 
@@ -772,7 +787,7 @@ Operations, with a copy to attn.:
 Legal Department Erika-Mann-Strasse 31-37, 80636
 München, Germany
 
-Page 10 of 17
+Page 10 of 15
 
 Courts with
 exclusive
@@ -912,9 +927,9 @@ with a copy to attn: General Counsel
 SFDC Australia Pty
 Ltd
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 11 of 17
+Page 11 of 15
 
 Governing law is:
 
@@ -930,17 +945,16 @@ Bengaluru , India
 
 Tokyo, Japan
 
-12.10​ Manner of Giving Notice. Except as otherwise specified in this Agreement, all notices related to this Agreement will be in
+12.10 Manner of Giving Notice. Except as otherwise specified in this Agreement, all notices related to this Agreement will be in
 writing and will be effective upon (a) personal delivery, (b) the second business day after mailing, or (c), except for notices of
 termination or an indemnifiable claim (“Legal Notices”), which shall clearly be identifiable as Legal Notices, the day of
 sending by email. Billing-related notices to Customer will be addressed to the relevant billing contact designated by Customer.
 All other notices to Customer will be addressed to the relevant Services system administrator designated by Customer.
-12.11​ Agreement to Governing Law and Jurisdiction. Each party agrees to the applicable governing law above without regard to
+12.11 Agreement to Governing Law and Jurisdiction. Each party agrees to the applicable governing law above without regard to
 choice or conflicts of law rules, and to the exclusive jurisdiction of the applicable courts above.
-12.12​ Local Law Requirements: France. ​
-​
+12.12 Local Law Requirements: France.
 With respect to Customers domiciled in France, the following provisions shall be applicable :
-(1)​ Section 8.2 “SFDC Warranties” is replaced by the following :
+(1) Section 8.2 “SFDC Warranties” is replaced by the following :
 8.2 SFDC Warranties. During an applicable subscription term (a) this Agreement, the Order Forms and the
 
 Documentation will accurately describe the applicable administrative, physical, and technical safeguards for
@@ -965,7 +979,7 @@ SFDC shall in no event be responsible for their acts or omissions, including whe
 of the Services.
 (6) in the event of any conflict between any statutory law in France applicable to Customer, and the terms and conditions of this
 Agreement, the applicable statutory law shall prevail.
-12.13​ Local Law Requirements: Germany. With respect to Customers domiciled in Germany, Section 8 “REPRESENTATIONS,
+12.13 Local Law Requirements: Germany. With respect to Customers domiciled in Germany, Section 8 “REPRESENTATIONS,
 WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS”, Section 9.3 “Exclusive Remedy”, and Section 10
 “LIMITATION OF LIABILITY” of this Agreement are replaced with the following sections respectively:
 8 WARRANTIES FOR CUSTOMERS DOMICILED IN GERMANY
@@ -976,9 +990,9 @@ security of the Services, (c) the Services will perform materially in accordance
 subject to the “Integration with Non-SFDC Applications” section above, SFDC will not materially decrease the overall
 functionality of the Services.
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 12 of 17
+Page 12 of 15
 
 8.2 Content. SFDC is not designating or adopting Content as its own and assumes no warranty or liability for Content. The
 parties agree that the “Reporting of Defects”, “Remedies resulting from Defects” and “Exclusions” section shall apply
@@ -998,13 +1012,13 @@ Indemnification”.
 used by Customer in accordance with the provisions of this Agreement, the Documentation and the applicable Order Forms.
 9.3 Liability resulting from Indemnification for Customers domiciled in Germany. The below “Limitation of Liability”
 section shall apply to any claims resulting from this “Mutual Indemnification” section.
-10.​LIMITATION OF LIABILITY FOR CUSTOMERS DOMICILED IN GERMANY
+10. LIMITATION OF LIABILITY FOR CUSTOMERS DOMICILED IN GERMANY
 10.1 Unlimited Liability. The Parties shall be mutually liable without limitation
-(a)​in the event of willful misconduct or gross negligence,
-(b)​within the scope of a guarantee taken over by the respective party,
-(c)​in the event that a defect is maliciously concealed,
-(d)​in case of an injury to life, body or health,
-(e)​according to the German Product Liability Law.
+(a) in the event of willful misconduct or gross negligence,
+(b) within the scope of a guarantee taken over by the respective party,
+(c) in the event that a defect is maliciously concealed,
+(d) in case of an injury to life, body or health,
+(e) according to the German Product Liability Law.
 10.2 Liability for Breach of Cardinal Duties. If cardinal duties are infringed due to slight negligence and if, as a consequence,
 the achievement of the objective of this Agreement including any applicable Order Form is endangered, or in the case of a
 slightly negligent failure to comply with duties, the very discharge of which is an essential prerequisite for the proper
@@ -1019,7 +1033,7 @@ obligations under the “Fees and Payment” section above.
 liability shall apply to all claims for damages, irrespective of the legal basis including claims for tort damages. The above
 limitations of liability also apply in the case of claims for a party’s damages against the respective other party’s employees,
 agents or bodies.
-12.14​ Local Law Requirements: Italy. With respect to Customers domiciled in Italy, Section 5.2 “Invoicing and Payment”, Section
+12.14 Local Law Requirements: Italy. With respect to Customers domiciled in Italy, Section 5.2 “Invoicing and Payment”, Section
 5.3 “Overdue Charges,” and Section 12.2 “Anti Corruption” of this Agreement are replaced with the following sections
 respectively:
 5.2. Invoicing and Payment
@@ -1027,9 +1041,9 @@ respectively:
 Unless otherwise stated in the Order Form, fees are due net 30 days from the invoice date. The parties acknowledge that
 invoices are also be submitted electronically by SFDC in accordance with the “Electronic Invoicing” section below through the
 Agenzia delle Entrate’s Exchange System (SDI – Sistema di Interscambio) and any delay due to the SDI shall not affect the
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 13 of 17
+Page 13 of 15
 
 foregoing payment term. Customer shall be responsible for providing complete and accurate billing and contact information to
 SFDC and shall notify SFDC of any changes to such information.
@@ -1065,23 +1079,23 @@ Code of Conduct which is available at the following link: https://www.salesforce
 b/en_us/www/documents/legal/sfdc-code-of-conduct.pdf. Customer also acknowledges and agrees that the violation of the
 principles and the provisions contained in Legislative Decree 231/2001 and in the SFDC Code of Conduct by Customer may
 entitle SFDC, based on the severity of the violation, to terminate this Agreement for cause as set out in Section 11.3(i) above.
-12.15​ Local Law Requirements: Spain. With respect to Customers domiciled in Spain, in the event of any conflict between any
+12.15 Local Law Requirements: Spain. With respect to Customers domiciled in Spain, in the event of any conflict between any
 statutory law in Spain applicable to Customer, and the terms and conditions of this Agreement, the applicable statutory law
 shall prevail.
-12.16​ Local Law Requirements: India. With respect to Customers domiciled in India, the following shall apply:
+12.16 Local Law Requirements: India. With respect to Customers domiciled in India, the following shall apply:
 12.16.1 Venue and Arbitration
-A.​ Subject to the “Arbitration” Section below, the courts located in Bengaluru , India shall have exclusive jurisdiction over any
+A. Subject to the “Arbitration” Section below, the courts located in Bengaluru , India shall have exclusive jurisdiction over any
 dispute relating to this Agreement, and each party hereby consents to the exclusive jurisdiction of such courts. Without
 prejudice to the generality of the foregoing, the courts at Bengaluru, India shall have exclusive jurisdiction on matters arising
 from, relating to, or in connection with an award made under the “Arbitration” Section below.
-B.​ Arbitration. In the event of any dispute, controversy or claim between the Parties hereto arising out of or relating to this
+B. Arbitration. In the event of any dispute, controversy or claim between the Parties hereto arising out of or relating to this
 Agreement, the Parties shall first seek to resolve the dispute in good faith through informal discussion. If such dispute,
 controversy, or claim cannot be resolved informally within a period of 10 (ten) business days from the date on which the
 dispute arose, the Parties agree that it shall be settled by binding arbitration to be held before a panel consisting of 3 (three)
 arbitrators, where each Party shall appoint an arbitrator and such arbitrators shall appoint the third and presiding arbitrator.
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 14 of 17
+Page 14 of 15
 
 The arbitration shall be conducted in accordance with provisions of the (Indian) Arbitration and Conciliation Act, 1996, as
 amended from time to time (“Arbitration Act”). The seat and venue of the arbitration shall be Bengaluru , India. The
@@ -1112,7 +1126,7 @@ designated agent/agency) not being able to duly and effectively process such inv
 to issue an invoice again; shall not result in an extension of the payment term set out in the “Invoicing and Payment” section
 above, and such term shall still be calculated from the date of the original invoice. SFDC reserves the right to provide any
 invoice copy in electronic form via email in addition to the electronic invoicing described herein.
-12.17​
+12.17
 
 Local Law Requirements: United Kingdom. With respect to Customers domiciled in the United Kingdom, Section
 12.3 “Entire Agreement and Order of Precedence” of this Agreement is replaced with the following section:
@@ -1129,92 +1143,8 @@ inconsistency among the following documents, the order of precedence shall be: (
 this Agreement, and (3) the Documentation. Titles and headings of sections of this Agreement are for convenience
 only and shall not affect the construction of any provision of this Agreement.
 
-SFDC-MSA, September 15, 2025​
+SFDC-MSA, October 16, 2023
 
-Page 15 of 17
-
-12. 18 EU Data Act Terms: Law Requirements for Customers domiciled in EU/EEA
-The following EU Data Act Terms (“EU Data Act Terms”) govern all Switching and/or Deletion Requests made by a Customer (as
-defined below) pursuant to Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023
-concerning harmonized rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU)
-2020/1828 (the “Data Act”).
-(1) Request Process. A Customer who is domiciled in a member state of the EU/EEA, may complete this form to request at any time
-during a subscription term with a 2-month notification period, either to: (a) switch a Service and migrate its Customer Data to a
-different third party service provider or to its own on-premise infrastructure (“Switching Request”); and/or (b) delete its Customer
-Data from a Service (“Deletion Request”).
-(a) Switching Request. SFDC will support the Customer’s Switching Request in accordance with the Data Act by providing
-Customer the related instructions, or as otherwise indicated by SFDC in the Documentation, for Customer to export Customer
-Data within 30 calendar days after the end of the 2-month notification period from the date SFDC receives a fully completed
-Switching Request (“Transition Period”).​
-​
-SFDC will inform Customer within 14 business days of receiving a Switching Request if the Transition Period is technically
-unfeasible, providing a reasonable explanation for such technical limitations and an alternative Transition Period for the
-Customer to export their Customer Data, which shall not exceed 7 months.
-Customer shall have the right to ask for an alternative Transition Period at the time of the request, that is reasonably
-appropriate under the circumstances, which shall not exceed 7 months.​ ​
-Throughout the switching process and in accordance with the Agreement, SFDC will provide reasonable assistance, act with
-due care to maintain business continuity and maintain the agreed level of security.
-SFDC may inform Customer about any known risks to the continuity in the provision of the Services and/or technical
-limitations as a result of the Switching once the Switching Request is submitted or as otherwise indicated by SFDC.
-Customer shall notify SFDC once the export of Customer Data is completed via billing@emea.salesforce.com.​
-​
-(b) Deletion Request. SFDC will support a Customer’s Deletion Request to the extent permitted by applicable law, by
-deleting the Customer Data of the in-scope Service(s) in accordance with the procedures and timeframes specified in the
-Security, Privacy and Architecture Documentation applicable to the specific Services, as updated from time to time, and
-accessible
-via
-SFDC’s
-Trust
-and
-Compliance
-webpage
-at
-https://www.salesforce.com/company/legal/trust-and-compliance-documentation/
-(also
-accessible
-via
-http://www.salesforce.com/company/legal/agreements/ under the “Trust and Compliance Documentation” link), or as
-otherwise made reasonably available by SFDC.
-(2) Termination. The Order Form(s) will automatically terminate either: 1) for Switching Request(s) upon Customer’s notifying
-SFDC in writing about the successful export of Customer Data in accordance with section (1) (a) above (in the absence of formal
-notification by Customer as indicated above, the switching will be deemed successful at the end of the Transition Period or Alternative
-Period), or 2) for Deletion Request(s), 2 months after SFDC has received the Deletion Request (the “Termination Date”).
-For the avoidance of doubt, such termination will not relieve Customer of its obligation to pay any fees due to SFDC for the period
-prior to the Termination Date of the relevant Order Form. Customer must pay any outstanding subscription fees covering the
-remainder of the term of the relevant Order Form(s) as an early termination fee. SFDC will not charge any other fees or penalties. ​
-​
-SFDC will continue to provide the Services in accordance with the Agreement until the Termination Date or until the end of the
-subscription period.
-
-SFDC-MSA, September 15, 2025​
-
-Page 16 of 17
-
-(3) Exclusions. In accordance with the Data Act, Switching or Deletion Requests will not be accepted for Beta Services as defined in
-the Agreement or, if not defined in the Agreement, as defined in the Main Services Agreement (or the Master Subscription Agreement,
-as the case may be) at https://www.salesforce.com/company/legal/agreements/ or for any Service that has been provided by SFDC for
-a limited period of time specifically for testing and evaluation purposes (such as a sandbox).
-(4) Indemnification. Several legal entities may be entitled to purchase or use Services under the Agreement (including without
-limitation Customer’s Affiliates and Users) and such entities other than the Customer making the request could therefore be impacted
-by the Switching Request or Deletion Request in accordance with this section (“Impacted Parties”). It is the Customer's sole
-responsibility to ensure that Customer has all rights and permissions concerning the Switching or the Deletion Requests and the
-Customer Data before exercising its rights hereunder.
-Customer will defend SFDC and its Affiliates against any claim, demand, suit or proceeding made or brought against SFDC by
-Impacted Parties (a) alleging that the Switching or Deletion Request infringes such Impacted Party’s rights or licenses and will
-indemnify SFDC from any damages, attorney fees and costs finally awarded against SFDC as a result of, or for any amounts paid by
-SFDC under a settlement approved by Customer in writing of, such a claim against SFDC, provided SFDC (A) promptly gives
-Customer written notice of such a claim against SFDC, (B) gives Customer sole control of the defense and settlement of such a claim
-against SFDC (except that Customer may not settle any such claim against SFDC unless it unconditionally releases SFDC of all
-liability), and (C) gives Customer all reasonable assistance, at Customer’s expense. The above defense and indemnification obligations
-do not apply if such a claim against SFDC arises from SFDC’s breach of this Agreement, the Documentation or applicable Order
-Forms.
-(5) Liability. SFDC shall not be liable for any damages, losses, costs, or expenses arising out of or in connection with the Switching
-and/or the Deletion Request. This exclusion of liability includes, but is not limited to, any issues related to Customer Data integrity or
-loss, system downtime, compatibility issues, or any other disruptions or failures that may occur during or as a result of the Switching
-and/or the Deletion Request. The Customer assumes full responsibility for the successful Switching or deletion of Customer Data.
-
-SFDC-MSA, September 15, 2025​
-
-Page 17 of 17
+Page 15 of 15
 
 
