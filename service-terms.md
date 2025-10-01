@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: September 11, 2025
+## Last Updated: September 30, 2025
 
   
 
@@ -1224,6 +1224,7 @@ Australia(w.e.f. 1 October 2022) | Amazon Web Services Australia Pty Ltd (ABN: 6
 Japan(w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
 South Korea(w.e.f. 1 April 2025) | Amazon Web Services Korea LLC | N/A | L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
 The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: <https://aws.amazon.com/legal/aws-emea-countries/>(w.e.f. 1 January 2022) | Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg  
+India (for transactions between buyers and third party providers incorporated in India)(w.e.f. 1 October 2025) | Amazon Web Services India Private Limited | 011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India  
 Any other country that is not listed in this table above | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  
 Seattle, WA 98109-5210  
 U.S.A.  
@@ -1240,19 +1241,17 @@ contract between you and the applicable third party provider. If no contract
 term is specified, then the contract term commences on the date specified in
 your AWS Marketplace invoice.
 
-**20.1.8.** If you are an AWS customer located in India, parties agree that
-this Section 20.1.8 will be applicable:
+**20.1.8.**  AWS is not liable for inaccuracies or incomplete information in
+invoices resulting from your errors, or your noncompliance with applicable
+law. Any disputes with a third party provider must be resolved directly with
+the third party provider, and you will hold AWS harmless from all related
+claims.
 
-**20.1.8.1.  **If you have provided your Goods and Services Tax (GST)
-registration number to us so that it can be applied to your purchases, then
-the information you provide with your registration (including your GST
-registration number and the name and address associated with your GST
-registration) will be shared with third parties from whom you have purchased
-software on the AWS Marketplace to the extent necessary for those third
-parties to comply with GST invoicing regulations and requirements.
+**20.1.9.  **The following applies if you are an AWS customer located in
+India:
 
-**20.1.8.2.  **The purchase fees and charges payable by you will be exclusive
-of all applicable Taxes, and will be made free and clear of any deduction or
+The purchase fees and charges payable by you will be exclusive of all
+applicable Taxes, and will be made free and clear of any deduction or
 withholding, as may be required by law. For clarity, if any such deduction or
 withholding (including but not limited to cross-border withholding taxes) is
 required on any payment, you will pay such additional amount, as necessary, to
@@ -1267,6 +1266,10 @@ from you. AWS or its affiliates will not collect, and you will not pay, any
 Taxes for which you furnish us a properly completed exemption certificate, or
 a direct payment permit certificate, for which AWS or its affiliates may claim
 an available exemption from such Taxes.
+
+For clarity, you must not deduct or withhold taxes on payments to AWS if (a)
+your AWS Contracting Party is Amazon Web Services India Private Limited, and
+(b) you purchase Content from a third party provider incorporated in India.
 
 **20.2.  **Seller Terms. If you promote, license, sell, provide or provide
 access to any Content or services through AWS Marketplace, or authorize
