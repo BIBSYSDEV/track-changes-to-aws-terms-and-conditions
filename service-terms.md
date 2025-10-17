@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: September 30, 2025
+## Last Updated: October 9, 2025
 
   
 
@@ -257,8 +257,8 @@ Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 Amazon Bedrock, that enable you to use prompts to generate output, including:
 Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS
 Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize,
-Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, and
-Kiro (Preview).
+Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro
+(Preview), and the Amazon Quick Suite (including Amazon QuickSight).
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply
 to such services. See
@@ -2292,8 +2292,9 @@ Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon
 Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS
 Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon
 Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS
-HealthScribe, AWS App Studio, and Kiro (Preview). “AI Content” means Your
-Content that is processed by an AI Service.
+HealthScribe, AWS App Studio, Kiro (Preview), and the Amazon Quick Suite
+(including Amazon QuickSight). “AI Content” means Your Content that is
+processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
@@ -2441,8 +2442,9 @@ Amazon Nova Sonic, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon
 Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan Multimodal
 Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon
 Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS Transform,
-Amazon Connect Contact Lens, and Amazon Lex. The following terms apply to the
-Indemnified Generative AI Services:
+Amazon Connect Contact Lens, Amazon Lex, and the Amazon Quick Suite (including
+Amazon QuickSight). The following terms apply to the Indemnified Generative AI
+Services:
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
