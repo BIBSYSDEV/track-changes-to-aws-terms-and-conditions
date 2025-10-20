@@ -628,7 +628,7 @@ Customer by email or through the Service.
 #### **20.5 Entire Agreement**
 
 This Agreement (which includes all Orders, the Policies and the
-[DPA](https://miro.com/static/legal/Miro-Data-Processing-Addendum.pdf)) is the
+[DPA](https://miro.com/legal/customer-data-processing-addendum/)) is the
 parties’ entire agreement regarding its subject matter and supersedes any
 prior or contemporaneous agreements regarding its subject matter. In this
 Agreement, headings are for convenience only and “including” and similar terms
@@ -751,8 +751,8 @@ Third-Party Platforms.
 Customer provides to Miro in connection with Technical Services.
 
 “**DPA** ” means the Data Processing Addendum between the parties, the current
-version of which is [here](https://miro.com/static/legal/Miro-Data-Processing-
-Addendum.pdf).
+version of which is [here](https://miro.com/legal/customer-data-processing-
+addendum/).
 
 “**Documentation** ” means Miro’s usage guidelines and standard technical
 documentation for the Service, the current version of which is
