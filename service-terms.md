@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: October 22, 2025
+## Last Updated: November 17, 2025
 
   
 
@@ -257,8 +257,8 @@ Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 Amazon Bedrock, that enable you to use prompts to generate output, including:
 Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, AWS
 Database Migration Service, Amazon DataZone, Amazon Lex, Amazon Personalize,
-Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro
-(Preview), and the Amazon Quick Suite (including Amazon QuickSight).
+Amazon Q, AWS Transform, AWS AppFabric, AWS HealthScribe, AWS App Studio,
+Kiro, and the Amazon Quick Suite (including Amazon QuickSight).
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply
 to such services. See
@@ -270,7 +270,7 @@ inference, using the optimal AWS Region to process your Content when running
 model inference. See the applicable service documentation for more details.
 
 **1.25.** You will not use, and will not facilitate or allow End Users to use,
-the Services to mine cryptocurrency without our prior written approval.
+the Services to mine cryptocurrency.
 
 **1.26.** AWS consents to the assignment of an AWS account from one entity to
 another, subject to the terms of the AWS Account Assignment Requirements,
@@ -1218,14 +1218,14 @@ set out in the table below. Notwithstanding the foregoing, Amazon Web
 Services, Inc. continues to be the invoicing party for third party products
 that are resold by Amazon Web Services, Inc. on AWS Marketplace.
 
-| **Account Country** | **AWS Contracting Party** | **Facsimile** | **Mailing Address**  
+|  **Account Country** |  **AWS Contracting Party** |  **Facsimile** |  **Mailing Address**  
 ---|---|---|---  
-Australia(w.e.f. 1 October 2022) | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
-Japan(w.e.f. 1 October 2022) | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
-South Korea(w.e.f. 1 April 2025) | Amazon Web Services Korea LLC | N/A | L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
-The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: <https://aws.amazon.com/legal/aws-emea-countries/>(w.e.f. 1 January 2022) | Amazon Web Services EMEA SARL | 352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg  
-India (for transactions between buyers and third party providers incorporated in India)(w.e.f. 1 October 2025) | Amazon Web Services India Private Limited | 011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India  
-Any other country that is not listed in this table above | Amazon Web Services, Inc. | 206-266-7010 | 410 Terry Avenue North,  
+Australia (w.e.f. 1 October 2022) |  Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) |  N/A |  Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia  
+Japan (w.e.f. 1 October 2022) |  Amazon Web Services Japan G.K. |  N/A |  1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
+South Korea (w.e.f. 1 April 2025) |  Amazon Web Services Korea LLC | N/A |  L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
+The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: <https://aws.amazon.com/legal/aws-emea-countries/> (w.e.f. 1 January 2022) |  Amazon Web Services EMEA SARL |  352 2789 0057 |  38 Avenue John F. Kennedy, L-1855, Luxembourg  
+India (for transactions between buyers and third party providers incorporated in India) (w.e.f. 1 October 2025) | Amazon Web Services India Private Limited |  011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India  
+Any other country that is not listed in this table above |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,   
 Seattle, WA 98109-5210  
 U.S.A.  
   
@@ -1958,7 +1958,7 @@ services in connection with their usage of or connectivity to Amazon Sidewalk,
 (ii) any commitments made in the Agreement related to security do not apply to
 Amazon Sidewalk, and (iii) Amazon Sidewalk coverage, density, bandwidth, up-
 time, and availability is not guaranteed and may change without notice.  
-  
+    
 **39.11.5.** Subject to your compliance at all times with the Agreement and
 the [Works with Amazon Sidewalk Badge
 Guidelines](https://docs.sidewalk.amazon/sidewalk-terms-and-agreements/wwas-
@@ -2292,9 +2292,9 @@ Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon
 Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, AWS
 Transform, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon
 Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS
-HealthScribe, AWS App Studio, Kiro (Preview), and the Amazon Quick Suite
-(including Amazon QuickSight). “AI Content” means Your Content that is
-processed by an AI Service.
+HealthScribe, AWS App Studio, Kiro, and the Amazon Quick Suite (including
+Amazon QuickSight). “AI Content” means Your Content that is processed by an AI
+Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
@@ -2302,25 +2302,26 @@ and the Services may generate the same or similar results across customers.
 
 **50.3.** You agree and instruct that for Amazon CodeGuru Profiler, Amazon
 Comprehend, Amazon Lex, Amazon Polly, Amazon Rekognition, Amazon Textract,
-Amazon Transcribe, Amazon Translate, AWS Transform, and Kiro (Preview): (a) we
-may use and store AI Content that is processed by each of the foregoing AI
-Services to develop and improve the applicable AI Service and its underlying
-technologies; (b) we may use and store AI Content that is not personal data to
-develop and improve AWS and affiliate machine-learning and artificial-
-intelligence technologies; and (c) solely in connection with the development
-and improvement described in clauses (a) and (b), we may store such AI Content
-in an AWS region outside of the AWS region where you are using such AI
-Service. This Section does not apply to Amazon Comprehend Medical, Amazon
-Transcribe Medical, AWS HealthScribe, Amazon Comprehend Detect PII or any AI
-Service that is not listed in the first sentence of this Section 50.3. You may
-instruct AWS not to use and store AI Content processed by an AI Service to
-develop and improve that Service or technologies of AWS or its affiliates by
-configuring an AI services opt-out policy using AWS Organizations. For access
-to AI Services via AWS Builder ID or a third-party authentication provider,
-you may instruct AWS to refrain from using and storing AI Content processed by
-an AI Service to develop and improve that Service or technologies of AWS or
-its affiliates by using the opt-out mechanism indicated in the applicable
-service documentation.
+Amazon Transcribe, Amazon Translate, AWS Transform, Kiro Free Tier, and Kiro
+individual subscribers (as described [here](https://kiro.dev/docs/getting-
+started/authentication/)): (a) we may use and store AI Content that is
+processed by each of the foregoing AI Services to develop and improve the
+applicable AI Service and its underlying technologies; (b) we may use and
+store AI Content that is not personal data to develop and improve AWS and
+affiliate machine-learning and artificial-intelligence technologies; and (c)
+solely in connection with the development and improvement described in clauses
+(a) and (b), we may store such AI Content in an AWS region outside of the AWS
+region where you are using such AI Service. This Section does not apply to
+Amazon Comprehend Medical, Amazon Transcribe Medical, AWS HealthScribe, Amazon
+Comprehend Detect PII or any AI Service that is not listed in the first
+sentence of this Section 50.3. You may instruct AWS not to use and store AI
+Content processed by an AI Service to develop and improve that Service or
+technologies of AWS or its affiliates by configuring an AI services opt-out
+policy using AWS Organizations. For access to AI Services via AWS Builder ID
+or a third-party authentication provider, you may instruct AWS to refrain from
+using and storing AI Content processed by an AI Service to develop and improve
+that Service or technologies of AWS or its affiliates by using the opt-out
+mechanism indicated in the applicable service documentation.
 
 **50.4.**  You are responsible for providing legally adequate privacy notices
 to End Users of your products or services that use any AI Service and
@@ -2442,9 +2443,9 @@ Amazon Nova Sonic, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon
 Titan Text Premier, Amazon Titan Text Embeddings, Amazon Titan Multimodal
 Embeddings, Amazon Titan Image Generator, AWS HealthScribe, Amazon
 Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS Transform,
-Amazon Connect Contact Lens, Amazon Lex, and the Amazon Quick Suite (including
-Amazon QuickSight). The following terms apply to the Indemnified Generative AI
-Services:
+Amazon Connect Contact Lens, Amazon Lex, Kiro (excluding Kiro Free Tier), and
+the Amazon Quick Suite (including Amazon QuickSight). The following terms
+apply to the Indemnified Generative AI Services:
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
@@ -2562,10 +2563,9 @@ Amazon Q Content for service improvement as described in this Section 50.13 by
 you use Amazon Q in the IDE, by adjusting your settings in the IDE, or (iii)
 using the opt-out mechanism described in the Amazon Q documentation.
 
-**50.14.** **Kiro (Preview)**. If you purchase your Kiro subscription on a
-payment portal powered by Stripe, then for purposes of your use of Kiro
-(Preview), Amazon Web Services, Inc. is the AWS Contracting Party under the
-Agreement.
+**50.14.** **Kiro**. If you purchase your Kiro subscription on a payment
+portal powered by Stripe, then for purposes of your use of Kiro, Amazon Web
+Services, Inc. is the AWS Contracting Party under the Agreement.
 
 ## 51\. Amazon Lightsail
 

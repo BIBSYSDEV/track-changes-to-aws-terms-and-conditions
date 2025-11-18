@@ -874,7 +874,7 @@ South Africa |  Amazon Web Services South Africa Proprietary Limited  |  206-266
 South Korea |  Amazon Web Services Korea LLC |  N/A |  L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
 Türkiye |  AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  N/A |  Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
 Any country within Europe, the Middle East, or Africa (excluding South Africa) ("EMEA")** |   Amazon Web Services EMEA SARL |  352 2789 0057 |  38 Avenue John F. Kennedy, L-1855, Luxembourg  
-Any country that is not listed in this table above. |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,  
+Any country that is not listed in this table above. |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,   
 Seattle, WA 98109-5210  
 U.S.A.  
   
@@ -910,43 +910,43 @@ the laws and courts set forth in the following table:
 
 AWS Contracting Party |  Governing Laws |  Governing Courts  
 ---|---|---  
-Amazon AWS Serviços Brasil Ltda |  The laws of Brazil  
+Amazon AWS Serviços Brasil Ltda |  The laws of Brazil   
 |  The courts of the City of São Paulo, State of São Paulo  
   
-Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) |  The laws of New South Wales  
+Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) |  The laws of New South Wales   
 |  The courts of New South Wales  
   
-Amazon Web Services Canada, Inc |  The laws of the Province of Ontario, Canada and federal laws of Canada applicable therein  
+Amazon Web Services Canada, Inc |  The laws of the Province of Ontario, Canada and federal laws of Canada applicable therein   
 |  The provincial or federal courts located in Toronto, Ontario, Canada  
   
-Amazon Web Services EMEA SARL |  The laws of the Grand Duchy of Luxembourg  
+Amazon Web Services EMEA SARL |  The laws of the Grand Duchy of Luxembourg   
 |  The courts in the district of Luxembourg City  
   
-Amazon Web Services, Inc. |  The laws of the State of Washington  
+Amazon Web Services, Inc. |  The laws of the State of Washington   
 |  The state or Federal courts in King County, Washington  
   
-Amazon Web Services India Private Limited (AWS India) |  The laws of India  
+Amazon Web Services India Private Limited (AWS India) |  The laws of India   
 |  The courts in New Delhi, India  
   
-Amazon Web Services Japan G.K. |  The laws of Japan  
+Amazon Web Services Japan G.K. |  The laws of Japan   
 |  The Tokyo District Court  
   
-Amazon Web Services Korea LLC |  The laws of the State of Washington  
+Amazon Web Services Korea LLC |  The laws of the State of Washington   
 |  The state or Federal courts in King County, Washington  
   
-Amazon Web Services Malaysia Sdn. Bhd. (Registration No. 201501028710 (1154031-W)) |  The laws of Malaysia  
+Amazon Web Services Malaysia Sdn. Bhd. (Registration No. 201501028710 (1154031-W)) |  The laws of Malaysia   
 |  The courts of Malaysia  
   
-Amazon Web Services New Zealand Limited |  The laws of New Zealand  
+Amazon Web Services New Zealand Limited |  The laws of New Zealand   
 |  The courts of New Zealand  
   
-Amazon Web Services Singapore Private Limited |  The laws of the State of Washington  
+Amazon Web Services Singapore Private Limited |  The laws of the State of Washington   
 |  The state or Federal courts in King County, Washington  
   
-Amazon Web Services South Africa Proprietary Limited |  The laws of the Republic of South Africa  
+Amazon Web Services South Africa Proprietary Limited |  The laws of the Republic of South Africa   
 |  The South Gauteng High Court, Johannesburg  
   
-AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  The laws of the Grand Duchy of Luxembourg  
+AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  The laws of the Grand Duchy of Luxembourg   
 |  The courts in the district of Luxembourg City  
   
 PT Amazon Web Services Indonesia |  The laws of the State of Washington |  The state or Federal courts in King County, Washington  
