@@ -912,7 +912,8 @@ sales](/contact/sales/)
 [](https://twitter.com/mirohq "Twitter")[](https://www.facebook.com/TryMiro
 "Facebook")[](https://www.linkedin.com/company/mirohq
 "Linkedin")[](https://www.instagram.com/mirohq/
-"Instagram")[](https://www.youtube.com/user/RealtimeBoardEng "Youtube")
+"Instagram")[](https://www.youtube.com/user/RealtimeBoardEng
+"Youtube")[](https://www.reddit.com/r/miro/ "Reddit")
 
 [](https://apps.apple.com/us/app/miro-collaborative-
 whiteboard/id1180074773?from=footer_menu&source=miro_website "App
