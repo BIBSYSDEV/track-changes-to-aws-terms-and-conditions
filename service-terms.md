@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-## Last Updated: November 17, 2025
+## Last Updated: November 18, 2025
 
   
 
@@ -360,11 +360,16 @@ TO THE CLAIM DURING THE 12 MONTHS PRECEDING THE CLAIM.
 
 ## 3\. Amazon CloudFront
 
-You must own or have all necessary rights to use any domain name or SSL
-certificate that you use in conjunction with Amazon CloudFront. You are solely
-responsible for the renewal, security, and proper configuration of any SSL
-certificates that you provide for use with Amazon CloudFront, including any
-disclosure of your SSL certificates to third parties.
+**3.1.** You must own or have all necessary rights to use any domain name or
+SSL certificate that you use in conjunction with Amazon CloudFront. You are
+solely responsible for the renewal, security, and proper configuration of any
+SSL certificates that you provide for use with Amazon CloudFront, including
+any disclosure of your SSL certificates to third parties.
+
+**3.2.** CloudFront Flat-rate Pricing Plans. If your usage exceeds the
+allowances in your CloudFront Flat-rate Pricing Plan, AWS may take appropriate
+action, which may include reducing your performance (e.g. throttling) or
+requiring a change to your pricing structure.
 
 ## 4\. AWS Outposts
 
@@ -1008,11 +1013,11 @@ SNS is also subject to the terms that govern AWS End User Messaging.
 **11.6.** Through your use of Amazon SNS you will not:
 
   * Transmit any material that contains viruses, Trojan horses, worms, or any other malicious or harmful programs.
-  * Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.
-  * If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.
+  * Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services. 
+  * If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services. 
   * Materially violate or facilitate the material violation of any local or foreign law, rule, regulation, or order, including laws regarding the transmission of data or software.
   * Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers)
-  * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.
+  * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties. 
   * Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
 
 ## 12\. AWS Identity and Access Management (IAM)
