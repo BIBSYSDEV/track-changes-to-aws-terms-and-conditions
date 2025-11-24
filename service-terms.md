@@ -1014,11 +1014,11 @@ SNS is also subject to the terms that govern AWS End User Messaging.
 **11.6.** Through your use of Amazon SNS you will not:
 
   * Transmit any material that contains viruses, Trojan horses, worms, or any other malicious or harmful programs.
-  * Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services. 
-  * If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services. 
+  * Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.
+  * If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.
   * Materially violate or facilitate the material violation of any local or foreign law, rule, regulation, or order, including laws regarding the transmission of data or software.
   * Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers)
-  * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties. 
+  * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.
   * Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
 
 ## 12\. AWS Identity and Access Management (IAM)
