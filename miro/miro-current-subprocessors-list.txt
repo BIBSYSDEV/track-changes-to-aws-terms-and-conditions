@@ -1,5 +1,5 @@
 MIRO SUB-PROCESSORS
-Last updated: 30 September 2024
+Last updated: 1 December 2025
 Name
 
 Co. Number
@@ -55,23 +55,11 @@ Google LLC
 
 1600 Amphitheatre Parkway, Mountain View, CA 94043
 
-Sensitive Data Discovery
+Sensitive Data Discovery (Guard)
 
 United States
 
 https://cloud.google.com/looker
-
-InSided, Inc.
-
-6269152
-
-Singel 118A, 1015 AE Amsterdam, Netherlands
-
-Customer Success/Support
-
-The Netherlands
-
-https://www.insided.com/
 
 Microsoft Corporation
 
@@ -79,8 +67,7 @@ Microsoft Corporation
 
 One Microsoft Way, Redmond, WA 98052-6399
 
-Accessibility, OCR functionality,
-Miro AI
+Accessibility, OCR functionality, AI
 
 United States
 
@@ -104,7 +91,7 @@ Skilljar, Inc.
 
 113 Cherry Street, Suite #29434, Seattle, WA 98104
 
-Customer Training | Miro Academy
+Customer Training (Academy)
 
 United States
 
@@ -137,13 +124,21 @@ Cardinal Web, Inc.
 
 United States
 
+RealtimeBoard B.V.
+
+The Netherlands
+
+Miro Armenia LLC
+
+Armenia
+
 RealtimeBoard, Inc.
 
 United States
 
-Miro Armenia LLC (formerly Teamwork LLC)
+Miro APAC Pty. Ltd.
 
-Armenia
+Singapore
 
 UizardApp ApS
 
@@ -173,17 +168,11 @@ Miro Worldwide France, SAS
 
 France
 
-RealtimeBoard B.V.
-
-The Netherlands
-
 1
 
 MIRO THIRD PARTY AI MODELS
-Last updated: April 29, 2025
-AI Model (Service)
-
-Used By Miro For
+Last updated: 1 December 2025 - Please visit Miro’s Help Center for a detailed matching of default and optionally available models per Miro AI feature
+Default AI Model (Service)
 
 Hosted By
 
@@ -193,66 +182,38 @@ Restrictions w/ Impact to Customer Use
 
 GPT-4o (Azure OpenAI)
 
-Sticky Notes Clustering, AI Sidekicks (Product
-Marketing Alliance, Product Leader, Agile Coach),
-Create Doc, Create Diagram (Flow Chart), Create
-Sticky Notes
-
 Microsoft Corporation
 
-Microsoft License Terms for Online
-Services
+Microsoft License Terms for Online Services
 
-Use must be compliant with Acceptable Use Policy
-for Online Services and the Azure OpenAI Code of
-Conduct
-
-GPT-4o mini (Azure OpenAI)
-
-Conversation Summaries, Create Diagram (Mind
-Map, ERD), Change Tone, Fix Grammar/Spelling,
-Rewrite for Clarity, Shorten Text, Translate
-Generate Mind Map, Mind Map (Expand with Ideas,
-Expand with Topics, Expand with Questions)
-
-Azure Content Safety
-
-Output Moderation (for all LLM-based requests)
-
-Claude 3.7 Sonnet
-
-Digitize Diagram
+Use must be compliant with Acceptable Use Policy for Online Services and the
+Azure OpenAI Code of Conduct
 
 Amazon Web Services, Inc.
 
-Anthropic on Bedrock Commercial Terms of Service
+Anthropic on Bedrock - Commercial Terms of Service
 
-Use must be compliant with the Anthropic Usage
-Policy
+Use must be compliant with the Anthropic Usage Policy
 
-DenseNet
+Nova Micro (Bedrock)
 
-Image Classification
+Amazon Web Services, Inc.
 
-Miro (via AWS)
+AWS Service Terms
 
-Apache 2.0
+Use must be compliant with AWS Responsible AI Policy
 
-N/A
+Stability Image Core (Bedrock)
 
-distilbert-base-multilingual-cased
+Amazon Web Services, Inc.
 
-Sticky Notes Clustering
+Stability Amazon Bedrock End User License
+Agreement
 
-Miro (via AWS)
-
-Apache 2.0
-
-N/A
+Use must be compliant with the ‘Prohibited Uses’ section of the Stability Amazon
+Bedrock End User License Agreement
 
 InSPyReNet
-
-Remove Background
 
 Miro (via AWS)
 
@@ -262,38 +223,6 @@ N/A
 
 MobileNetv2
 
-Smart Drawings
-
-Miro (via AWS)
-
-Apache 2.0
-
-N/A
-
-Real-ESRGAN
-
-Remove Background
-
-Miro (via AWS)
-
-BSD 3
-
-N/A
-
-Salesforce/blip2-flan-t5-xl
-
-Image Captioning
-
-Miro (via AWS)
-
-MIT
-
-N/A
-
-Segmind Stable Diffusion 1B (SSD-1B)
-
-Image Generation
-
 Miro (via AWS)
 
 Apache 2.0
@@ -302,34 +231,20 @@ N/A
 
 SSD MobileNetv2
 
-Sticky Capture
-
 Miro (via AWS)
 
 Apache 2.0
 
 N/A
 
-StabilityAI Diffusion XL Refiner 1.0
-
-Image Generation
-
-Miro (via AWS)
-
-RAIL++-M License
-
-Use must be compliant with Attachment A (Use
-Restrictions) of the RAIL++-M License
-
-Universal Sentence Encoder multilingual
-
-Sticky Notes Clustering
-
-Miro (via AWS)
-
-Apache 2.0
-
-N/A
+GPT-4o mini (Azure OpenAI)
+GPT-5 (Azure OpenAI)
+GPT-5 chat (Azure OpenAI)
+GPT-5 mini (Azure OpenAI)
+GPT-5 nano (Azure OpenAI)
+Azure Content Safety
+Claude 3.5 Haiku (Bedrock)
+Claude 3.7 Sonnet (Bedrock)
 
 2
 
