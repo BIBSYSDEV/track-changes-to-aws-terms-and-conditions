@@ -920,7 +920,7 @@ whiteboard/id1180074773?from=footer_menu&source=miro_website "App
 Store")[](https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website
 "Google Play")
 
-Miro © 2025
+Miro © 2026
 
 [Terms of Service](https://miro.com/legal/terms-of-service/)[Privacy
 Policy](https://miro.com/legal/privacy-policy/)[Manage Cookies](/manage-
