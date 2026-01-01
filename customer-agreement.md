@@ -5,7 +5,11 @@
 
 *Please note that as of August 1, 2025, customers located in Indonesia contract with our Indonesia based AWS Contracting Party, as provided in Section 12. See the [AWS Indonesia FAQs](https://aws.amazon.com/legal/awsid/) for more information.
 
-## Last Updated: September 09, 2025
+*Please note that as of January 1, 2026, customers located in Taiwan who have provided a Unified Business Number (UBN) and are using the invoicing payment method for their accounts contract with our Taiwan based AWS Contracting Party, as provided in Section 12. See the [AWS Taiwan FAQs](https://aws.amazon.com/legal/awstw/) for more information.
+
+*Please note that as of January 1, 2026, customers located in Mexico who use the invoicing payment method and have provided an address located in Mexico, contract with our Mexico based AWS Contracting Party, as provided in Section 12. See the [AWS Mexico SoR FAQs](https://aws.amazon.com/legal/awsmx/) for more information.
+
+## Last Updated: January 01, 2026
 
 [ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
 
@@ -618,6 +622,34 @@ that the existence of and information relating to any such arbitration
 proceedings will not be disclosed by either party and will constitute
 confidential information.
 
+(i) If the applicable AWS Contracting Party is Amazon Web Services Taiwan
+Limited, the parties agree that the provisions of this Section 11.5(i) will
+apply. Disputes will be resolved by arbitration administered by the Chinese
+Arbitration Association, Taipei (“**CAA** ”) in accordance with the then-
+applicable Arbitration Rules of CAA, and judgment on the arbitral award may be
+entered in any court having jurisdiction. The arbitration will take place in
+Taipei, Taiwan. There will be three arbitrators. The fees and expenses of the
+arbitrators and the administering authority, if any, will be paid in equal
+proportion by the parties. The arbitration proceedings will be conducted in
+English. The parties agree that the existence of and information relating to
+any such arbitration proceedings will not be disclosed by either party and
+will constitute confidential information.
+
+(j) If the applicable AWS Contracting Party is Amazon Web Services Mexico, S.
+de R.L. de C.V., the parties agree that the provisions of this Section 11.5(j)
+will apply. Disputes will be resolved by binding arbitration, rather than in
+court, in accordance with the then-applicable Rules of Arbitration of the
+International Chamber of Commerce, and judgment on the arbitral award may be
+entered in any court having jurisdiction. The arbitration will take place in
+Mexico City, Mexico. There will be three arbitrators. The fees and expenses of
+the arbitrators and the administering authority, if any, will be paid in equal
+proportion by the parties. The parties agree that the existence of and
+information relating to any such arbitration proceedings will not be disclosed
+by either party and will constitute confidential information. The Governing
+Courts will have exclusive jurisdiction for the sole purposes of (i) ensuring
+the commencement of the arbitral proceedings; and (ii) granting conservatory
+and interim measures prior to the constitution of the arbitral tribunal.
+
 11.6 Trade Compliance. In connection with this Agreement, each party will
 comply with all applicable import, re-import, sanctions, anti-boycott, export,
 and re-export control laws and regulations, including all such laws and
@@ -868,10 +900,12 @@ India |  Amazon Web Services India Private Limited (formerly known as Amazon Int
 Indonesia |  PT Amazon Web Services Indonesia |  N/A |  16th Floor, Sinar Mas Land Plaza, Jl. Jend. Sudirman Kav. 21, RT 12/RW 01, Karet, Setiabudi, Jakarta Selatan, Jakarta 12920, Indonesia  
 Japan |  Amazon Web Services Japan G.K. |  N/A |  1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
 Malaysia |  Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) |  N/A |  Level 26 & Level 35, The Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
+Mexico (only for accounts using the invoicing payment method) |  Amazon Web Services Mexico, S. de R.L. de C.V.  |  N/A |  Blvrd Manuel Avila Camacho 261, Polanco, Miguel Hidalgo, 11510 Mexico City, Mexico  
 New Zealand |  Amazon Web Services New Zealand Limited |  N/A |  Level 5, 18 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
 Singapore |  Amazon Web Services Singapore Private Limited |  N/A |  Level 2, East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916  
 South Africa |  Amazon Web Services South Africa Proprietary Limited  |  206-266-7010 |  29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925   
 South Korea |  Amazon Web Services Korea LLC |  N/A |  L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
+Taiwan (only for accounts with a Unified Business Number (UBN) and using the invoicing payment method) |  Amazon Web Services Taiwan Limited |  N/A |  18F, No. 32, 36, Songren Road, Xinyi District, Taipei, Taiwan  
 Türkiye |  AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  N/A |  Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
 Any country within Europe, the Middle East, or Africa (excluding South Africa) ("EMEA")** |   Amazon Web Services EMEA SARL |  352 2789 0057 |  38 Avenue John F. Kennedy, L-1855, Luxembourg  
 Any country that is not listed in this table above. |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,   
@@ -937,6 +971,7 @@ Amazon Web Services Korea LLC |  The laws of the State of Washington
 Amazon Web Services Malaysia Sdn. Bhd. (Registration No. 201501028710 (1154031-W)) |  The laws of Malaysia   
 |  The courts of Malaysia  
   
+Amazon Web Services Mexico, S. de R.L. de C.V. |  The laws of Mexico |  The federal courts located in Mexico City, Mexico  
 Amazon Web Services New Zealand Limited |  The laws of New Zealand   
 |  The courts of New Zealand  
   
@@ -946,6 +981,7 @@ Amazon Web Services Singapore Private Limited |  The laws of the State of Washin
 Amazon Web Services South Africa Proprietary Limited |  The laws of the Republic of South Africa   
 |  The South Gauteng High Court, Johannesburg  
   
+Amazon Web Services Taiwan Limited |  The laws of Taiwan |  Taipei District Court, Taiwan  
 AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  The laws of the Grand Duchy of Luxembourg   
 |  The courts in the district of Luxembourg City  
   
