@@ -1,5 +1,5 @@
 Salesforce Infrastructure and Sub-processors
-Published: December 19, 2025
+Published: January 6, 2026
 
 Scope
 This documentation describes the infrastructure environment, sub-processors and certain other entities material to the services and managed
@@ -35,7 +35,7 @@ detailing how, and for what features, each infrastructure is used.
 Rights of ALBERT EINSTEIN are used with permission of The Hebrew University of Jerusalem. Represented exclusively by Greenlight.
 1
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Sub-processor Notifications
@@ -73,7 +73,7 @@ Customers reside within the Public Cloud Infrastructure.
 
 2
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Content Delivery Networks (“CDNs”)
@@ -99,7 +99,7 @@ Hyperforce is Salesforce’s next-generation infrastructure foundation for deplo
 Please see the charts below for available locations for individual Covered Services.
 
 3
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Support For All Services
@@ -143,11 +143,11 @@ salesforce.com Israel Ltd. Israel
 Salesforce.com Italy S.r.l Italy
 Salesforce Japan Co., Ltd. Japan
 SFDC Netherlands B.V. The Netherlands
-salesforce.com
 Singapore
+salesforce.com
 Singapore Pte. Ltd.
-Salesforce.com Korea
 South Korea
+Salesforce.com Korea
 Limited
 Salesforce Systems Spain Spain
 S.I.
@@ -155,7 +155,7 @@ SFDC Sweden AB
 Sweden
 4
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 salesforce.com Sarl
@@ -222,7 +222,7 @@ Australia
 Japan
 5
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Brazil
@@ -265,7 +265,7 @@ Germany
 India
 6
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Japan
@@ -303,7 +303,7 @@ United Kingdom
 United States
 7
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Amazon Web Services, United States
@@ -348,7 +348,7 @@ Saudi Arabia
 UAE
 8
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 South Africa
@@ -356,6 +356,30 @@ United States
 Brazil
 Australia
 Japan
+
+Agentforce Supply Chain
+Purpose of Processing
+Hosting Provider for all functionality.
+
+Sub-processors
+Amazon Web Services,
+Inc.
+
+Locations
+United States
+
+Provider of generative artificial intelligence Google LLC
+services.
+
+United States
+
+User analytics provider.
+
+United States
+
+Pendo.io, Inc.
+
+Additional Details
 
 Automotive Cloud
 For Automotive Cloud (including Digital Lending for Automotive) see infrastructure details for Salesforce Services. Some Customers who purchase
@@ -383,19 +407,19 @@ United States
 Brazil
 Canada
 Australia
-India
+9
+
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+India
 Japan
 Singapore
 South Korea
 France
 Germany
 Sweden
-9
-
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-United Kingdom
+United Kingdom
 Service provider of runtime services used by Amazon Web Services,
 Automotive Cloud APIs powered by
 Inc.
@@ -429,11 +453,15 @@ Germany
 Sweden
 India
 Australia
-Japan
+10
+
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Japan
 Brazil
 Canada
 United Kingdom
-
 Provider of generative artificial intelligence OpenAI, L.L.C.
 services.
 
@@ -443,12 +471,8 @@ In the event of a failover, Customer Data is temporarily
 re-routed to an endpoint hosted on Microsoft Azure
 and priority will be given to the region in which
 Customer’s org is provisioned, subject to availability.
-10
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-Salesforce Backup (formerly Backup and Restore)
+Salesforce Backup (formerly Backup and Restore)
 Salesforce Backup is an add-on feature for the Salesforce Services–see infrastructure details for Salesforce Services. Additional sub-processors for
 this Service are:
 Purpose of Processing
@@ -475,7 +499,12 @@ Sweden
 United Kingdom
 Germany
 Sweden
-United Kingdom
+11
+
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+United Kingdom
 South Korea
 
 B2B Commerce (from Version 3.97 or higher, formerly branded as CloudCraze)
@@ -483,11 +512,7 @@ Also see infrastructure details for Salesforce Services. Salesforce may route th
 centers, but the storage of Customer Data will be limited to the data centers for the Customers’ org. For B2B Commerce on Lightning Experience,
 see infrastructure details for Salesforce Services.
 
-11
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-B2B Commerce on Lightning Experience
+B2B Commerce on Lightning Experience
 B2B Commerce runs on the same infrastructure as the Salesforce Services. See infrastructure details for Salesforce Services.
 
 D2C Commerce (formerly B2B2C Commerce)
@@ -526,16 +551,16 @@ prior to February 19, 2020.
 
 Sweden
 The Netherlands
-
-salesforce.com Co., Ltd. Japan
-
 12
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-If Customer is hosted on Hyperforce
+salesforce.com Co., Ltd. Japan
 Amazon Web Services,
-infrastructure on AWS, then Customer Data Inc.
+If Customer is hosted on Hyperforce
+Inc.
+infrastructure on AWS, then Customer Data
 will be processed in that infrastructure, as
 indicated here. If Customer is hosted on
 Salesforce’s own first-party infrastructure,
@@ -618,14 +643,14 @@ Global
 Cloudflare’s services are used for purposes that include
 a content distribution network, a domain name system
 network, web content optimization, web application
-firewall, internet protocol reputation filtering, and
-distributed denial of service attack prevention.
 13
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-CDN for B2C Commerce (which may include Akamai Technologies,
+firewall, internet protocol reputation filtering, and
+distributed denial of service attack prevention.
+CDN for B2C Commerce (which may include Akamai Technologies,
 Managed Runtime), B2C Commerce Order Inc.
 Management, and Commerce Cloud
 Einstein.
@@ -687,14 +712,14 @@ case evaluation and availability.
 
 United States
 Switzerland
-France
-Germany
 14
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-Sweden
+France
+Germany
+Sweden
 India
 Australia
 Japan
@@ -721,31 +746,31 @@ SKUs, also see infrastructure details for Sales Cloud Einstein.
 
 Customer 360 Data Manager
 Purpose of Processing
-Hosting Provider for all functionality.
-Customer Data is hosted in one of the
-following regions.
 
 Sub-processors
+Salesforce, Inc.
 
 Locations
 
-Salesforce, Inc.
+Additional Details
 
 United States
 
+15
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+be trademarks of their respective owner.
+
+Hosting Provider for all functionality.
+Customer Data is hosted in one of the
+following regions.
+
 Kabushiki Kaisha
 salesforce Japan, also
+known as Salesforce
+Japan Co., Ltd.
 
 Japan
 
-Additional Details
-
-15
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
-be trademarks of their respective owner.
-
-known as Salesforce
-Japan Co., Ltd.
 Hosting Provider for all functionality.
 Customer Data is hosted in one of the
 following regions.
@@ -797,13 +822,13 @@ Singapore
 France
 United Arab
 Emirates
-Korea
-Italy
 16
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-Sweden
+Korea
+Italy
+Sweden
 Provider of generative artificial intelligence OpenAI, L.L.C.
 services.
 
@@ -847,14 +872,14 @@ Australia
 India
 Japan
 Singapore
-South Korea
-France
 17
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-Germany
+South Korea
+France
+Germany
 Sweden
 United Kingdom
 Provider of generative artificial intelligence Microsoft Corporation
@@ -894,7 +919,7 @@ Locations
 Additional Details
 
 18
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider for all functionality.
@@ -952,7 +977,7 @@ in the United States.
 United Kingdom
 
 19
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Einstein Conversation Insights
@@ -1013,7 +1038,7 @@ Switzerland
 Singapore
 20
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Indonesia
@@ -1061,7 +1086,7 @@ Emergency Program Management
 Emergency Program Management is a managed package that runs on top of Salesforce Services–see infrastructure details for Salesforce Services.
 
 21
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Employee Productivity
@@ -1104,7 +1129,7 @@ Emirates
 Italy
 22
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Sweden
@@ -1146,7 +1171,7 @@ Indonesia
 Italy
 23
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Switzerland
@@ -1196,7 +1221,7 @@ Japan
 Singapore
 24
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 South Korea
@@ -1242,7 +1267,7 @@ Additional Details
 
 United States
 25
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider of document generation
@@ -1311,7 +1336,7 @@ Salesforce may route the transmission of encrypted
 Customer Data through various points, including any of
 26
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 its data centers, but the storage and processing of
@@ -1369,7 +1394,7 @@ similar results, that Customer Data will be processed
 and stored on AWS infrastructure.
 27
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Service provider of runtime services used by Amazon Web Services,
@@ -1420,7 +1445,7 @@ and priority will be given to the region in which
 Customer’s org is provisioned, subject to availability.
 
 28
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Heroku
@@ -1471,7 +1496,7 @@ tools.
 United States
 
 29
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Sales Engagement (formerly High Velocity Sales)
@@ -1538,7 +1563,7 @@ stored and/or processed elsewhere, as described in the
 Infrastructure” section of the Hyperforce SPARC.
 
 30
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Intelligent Form Reader
@@ -1595,7 +1620,7 @@ Singapore
 South Korea
 31
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 France
@@ -1639,7 +1664,7 @@ Brazil
 Canada
 32
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 United Kingdom
@@ -1697,7 +1722,7 @@ Germany
 Sweden
 33
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 India
@@ -1749,7 +1774,7 @@ India
 Japan
 34
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Singapore
@@ -1794,7 +1819,7 @@ Sweden
 India
 35
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Australia
@@ -1864,7 +1889,7 @@ Locations
 Additional Details
 36
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider for all functionality.
@@ -1924,7 +1949,7 @@ Reports also runs on the Intelligence infrastructure, unless provisioned for Mar
 infrastructure. Accordingly, see infrastructure details for Marketing Cloud: Marketing Cloud Engagement Services and Salesforce Data 360.
 Additional sub-processors for this Service are:
 37
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Purpose of Processing
@@ -2005,7 +2030,7 @@ United States.
 United States
 
 38
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Customer Data is hosted in one of the
@@ -2075,7 +2100,7 @@ England
 Canada
 Switzerland
 39
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Marketing Cloud: Marketing Cloud Engagement+
@@ -2117,7 +2142,7 @@ India
 France
 
 40
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 United Arab
@@ -2171,7 +2196,7 @@ Marketing Cloud Einstein functionality relies on data from, and writes data to, 
 details for Marketing Cloud: Marketing Cloud Engagement Services. Marketing Cloud Engagement Customers provisioned to AWS India
 (Hyperforce) will map to AWS - Ireland and/or Germany as described below. Additional sub-processors for this Service are:
 41
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Purpose of Processing
@@ -2249,7 +2274,7 @@ hosted in any location provided by Google, listed at
 Global Locations - Regions & Zones.
 42
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Marketing Cloud: Social Studio
@@ -2301,7 +2326,7 @@ India
 Singapore
 43
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Indonesia
@@ -2346,7 +2371,7 @@ South Korea
 India
 44
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Singapore
@@ -2414,7 +2439,7 @@ Additional Details
 Prod-US Control Plane
 45
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 ●
@@ -2480,7 +2505,7 @@ Ireland
 United Kingdom
 
 46
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 User analytics provider for MuleSoft
@@ -2532,7 +2557,7 @@ Switzerland
 France
 47
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Germany
@@ -2599,7 +2624,7 @@ Additional Details
 Ireland
 
 48
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Provider of generative artificial intelligence OpenAI, L.L.C.
@@ -2648,7 +2673,7 @@ Additional Details
 
 United States
 49
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider of document generation
@@ -2688,7 +2713,7 @@ Canada
 United Kingdom
 50
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Provider of generative artificial intelligence OpenAI, L.L.C.
@@ -2745,7 +2770,7 @@ Italy
 Japan
 Singapore
 51
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Sweden
@@ -2798,7 +2823,7 @@ Australia
 India
 52
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Japan
@@ -2837,7 +2862,7 @@ Customer’s org is provisioned, subject to availability.
 Quip
 Quip includes Services formerly branded as Salesforce Anywhere.
 53
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Purpose of Processing
@@ -2895,7 +2920,7 @@ Australia
 Brazil
 54
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Canada
@@ -2927,7 +2952,7 @@ Locations
 Additional Details
 
 55
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider for Sales Cloud Einstein
@@ -2974,7 +2999,7 @@ Sweden
 United Kingdom
 56
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Provider of generative artificial intelligence
@@ -3026,7 +3051,7 @@ Australia
 Japan
 57
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider of document generation
@@ -3086,7 +3111,7 @@ United States
 Canada
 58
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Service provider for search functionality.
@@ -3154,7 +3179,7 @@ Germany
 United States
 
 59
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Salesforce Order Management
@@ -3217,7 +3242,7 @@ Additional Details
 United States
 
 60
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider for all functionality.
@@ -3279,7 +3304,7 @@ Germany
 References to Nonprofit Cloud Case Management refer to the managed package.
 61
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 following regions using both AWS and
@@ -3316,7 +3341,7 @@ and priority will be given to the region in which
 Customer’s org is provisioned, subject to availability.
 
 62
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Salesforce Services4
@@ -3365,7 +3390,7 @@ some or all of the features listed below. See Where is my Salesforce Instance Lo
 5
 For the CMDB component of Agentforce IT Service, see please Agentforce IT Service section.
 63
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 known as Salesforce
@@ -3393,7 +3418,7 @@ Emirates
 United Kingdom
 64
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 United States
@@ -3447,7 +3472,7 @@ Account Intelligence feature is on by default for all new
 Customers.
 
 65
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Canada
@@ -3496,7 +3521,7 @@ Ireland
 United Kingdom
 
 66
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Canada
@@ -3536,7 +3561,7 @@ Japan
 United States
 67
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Hosting Provider and Service Provider to
@@ -3583,7 +3608,7 @@ South Korea
 Singapore
 68
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 India
@@ -3645,7 +3670,7 @@ Web Services, Inc.)
 The My Domain feature includes my.site.com sites and sites using Enhanced Domains.
 69
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 resources and other cacheable webpage content
@@ -3717,7 +3742,7 @@ Microsoft Teams Integration is a feature available to
 Sales Cloud and Service Cloud.
 
 70
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Service Provider used for transmission
@@ -3797,7 +3822,7 @@ Canada
 Code Builder).
 Germany
 71
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Ireland
@@ -3873,7 +3898,7 @@ United Kingdom
 France
 Sweden
 72
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 United Kingdom
@@ -3917,7 +3942,7 @@ United States is default hosting location; Data is hosted
 in Germany upon customer request
 
 73
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Salesforce Starter (fka Self-Service CRM), including Marketing Email Sends
@@ -3963,7 +3988,7 @@ Recommendations on or before August 10, 2025 and
 based in the APAC region may also have data stored on
 74
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Amazon Web Services infrastructure in the United
@@ -3997,7 +4022,7 @@ Service Cloud Voice
 Service Cloud Voice is an add-on to Service Cloud, and runs partially on Service Cloud infrastructure–see infrastructure details for Salesforce
 Services.
 75
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Purpose of Processing
@@ -4049,7 +4074,7 @@ features instead of bringing their own Natural Language Processing service for s
 
 76
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Provider of generative artificial intelligence OpenAI, L.L.C.
@@ -4110,7 +4135,7 @@ disclosed region closest to Customer’s Salesforce Org
 applies. In the event of a failover, Customer Data is
 
 77
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Provider of artificial voice services for
@@ -4167,7 +4192,7 @@ Additional Details
 United States
 78
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Provider of scheduling and optimization
@@ -4231,7 +4256,7 @@ Customer Data from the Switzerland region is backed
 up in Germany.
 
 79
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 United Arab
@@ -4300,7 +4325,7 @@ Australia
 Brazil
 80
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Canada
@@ -4337,7 +4362,7 @@ Japan
 South Korea
 81
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 United Kingdom
@@ -4382,8 +4407,8 @@ United States
 
 Slack Huddles and Slack Clips functionality Amazon Transcribe (by
 (GovSlack): transcripts for Slack Huddles and Amazon Web Services,
-Slack Clips
 Inc.)
+Slack Clips
 
 United States
 
@@ -4408,7 +4433,7 @@ Zendesk, Inc.
 United States
 82
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Tableau Cloud
@@ -4478,7 +4503,7 @@ Microsoft Azure OpenAI will be available as of June
 2024.
 
 83
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 in Pulse and Tableau Agent
@@ -4525,7 +4550,7 @@ Vlocity Communications package, Vlocity Media and Entertainment package, Vlocity
 Health package, and Vlocity Government package are managed packages that run on top of the Salesforce Services. Communications Cloud, Media
 Cloud, and Energy & Utilities Cloud Services are an extension of the Salesforce Services and where indicated may include the applicable Vlocity
 84
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 package listed above. See infrastructure details for Salesforce Services. Communications Cloud and Media Cloud also includes features that may use
@@ -4590,7 +4615,7 @@ If a Customer: (a) enables the TMForum APIs powered
 by MuleSoft feature as an add-on to the Vlocity
 85
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 the Vlocity Communications package.
@@ -4636,7 +4661,7 @@ Canada
 United Kingdom
 86
 
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Provider of generative artificial intelligence OpenAI, L.L.C.
@@ -4671,7 +4696,7 @@ Additional Details
 United States
 
 87
-Copyright 2000 – 2025 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
+Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 
