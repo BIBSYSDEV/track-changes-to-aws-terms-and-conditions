@@ -1,17 +1,17 @@
 # AWS Customer Agreement
 
 **For additional information related to each AWS Contracting Party, see the
-[AWS Contracting Party FAQs](https://aws.amazon.com/legal/sor-faqs/).
+[AWS Contracting Party FAQs](/legal/sor-faqs/).
 
-*Please note that as of August 1, 2025, customers located in Indonesia contract with our Indonesia based AWS Contracting Party, as provided in Section 12. See the [AWS Indonesia FAQs](https://aws.amazon.com/legal/awsid/) for more information.
+*Please note that as of August 1, 2025, customers located in Indonesia contract with our Indonesia based AWS Contracting Party, as provided in Section 12. See the [AWS Indonesia FAQs](/legal/awsid/) for more information.
 
-*Please note that as of January 1, 2026, customers located in Taiwan who have provided a Unified Business Number (UBN) and are using the invoicing payment method for their accounts contract with our Taiwan based AWS Contracting Party, as provided in Section 12. See the [AWS Taiwan FAQs](https://aws.amazon.com/legal/awstw/) for more information.
+*Please note that as of January 1, 2026, customers located in Taiwan who have provided a Unified Business Number (UBN) and are using the invoicing payment method for their accounts contract with our Taiwan based AWS Contracting Party, as provided in Section 12. See the [AWS Taiwan FAQs](/legal/awstw/) for more information.
 
-*Please note that as of January 1, 2026, customers located in Mexico who use the invoicing payment method and have provided an address located in Mexico, contract with our Mexico based AWS Contracting Party, as provided in Section 12. See the [AWS Mexico SoR FAQs](https://aws.amazon.com/legal/awsmx/) for more information.
+*Please note that as of January 1, 2026, customers located in Mexico who use the invoicing payment method, and as of February 1, 2026, customers who use the credit card payment method, and have provided an address located in Mexico, contract with our Mexico based AWS Contracting Party, as provided in Section 12. See the [AWS Mexico SoR FAQs](/legal/awsmx/) for more information.
 
-## Last Updated: January 01, 2026
+## Last Updated: February 01, 2026
 
-[ See What's Changed](https://aws.amazon.com/agreement/recent-changes/)
+[ See What's Changed](/agreement/recent-changes/)
 
 This AWS Customer Agreement (this “**Agreement** ”) contains the terms and
 conditions that govern your access to and use of the Services (as defined
@@ -313,8 +313,8 @@ Content or End Users’ use of Your Content or the Services will violate the
 Acceptable Use Policy.
 
 6.3 Intellectual Property License. The [Intellectual Property
-License](https://aws.amazon.com/legal/aws-ip-license-terms/) applies to your
-use of AWS Content and the Services.
+License](/legal/aws-ip-license-terms/) applies to your use of AWS Content and
+the Services.
 
 6.4 Restrictions. Neither you nor any End User will use the AWS Content or
 Services in any manner or for any purpose other than as expressly permitted by
@@ -838,9 +838,8 @@ liability for such party’s gross negligence or willful misconduct.
 ## 12\. Definitions.
 
 “Acceptable Use Policy” means the policy located at
-[https://aws.amazon.com/aup](https://aws.amazon.com/aup/) (and any successor
-or related locations designated by us), as may be updated by us from time to
-time.
+[https://aws.amazon.com/aup](/aup/) (and any successor or related locations
+designated by us), as may be updated by us from time to time.
 
 “Account Country” is the country associated with your account. If you have
 provided a valid tax registration number for your account, then your Account
@@ -900,7 +899,7 @@ India |  Amazon Web Services India Private Limited (formerly known as Amazon Int
 Indonesia |  PT Amazon Web Services Indonesia |  N/A |  16th Floor, Sinar Mas Land Plaza, Jl. Jend. Sudirman Kav. 21, RT 12/RW 01, Karet, Setiabudi, Jakarta Selatan, Jakarta 12920, Indonesia  
 Japan |  Amazon Web Services Japan G.K. |  N/A |  1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
 Malaysia |  Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) |  N/A |  Level 26 & Level 35, The Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
-Mexico (only for accounts using the invoicing payment method) |  Amazon Web Services Mexico, S. de R.L. de C.V.  |  N/A |  Blvrd Manuel Avila Camacho 261, Polanco, Miguel Hidalgo, 11510 Mexico City, Mexico  
+Mexico |  Amazon Web Services Mexico, S. de R.L. de C.V.  |  N/A |  Blvrd Manuel Avila Camacho 261, Polanco, Miguel Hidalgo, 11510 Mexico City, Mexico  
 New Zealand |  Amazon Web Services New Zealand Limited |  N/A |  Level 5, 18 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
 Singapore |  Amazon Web Services Singapore Private Limited |  N/A |  Level 2, East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916  
 South Africa |  Amazon Web Services South Africa Proprietary Limited  |  206-266-7010 |  29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925   
@@ -914,8 +913,8 @@ U.S.A.
   
 *Brazil is your Account Country only if you have provided a valid Brazilian Tax Registration Number (CPF/CNPJ number) for your account. If your billing address is located in Brazil but you have not provided a valid Brazilian Tax Registration Number (CPF/CNPJ number), then Amazon Web Services, Inc. is the AWS Contracting Party for your account.
 
-**See <https://aws.amazon.com/legal/aws-emea-countries> for a full list of
-EMEA countries.
+**See [https://aws.amazon.com/legal/aws-emea-countries](/legal/aws-emea-
+countries/) for a full list of EMEA countries.
 
 “AWS Marks” means any trademarks, service marks, service or trade names,
 logos, and other designations of AWS and its affiliates that we may make
@@ -993,10 +992,9 @@ and gross receipts tax.
 
 “Intellectual Property License” means the separate license terms that apply to
 your access to and use of AWS Content and Services located at
-[https://aws.amazon.com/legal/aws-ip-license-
-terms](https://aws.amazon.com/legal/aws-ip-license-terms/) (and any successor
-or related locations designated by us), as may be updated by us from time to
-time.
+[https://aws.amazon.com/legal/aws-ip-license-terms](/legal/aws-ip-license-
+terms/) (and any successor or related locations designated by us), as may be
+updated by us from time to time.
 
 “Losses” means any claims, damages, losses, liabilities, costs, and expenses
 (including reasonable attorneys’ fees).
@@ -1015,9 +1013,9 @@ include Third-Party Content.
 “Service Level Agreement” means all service level agreements that we offer
 with respect to the Services and post on the AWS Site, as they may be updated
 by us from time to time. The service level agreements we offer with respect to
-the Services are located at <https://aws.amazon.com/legal/service-level-
-agreements/> (and any successor or related locations designated by us), as may
-be updated by us from time to time.
+the Services are located at [https://aws.amazon.com/legal/service-level-
+agreements/](/legal/service-level-agreements/) (and any successor or related
+locations designated by us), as may be updated by us from time to time.
 
 “Service Terms” means the rights and restrictions for particular Services
 located at <http://aws.amazon.com/serviceterms> (and any successor or related
