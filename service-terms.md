@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: February 23, 2026
+Last Updated: February 24, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -2390,10 +2390,10 @@ Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize,
 Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract,
 Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS
 HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, the
-Amazon Quick Suite (including Amazon QuickSight), AWS DevOps Agent (Preview),
-and AWS Security Agent (Preview), and the model customization agent in
-SageMaker AI. “AI Content” means Your Content that is processed by an AI
-Service.
+Amazon Quick Suite (including Amazon QuickSight), AWS Elemental Inference, AWS
+DevOps Agent (Preview), and AWS Security Agent (Preview), and the model
+customization agent in SageMaker AI. “AI Content” means Your Content that is
+processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
@@ -3163,8 +3163,9 @@ continue.
 ## 58\. AWS Elemental Media Services and Amazon Interactive Video Service
 (“IVS”)
 
-**58.1.** “AWS Elemental Media Services” means AWS Elemental MediaConnect,
-MediaConvert, MediaLive, MediaPackage, MediaStore and MediaTailor.
+**58.1.** “AWS Elemental Media Services” means AWS Elemental Inference,
+MediaConnect, MediaConvert, MediaLive, MediaPackage, MediaStore and
+MediaTailor.
 
 **58.2**. The encoding, transcoding or decoding of files with AWS Elemental
 Media Services and IVS, and the use or distribution of files processed or
