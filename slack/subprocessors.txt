@@ -1,5 +1,5 @@
 Salesforce Infrastructure and Sub-processors
-Published: February 27, 2026
+Published: March 6, 2026
 
 Scope
 This documentation describes the infrastructure environment, sub-processors and certain other entities material to the services and managed
@@ -96,7 +96,8 @@ Executive.
 Hyperforce
 
 Hyperforce is Salesforce’s next-generation infrastructure foundation for deploying application stacks on commercial cloud providers. An up-todate list of available regions for Hyperforce can be found here. Not all Covered Services hosted on Hyperforce are available in every location.
-Please see the charts below for available locations for individual Covered Services.
+Please see the charts below for available locations for individual Covered Services. Due to the ongoing situation in the Middle East, new trial org
+sign ups and Scratch Orgs from Lebanon, Bahrain, Oman, Jordan, Qatar, Kuwait, Egypt, or the UAE will be routed to Sweden.
 
 3
 Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
@@ -3689,25 +3690,6 @@ Community Cloud), Sales Cloud, and Service Inc.
 Cloud, for Customers with orgs that use the Akamai
 My Domain feature.6
 
-CDN for Experience Cloud, D2C Commerce
-(formerly B2B2C Commerce), B2B
-Commerce, B2B Commerce on Lightning
-Experience, DXP, CMS, and My Domain
-(including Enhanced Domains and
-my.site.com sites).
-
-6
-
-Global
-Global
-
-Cloudflare
-
-Global
-
-Akamai Technologies,
-Inc.
-
 Global
 
 Salesforce leverages CDNs to optimize page load times
@@ -3717,6 +3699,9 @@ routing and caches publicly cacheable content.
 Customers can opt-out of leveraging CDNs for this use
 case by contacting Support, though opting out may
 slightly affect performance. Learn More
+
+Global
+
 Salesforce leverages CDNs to optimize page load times
 and site performance. Traffic will flow through the
 CDN’s network of edge servers, which optimizes
@@ -3725,17 +3710,28 @@ Customers can opt-out of leveraging CDNs for this use
 case by contacting Support, though opting out may
 slightly affect performance. Learn More.
 
+Cloudflare
+CDN for Experience Cloud, D2C Commerce
+(formerly B2B2C Commerce), B2B
+Commerce, B2B Commerce on Lightning
+Experience, DXP, CMS, and My Domain
+(including Enhanced Domains and
+my.site.com sites).
+
+6
+
+Akamai Technologies,
+Inc.
+
 The My Domain feature includes my.site.com sites and sites using Enhanced Domains.
 70
 
 Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
-CDN for Lightning Experience
+Cloudflare
 
-Cloudflare
-
-Global
+CDN for Lightning Experience
 
 Cloudfront (Amazon
 Web Services, Inc.)
