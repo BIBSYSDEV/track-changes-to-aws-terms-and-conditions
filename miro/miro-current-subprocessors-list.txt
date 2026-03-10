@@ -1,8 +1,6 @@
 MIRO SUB-PROCESSORS
-Last updated: 1 December 2025
+Last updated: 11 March 2026
 Name
-
-Co. Number
 
 Address
 
@@ -14,8 +12,6 @@ Website
 
 Amazon Web Services, Inc.
 
-4152954
-
 410 Terry Avenue North, Seattle, WA 98109-5210
 
 Infrastructure
@@ -24,12 +20,19 @@ United States
 
 https://aws.amazon.com/
 
+Anthropic PBC
+
+548 Market St, PMB 90375, San Francisco, CA 94104-5401
+
+AI Functionality
+
+United States
+
+https://www.anthropic.com/
+
 Braze, Inc.
 
-024567792
-
-63 Madison Avenue, Building 28, East 28th Street, 13th
-floor, New York, NY 10016
+63 Madison Ave, Bldg 28, E 28th St, 13th Flr, New York, NY 10016
 
 Service Related Emails
 
@@ -38,8 +41,6 @@ United States
 https://www.braze.com/
 
 Gainsight, Inc.
-
-5282490
 
 350 Bay Street Suite 100 San Francisco, CA 94133
 
@@ -51,31 +52,35 @@ https://www.gainsight.com/
 
 Google LLC
 
-201727810678
-
 1600 Amphitheatre Parkway, Mountain View, CA 94043
 
-Sensitive Data Discovery (Guard)
+Data Discovery (Guard), AI Functionality
 
 United States
 
 https://cloud.google.com/looker
 
-Microsoft Corporation
+Intercom, Inc.
 
-600413485
+55 2nd Street, 4th Fl., San Francisco, CA 94105, USA
+
+Customer Support (Chatbot)
+
+United States
+
+https://www.intercom.com/suite
+
+Microsoft Corporation
 
 One Microsoft Way, Redmond, WA 98052-6399
 
-Accessibility, OCR functionality, AI
+Accessibility, OCR functionality, AI Functionality
 
 United States
 
 https://www.microsoft.com/
 
 PartnerHero, Inc.
-
-471206289
 
 California, 518 S. 9th St. #300 Boise
 
@@ -87,8 +92,6 @@ https://www.partnerhero.com/
 
 Skilljar, Inc.
 
-5327841
-
 113 Cherry Street, Suite #29434, Seattle, WA 98104
 
 Customer Training (Academy)
@@ -98,8 +101,6 @@ United States
 https://www.skilljar.com/
 
 Zendesk, Inc.
-
-4661237
 
 989 Market St, San Francisco, CA 94103
 
@@ -170,32 +171,17 @@ France
 
 1
 
-MIRO THIRD PARTY AI MODELS
-Last updated: 1 December 2025 - Please visit Miro’s Help Center for a detailed matching of default and optionally available models per Miro AI feature
-Default AI Model (Service)
+MIRO THIRD PARTY AI MODEL PROVIDERS
+Last updated: 11 March 2026 - Please visit Miro’s Help Center for a detailed matching of default and optionally available models per Miro AI feature
+Model or Developer
 
-Hosted By
+Hosted By (Service Name)
 
 Licensed To Miro Under
 
 Restrictions w/ Impact to Customer Use
 
-GPT-4o (Azure OpenAI)
-
-Microsoft Corporation
-
-Microsoft License Terms for Online Services
-
-Use must be compliant with Acceptable Use Policy for Online Services and the
-Azure OpenAI Code of Conduct
-
-Amazon Web Services, Inc.
-
-Anthropic on Bedrock - Commercial Terms of Service
-
-Use must be compliant with the Anthropic Usage Policy
-
-Nova Micro (Bedrock)
+Amazon (various models)
 
 Amazon Web Services, Inc.
 
@@ -203,9 +189,32 @@ AWS Service Terms
 
 Use must be compliant with AWS Responsible AI Policy
 
-Stability Image Core (Bedrock)
+Anthropic (various models)
 
-Amazon Web Services, Inc.
+Amazon Web Services, Inc. (AWS Bedrock)
+
+Anthropic on Bedrock - Commercial Terms of Service
+
+Use must be compliant with the Anthropic Usage Policy
+
+Anthropic PBC
+
+Anthropic Commercial Terms of Service
+
+Use must be compliant with the Anthropic Usage Policy
+
+OpenAI (various models)
+
+Microsoft Corporation (Azure OpenAI)
+
+Microsoft License Terms for Online Services
+
+Use must be compliant with Acceptable Use Policy for Online Services and the
+Azure OpenAI Code of Conduct
+
+StabilityAI (various models)
+
+Amazon Web Services, Inc. (AWS Bedrock)
 
 Stability Amazon Bedrock End User License
 Agreement
@@ -236,15 +245,6 @@ Miro (via AWS)
 Apache 2.0
 
 N/A
-
-GPT-4o mini (Azure OpenAI)
-GPT-5 (Azure OpenAI)
-GPT-5 chat (Azure OpenAI)
-GPT-5 mini (Azure OpenAI)
-GPT-5 nano (Azure OpenAI)
-Azure Content Safety
-Claude 3.5 Haiku (Bedrock)
-Claude 3.7 Sonnet (Bedrock)
 
 2
 
