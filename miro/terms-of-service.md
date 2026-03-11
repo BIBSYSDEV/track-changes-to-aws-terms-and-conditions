@@ -829,101 +829,136 @@ invites to use the Service, as further described in the
 [Documentation](https://help.miro.com/hc/en-
 us?flash_digest=bfda2c343061082eb1856eccce466eabf0618fcf).
 
-### Product
+Product
 
-[Online whiteboard](/online-whiteboard/)[Apps &
-Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
-Developer Platform](https://developers.miro.com/)[Miro for
-Devices](/apps/)[Enterprise Guard](/enterprise-
-guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
+  * [Apps & Integrations](https://miro.com/integrations/)
+  * [Templates](https://miro.com/templates/)
+  * [Miro Developer Platform](https://developers.miro.com/)
+  * [Miro for Devices](https://miro.com/apps/)
+  * [Enterprise Guard](https://miro.com/products/enterprise-guard/)
+  * [Accessibility](https://miro.com/accessibility/)
+  * [Changelog](https://miro.com/changelog/)
 
-### Product
+Solutions
 
-[Online whiteboard](/online-whiteboard/)[Apps &
-Integrations](/integrations/)[Templates](/templates/)[Miroverse](/miroverse/)[Miro
-Developer Platform](https://developers.miro.com/)[Miro for
-Devices](/apps/)[Enterprise Guard](/enterprise-
-guard/)[Accessibility](/accessibility-statement/)[Changelog](/changelog/)
+  * [AI Platform](https://miro.com/ai/ai-overview/)
+  * [Product Acceleration](https://miro.com/solutions/product-acceleration/)
+  * [Business Acceleration](https://miro.com/solutions/business-acceleration/)
+  * [Platform and Capabilities](https://miro.com/products/platform-overview/)
 
-### Solutions
+Tools
 
-[Meetings and Workshops](/meetings-and-workshops/)[Brainstorming &
-Ideation](/brainstorming/)[Agile
-practices](/agile/)[Diagramming](/diagramming/)[Research & Design](/research-
-and-design/)[Strategy & Planning](/strategic-planning/)[Mind Map](/mind-
-map/)[Concept Map](/concept-map/)[Online Sticky Notes](/online-sticky-
-notes/)[Flowchart Maker](/flowchart/)[Wireframe](/wireframe/)
+  * [Agile Tools](https://miro.com/agile/)
+  * [Brainstorming](https://miro.com/brainstorming/)
+  * [Diagramming](https://miro.com/diagramming/)
+  * [Graphs](https://miro.com/graphs/)
+  * [Mind Map](https://miro.com/mind-map/)
+  * [Online Sticky Notes](https://miro.com/online-sticky-notes/)
+  * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
+  * [Flowchart Maker](https://miro.com/flowchart/)
+  * [Prototyping](https://miro.com/prototyping/)
+  * [Wireframe](https://miro.com/wireframe/)
+  * [Online Whiteboard](https://miro.com/online-whiteboard/)
+  * [Org Chart](https://miro.com/organizational-chart/)
+  * [Product Management](https://miro.com/solutions/product-management/)
+  * [Roadmapping](https://miro.com/roadmapping/)
+  * [Kanban Board](https://miro.com/kanban/)
+  * [Process Mapping](https://miro.com/process-mapping/)
+  * [AI Tools](https://miro.com/ai/ai-overview/)
 
-### Solutions
+Resources
 
-[Meetings and Workshops](/meetings-and-workshops/)[Brainstorming &
-Ideation](/brainstorming/)[Agile
-practices](/agile/)[Diagramming](/diagramming/)[Research & Design](/research-
-and-design/)[Strategy & Planning](/strategic-planning/)[Mind Map](/mind-
-map/)[Concept Map](/concept-map/)[Online Sticky Notes](/online-sticky-
-notes/)[Flowchart Maker](/flowchart/)[Wireframe](/wireframe/)
+  * [Customer Stories](https://miro.com/customers/)
+  * [Miro Academy](https://academy.miro.com/)
+  * [Help Center](https://help.miro.com/hc/en-us)
+  * [Blog](https://miro.com/blog/)
+  * [Status](https://status.miro.com/)
+  * [Miro Community](https://miro.com/community/)
+  * [Miro Events](https://community.miro.com/events)
+  * [Solution Partners](https://miro.com/find-a-partner/)
+  * [Miro Security](https://trust.miro.com/)
 
-### Resources
+Company
 
-[Miro Academy](https://academy.miro.com/)[Help
-Center](https://help.miro.com/hc/en-
-us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
-Community](/community/)[Miro
-Events](https://community.miro.com/events)[Solution Partners](/find-a-
-partner/)[Miro Security](https://trust.miro.com/)
+  * [About Us](https://miro.com/about/)
+  * [Careers 🚀](https://miro.com/careers/)
+  * [Miro in the News](https://miro.com/newsroom/)
 
-### Resources
+Plans & Pricing
 
-[Miro Academy](https://academy.miro.com/)[Help
-Center](https://help.miro.com/hc/en-
-us)[Blog](/blog/)[Status](https://status.miro.com/)[Miro
-Community](/community/)[Miro
-Events](https://community.miro.com/events)[Solution Partners](/find-a-
-partner/)[Miro Security](https://trust.miro.com/)
+  * [Pricing](https://miro.com/pricing/)
+  * [Business](https://miro.com/business-plan/)
+  * [Enterprise](https://miro.com/enterprise/)
+  * [Consultants](https://miro.com/consultants-agencies/)
+  * [Education](https://miro.com/education-whiteboard/)
+  * [Startups](https://miro.com/startups/)
+  * [NPOs](https://miro.com/npo/)
+  * [Contact sales](https://miro.com/contact/sales/)
 
-### Company
+Product
 
-[About us](/about/)[Careers 🚀](/careers/)[Miro in the
-News](/newsroom/)[Customer Stories](/blog/customer-stories/)
+Solutions
 
-### Company
+Tools
 
-[About us](/about/)[Careers 🚀](/careers/)[Miro in the
-News](/newsroom/)[Customer Stories](/blog/customer-stories/)
+Resources
 
-### Plans and Pricing
+Company
 
-[Pricing](/pricing/)[Business](/business-
-plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
-agencies/)[Education](/education-
-whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
-sales](/contact/sales/)
+Plans & Pricing
 
-### Plans and Pricing
+![ISO 42001
+READY](//images.ctfassets.net/x3tur5ylnyf2/1WIOsC8qZrgMQ8MrD8bcrS/cea1792e288c5092864710e706116a10/ISO_Badge.svg)[ISO
+42001 READY](https://trust.miro.com/)
 
-[Pricing](/pricing/)[Business](/business-
-plan/)[Enterprise](/enterprise/)[Consultants](/consultants-
-agencies/)[Education](/education-
-whiteboard/)[Startups](/startups/)[NPOs](/npo/)[Contact
-sales](/contact/sales/)
+![ISO 27001
+CERTIFIED](//images.ctfassets.net/x3tur5ylnyf2/69nUaLt9qbx2mYs7V5xU3u/5226904f0421943d938edfc2c6d61303/ISO_Badge__1_.svg)[ISO
+27001 CERTIFIED](https://trust.miro.com/)
+
+![SOC 2
+COMPLIANT](//images.ctfassets.net/x3tur5ylnyf2/2jrk9yUWDGCZgFi8XpBqCo/0f5e372412c0bc49afce1e09f74a547e/ISO_Badge__2_.svg)[SOC
+2 COMPLIANT](https://trust.miro.com/)
+
+![GDPR
+COMPLIANT](//images.ctfassets.net/x3tur5ylnyf2/3TuENhmSygpLnIFoErQBRy/7b37607d0d6768a519e79affe97d4083/GDPR.svg)[GDPR
+COMPLIANT](https://trust.miro.com/)
+
+[![Trust
+Capterra](//images.ctfassets.net/x3tur5ylnyf2/2GnazBVVWJ8guM2zvYNMCY/3347d25a4f0c602eac02187e542b746b/G2.svg)](https://www.capterra.com/p/128955/Miro/)[![Trust
+G2](//images.ctfassets.net/x3tur5ylnyf2/5Ki053lYq38fYIHu5AOcpr/0992cf7cf88feac09b632f0e676dc346/G2__1_.svg)](https://www.g2.com/products/miro/)[![Trust
+TR](//images.ctfassets.net/x3tur5ylnyf2/3O5MzR09mczhdTlOaVuH3W/017858b4cade63f7af52746d77249edc/TR.svg)](https://www.trustradius.com/products/miro/reviews)
+
+20,000+ reviews from Capterra, G2 and Trustradius
 
 * * *
 
-[](https://twitter.com/mirohq "Twitter")[](https://www.facebook.com/TryMiro
-"Facebook")[](https://www.linkedin.com/company/mirohq
-"Linkedin")[](https://www.instagram.com/mirohq/
-"Instagram")[](https://www.youtube.com/user/RealtimeBoardEng
-"Youtube")[](https://www.reddit.com/r/miro/ "Reddit")
+[![Miro
+Twitter](//images.ctfassets.net/x3tur5ylnyf2/4uhvW0Mixrt27kr2DdJeur/018f560db325613d3c14316c957aa74c/icon-
+social-x.svg)](https://twitter.com/mirohq)[![Miro
+Facebook](//images.ctfassets.net/x3tur5ylnyf2/5gJmvJDndMVOJ3FKTdaVkO/e6d727001c80b9f60a568196d88adf7b/icon-
+social-facebook.svg)](https://www.facebook.com/TryMiro)[![Miro
+LinkedIn](//images.ctfassets.net/x3tur5ylnyf2/4otvnm6zLR7ji9eVZY69Zf/c2c9e910c14e8fcdeee302ccfa45c341/icon-
+social-linkedin.svg)](https://www.linkedin.com/company/mirohq)[![Miro
+Instagram](//images.ctfassets.net/x3tur5ylnyf2/1oClmO2hBbCTR7T0ArtHoP/0d4dfe4eab808821bb4e7376ebea2634/icon-
+social-instagram.svg)](https://www.instagram.com/mirohq/)[![Miro
+YouTube](//images.ctfassets.net/x3tur5ylnyf2/lBk1HpkxVPRgmlIHinigL/9bb251edbca75b02e7d223da8e3f34c1/icon-
+social-youtube.svg)](https://www.youtube.com/user/RealtimeBoardEng)[![Miro
+Reddit](//images.ctfassets.net/x3tur5ylnyf2/13YODLlKdzJHwQgA6gj1Oy/f82b0a280d8b719a3398aee0bf2bf3aa/reddit-
+icon.svg)](https://www.reddit.com/r/miro/)
 
-[](https://apps.apple.com/us/app/miro-collaborative-
-whiteboard/id1180074773?from=footer_menu&source=miro_website "App
-Store")[](https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website
-"Google Play")
+[![Download on the App
+Store](//images.ctfassets.net/x3tur5ylnyf2/32kQ9JkxEseUIjSm18OLKy/3263ebe3fe9c1ab1c992827edebc83a9/Download_on_the_App_Store_Badge_US-
+UK_RGB_blk_092917_3.svg)](https://apps.apple.com/us/app/miro-collaborative-
+whiteboard/id1180074773?from=footer_menu&source=miro_website)[![Download on
+Google
+Play](//images.ctfassets.net/x3tur5ylnyf2/7Lryw2nfTo2luGgMD2TnoY/4b56104f1efaa82f79886cf1d94408f2/google-
+play-
+badge.svg)](https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website)
 
 Miro © 2026
 
-[Terms of Service](https://miro.com/legal/terms-of-service/)[Privacy
-Policy](https://miro.com/legal/privacy-policy/)[Manage Cookies](/manage-
-cookies/)[Do Not Sell or Share My Personal Information](/legal/privacy-
-policy/?ccpa=true/)
+[Terms of Service](https://miro.com/legal/terms-of-service/)[Private
+Policy](https://miro.com/legal/privacy-policy/)[Manage
+Cookies](https://miro.com/manage-cookies/)[Do Not Sell or Share My Personal
+Information](http://miro.com/legal/privacy-policy/?ccpa=true)
 
