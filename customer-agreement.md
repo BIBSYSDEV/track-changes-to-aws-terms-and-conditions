@@ -7,9 +7,9 @@
 
 *Please note that as of January 1, 2026, customers located in Taiwan who have provided a Unified Business Number (UBN) and are using the invoicing payment method for their accounts contract with our Taiwan based AWS Contracting Party, as provided in Section 12. See the [AWS Taiwan FAQs](/legal/awstw/) for more information.
 
-*Please note that as of January 1, 2026, customers located in Mexico who use the invoicing payment method, and as of February 1, 2026, customers who use the credit card payment method, and have provided an address located in Mexico, contract with our Mexico based AWS Contracting Party, as provided in Section 12. See the [AWS Mexico SoR FAQs](/legal/awsmx/) for more information.
+*Please note that as of January 1, 2026, customers located in Mexico who use the invoicing payment methods, and as of February 1, 2026, customers who use Visa or Mastercard as payment method, and have provided an address located in Mexico, contract with our Mexico based AWS Contracting Party, as provided in Section 12. See the [AWS Mexico SoR FAQs](/es/legal/awsmx/) for more information.
 
-## Last Updated: February 16, 2026
+## Last Updated: March 13, 2026
 
 [ See What's Changed](/agreement/recent-changes/)
 
@@ -900,7 +900,7 @@ India |  Amazon Web Services India Private Limited (formerly known as Amazon Int
 Indonesia |  PT Amazon Web Services Indonesia |  N/A |  16th Floor, Sinar Mas Land Plaza, Jl. Jend. Sudirman Kav. 21, RT 12/RW 01, Karet, Setiabudi, Jakarta Selatan, Jakarta 12920, Indonesia  
 Japan |  Amazon Web Services Japan G.K. |  N/A |  1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan  
 Malaysia |  Amazon Web Services Malaysia Sdn. Bhd.  (Registration No. 201501028710 (1154031-W)) |  N/A |  Level 26 & Level 35, The Gardens North Tower, Lingkaran Syed Putra, Mid Valley City, Kuala Lumpur, 59200, Malaysia  
-Mexico |  Amazon Web Services Mexico, S. de R.L. de C.V.  |  N/A |  Blvrd Manuel Avila Camacho 261, Polanco, Miguel Hidalgo, 11510 Mexico City, Mexico  
+Mexico (applicable only to accounts using invoicing or Visa/Mastercard as payment methods; not applicable to accounts using American Express as a payment method) |  Amazon Web Services Mexico, S. de R.L. de C.V.  |  N/A |  Blvrd Manuel Avila Camacho 261, Polanco, Miguel Hidalgo, 11510 Mexico City, Mexico  
 New Zealand |  Amazon Web Services New Zealand Limited |  N/A |  Level 5, 18 Viaduct Harbour Ave, Auckland, 1010, New Zealand  
 Singapore |  Amazon Web Services Singapore Private Limited |  N/A |  Level 2, East Tower, 2 Central Boulevard, IOI Central Boulevard Towers, Singapore 018916  
 South Africa |  Amazon Web Services South Africa Proprietary Limited  |  206-266-7010 |  29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925   
