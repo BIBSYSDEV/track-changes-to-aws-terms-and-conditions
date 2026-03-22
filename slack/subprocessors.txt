@@ -1,5 +1,5 @@
 Salesforce Infrastructure and Sub-processors
-Published: March 17, 2026
+Published: March 20, 2026
 
 Scope
 This documentation describes the infrastructure environment, sub-processors and certain other entities material to the services and managed
@@ -1787,16 +1787,16 @@ of the listed countries to store Customer Data. For
 Customers who were part of the EU Operating Zone
 prior to December 17, 2024, Customer Data is stored in
 Germany.
-
+Customer Data may also be processed in the European
+Union. In limited circumstances, Customer Data may be
+stored and/or processed elsewhere, as described in the
 31
+
 Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
 Switzerland
 
-Customer Data may also be processed in the European
-Union. In limited circumstances, Customer Data may be
-stored and/or processed elsewhere, as described in the
 “Services on the Hyperforce Operating Zone
 Infrastructure” section of the Hyperforce SPARC.
 
@@ -2472,8 +2472,8 @@ Sub-processors
 Locations
 
 Additional Details
-42
 
+42
 Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
 be trademarks of their respective owner.
 
@@ -4049,7 +4049,7 @@ Inc.
 United States
 
 Microsoft Teams Integration is a feature available to
-Sales Cloud and Service Cloud.
+Sales Cloud, Service Cloud, and Tableau Cloud.
 
 69
 Copyright 2000 – 2026 Salesforce, Inc. All rights reserved. Salesforce is a registered trademark of Salesforce, Inc., as are other names and marks. Other marks appearing herein may
@@ -4793,7 +4793,7 @@ be trademarks of their respective owner.
 *Note: Certain Tableau Cloud SKUs may have “Broadcast” features or similar functionality that provide customers the opportunity to publish
 visualizations and their underlying workbooks on Tableau Public or other public-facing forum(s) with unauthenticated user bases (“Additional
 Tableau Features”). This disclosure of Tableau Cloud’s infrastructure environment and sub-processors does not apply to such Additional Tableau
-Features.
+Features. See Salesforce Services section for the Microsoft Teams integration.
 Purpose of Processing
 Sub-processors
 Locations
