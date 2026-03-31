@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: March 16, 2026
+Last Updated: March 31, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -257,8 +257,7 @@ AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon OpenSearch
 Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS Transform,
 AWS AppFabric, AWS HealthScribe, AWS App Studio, Kiro, Amazon SageMaker Data
 Agent, the model customization agent in SageMaker AI, the Amazon Quick Suite
-(including Amazon QuickSight), AWS DevOps Agent (Preview), and AWS Security
-Agent (Preview).
+(including Amazon QuickSight), AWS DevOps Agent, and AWS Security Agent.
 
 **1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply
 to such services. See
@@ -289,6 +288,12 @@ Data Act (Regulation (EU) 2023/2854) applies to your use of the Services.
 
 **1.29.**  Use of the AWS European Sovereign Cloud is subject to the [AWS
 European Sovereign Cloud Addendum](https://aws.eu/esca).
+
+**1.30.**  These Service Terms incorporate the [AWS UK Switching
+Addendum](https://d1.awsstatic.com/onedam/marketing-
+channels/website/aws/en_US/legal/approved/aws-uk-customer-switching-
+addendum.pdf) for customers with an Eligible Account, as defined in the AWS UK
+Switching Addendum.
 
 ## 2\. Betas and Previews
 
@@ -1611,7 +1616,8 @@ their rules, requirements, and policies (collectively “Carrier Policies”). W
 will make reasonable efforts to notify you of changes to Carrier Policies
 through, for example, email, Personal Health Dashboard notifications, or
 technical documentation. You are responsible for complying with all Carrier
-Policies that apply to your use of the Service.
+Policies that apply to your use of the Service. AWS may pass through fees
+imposed by carriers for violations of Carrier Policies.
 
 **29.7.**  Fees for Amazon Pinpoint and AWS End User Messaging will apply
 regardless of whether delivery of your messages is prevented, delayed, or
@@ -1654,6 +1660,30 @@ Terms](/service-terms/country-specific-communications-service-terms/).
 models that generate SMS Artificially Inflated Traffic (AIT) risk predictions
 based on patterns in data. SMS Protect does not guarantee the accuracy of such
 predictions or complete protection from AIT.
+
+**29.14.** The third-party provider fees specified on the AWS End User
+Messaging pricing page (e.g., Meta message fees) may be changed by the third
+party that charges those fees. AWS will provide notice of increases to these
+fees as soon as reasonably practicable after it receives notice of the
+increase from the relevant third-party provider.
+
+**29.15.** AWS uses third party service providers to deliver your RCS
+messages. These third-party service providers, in turn, use Google’s RCS for
+Business platform in delivering RCS messages. Accordingly, your use of the RCS
+messaging channel in AWS End User Messaging is subject to the [Google RCS for
+Business Terms of Service](https://developers.google.com/business-
+communications/rcs-business-messaging/terms-and-policies/tos) (“Google RCS
+Terms”). The Google RCS Terms contain important information about use of
+Google RCS for Business, including how Google may use your RCS message content
+to improve its services, your indemnity obligations to Google relating to use
+of Google RCS for Business, and Google’s Acceptable Use Policy. By using the
+RCS messaging channel in AWS End User Messaging, you agree that you will
+comply with the Google RCS Terms and that you are solely responsible for the
+content you or your End Users send when using AWS End User Messaging to send
+RCS messages. We may change, discontinue, or deprecate support for the RCS
+messaging channel at any time. We will provide you with as much prior notice
+of any deprecation or discontinuation of support for the RCS messaging channel
+as practicable under the circumstances.
 
 ## 30\. AWS Lambda
 
@@ -2408,9 +2438,9 @@ Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract,
 Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS
 HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, the
 Amazon Quick Suite (including Amazon QuickSight), AWS Elemental Inference, AWS
-DevOps Agent (Preview), and AWS Security Agent (Preview), and the model
-customization agent in SageMaker AI. “AI Content” means Your Content that is
-processed by an AI Service.
+DevOps Agent, and AWS Security Agent, and the model customization agent in
+SageMaker AI. “AI Content” means Your Content that is processed by an AI
+Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
