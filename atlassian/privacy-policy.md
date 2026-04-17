@@ -1,6 +1,6 @@
 #  Privacy Policy
 
-_Effective starting: October 7, 2025_
+_Effective starting: August 17, 2026_
 
 Your privacy matters to us. This privacy policy explains how Atlassian Pty
 Ltd, Atlassian US, Inc. and our corporate affiliates (“Atlassian”, “we”, “us”,
@@ -22,8 +22,8 @@ use our Services or interact with any other aspect of our business.**
 
 For individuals in the European Economic Area, United Kingdom, or the United
 States: please refer to the appropriate “[Regional
-disclosures](/legal/privacy-policy#regional-disclosures)” for additional
-details that may be relevant to you.
+disclosures](https://www.atlassian.com/legal/privacy-policy#regional-
+disclosures)” for additional details that may be relevant to you.
 
 This privacy policy is intended to help you understand:
 
@@ -66,11 +66,11 @@ organization directly.
 ##  Privacy policy overview
 
   * Atlassian collects information directly from you when you provide it to us, automatically when you use our Services, and from other sources including other users of the Services, other services you link to your account, other Atlassian companies, partners, and third-party providers.
-  * How we use information depends on which Services you use, how you use them, and any preferences you have communicated to us. We use information for a range of purposes described below, including to provide the Services and personalize your experience, to develop and improve our Services, to communicate with you, to conduct marketing and promotional activities, to provide customer support, to maintain Service safety and security, to protect our interests and rights, with your consent, and to aggregate or de-identify data.
+  * How we use information depends on which Services you use, how you use them, and any preferences you have communicated to us. We use information for a range of purposes described below, including to provide the Services and personalize your experience, to develop and improve our Services, to communicate with you, to conduct marketing and promotional activities, to provide customer support, to maintain Service safety and security, to protect our interests and rights, with your consent, and to aggregate and/or de-identify data.
   * We disclose information as described below, including to service providers, Atlassian partners, providers of third-party services, for compliance with enforcement requests and applicable laws, to enforce our terms and policies and our rights, to Atlassian affiliated companies or in connection with business transfers, as well as with your consent. Additionally, when you use the Services, we disclose certain information about you to other Service users as described in more detail below.
-  * Where applicable under local law, you may have certain rights or choices with respect to your personal information, including to request information about our processing of information, to request a copy of your information, to object to our use of information, to request the deletion or restriction of information, to request a disclosure of information in a portable format, or to opt out of certain disclosures of personal information and targeted advertising. See the “[How to access and control your information](/legal/privacy-policy#how-to-access-and-control-your-information)” section for more detail on specific choices and how to exercise the rights you may have.
-  * In the “[Regional disclosures](/legal/privacy-policy#regional-disclosures)” section, we provide additional information for individuals in the European Economic Area and United Kingdom, including information about the legal bases for processing information, international transfers, the specific rights applicable in these jurisdictions, and how to contact our EU and UK representatives. We also provide additional information for individuals in the United States, including details about information collected and disclosed in the past 12 months and specific rights available under applicable U.S. state laws.
-  * We provide details on how to contact us with any questions or concerns, or to exercise your rights, in the “[How to contact us](/legal/privacy-policy#how-to-contact-us)” section.
+  * Where applicable under local law, you may have certain rights or choices with respect to your personal information, including to request information about our processing of information, to request a copy of your information, to object to our use of information, to request the deletion or restriction of information, to request a disclosure of information in a portable format, or to opt out of certain disclosures of personal information and targeted advertising. See the “[How to access and control your information](https://www.atlassian.com/legal/privacy-policy#how-to-access-and-control-your-information)” section for more detail on specific choices and how to exercise the rights you may have.
+  * In the “[Regional disclosures](https://www.atlassian.com/legal/privacy-policy#regional-disclosures)” section, we provide additional information for individuals in the European Economic Area and United Kingdom, including information about the legal bases for processing information, international transfers, the specific rights applicable in these jurisdictions, and how to contact our EU and UK representatives. We also provide additional information for individuals in the United States, including details about information collected and disclosed in the past 12 months and specific rights available under applicable U.S. state laws.
+  * We provide details on how to contact us with any questions or concerns, or to exercise your rights, in the “[How to contact us](https://www.atlassian.com/legal/privacy-policy#how-to-contact-us)” section.
 
 ##  Information we collect
 
@@ -85,12 +85,13 @@ information:
 
 _**Account Information and Profile Information:**_ We collect information when
 you register for an account, create or modify your profile, set preferences,
-sign up for or make purchases through the Services. For example, you provide
-contact information (e.g., name or email address) and, in some cases, billing
-information (e.g., billing address, email address or name), when you register
-for the Services. You also have options to add a display name, profile photo,
-job title, and other details to your profile. We also keep track of your
-preferences when you select settings within the Services.
+sign up for or make purchases through the Services, and inquire about pricing,
+billing, and licensing. For example, you provide contact information (e.g.,
+name or email address) and, in some cases, billing information (e.g., billing
+address, email address or name), when you register for the Services. You also
+have options to add a display name, profile photo, job title, and other
+details to your profile. We also keep track of your preferences when you
+select settings within the Services.
 
 You may also provide information to us when you integrate or link a third-
 party service with our Services. For example, if you create an account or log
@@ -105,17 +106,17 @@ what information may be disclosed to us or shared with our Services.
 **_Content you provide through our products:_** The Services include the
 Atlassian products you use, where we collect and store content that you post,
 send, receive and share. We process this content in the role of a processor or
-service provider on behalf of our customers; this privacy policy does not
-apply to that processing (see above for more information).
+service provider on behalf of our customers.
 
 **_Content you provide through our websites:_** The Services also include
 websites owned or operated by us. We collect content that you submit to these
 websites, which include social media or social networking websites operated by
 us, our support and documentation websites, our Community Forums, and our
-Marketplace. For example, you provide content to us when you provide feedback,
-directly to us through our Services or otherwise, or when you participate in
-any interactive features, surveys, contests, promotions, sweepstakes,
-activities or events.
+Marketplace. For example, you provide content to us when you request
+information on pricing, billing, and licensing, and you provide content to us
+when you provide feedback, directly to us through our Services or otherwise,
+or when you participate in any interactive features, surveys, contests,
+promotions, sweepstakes, activities or events.
 
 **_Information you provide through our support channels:_** The Services also
 include customer support, where you may submit inquiries or other information
@@ -145,14 +146,16 @@ _**Your use of the Services:**_ We collect information about your use,
 operation, and interaction with any of our Services, including when you
 connect third party services to or use those services with ours. This
 information includes, for example, the features you use, the actions you
-perform, the links you click on; the type, size and filenames of attachments
-you upload to the Services; search terms; the number of words in a Jira ticket
-or @ mentions in a comment; the type of Loom videos you created and the number
-of views on your videos; and how you interact with others on the Services. We
-also collect information about the teams and people you work with and how you
-work with them, like who you collaborate with and communicate with most
-frequently. Administrators may enable our collection of this information from
-software products.
+perform, and the type of content you interact with, such as the type, size and
+filenames of attachments uploaded to the Services; how search terms are
+structured and relevance scores of search results to search terms; the number
+of words in a Jira ticket or @ mentions in a comment; the type of Loom videos
+created and the number of views; languages you work in; and the links you
+interact with. We also collect information about how you interact with others
+on the Services, including the teams and people you work with and how you work
+with them, like who you collaborate with and communicate with most frequently.
+Administrators may enable our collection of this information from software
+products.
 
 _**Device and Connection Information:**_ We collect information about your
 computer, phone, tablet, or other devices you use to access the Services. This
@@ -173,6 +176,14 @@ devices, or to demonstrate that certain content was viewed or clicked. For
 more information, please see our [Cookies & Tracking
 Notice](https://www.atlassian.com/legal/cookies), which includes information
 on how to control or opt out of these cookies and tracking technologies.
+
+_**Identity Management and Authentication Information:**_ In addition, we may
+collect certain information to help verify or authenticate your identity when
+you log into the Services. This information may be provided directly by you or
+collected through trusted third‑party services. For example, we may collect
+device and browser information, behavioral and interaction data (such as mouse
+movements or interaction timing to confirm you’re human), and similar data
+used to support secure access to the Services.
 
 **Information from other sources**
 
@@ -231,18 +242,20 @@ tailor our communications, recommendations and offers to you.
 _**To develop and improve our Services:**_ We are always looking for ways to
 make our Services smarter, faster, secure, integrated, and useful. We use
 information and collective learnings (including feedback) about how people use
-our Services to troubleshoot, to identify trends, usage, activity patterns and
-areas for integration, to improve our Services and to develop new products,
-features and technologies that benefit our users and the public. For example,
-to improve the @mention feature, we automatically analyze recent interactions
-among users and how often they @mention one another to surface the most
-relevant connections for users, or we might analyze Marketplace search terms
-to improve the accuracy and relevance of suggested apps returned when you use
-the search feature. In some cases, we apply these learnings across our
-Services to improve and develop similar features, to better integrate the
-Services you use, or to provide you with insights based on how others use our
-Services. We also test and analyze certain new features with some users before
-rolling the feature out to all users.
+our Services, as well as content that has been de-identified and aggregated in
+accordance with applicable data contribution product functionalities, to
+troubleshoot, to identify trends, usage, activity patterns and areas for
+integration, to improve our Services and to develop new products, features and
+technologies that benefit our users and the public. For example, to improve
+the @mention feature, we automatically analyze recent interactions among users
+and how often they @mention one another to surface the most relevant
+connections for users, or we might analyze Marketplace search terms to improve
+the accuracy and relevance of suggested apps returned when you use the search
+feature. In some cases, we apply these learnings across our Services to
+improve and develop similar features, to better integrate the Services you
+use, or to provide you with insights based on how others use our Services. We
+also test and analyze certain new features with some users before rolling the
+feature out to all users.
 
 _**To communicate with you about the Services:**_ We use your contact
 information to send transactional communications via email and within the
@@ -264,11 +277,13 @@ companies' websites and applications. These communications may be informed by,
 for example, your interactions (like counting ad impressions), and are aimed
 at driving engagement and maximizing what you get out of the Services,
 including information about new features, survey requests, newsletters, and
-events we think may be of interest to you. We also communicate with you about
-new Services, product offers, promotions, and contests. You can control
-whether you receive these communications as described below at “[How to access
-and control your information](/legal/privacy-policy#how-to-access-and-control-
-your-information)” under "Opt-out of communications."
+events we think may be of interest to you. We may use artificial intelligence
+in responding to your pricing, billing or licensing-related requests. We also
+communicate with you about new Services, product offers, promotions, and
+contests. You can control whether you receive these communications as
+described below at “[How to access and control your
+information](https://www.atlassian.com/legal/privacy-policy#how-to-access-and-
+control-your-information)” under "Opt-out of communications."
 
 _**To provide customer support:**_ We use your information to resolve
 technical issues you encounter, to respond to your requests for assistance, to
@@ -299,14 +314,16 @@ consent to do so for a specific purpose not listed above. For example, we may
 publish testimonials or featured customer stories to promote the Services,
 with your permission.
 
-_**To aggregate or de-identify data**_ : We may aggregate or de-identify your
-information collected through the Services so it can no longer be re-
-identified by us or another party. We may use and disclose aggregated or de-
-identified data for a number of purposes, including to develop and improve our
-Services and to conduct marketing and promotional activities. To the extent we
-aggregate any data originally based on personal information, we maintain and
-use such data in de-identified form and will not attempt to re-identify the
-data.
+_**To aggregate and/or de-identify data**_ : We may aggregate and/or de-
+identify information collected through the Services so it can no longer be re-
+identified by us or another party.
+
+  * We may use content that is de-identified and aggregated in accordance with applicable data contribution product functionalities to develop and improve our Services.
+  * We may aggregate or de-identify other information described in “Information we collect,” such as data about use of our Services, information provided to support channels, and feedbacks for a number of purposes, including to develop and improve our Services and to conduct marketing and promotional activities.
+
+  
+To the extent we use such data, we maintain and use such data in de-identified
+form and will not attempt to re-identify the data.
 
 ##  How we disclose information
 
@@ -476,6 +493,10 @@ enforce our agreements, to support business operations, and to continue to
 develop and improve our Services. Where we retain information to develop and
 improve our Services, we take steps to de-identify the information.
 
+**_Content you provide through our products:_** We retain de-identified and
+aggregated content in accordance with documentation for applicable data
+contribution Product functionalities.
+
 _**Information you share on the Services:**_ If your account is deactivated or
 disabled, some of your information and the content you have provided will
 remain in order to allow your team members or other users to make full use of
@@ -486,7 +507,8 @@ _**Managed accounts:**_ If the Services are made available to you through an
 organization (e.g., your employer), we retain your information as long as
 required by the administrator of your account. For more information, see
 "Managed accounts and administrators" at the “[How we disclose
-information](/legal/privacy-policy#how-we-disclose-information)” section.
+information](https://www.atlassian.com/legal/privacy-policy#how-we-disclose-
+information)” section.
 
 _**Marketing information:**_ If you have elected to receive marketing emails
 from us, we retain information about your marketing preferences for a
@@ -503,8 +525,9 @@ information was created.
 Where applicable under local law, you may have certain rights with respect to
 your personal information. For more information about region-specific rights
 for residents of the European Economic Area, United Kingdom, and the United
-States, please refer to the “[Regional disclosures](/legal/privacy-
-policy#regional-disclosures)” section.
+States, please refer to the “[Regional
+disclosures](https://www.atlassian.com/legal/privacy-policy#regional-
+disclosures)” section.
 
 Depending on which jurisdiction you live in, you may have the right to request
 information about our processing of your information, to request a copy of
@@ -515,12 +538,13 @@ to request to correct or update your information, to request that we transfer
 your information to a third party, and to request to opt out of certain
 disclosures of personal information and targeted advertising.
 
-In the “[Your choices](/legal/privacy-policy#your-choices)” section, we
-describe the tools and processes for making different requests associated with
-these rights. You can exercise some of the choices by logging into the
-Services and using settings available within the Services or your account. For
-all other requests, you may contact us as provided in the “[How to contact
-us](/legal/privacy-policy#how-to-contact-us)” section.
+In the “[Your choices](https://www.atlassian.com/legal/privacy-policy#your-
+choices)” section, we describe the tools and processes for making different
+requests associated with these rights. You can exercise some of the choices by
+logging into the Services and using settings available within the Services or
+your account. For all other requests, you may contact us as provided in the
+“[How to contact us](https://www.atlassian.com/legal/privacy-policy#how-to-
+contact-us)” section.
 
 Your requests and choices may be limited in certain cases: for example, if
 fulfilling your request would reveal information about another person, or if
@@ -595,12 +619,10 @@ cookie controls are described in our [Cookies & Tracking
 Notice](https://www.atlassian.com/legal/cookies).
 
 You may also be able to opt out of receiving personalized advertisements from
-other companies who are members of the Network Advertising Initiative or who
-subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for
-Online Behavioral Advertising. For more information about this practice and to
-understand your options, please visit:
-[http://www.aboutads.info](http://www.aboutads.info/),
-<http://optout.networkadvertising.org/> and
+other companies who subscribe to the Digital Advertising Alliance's Self-
+Regulatory Principles for Online Behavioral Advertising. For more information
+about this practice and to understand your options, please visit:
+[http://www.aboutads.info](http://www.aboutads.info/) and
 [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
 _**Data portability:**_ Data portability is the ability to obtain some of your
@@ -659,7 +681,7 @@ purpose:
 ####  
   
 ---|---  
-Purpose (see the [How we use information](/legal/privacy-policy#how-we-use-information) section for more detail)  |  Legal basis   
+Purpose (see the [How we use information](/legal/archives/privacy/privacy-20251007#how-we-use-information) section for more detail)  |  Legal basis   
   
   * To provide the Services and personalize your experience;
   * To develop and improve the Services, including machine learning and artificial intelligence model training;
@@ -714,7 +736,7 @@ concern. You can submit inquiries to the appropriate representative here:
 
 EU Representative:  
 Atlassian B.V.  
-c/o Atlassian, Inc.  
+c/o Atlassian US, Inc.  
 350 Bush Street, Floor 13  
 San Francisco, CA 94104  
 E-Mail: [eudatarep@atlassian.com](mailto:eudatarep@atlassian.com)
@@ -757,10 +779,10 @@ Commission’s adequacy decision for the EU-U.S. Data Privacy Framework (EU-U.S.
 DPF) entered into force.
 
 Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc.,
-Dogwood Labs, Inc., AgileCraft LLC, Halp, Inc., Loom, Inc., Opsgenie, Inc.,
-and Trello, Inc.) adhere to the Data Privacy Framework Principles regarding
-the collection, use, and retention of personal data that is transferred from
-the European Union and Switzerland to the U.S.
+Dogwood Labs, Inc., AgileCraft LLC, Loom, Inc., Opsgenie, Inc., and Trello,
+Inc.) adhere to the Data Privacy Framework Principles regarding the
+collection, use, and retention of personal data that is transferred from the
+European Union and Switzerland to the U.S.
 
 Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the
 UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework
@@ -796,7 +818,8 @@ For complaints regarding EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and
 Swiss-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you
 have the possibility, under certain conditions, to invoke binding arbitration.
 Further information can be found on the official DPF website: [Data Privacy
-Framework](https://www.dataprivacyframework.gov/).
+Framework](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-
+introduction).
 
 In certain situations, Atlassian may be required to disclose personal data in
 response to lawful requests by public authorities, including to meet national
@@ -861,6 +884,14 @@ Category of Information  |  Purpose(s) for Collecting & Disclosing  |  Recipient
   * Service Providers
   * Third-Party Apps
 |  Third Party Advertising Providers  
+**Content de-identified and aggregated** in accordance with applicable data contribution product settings  | 
+
+  * Develop and improve our Services
+|
+
+  * Atlassian Companies
+  * Service Providers
+|  -NA-  
 **Commercial information** , such as purchase details, transaction records, billing information, billing address, payment card details  | 
 
   * Operate, maintain, and improve the Services;
@@ -941,12 +972,13 @@ Category of Information  |  Purpose(s) for Collecting & Disclosing  |  Recipient
   
 If you have questions about the categories of information we may collect about
 you or the sources of such information, please see the “[Information we
-collect](/legal/privacy-policy#information-we-collect)” section. For more
-details about our processing activities, please see the “[How we use
-information](/legal/privacy-policy#how-we-use-information)” section. And for
-more information about how we may disclose information to third parties,
-please see the “[How we disclose information](/legal/privacy-policy#how-we-
-disclose-information)” section.
+collect](https://www.atlassian.com/legal/privacy-policy#information-we-
+collect)” section. For more details about our processing activities, please
+see the “[How we use information](https://www.atlassian.com/legal/privacy-
+policy#how-we-use-information)” section. And for more information about how we
+may disclose information to third parties, please see the “[How we disclose
+information](https://www.atlassian.com/legal/privacy-policy#how-we-disclose-
+information)” section.
 
 _**Sensitive personal information:**_ We do not use or disclose sensitive
 personal information for purposes other than permitted under applicable law.
@@ -958,9 +990,9 @@ such time, we will either delete or de-identify your information or, if this
 is not possible (for example, because the information has been stored in
 backup archives), then we will securely store your information and isolate it
 from any further use until deletion is possible. Please see the “[How long we
-keep information](/legal/privacy-policy#how-long-we-keep-information)” section
-for more information about specific retention criteria for different
-categories of personal information.
+keep information](https://www.atlassian.com/legal/privacy-policy#how-long-we-
+keep-information)” section for more information about specific retention
+criteria for different categories of personal information.
 
 _**Your rights:**_ If you are a U.S. resident, you have the following rights
 regarding your personal information:
@@ -974,8 +1006,9 @@ regarding your personal information:
   * The right to appeal our decision to deny your request, if applicable.
 
 For more information on how to exercise these your rights, please see the
-“[How to access and control your information](/legal/privacy-policy#how-to-
-access-and-control-your-information)” section. We encourage you to manage your
+“[How to access and control your
+information](https://www.atlassian.com/legal/privacy-policy#how-to-access-and-
+control-your-information)” section. We encourage you to manage your
 information, and to make use of the privacy controls we have included in our
 Services. In order to protect your information from unauthorized access or
 deletion, we may require you to provide additional information to verify your
@@ -1017,8 +1050,8 @@ information practices and the ways you can help protect your privacy.
 If you disagree with any changes to this privacy policy, you will need to stop
 using the Services and deactivate your account(s) and/or submit a request to
 delete your personal information, as outlined in the “[How to access and
-control your information](/legal/privacy-policy#how-to-access-and-control-
-your-information)” section.
+control your information](https://www.atlassian.com/legal/privacy-policy#how-
+to-access-and-control-your-information)” section.
 
 ##  How to contact us
 
@@ -1028,15 +1061,24 @@ wish to exercise your rights, please direct your inquiry to Atlassian Pty Ltd,
 which we have appointed to be responsible for facilitating such inquiries:
 
 Atlassian Pty Ltd  
-c/o Atlassian, Inc.  
+c/o Atlassian US, Inc.  
 350 Bush Street, Floor 13  
 San Francisco, CA 94104  
 E-Mail: [privacy@atlassian.com](mailto:privacy@atlassian.com)
 
 Individuals in the European Economic Area or United Kingdom may also contact
 the appropriate representatives identified in the “[European Economic Area and
-United Kingdom privacy disclosures](/legal/privacy-policy#european-economic-
-area-and-united-kingdom-privacy-disclosures)” section.
+United Kingdom privacy disclosures](https://www.atlassian.com/legal/privacy-
+policy#european-economic-area-and-united-kingdom-privacy-disclosures)”
+section.
+
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and
+the Swiss-U.S. DPF, Atlassian Pty Ltd commits to resolve DPF Principles-
+related complaints about our collection and use of your personal information.
+EU and UK and Swiss individuals with inquiries or complaints regarding our
+handling of personal information received in reliance on the EU-U.S. DPF and
+the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first
+contact us at [privacy@atlassian.com](mailto:privacy@atlassian.com).
 
 [![TRUSTe](https://privacy.trustarc.com/ctv/images/certified-
 seal/PSV/seal_PSV_en_m.svg)](https://privacy.trustarc.com/privacy-
