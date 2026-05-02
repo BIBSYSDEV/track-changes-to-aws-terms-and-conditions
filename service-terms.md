@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: April 28, 2026
+Last Updated: May 1, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -3672,36 +3672,20 @@ deployment support (“Enterprise Skills Transformation” or “EST”), are de
 in sections below. References to “AWS” in any order for AWS Training (an
 “Order”) mean: (a) the applicable AWS Contracting Party as defined in the
 Agreement, or (b) for Classroom Training provided in certain jurisdictions,
-the local AWS Contracting Party listed in the [ Special Provisions for Certain
+the local AWS Contracting Party listed in the [Special Provisions for Certain
 Jurisdictions](https://aws.amazon.com/training/jurisdictional-terms/).
 
+**67.2. Payment**
 
+**67.2.1**  Prepayment. Prepayment for enterprise AWS Training is available in
+those countries listed on the AWS Site. If you opt to prepay, you agree to pay
+the amount listed in your Order and applicable taxes (“Prepaid Funds”) by the
+prepayment invoice due date. If you do not prepay by the prepayment invoice
+due date, AWS will cancel the prepayment invoice and you will pay as described
+in the Agreement. Prepaid Funds are non-refundable and expire at the end of
+the term in the applicable Order.
 
-**67.2.** Payment
-
-
-
-**67.2.1** Prepayment. Prepayment for enterprise AWS Training is available in
-those countries listed on the AWS Site. Digital Training Team Subscriptions
-and EST are not eligible for prepayment. If you opt to prepay, you agree to
-pay the amount listed in your Order and applicable taxes (“Prepaid Funds”)
-within 30 days of (a) the effective date of your Order, or (b) receipt of the
-prepayment invoice, whichever is later. If you do not prepay within 30-days,
-you will pay as described in the Agreement. Prepaid Funds are non-refundable
-and expire at the end of the term in the applicable Order.
-
-
-
-**67.2.2.** Fees. AWS will charge you a fee equal to the value of any funding,
-discounts, or credits you receive for enterprise AWS Training if you do not
-consume AWS Training equal to the total amount listed in your Order, within
-the term specified in your Order.
-
-
-
-**67.3.** Classroom Training
-
-
+**67.3.** **Classroom Training**
 
 **67.3.1.** Individual Classroom Training. To access Classroom Training as an
 individual, you must create an AWS Training account as directed on the AWS
@@ -3710,8 +3694,6 @@ provide you with instructions on how to access the class, the course
 materials, and any lab environment. You may withdraw from a class by visiting
 your AWS Training account and withdrawing from the class in your transcript.
 If a refund is available, you will be informed at the time of withdrawal.
-
-
 
 **67.3.2.** Enterprise Classroom Training. Either you or AWS may request to
 reschedule or cancel an enterprise Classroom Training class at least 14 days
@@ -3724,8 +3706,6 @@ may keep the original class start date, or AWS will cancel the class at no
 charge. If AWS makes a timely rescheduling request but you are unable to
 reschedule, AWS will cancel the class at no charge. The maximum number of
 individuals you may enroll in an enterprise Classroom Training class is 25.
-
-
 
 **67.3.2.1.** Vouchers. Vouchers for Classroom Training are non-refundable,
 non-transferable, and may not be resold, licensed, rented, or redeemed for
@@ -3740,11 +3720,7 @@ permission. You may distribute vouchers only to learners who are your
 employees, affiliates' employees, or contractors who are aware of, and comply
 with, the restrictions described in this Section.
 
-
-
-**67.4.** Digital Training
-
-
+**67.4.** **Digital Training**
 
 **67.4.1.** Access and Fees. Subscribers to Digital Training on the AWS Site
 may access and participate in self-paced trainings on the AWS Site an
@@ -3758,16 +3734,12 @@ From time to time, we may offer different subscription lengths, and the
 subscription service fees may vary. Subscription service fees may be subject
 to tax and are non-refundable except as expressly set forth in this section.
 
-
-
 **67.4.2.** Individual Subscription. You may cancel your individual
 subscription by visiting your account and adjusting your subscription
 settings. If you cancel your individual subscription, you will not receive a
 refund of any subscription fees already paid and the subscription will remain
 active until the end of the current pay period. You may not transfer or assign
 your subscription or any Digital Training benefits.
-
-
 
 **67.4.3.** Team Subscription. For an Order of 5 or more subscriptions
 (“Seats”) to Digital Training on the AWS Site (a “Team Subscription”), you
@@ -3779,10 +3751,8 @@ you inform your AWS training representative in writing within 2 business days
 of the start date that you do not have access to your Seats, your Team
 Subscription will not start until AWS confirms you have access. Seats may only
 be used by a single person for the entire term of the Team Subscription,
-except that you may reassign up to twenty percent of Seats within your
-organization during the term of the Team Subscription.
-
-
+except that you may reassign up to the percentage of Seats described in your
+Order within your organization during the term of the Team Subscription.
 
 **67.4.3.1.** Additional Seats. You may purchase additional Seats under your
 existing Team Subscription by contacting your AWS Training representative as
@@ -3791,8 +3761,6 @@ additional Seats begins when AWS gives your learning administrator(s) access,
 and any additional Seats purchased will expire at the end of your existing
 Team Subscription. Fees for additional Seats are calculated pro-rata based on
 the time remaining in your existing Team Subscription.
-
-
 
 **67.4.4.** Auto-Renewal. Unless you notify us before a charge that you want
 to cancel or do not want to auto renew, your Digital Training subscription
@@ -3813,11 +3781,7 @@ method that is successfully charged before your subscription is cancelled,
 your new subscription period will be based on the original renewal date and
 not the date of the successful charge.
 
-
-
-**67.5.** Enterprise Skills Transformation
-
-
+**67.5. Enterprise Skills Transformation**
 
 **67.5.1.** Access. To enable EST support and guidance, AWS may require access
 to your internal communication systems including but not limited to email,
@@ -3831,8 +3795,6 @@ extent required to enable EST, and at no additional cost to AWS. You may
 revoke your access approval at any time. AWS is not responsible for any
 failure to perform caused by your revocation of AWS’ access to your Customer
 Systems.
-
-
 
 **67.5.2.** Cancellation. Either you or AWS may cancel your EST engagement
 with 15 days written notice, which may be via email. AWS will charge you for
