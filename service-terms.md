@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: May 1, 2026
+Last Updated: May 7, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1494,8 +1494,8 @@ AWS region where you are using AWS Supply Chain. You may instruct AWS not to
 use and store Your Content processed by AWS Supply Chain to develop and
 improve the AWS Supply Chain service or technologies of AWS or its affiliates
 by following the instructions set forth in the “Opt-out policy” section of
-[AWS Supply Chain administrative guide](https://docs.aws.amazon.com/aws-
-supply-chain/latest/adminguide/getting-started.html).  
+[AWS Supply Chain administrative guide](https://docs.aws.amazon.com/connect-
+decisions/legacy/adminguide/data-protection.html).  
   
 **24.4.** You are responsible for providing legally adequate privacy notices
 to End Users of AWS Supply Chain and obtaining any necessary consent from such
@@ -2801,6 +2801,39 @@ using the opt-out mechanism described in the Amazon Q documentation.
 **50.14.** **Kiro**. If you purchase your Kiro subscription on a payment
 portal powered by Stripe, then for purposes of your use of Kiro, Amazon Web
 Services, Inc. is the AWS Contracting Party under the Agreement.
+
+**50.15. Amazon Bedrock AgentCore Payments (Preview)**
+
+**50.15.1.** Amazon Bedrock AgentCore Payments helps you develop agentic
+payment solutions by transmitting your API calls and other messages between
+your AI agents, your selected third-party wallet providers, and third-party
+sellers. AWS does not provide regulated financial services as part of
+AgentCore Payments. AWS is not a party to or in the flow of funds for any
+payment facilitated by your use of AgentCore Payments.
+
+**50.15.2.** To use AgentCore Payments, you must connect your wallet through a
+third-party wallet provider. Wallets are Third Party Content and governed by
+separate terms between you and the third-party wallet provider. AWS does not
+have custody or control over, and is not responsible for any wallets, funds,
+digital assets, or associated private keys used in connection with AgentCore
+Payments. AWS is not responsible for any services you may receive from your
+wallet provider.
+
+**50.15.3.** You will: (a) use AgentCore Payments in compliance with
+applicable laws and industry-specific requirements and standards, including,
+if required for your use case, obtaining any government licenses or
+registrations; and (b) test, monitor, and implement safeguards (such as human-
+in-the-loop) for your use of AgentCore Payments as may be appropriate for your
+use case, including by managing and securing your wallet and private keys and
+ensuring transactions are accurate and authorized. You are solely responsible
+for any transactions, disputes, or payments liability arising from or related
+to your use of AgentCore Payments.
+
+**50.15.4.** AWS may change or discontinue AgentCore Payments’ support for any
+third-party wallet provider at any time. We will provide you with prior notice
+if we discontinue support of a wallet provider where practicable under the
+circumstances. AWS may impose limits on your use of AgentCore Payments, such
+as limits on transaction amounts, frequency, or volumes at any time.
 
 ## 51\. Amazon Lightsail
 
