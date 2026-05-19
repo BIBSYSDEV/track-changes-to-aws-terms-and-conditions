@@ -957,7 +957,7 @@ badge.svg)](https://play.google.com/store/apps/details?id=com.realtimeboard&from
 
 Miro © 2026
 
-[Terms of Service](https://miro.com/legal/terms-of-service/)[Private
+[Terms of Service](https://miro.com/legal/terms-of-service/)[Privacy
 Policy](https://miro.com/legal/privacy-policy/)[Manage
 Cookies](https://miro.com/manage-cookies/)[Do Not Sell or Share My Personal
 Information](http://miro.com/legal/privacy-policy/?ccpa=true)
