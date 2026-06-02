@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: May 29, 2026
+Last Updated: June 1, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -262,10 +262,11 @@ Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in
 SageMaker AI, Amazon Quick, AWS DevOps Agent, AWS Security Agent, Amazon
 WorkSpaces, and AWS Deadline Cloud.
 
-**1.24.1.** The Amazon Bedrock automated abuse detection mechanisms may apply
-to such services. See
+**1.24.1.** Amazon Bedrock abuse detection mechanisms may apply to such
+Services. See
 [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
-detection.html) for more details.
+detection.html) and applicable Service-specific documentation for more
+details.
 
 **1.24.2.** To improve performance, such services may use cross-region
 inference, using the optimal AWS Region to process your Content when running
@@ -2809,16 +2810,16 @@ Terms, Section 20 (AWS Marketplace) above applies to your use of models sold
 by third parties, and Amazon Web Services, Inc. is the invoicing party with
 respect to these models.  
 
-**50.12.2.** As part of providing the Service, Amazon Bedrock may use
-automated abuse detection mechanisms designed to detect harmful content,
-including related to potential violations of our or third-party model
-providers’ terms of service or acceptable use policies. If these mechanisms
-detect apparent child sexual abuse material, you agree and instruct that we
-may report the incident to the National Center for Missing and Exploited
+**50.12.2.** As part of providing the Service, Amazon Bedrock may store
+Service inputs and outputs for up to 30 days (unless otherwise required by
+law) for the sole purpose of detecting activity that violates our, or third-
+party model providers’, terms of service or use policies. If we detect
+apparent child sexual abuse material (“CSAM”), you agree and instruct that we
+may: (a) review the flagged input or output to determine if it is CSAM, and
+(b) report the incident to the National Center for Missing and Exploited
 Children or other authority. See
 [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
-detection.html) for more details about abuse detection on Bedrock and related
-information sharing with third parties.
+detection.html) for more details about abuse detection on Bedrock.
 
 **50.12.3.** Provisioned throughput commitments for Bedrock. We may change
 provisioned throughput commitment pricing or stop offering commitments for
