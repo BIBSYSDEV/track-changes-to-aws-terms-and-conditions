@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: June 1, 2026
+Last Updated: June 17, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -259,8 +259,9 @@ Talent, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon
 OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS
 Transform, AWS AppFabric, AWS HealthScribe, AWS Resilience Hub, AWS App
 Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in
-SageMaker AI, Amazon Quick, AWS DevOps Agent, AWS Security Agent, Amazon
-WorkSpaces, and AWS Deadline Cloud.
+SageMaker AI, Amazon Quick, AWS DevOps Agent, AWS Continuum (including
+features previously named AWS Security Agent), AWS FinOps Agent (Preview),
+Amazon WorkSpaces, and AWS Deadline Cloud.
 
 **1.24.1.** Amazon Bedrock abuse detection mechanisms may apply to such
 Services. See
@@ -907,17 +908,17 @@ Extensions is Your Content under the Agreement. AWS is not responsible for
 Service failure caused by extensions. You consent to AWS scanning extension
 code for security and performance purposes.
 
-**10.1.3.** Engine End of Life.  You are responsible for upgrading your Amazon
-RDS engine to a supported version when it reaches end of life (EOL).  AWS is
-not responsible for Service failure caused by EOL software.  If you operate
+**10.1.3.** Engine End of Life. You are responsible for upgrading your Amazon
+RDS engine to a supported version when it reaches end of life (EOL). AWS is
+not responsible for Service failure caused by EOL software. If you operate
 your database on EOL software, AWS may, after providing you with prior notice
 of engine EOL as detailed
 [here](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraPostgreSQLReleaseNotes/aurorapostgresql-
 release-calendar.html) and
 [here](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraMySQLReleaseNotes/AuroraMySQL.release-
 calendars.html), take a snapshot of Your Content and delete the instance or
-cluster running the EOL software.  This Section 10.1.3 does not apply to
-Amazon Aurora DSQL.
+cluster running the EOL software. This Section 10.1.3 does not apply to Amazon
+Aurora DSQL.
 
 **10.2. Amazon RDS Custom**
 
@@ -982,19 +983,19 @@ the Oracle Software with Amazon RDS if you meet the following conditions:
 
 **10.4.**  **Oracle AI Database@AWS**
 
-**10.4.1.   **In connection with Oracle AI Database@AWS,**** AWS may share
+**10.4.1.** In connection with Oracle AI Database@AWS,**** AWS may share
 Account Information, logs or other usage information with Oracle to enable
 Oracle to provide technical and sales support.
 
 **10.5. Amazon RDS for SQL Server**
 
-**10.5.1.   **“License Included.” Use of Microsoft Software on Amazon RDS is
+**10.5.1.** “License Included.” Use of Microsoft Software on Amazon RDS is
 subject to Section 5.1 above and these additional terms and conditions:
 
   * SQL Server Web Edition may be used only to support public and Internet accessible Web pages, Web sites, Web applications, or Web services. It may not be used to support line of business applications (e.g., Customer Relationship Management, Enterprise Resource Management, and other similar applications).
   * Microsoft is an intended third-party beneficiary of this Section 10.5, with the right to enforce its provisions.
 
-**10.5.2.**   “Bring Your Own Media” (BYOM). You must provide the installation
+**10.5.2.** “Bring Your Own Media” (BYOM). You must provide the installation
 files for Amazon RDS to install on your behalf.  Amazon RDS will automatically
 download and install cumulative updates on your behalf.
 
@@ -1627,18 +1628,18 @@ intelligence or machine learning. “Amazon WorkSpaces AI Content” means your
 content that is processed by an Amazon WorkSpaces AI Feature. The following
 terms apply to your use of Amazon WorkSpaces AI Features:  
 
-**(a)**  You agree and instruct that: (i) we may use and store Amazon
-WorkSpaces AI Content to develop and improve Amazon WorkSpaces and its
-underlying technologies; (ii) we may use and store Amazon WorkSpaces AI
-Content that is not personal data to develop and improve AWS and affiliate
-machine-learning and artificial intelligence technologies; and (iii) solely in
-connection with the development and improvement described in clauses (i) and
-(ii), we may store your Amazon WorkSpaces AI Content in AWS regions outside
-the AWS regions where you are using Amazon WorkSpaces AI Features. You may
-instruct AWS not to use and store Amazon WorkSpaces AI Content processed by
-Amazon WorkSpaces AI Features to develop and improve the Service or
-technologies of AWS or its affiliates by configuring an AI services opt-out
-policy using AWS Organizations.
+You agree and instruct that: (i) we may use and store Amazon WorkSpaces AI
+Content to develop and improve Amazon WorkSpaces and its underlying
+technologies; (ii) we may use and store Amazon WorkSpaces AI Content that is
+not personal data to develop and improve AWS and affiliate machine-learning
+and artificial intelligence technologies; and (iii) solely in connection with
+the development and improvement described in clauses (i) and (ii), we may
+store your Amazon WorkSpaces AI Content in AWS regions outside the AWS regions
+where you are using Amazon WorkSpaces AI Features. You may instruct AWS not to
+use and store Amazon WorkSpaces AI Content processed by Amazon WorkSpaces AI
+Features to develop and improve the Service or technologies of AWS or its
+affiliates by configuring an AI services opt-out policy using AWS
+Organizations.
 
 ## 27\. Amazon Cognito
 
@@ -2394,9 +2395,10 @@ the following terms:
   * AWS Licensor licenses any Documents to you under the Creative Commons Attribution 4.0 International License (CC-BY 4.0); and
   * AWS Licensor licenses any Software to you under the Apache License, Version 2.0.
 
-**45.7.**  Developed Content may include AWS Content, or Third Party Content
-provided under a separate license. If there is a conflict between Section 45.6
-above and any separate license, the separate license will control.
+**45.7.**  In addition to Developed Content, deliverables may include AWS
+Content, or Third Party Content provided under a separate license. If there is
+a conflict between Section 45.6 above and any separate license, the separate
+license will control.
 
 **45.8.** Content that you provide or direct AWS to use for purposes of
 providing AWS Professional Services will be deemed Your Content.
@@ -2604,9 +2606,10 @@ Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize,
 Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract,
 Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS
 HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, Amazon
-Quick, AWS Elemental Inference, AWS DevOps Agent, and AWS Security Agent, and
-the model customization agent in SageMaker AI. “AI Content” means Your Content
-that is processed by an AI Service.
+Quick, AWS Elemental Inference, AWS DevOps Agent, AWS Continuum (including
+features previously named AWS Security Agent), and AWS FinOps Agent (Preview),
+and the model customization agent in SageMaker AI. “AI Content” means Your
+Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
@@ -2614,26 +2617,27 @@ and the Services may generate the same or similar results across customers.
 
 **50.3.** You agree and instruct that for Amazon CodeGuru Profiler, Amazon
 Comprehend, Amazon Lex, Amazon Polly, Amazon Rekognition, Amazon Textract,
-Amazon Transcribe, Amazon Translate, AWS Transform, Kiro Free Tier, and Kiro
-individual subscribers (as described [here](https://kiro.dev/docs/getting-
-started/authentication/)): (a) we may use and store AI Content that is
-processed by each of the foregoing AI Services to develop and improve the
-applicable AI Service and its underlying technologies; (b) we may use and
-store AI Content that is not personal data to develop and improve AWS and
-affiliate machine-learning and artificial-intelligence technologies; and (c)
-solely in connection with the development and improvement described in clauses
-(a) and (b), we may store such AI Content in an AWS region outside of the AWS
-region where you are using such AI Service. This Section does not apply to
-Amazon Comprehend Medical, Amazon Transcribe Medical, AWS HealthScribe, Amazon
-Comprehend Detect PII or any AI Service that is not listed in the first
-sentence of this Section 50.3. You may instruct AWS not to use and store AI
-Content processed by an AI Service to develop and improve that Service or
-technologies of AWS or its affiliates by configuring an AI services opt-out
-policy using AWS Organizations. For access to AI Services via AWS Builder ID
-or a third-party authentication provider, you may instruct AWS to refrain from
-using and storing AI Content processed by an AI Service to develop and improve
-that Service or technologies of AWS or its affiliates by using the opt-out
-mechanism indicated in the applicable service documentation.
+Amazon Transcribe, Amazon Translate, AWS Transform, AWS FinOps Agent
+(Preview), Kiro Free Tier, and Kiro individual subscribers (as described
+[here](https://kiro.dev/docs/getting-started/authentication/)): (a) we may use
+and store AI Content that is processed by each of the foregoing AI Services to
+develop and improve the applicable AI Service and its underlying technologies;
+(b) we may use and store AI Content that is not personal data to develop and
+improve AWS and affiliate machine-learning and artificial-intelligence
+technologies; and (c) solely in connection with the development and
+improvement described in clauses (a) and (b), we may store such AI Content in
+an AWS region outside of the AWS region where you are using such AI Service.
+This Section does not apply to Amazon Comprehend Medical, Amazon Transcribe
+Medical, AWS HealthScribe, Amazon Comprehend Detect PII or any AI Service that
+is not listed in the first sentence of this Section 50.3. You may instruct AWS
+not to use and store AI Content processed by an AI Service to develop and
+improve that Service or technologies of AWS or its affiliates by configuring
+an AI services opt-out policy using AWS Organizations. For access to AI
+Services via AWS Builder ID or a third-party authentication provider, you may
+instruct AWS to refrain from using and storing AI Content processed by an AI
+Service to develop and improve that Service or technologies of AWS or its
+affiliates by using the opt-out mechanism indicated in the applicable service
+documentation.
 
 **50.4.**  You are responsible for providing legally adequate privacy notices
 to End Users of your products or services that use any AI Service and
@@ -2810,16 +2814,31 @@ Terms, Section 20 (AWS Marketplace) above applies to your use of models sold
 by third parties, and Amazon Web Services, Inc. is the invoicing party with
 respect to these models.  
 
-**50.12.2.** As part of providing the Service, Amazon Bedrock may store
+**50.12.2.**  **Abuse Detection.**  For certain models identified on the
+[Bedrock abuse detection
+page](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
+detection.html), as part of providing the Service, Amazon Bedrock stores
 Service inputs and outputs for up to 30 days (unless otherwise required by
-law) for the sole purpose of detecting activity that violates our, or third-
-party model providers’, terms of service or use policies. If we detect
-apparent child sexual abuse material (“CSAM”), you agree and instruct that we
-may: (a) review the flagged input or output to determine if it is CSAM, and
-(b) report the incident to the National Center for Missing and Exploited
-Children or other authority. See
-[here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
-detection.html) for more details about abuse detection on Bedrock.
+law) solely to detect activity that violates our, or third-party model
+providers’, terms of service or use policies. If we detect a potential
+violation, you agree and instruct that we may review the Service inputs and
+outputs to determine if a violation has occurred.
+
+**50.12.2.1.**  If we detect apparent child sexual abuse material (“CSAM”),
+you agree and instruct that we may: (a) review the flagged input or output to
+determine if it is CSAM, and (b) report the incident to the National Center
+for Missing and Exploited Children or other authority.
+
+**50.12.2.2.**  Certain Anthropic models identified on the [Bedrock abuse
+detection page](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
+detection.html) require you to consent to the transfer of Your Content and
+associated metadata to Anthropic for abuse detection, via the opt-in mechanism
+described in the [applicable service
+documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/data-
+retention.html). By providing such consent, you instruct AWS to transfer Your
+Content and associated metadata to Anthropic for processing in accordance with
+[Anthropic's Data Processing Addendum](https://www.anthropic.com/legal/data-
+processing-addendum).
 
 **50.12.3.** Provisioned throughput commitments for Bedrock. We may change
 provisioned throughput commitment pricing or stop offering commitments for
@@ -2837,7 +2856,12 @@ the law or a binding order of a governmental body.
 
 **50.12.5.  **We may share information, that does not include Your Content,
 about your use of a third-party model with the provider of that third-party
-model.  
+model.
+
+**50.12.5.1.**  Certain Anthropic products and features (e.g., Claude Code,
+computer use) may embed metadata in requests sent to Anthropic models on
+Amazon Bedrock. AWS may notify Anthropic which of this metadata is present in
+your Service inputs for Anthropic's product-level usage attribution.  
 
 **50.12.6.** Output generated by models accessed through Amazon Bedrock may
 include information such as metadata, digital signatures, or watermarks to
@@ -5174,4 +5198,40 @@ or property damage.
 **108.6**. Certain features of Amazon Connect Decisions use third-party
 service providers, as identified in the service documentation. You authorize
 AWS to transmit your Content to the providers for processing.
+
+## 109\. AWS Web Application Firewall (“WAF”)
+
+**109.1. AWS WAF AI  traffic monetization**
+
+**109.1.1.** AWS WAF AI traffic monetization helps you charge buyers
+(“Buyers”) for access to the Content you serve via AWS Services (such as
+Amazon CloudFront), by transmitting messages between you, Buyers, your
+respective wallet and payment providers (“Payment Providers”), and third-party
+facilitation services (“Facilitators”).  AWS does not provide regulated
+financial services as part of AWS WAF AI traffic monetization. AWS is not a
+party to, or in the flow of funds for any payment you receive.
+
+**109.1.2.** To use AWS WAF AI traffic monetization, you instruct us to share
+your pricing, payment and configuration information with the applicable Buyer,
+Payment Provider, or Facilitator. Your use of Payment Providers and
+Facilitators is governed by separate terms between you and those parties. AWS
+is not responsible for any services provided by Payment Providers and
+Facilitators.  AWS does not have custody or control over, and is not
+responsible for any wallets, funds, or digital assets used in connection with
+AWS WAF AI traffic monetization.
+
+**109.1.3.** You will test, monitor, and implement safeguards (such as human-
+in-the-loop) for your use of AWS WAF AI traffic monetization as may be
+appropriate for your use case, including by managing and securing your wallet,
+and ensuring your access, pricing, licensing and payment configurations are
+accurate and authorized. AWS is not responsible for any transactions,
+disputes, or payments liability with any Buyers, Payment Providers or
+Facilitators arising from or related to your use of AWS WAF AI traffic
+monetization.
+
+**109.1.4.  **AWS may change or discontinue support for any Payment Provider
+or Facilitator at any time. We will provide you with prior notice if we
+discontinue support of a Payment Provider or Facilitator where practicable
+under the circumstances. AWS may impose limits on the amount of traffic
+processed by AWS WAF AI traffic monetization at any time.
 
