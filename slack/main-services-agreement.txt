@@ -14,8 +14,8 @@ SUCH INDIVIDUAL MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
 The Services may not be accessed for purposes of monitoring their availability, performance or functionality, or for any other
 benchmarking or competitive purposes.
 SFDC’s direct competitors are prohibited from accessing the Services, except with SFDC’s prior written consent.
-This Agreement was last updated on September 15, 2025. It is effective between Customer and SFDC as of the date of Customer’s
-accepting this Agreement (the “Effective Date”).
+This Agreement was last updated on June 1, 2026. It is effective between Customer and SFDC as of the date of Customer’s accepting
+this Agreement (the “Effective Date”).
 1.​
 
 DEFINITIONS
@@ -622,7 +622,12 @@ in connection with this Agreement, and the courts that have jurisdiction over an
 Customer is domiciled.
 
 For Customers domiciled in North or South America
-If Customer is
+
+SFDC-MSA, June 1, 2026​
+
+Page 9 of 17
+
+If Customer is
 domiciled in:
 
 The SFDC entity
@@ -630,6 +635,8 @@ entering into this
 Agreement is:
 
 Notices should be addressed to:
+
+Governing law is:
 
 Any country
 other than
@@ -641,26 +648,7 @@ salesforce.com, inc.),
 a Delaware
 corporation
 
-Salesforce Tower, 415 Mission
-California and
-Street, 3rd Floor, San Francisco,
-controlling United
-California, 94105, U.S.A., attn: VP, States federal law
-
-SFDC-MSA, June 1, 2026​
-
-Page 9 of 17
-
-Governing law is:
-
-Courts with
-exclusive
-jurisdiction are:
-San Francisco,
-California,
-U.S.A.
-
-Brazil
+Brazil
 
 Salesforce Tecnologia
 Ltda.
@@ -672,6 +660,11 @@ Canada Corporation, a
 Nova Scotia
 corporation
 
+Salesforce Tower, 415 Mission
+California and
+Street, 3rd Floor, San Francisco,
+controlling United
+California, 94105, U.S.A., attn: VP, States federal law
 Worldwide Sales Operations, with a
 copy to attn: General Counsel
 Av. Jornalista Roberto Marinho,
@@ -685,6 +678,13 @@ controlling
 California, 94105, U.S.A., attn: VP, Canadian federal
 Worldwide Sales Operations, with a law
 copy to attn: General Counsel
+
+Courts with
+exclusive
+jurisdiction are:
+San Francisco,
+California,
+U.S.A.
 
 São Paulo, SP,
 Brazil
@@ -738,12 +738,6 @@ Germany
 salesforce.com Italy
 S.r.l., an Italian
 limited liability
-company having its
-registered address at
-Piazza Filippo Meda
-5, 20121 Milan (MI),
-VAT / Fiscal code n.
-04959160963
 
 SFDC-MSA, June 1, 2026​
 
@@ -782,10 +776,6 @@ Salesforce UK Limited, Floor 26
 Italy
 Salesforce Tower, 110 Bishopsgate,
 London, EC2N 4AY, United
-Kingdom, attn: VP, Sales
-Operations, with a copy to attn.:
-Legal Department
-
 Page 10 of 17
 
 Courts with
@@ -802,19 +792,29 @@ Milan, Italy
 
 Spain
 
+United
+Kingdom
+
+company having its
+registered address at
+Piazza Filippo Meda
+5, 20121 Milan (MI),
+VAT / Fiscal code n.
+04959160963
 Salesforce Systems
 Spain, S.L., a limited
 liability company
 incorporated in Spain
-
-United
-Kingdom
 
 Salesforce UK
 Limited, a limited
 liability company
 incorporated in
 England
+
+Kingdom, attn: VP, Sales
+Operations, with a copy to attn.:
+Legal Department
 
 Salesforce UK Limited, Floor 26
 Spain
@@ -923,17 +923,16 @@ Tokyo, Japan
 
 12.10​ Manner of Giving Notice. Except as otherwise specified in this Agreement, all notices related to this Agreement will be in
 writing and will be effective upon (a) personal delivery, (b) the second business day after mailing, or (c), except for notices of
-termination or an indemnifiable claim (“Legal Notices”), which shall clearly be identifiable as Legal Notices, the day of
-sending by email. Billing-related notices to Customer will be addressed to the relevant billing contact designated by Customer.
-All other notices to Customer will be addressed to the relevant Services system administrator designated by Customer.
-12.11​ Agreement to Governing Law and Jurisdiction. Each party agrees to the applicable governing law above without regard to
-choice or conflicts of law rules, and to the exclusive jurisdiction of the applicable courts above.
-
 SFDC-MSA, June 1, 2026​
 
 Page 11 of 17
 
-12.12​ Local Law Requirements: France. ​
+termination or an indemnifiable claim (“Legal Notices”), which shall clearly be identifiable as Legal Notices, the day of
+sending by email. Billing-related notices to Customer will be addressed to the relevant billing contact designated by Customer.
+All other notices to Customer will be addressed to the relevant Services system administrator designated by Customer.
+12.11​ Agreement to Governing Law and Jurisdiction. Each party agrees to the applicable governing law above without regard to
+choice or conflicts of law rules, and to the exclusive jurisdiction of the applicable courts above.
+12.12​ Local Law Requirements: France. ​
 ​
 With respect to Customers domiciled in France, the following provisions shall be applicable :
 (1)​ Section 8.2 “SFDC Warranties” is replaced by the following :
@@ -971,20 +970,21 @@ protection of the security, confidentiality and integrity of Customer Data, (b) 
 security of the Services, (c) the Services will perform materially in accordance with the applicable Documentation, and (d)
 subject to the “Integration with Non-SFDC Applications” section above, SFDC will not materially decrease the overall
 functionality of the Services.
-8.2 Reporting of Defects. Customer shall report any deviation of the Services from the “Agreed Quality of the Services”
-section (“Defect”) to SFDC in writing without undue delay and shall submit a detailed description of the Defect or, if not
-possible, of the symptoms of the Defect. Customer shall forward to SFDC any useful information available to Customer for
-rectification of the Defect.
+8.2
+Reporting of Defects. Customer shall report any deviation of the Services from the “Agreed Quality of the Services” section
+(“Defect”) to SFDC in writing without undue delay and shall submit a detailed description of the Defect or, if not possible, of
+SFDC-MSA, June 1, 2026​
+
+Page 12 of 17
+
+the symptoms of the Defect. Customer shall forward to SFDC any useful information available to Customer for rectification of
+the Defect.
 8.3 Remedies Resulting from Defects. SFDC shall rectify any Defect within a reasonable period of time. If such rectification
 fails, Customer may terminate the respective Order Form provided that SFDC had enough time for curing the Defect. In the
 “Refund or Payment upon Termination” section, sentence 1 and sentence 3 shall apply accordingly. If SFDC is responsible for
 the Defect or if SFDC is in default with the rectification, Customer may assert claims for the damage caused in the scope
 specified in the “Limitation of Liability” section below.
-SFDC-MSA, June 1, 2026​
-
-Page 12 of 17
-
-8.4 Defects in Title. Defects in title of the Services shall be handled in accordance with the provisions of Clause 9 “Mutual
+8.4 Defects in Title. Defects in title of the Services shall be handled in accordance with the provisions of Clause 9 “Mutual
 Indemnification”.
 8.5 Exclusions. Customer shall have no claims under this Clause 8 “Warranty” if a Defect was caused by the Services not being
 used by Customer in accordance with the provisions of this Agreement, the Documentation and the applicable Order Forms.
@@ -1024,19 +1024,18 @@ SFDC and shall notify SFDC of any changes to such information.
 5.2.2 Electronic Invoicing. The invoice will be issued in electronic format as defined in article 1, paragraph 916, of Law no.
 205 of December 27, 2017, which introduced the obligation of electronic invoicing, starting from January 1, 2019, for the sale
 of goods and services performed between residents, established or identified in the territory of the Italian State. To facilitate
-such electronic invoicing, Customer shall provide to SFDC at least the following information in writing: Customer full
+SFDC-MSA, June 1, 2026​
+
+Page 13 of 17
+
+such electronic invoicing, Customer shall provide to SFDC at least the following information in writing: Customer full
 registered company name, registered office address, VAT number, tax/fiscal code and any additional code and/or relevant
 information required under applicable law. In any event, the parties shall cooperate diligently to enable such electronic
 invoicing process. Any error due to the provision by Customer of incorrect or insufficient invoicing information preventing (a)
 SFDC to successfully submit the electronic invoice to the SDI or (b) the SDI to duly and effectively process such invoice or (c)
 which, in any event, requires SFDC to issue an invoice again, shall not result in an extension of the payment term set out in the
 “Invoicing and Payment” section above, and such term shall still be calculated from the date of the original invoice. SFDC
-
-SFDC-MSA, June 1, 2026​
-
-Page 13 of 17
-
-reserves the right to provide any invoice copy in electronic form via email in addition to the electronic invoicing described
+reserves the right to provide any invoice copy in electronic form via email in addition to the electronic invoicing described
 herein.
 5.2.3 Split Payment. If subject to the “split payment” regime, Customer shall be exclusively responsible for payment of any
 VAT amount due, provided that Customer shall confirm to SFDC the applicability of such regime and, if applicable, Customer
@@ -1077,18 +1076,17 @@ amended from time to time (“Arbitration Act”). The seat and venue of the arb
 language of the arbitration shall be English. The Parties agree that any of them may seek interim measures under section 9 of
 the Arbitration Act, including injunctive relief in relation to the provisions of this Agreement or the Parties' performance of it
 from courts in Bengaluru, India, without prejudice to any other right the Parties may have under the Arbitration Act and other
-applicable laws. The arbitration panel's decision shall be final, conclusive and binding on the parties to the arbitration. The
+SFDC-MSA, June 1, 2026​
+
+Page 14 of 17
+
+applicable laws. The arbitration panel's decision shall be final, conclusive and binding on the parties to the arbitration. The
 Parties shall each pay one-half of the costs and expenses of such arbitration, and each shall separately pay its respective
 counsel fees and expenses. The prevailing Party may, in the judgement of the arbitration panel, be entitled to recover its fees
 and expenses. All dispute resolution proceedings, all matters pertaining to such proceedings and all documents and
 submissions made pursuant thereto shall be strictly confidential and subject to the provisions of “Confidentiality” Section of
 this Agreement.
-
-SFDC-MSA, June 1, 2026​
-
-Page 14 of 17
-
-12.16.2 Section 5.2 “Invoicing and Payment” of this Agreement is replaced with the following section:
+12.16.2 Section 5.2 “Invoicing and Payment” of this Agreement is replaced with the following section:
 5.2 Invoicing and Payment
 5.2.1 Invoicing and Payment. Unless otherwise stated in the relevant Order Form, fees (i) will be invoiced in advance, and
 (ii) are due net 30 days from the invoice date.. The parties acknowledge that invoices are also to be submitted electronically
@@ -1123,26 +1121,26 @@ the following documents, the order of precedence shall be: (1) the applicable Or
 the Documentation. Titles and headings of sections of this Agreement are for convenience only and shall not affect
 the construction of any provision of this Agreement.
 
-12.18
+12 18
 
 EU Data Act Terms: Law Requirements for Customers domiciled in EU/EEA
 The following EU Data Act Terms (“EU Data Act Terms”) govern all Switching and/or Deletion Requests made by a
 Customer (as defined below) pursuant to Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13
 December 2023 concerning harmonized rules on fair access to and use of data and amending Regulation (EU) 2017/2394
 and Directive (EU) 2020/1828 (the “Data Act”).
-(1) Request Process. A Customer who is domiciled in a member state of the EU/EEA, may complete this form to request at
-any time during a subscription term with a 2-month notification period, either to: (a) switch a Service and migrate its
-Customer Data to a different third party service provider or to its own on-premise infrastructure (“Switching Request”);
-and/or (b) delete its Customer Data from a Service (“Deletion Request”).
-(a) Switching Request. SFDC will support the Customer’s Switching Request in accordance with the Data Act by
-providing Customer the related instructions,or as otherwise indicated by SFDC in the Documentation, for Customer
 
 SFDC-MSA, June 1, 2026​
 
 Page 15 of 17
 
-to export Customer Data within 30 calendar days after the end of the 2-month notification period from the date
-SFDC receives a fully completed Switching Request (“Transition Period”).
+(1) Request Process. A Customer who is domiciled in a member state of the EU/EEA, may complete this form to request at any time
+during a subscription term with a 2-month notification period, either to: (a) switch a Service and migrate its Customer Data to a
+different third party service provider or to its own on-premise infrastructure (“Switching Request”); and/or (b) delete its Customer
+Data from a Service (“Deletion Request”).
+(a) Switching Request. SFDC will support the Customer’s Switching Request in accordance with the Data Act by providing
+Customer the related instructions,or as otherwise indicated by SFDC in the Documentation, for Customer to export Customer
+Data within 30 calendar days after the end of the 2-month notification period from the date SFDC receives a fully completed
+Switching Request (“Transition Period”).
 SFDC will inform Customer within 14 business days of receiving a Switching Request if the Transition Period is technically
 unfeasible, providing a reasonable explanation for such technical limitations and an alternative Transition Period for the
 Customer to export their Customer Data, which shall not exceed 7 months.
@@ -1171,45 +1169,42 @@ accessible
 via
 http://www.salesforce.com/company/legal/agreements/ under the “Trust and Compliance Documentation” link), or as
 otherwise made reasonably available by SFDC.
-(2) Termination. The Order Form(s) will automatically terminate either: 1) for Switching Request(s) upon Customer’s
-notifying SFDC in writing about the successful export of Customer Data in accordance with section (1) (a) above (in the
-absence of formal notification by Customer as indicated above, the switching will be deemed successful at the end of the
-Transition Period or Alternative Period), or 2) for Deletion Request(s), 2 months after SFDC has received the Deletion
-Request (the “Termination Date”).
-For the avoidance of doubt, such termination will not relieve Customer of its obligation to pay any fees due to SFDC for the
-period prior to the Termination Date of the relevant Order Form. Customer must pay any outstanding subscription fees
-covering the remainder of the term of the relevant Order Form(s) as an early termination fee. SFDC will not charge any other
-fees or penalties.
-SFDC will continue to provide the Services in accordance with the Agreement until the Termination Date or until the end of
-the subscription period.
-(3) Exclusions. In accordance with the Data Act, Switching or Deletion Requests will not be accepted for Beta Services as
-defined in the Agreement or, if not defined in the Agreement, as defined in the Main Services Agreement (or the Master
-Subscription Agreement, as the case may be) at https://www.salesforce.com/company/legal/agreements/ or for any Service
-that has been provided by SFDC for a limited period of time specifically for testing and evaluation purposes (such as a
-sandbox).
-(4) Indemnification. Several legal entities may be entitled to purchase or use Services under the Agreement (including
-without limitation Customer’s Affiliates and Users) and such entities other than the Customer making the request could
-therefore be impacted by the Switching Request or Deletion Request in accordance with this section (“Impacted Parties”). It
-is the Customer's sole responsibility to ensure that Customer has all rights and permissions concerning the Switching or the
-Deletion Requests and the Customer Data before exercising its rights hereunder.
-Customer will defend SFDC and its Affiliates against any claim, demand, suit or proceeding made or brought against SFDC
-by Impacted Parties (a) alleging that the Switching or Deletion Request infringes such Impacted Party’s rights or licenses and
+(2) Termination. The Order Form(s) will automatically terminate either: 1) for Switching Request(s) upon Customer’s notifying
+SFDC in writing about the successful export of Customer Data in accordance with section (1) (a) above (in the absence of formal
+notification by Customer as indicated above, the switching will be deemed successful at the end of the Transition Period or Alternative
+Period), or 2) for Deletion Request(s), 2 months after SFDC has received the Deletion Request (the “Termination Date”).
+For the avoidance of doubt, such termination will not relieve Customer of its obligation to pay any fees due to SFDC for the period
+prior to the Termination Date of the relevant Order Form. Customer must pay any outstanding subscription fees covering the
+remainder of the term of the relevant Order Form(s) as an early termination fee. SFDC will not charge any other fees or penalties.
+SFDC will continue to provide the Services in accordance with the Agreement until the Termination Date or until the end of the
+subscription period.
+(3) Exclusions. In accordance with the Data Act, Switching or Deletion Requests will not be accepted for Beta Services as defined in
+the Agreement or, if not defined in the Agreement, as defined in the Main Services Agreement (or the Master Subscription Agreement,
+as the case may be) at https://www.salesforce.com/company/legal/agreements/ or for any Service that has been provided by SFDC for
+a limited period of time specifically for testing and evaluation purposes (such as a sandbox).
+(4) Indemnification. Several legal entities may be entitled to purchase or use Services under the Agreement (including without
+limitation Customer’s Affiliates and Users) and such entities other than the Customer making the request could therefore be impacted
+by the Switching Request or Deletion Request in accordance with this section (“Impacted Parties”). It is the Customer's sole
+
 SFDC-MSA, June 1, 2026​
 
 Page 16 of 17
 
-will indemnify SFDC from any damages, attorney fees and costs finally awarded against SFDC as a result of, or for any
-amounts paid by SFDC under a settlement approved by Customer in writing of, such a claim against SFDC, provided SFDC
-(A) promptly gives Customer written notice of such a claim against SFDC, (B) gives Customer sole control of the defense
-and settlement of such a claim against SFDC (except that Customer may not settle any such claim against SFDC unless it
-unconditionally releases SFDC of all liability), and (C) gives Customer all reasonable assistance, at Customer’s expense. The
-above defense and indemnification obligations do not apply if such a claim against SFDC arises from SFDC’s breach of this
-Agreement, the Documentation or applicable Order Forms.
-(5) Liability. SFDC shall not be liable for any damages, losses, costs, or expenses arising out of or in connection with the
-Switching and/or the Deletion Request. This exclusion of liability includes, but is not limited to, any issues related to
-Customer Data integrity or loss, system downtime, compatibility issues, or any other disruptions or failures that may occur
-during or as a result of the Switching and/or the Deletion Request. The Customer assumes full responsibility for the
-successful Switching or deletion of Customer Data.
+responsibility to ensure that Customer has all rights and permissions concerning the Switching or the Deletion Requests and the
+Customer Data before exercising its rights hereunder.
+Customer will defend SFDC and its Affiliates against any claim, demand, suit or proceeding made or brought against SFDC by
+Impacted Parties (a) alleging that the Switching or Deletion Request infringes such Impacted Party’s rights or licenses and will
+indemnify SFDC from any damages, attorney fees and costs finally awarded against SFDC as a result of, or for any amounts paid by
+SFDC under a settlement approved by Customer in writing of, such a claim against SFDC, provided SFDC (A) promptly gives
+Customer written notice of such a claim against SFDC, (B) gives Customer sole control of the defense and settlement of such a claim
+against SFDC (except that Customer may not settle any such claim against SFDC unless it unconditionally releases SFDC of all
+liability), and (C) gives Customer all reasonable assistance, at Customer’s expense. The above defense and indemnification obligations
+do not apply if such a claim against SFDC arises from SFDC’s breach of this Agreement, the Documentation or applicable Order
+Forms.
+(5) Liability. SFDC shall not be liable for any damages, losses, costs, or expenses arising out of or in connection with the Switching
+and/or the Deletion Request. This exclusion of liability includes, but is not limited to, any issues related to Customer Data integrity or
+loss, system downtime, compatibility issues, or any other disruptions or failures that may occur during or as a result of the Switching
+and/or the Deletion Request. The Customer assumes full responsibility for the successful Switching or deletion of Customer Data.
 
 SFDC-MSA, June 1, 2026​
 
