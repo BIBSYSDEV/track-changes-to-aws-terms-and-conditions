@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: June 17, 2026
+Last Updated: June 22, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -261,7 +261,7 @@ Transform, AWS AppFabric, AWS HealthScribe, AWS Resilience Hub, AWS App
 Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in
 SageMaker AI, Amazon Quick, AWS DevOps Agent, AWS Continuum (including
 features previously named AWS Security Agent), AWS FinOps Agent (Preview),
-Amazon WorkSpaces, and AWS Deadline Cloud.
+Amazon WorkSpaces, AWS Deadline Cloud, and Amazon GuardDuty.
 
 **1.24.1.** Amazon Bedrock abuse detection mechanisms may apply to such
 Services. See
