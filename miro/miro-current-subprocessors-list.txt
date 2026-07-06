@@ -1,5 +1,5 @@
 MIRO SUB-PROCESSORS
-Last updated: 11 March 2026
+Last updated: 8 July 2026
 Name
 
 Address
@@ -40,6 +40,16 @@ United States
 
 https://www.braze.com/
 
+Eleven Labs, Inc.
+
+169 Madison Ave, #2484, New York, NY 10016
+
+Live Captions, Transcripts
+
+United States
+
+https://elevenlabs.io/
+
 Gainsight, Inc.
 
 350 Bay Street Suite 100 San Francisco, CA 94133
@@ -62,7 +72,7 @@ https://cloud.google.com/looker
 
 Intercom, Inc.
 
-55 2nd Street, 4th Fl., San Francisco, CA 94105, USA
+55 2nd Street, 4th Fl., San Francisco, CA 94105
 
 Customer Support (Chatbot)
 
@@ -80,9 +90,19 @@ United States
 
 https://www.microsoft.com/
 
+OpenAI LLC
+
+1455 3rd St, San Francisco, CA 94158
+
+AI Functionality
+
+United States
+
+https://openai.com/
+
 PartnerHero, Inc.
 
-California, 518 S. 9th St. #300 Boise
+250 S 5th St, Ste 400, Boise, ID 83702
 
 Customer Support
 
@@ -125,33 +145,41 @@ Cardinal Web, Inc.
 
 United States
 
-RealtimeBoard B.V.
+Miro Japan GK
 
-The Netherlands
+Japan
 
 Miro Armenia LLC
 
 Armenia
 
-RealtimeBoard, Inc.
+Miro Worldwide France, SAS
 
-United States
+France
 
 Miro APAC Pty. Ltd.
 
 Singapore
 
-UizardApp ApS
+RealtimeBoard B.V.
 
-Denmark
+The Netherlands
 
 Miro Australia Pty Ltd
 
 Australia
 
+RealtimeBoard, Inc.
+
+United States
+
 Miro DACH GmbH
 
 Germany
+
+UizardApp ApS
+
+Denmark
 
 Miro Denmark ApS
 
@@ -161,18 +189,10 @@ Miro EMEA UK Limited
 
 United Kingdom
 
-Miro Japan GK
-
-Japan
-
-Miro Worldwide France, SAS
-
-France
-
 1
 
 MIRO THIRD PARTY AI MODEL PROVIDERS
-Last updated: 11 March 2026 - Please visit Miro’s Help Center for a detailed matching of default and optionally available models per Miro AI feature
+Last updated: 8 July 2026 - Please visit Miro’s Help Center for a detailed matching of default and optionally available models per Miro AI feature
 Model or Developer
 
 Hosted By (Service Name)
@@ -203,14 +223,18 @@ Anthropic Commercial Terms of Service
 
 Use must be compliant with the Anthropic Usage Policy
 
-OpenAI (various models)
-
 Microsoft Corporation (Azure OpenAI)
 
 Microsoft License Terms for Online Services
 
 Use must be compliant with Acceptable Use Policy for Online Services and the
 Azure OpenAI Code of Conduct
+
+OpenAI LLC
+
+OpenAI Services Agreement
+
+Use must be compliant with OpenAI Usage Policies.
 
 StabilityAI (various models)
 
@@ -245,6 +269,8 @@ Miro (via AWS)
 Apache 2.0
 
 N/A
+
+OpenAI (various models)
 
 2
 
