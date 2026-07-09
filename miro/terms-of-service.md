@@ -860,7 +860,6 @@ Tools
   * [Wireframe](https://miro.com/wireframe/)
   * [Online Whiteboard](https://miro.com/online-whiteboard/)
   * [Org Chart](https://miro.com/organizational-chart/)
-  * [Product Management](https://miro.com/solutions/product-management/)
   * [Roadmapping](https://miro.com/roadmapping/)
   * [Kanban Board](https://miro.com/kanban/)
   * [Process Mapping](https://miro.com/process-mapping/)
