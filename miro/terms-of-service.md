@@ -864,6 +864,7 @@ Tools
   * [Kanban Board](https://miro.com/kanban/)
   * [Process Mapping](https://miro.com/process-mapping/)
   * [AI Tools](https://miro.com/ai/ai-overview/)
+  * [Image Color Picker](https://miro.com/tools/color-picker/)
 
 Resources
 
