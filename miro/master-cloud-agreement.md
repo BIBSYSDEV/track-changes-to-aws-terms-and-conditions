@@ -772,7 +772,7 @@ Tools
   * [Flowchart Maker](https://miro.com/flowchart/)
   * [Prototyping](https://miro.com/prototyping/)
   * [Wireframe](https://miro.com/wireframe/)
-  * [Online Whiteboard](https://miro.com/online-whiteboard/)
+  * [Online Whiteboard](https://miro.com/whiteboard/)
   * [Org Chart](https://miro.com/organizational-chart/)
   * [Roadmapping](https://miro.com/roadmapping/)
   * [Kanban Board](https://miro.com/kanban/)
