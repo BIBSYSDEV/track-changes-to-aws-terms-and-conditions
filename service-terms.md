@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: July 9, 2026
+Last Updated: July 17, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -532,7 +532,7 @@ submit requests for Spot Instances through any third party (e.g., “proxy
 bidding”) or share information with any third party regarding Your Maximum
 Price specified in your Spot Instance Requests.
 
-**5.4.** EC2 Reserved Instances and Dedicated Hosts.
+**5.4.** **EC2 Reserved Instances and Dedicated Hosts**
 
 **5.4.1.**  We may change Savings Plans, EC2 Reserved Instance and EC2
 Dedicated Host Reservation pricing at any time, but price changes will not
@@ -584,7 +584,15 @@ of up-front fees or the expiration of reserved resources, including any fiscal
 or appropriation laws, or other policies or restrictions governing up-front
 payments for goods or services.
 
-**5.5.** EC2 Capacity Blocks for ML. AWS Capacity Blocks cannot be canceled
+**5.5.  EC2 Capacity Reservations**
+
+**5.5.1.** EC2 On-Demand Capacity Reservations. On-Demand Capacity
+Reservations (purchased for immediate use or future-dated) cannot be resold to
+another party. If we suspect you are doing so, we may take appropriate
+actions, such as cancelling your purchase or terminating EC2 instances
+launched via the resold reservation.
+
+**5.5.2.** EC2 Capacity Blocks for ML. AWS Capacity Blocks cannot be canceled
 nor can they be modified, and the full price of a Capacity Block is
 nonrefundable. You are responsible for determining if you are subject to any
 limitations arising from the purchase of Capacity Blocks. For example, you are
@@ -592,16 +600,17 @@ responsible for complying with any applicable laws, policies, terms or
 conditions governing your payment of up-front fees or the expiration of
 reserved resources, including any fiscal or appropriation laws, or other
 policies or restrictions governing up-front payments for goods or services.
-During the final 30 minutes of a Capacity Block, we may terminate your
-instances without notice and prevent new instance launches into your
-reservation. Capacity Blocks are nontransferable. Capacity Blocks that you
-purchase cannot be resold to another party, and we reserve the right to refuse
-or cancel your purchase if we suspect you are doing so. You may not cooperate
-with any third party in an attempt to influence or manipulate the price for
-Capacity Blocks. You may not submit requests for Capacity Blocks through any
-third party (e.g., “proxy purchasing”).
+During the final 30 minutes (for instance types) or 60 minutes (for
+UltraServer type) of a Capacity Block, we may terminate your instances without
+notice and prevent new instance launches into your reservation. Capacity
+Blocks are nontransferable. Capacity Blocks that you purchase cannot be resold
+to another party, and we reserve the right to refuse or cancel your purchase
+if we suspect you are doing so. You may not cooperate with any third party in
+an attempt to influence or manipulate the price for Capacity Blocks. You may
+not submit requests for Capacity Blocks through any third party (e.g., “proxy
+purchasing”).
 
-**5.6.** EC2 Reserved Instance (RI) Marketplace.
+**5.6. EC2 Reserved Instance (RI) Marketplace**
 
 **5.6.1.**  The rights to an active EC2 Reserved Instance can be offered for
 sale through the RI Marketplace as long as (1) the remaining term on the
@@ -1322,9 +1331,6 @@ your AWS Contracting Party is Amazon Web Services India Private Limited, and
 access to any Content or services through AWS Marketplace, or authorize
 another party to do so on your behalf, then the [Service Terms for AWS
 Marketplace Sellers](https://aws.amazon.com/legal/seller-terms) apply to you.
-Your use of the Buy with AWS feature is subject to the [Buy with AWS
-Trademarks License](https://aws.amazon.com/legal/buy-with-aws-trademarks-
-license/).
 
 ## 21\. AWS Ground Station
 
@@ -2061,9 +2067,9 @@ payment obligations under the Agreement) with respect to any claim arising
 from or relating to alleged infringement of third-party patents related to use
 of Amazon Kinesis Video Streams to encode, decode, or transcode files.
 
-**39.12. AWS IoT Core for Amazon Sidewalk**  
-  
-**39.12.1.** “AWS IoT Core for Amazon Sidewalk” is a feature of AWS IoT Core
+**39.12. AWS IoT Core for Amazon Sidewalk**
+
+**39.12.1.**  “AWS IoT Core for Amazon Sidewalk” is a feature of AWS IoT Core
 that enables customers to build applications and devices that connect to a
 shared network of bridge devices (“Gateways”) that contribute low-bandwidth
 connection to Amazon Sidewalk-enabled devices to help extend their working
@@ -2073,29 +2079,26 @@ from AWS is included as a part of AWS IoT Core for Amazon Sidewalk. You agree
 to, and must comply with, the following (which can be found in the [Amazon
 Sidewalk User Guide](https://docs.sidewalk.amazon/)): (i) the [Amazon Sidewalk
 Program Requirements](https://docs.sidewalk.amazon/sidewalk-terms-and-
-agreements/sidewalk-program-requirements.html); (ii) the [Works with Amazon
-Sidewalk Qualification
-Guidelines](https://docs.aws.amazon.com/iot/latest/developerguide/sidewalk-
-qualification-requirements.html); and (iii) the [Amazon Sidewalk Program
-Security Requirements](https://docs.sidewalk.amazon/sidewalk-terms-and-
+agreements/sidewalk-program-requirements.html); (ii) the [On Amazon Sidewalk
+qualification program](https://docs.sidewalk.amazon/qualification/); and (iii)
+the [Amazon Sidewalk Program Security
+Requirements](https://docs.sidewalk.amazon/sidewalk-terms-and-
 agreements/security-program-requirements.html). We may suspend or terminate
-Amazon Sidewalk and/or your access to it at any time without prior notice.  
-  
-**39.12.2.** You may not sell, distribute, or otherwise make available any
+Amazon Sidewalk and/or your access to it at any time without prior notice.
+
+**39.12.2.**  You may not sell, distribute, or otherwise make available any
 device, component, or other product that connects to, enables connectivity to,
 or interacts with Amazon Sidewalk (an “AS Device”) unless that AS Device has
-been and remains qualified at all times through the Works with Amazon Sidewalk
-(“WWAS”) [qualification
-program](https://docs.sidewalk.amazon/qualification/sidewalk-qualification-
-faq.html).  
-  
+been and remains qualified at all times through the [On Amazon Sidewalk
+Qualification program](https://docs.sidewalk.amazon/qualification/).
+
 **39.12.3.** We may collect and use certain information related to your AS
 Devices, including transmission and authentication identifiers. We use this
 data for purposes of maintaining and providing AWS IoT Core for Amazon
 Sidewalk. You provide specific authorization for AWS to use Ring LLC as a sub-
 processor in accordance with the DPA to process Customer Data in the US in
-order to make Amazon Sidewalk available for this feature.  
-  
+order to make Amazon Sidewalk available for this feature.
+
 **39.12.4.** Gateways are owned by customers who are contributing bandwidth
 from their Gateway’s existing internet service to Amazon Sidewalk, and are
 separate from and located outside of AWS data center facilities, servers,
@@ -2104,23 +2107,20 @@ networking equipment, storage media, and host software systems. Consequently,
 services in connection with their usage of or connectivity to Amazon Sidewalk,
 (ii) any commitments made in the Agreement related to security do not apply to
 Amazon Sidewalk, and (iii) Amazon Sidewalk coverage, density, bandwidth, up-
-time, and availability is not guaranteed and may change without notice.  
-    
-**39.12.5.** Subject to your compliance at all times with the Agreement and
-the [Works with Amazon Sidewalk Badge
-Guidelines](https://docs.sidewalk.amazon/sidewalk-terms-and-agreements/wwas-
-badge-guidelines.html), we hereby grant you a non-exclusive, royalty-free, and
-revocable license to use AWS Marks provided to you in connection with the WWAS
-qualification program (collectively, the “WWAS Marks”), to identify your WWAS-
-qualified AS Devices as using or being compatible with Amazon Sidewalk. Your
-use of WWAS Marks is also subject to Sections 4-7, 9, 11, and 14-18, of the
-[AWS Trademark Guidelines](https://aws.amazon.com/trademark-guidelines/). You
-must include the following statement in any materials that display the WWAS
-Marks: “Amazon, Amazon Sidewalk, and all related marks are trademarks of
-Amazon.com, Inc. or its affiliates.” We may include information about you and
-your AS Devices in our marketing materials to identify you as a participant in
-the WWAS program, including your name, logo, images, and videos of your AS
-Devices.
+time, and availability is not guaranteed and may change without notice.
+
+**39.12.5.**  Subject to your compliance at all times with the Agreement and
+the [On Amazon Sidewalk – Badge
+Guidelines](https://docs.sidewalk.amazon/sidewalk-terms-and-agreements/on-
+amazon-sidewalk-badge-guidelines.html), we hereby grant you a non-exclusive,
+royalty-free, and revocable license to use the On Amazon Sidewalk badge
+provided to you in connection with the On Amazon Sidewalk qualification
+program, to identify your qualified AS Devices as using or being compatible
+with Amazon Sidewalk. This license is conditioned upon your compliance with
+the [AWS Trademark Guidelines](https://aws.amazon.com/trademark-guidelines/).
+We may include information about you and your AS Devices in our marketing
+materials to identify you as a participant in the On Amazon Sidewalk program,
+including your name, logo, images, and videos of your AS Devices.
 
 **39.13. Managed integrations.** Managed integrations is a feature of AWS IoT
 Device Management that allows you to create or access cloud-to-cloud
