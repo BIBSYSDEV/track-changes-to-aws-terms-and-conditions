@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: July 17, 2026
+Last Updated: July 29, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -112,7 +112,7 @@ amounts for such period.
 générale de sécurité des systems d’information de santé (PGSSI-S), you agree
 that your use of the Services complies with the PGSSI-S.
 
-**1.14. Data Protection.**
+**1.14. Data Protection**
 
 **1.14.1** These Service Terms incorporate the [AWS Data Processing
 Addendum](https://d1.awsstatic.com/legal/aws-dpa/aws-dpa.pdf) (“DPA”), when
@@ -1966,9 +1966,9 @@ conjunction with AWS Amplify.
 
 ## 39\. AWS IoT Services
 
-**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management,
-AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics,
-AWS IoT SiteWise, AWS IoT FleetWise , AWS IoT TwinMaker, FreeRTOS, AWS IoT
+**39.1.  “AWS IoT Services” **means AWS IoT Core, AWS IoT Device Management,
+AWS IoT Device Defender, AWS IoT SiteWise, AWS IoT SiteWise Scenario
+Discovery, AWS IoT FleetWise, AWS IoT TwinMaker, FreeRTOS, AWS IoT
 ExpressLink, Amazon Kinesis Video Streams, and AWS IoT Greengrass.
 
 **39.2**. AWS IoT Services are not designed or intended for, and may not be
@@ -1984,9 +1984,10 @@ your or your End Users’ products and services that use AWS IoT Services; and
 (d) any other liability arising from your use of AWS IoT Services in violation
 of this paragraph.
 
-**39.3.** You may not rely on data collected through your use of AWS IoT
-Services as a substitute for any human monitoring of physical systems
-necessary to assess whether such systems are operating properly or safely.
+**39.3.** You may not rely on data collected through or curated through your
+use of AWS IoT Services as a substitute for any human monitoring of physical
+systems necessary to assess whether such systems are operating properly or
+safely.
 
 **39.4.** AWS IoT Core Device Shadow data for an individual device may be
 deleted if you do not update the Device Shadow data for an individual device
@@ -2147,6 +2148,15 @@ sell or license this contact information for marketing or any other purpose.
 Any terms, including any applicable privacy notices, governing your use of any
 third-party C2C Connector are solely between you and the third-party offering
 the C2C Connector.
+
+**39.14.** AWS IoT SiteWise Scenario Discovery is not designed to enable real-
+time vehicle control or transmission of operational commands to vehicles, and
+is not intended to be used by itself for any direct integration into any
+vehicle or vehicle system or for any regulatory submission. AWS is not
+responsible for any such uses. You may not rely on data collected through or
+curated through your use of AWS IoT SiteWise Scenario Discovery as the basis
+for determining that any vehicle or vehicle system is safe, compliant, or fit
+for deployment.
 
 ## 40\. Amazon Connect Talent (Preview)
 
@@ -2607,9 +2617,9 @@ Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract,
 Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS
 HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, Amazon
 Quick, AWS Elemental Inference, AWS DevOps Agent, AWS Continuum (including
-features previously named AWS Security Agent), and AWS FinOps Agent (Preview),
-and the model customization agent in SageMaker AI. “AI Content” means Your
-Content that is processed by an AI Service.
+features previously named AWS Security Agent), AWS FinOps Agent (Preview), the
+model customization agent in SageMaker AI, and AWS IoT SiteWise Scenario
+Discovery. “AI Content” means Your Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due
 to the nature of machine learning, output may not be unique across customers
@@ -3067,13 +3077,13 @@ or toll-free numbers.
 Voice Connector, and SMS Text, are sold and provided by AMCS LLC (“AMCS”), an
 affiliate of AWS, and not AWS, but are otherwise subject to the terms of the
 Agreement. Your invoice will state which Services that you have used are sold
-to you by AMCS and which are sold by AWS. Invoicing for the Chime PSTN Service
-is performed by AWS on behalf of AMCS for administrative convenience. You do
-not have to purchase any services sold by AMCS or the Chime PSTN Service to
-use Amazon Chime, and you may purchase the Chime PSTN Service calling features
-(such as inbound or outbound calling) separately, together, or not at all from
-AMCS. AWS is not a telecommunications provider and does not provide any
-telecommunications-related services.
+to you by AMCS and which are sold by AWS. All Invoicing for the Chime PSTN
+Service is performed by AWS on behalf of AMCS for administrative convenience.
+You do not have to purchase any services sold by AMCS or the Chime PSTN
+Service to use Amazon Chime, and you may purchase the Chime PSTN Service
+calling features (such as inbound or outbound calling) separately, together,
+or not at all from AMCS. AWS is not a telecommunications provider and does not
+provide any telecommunications-related services.
 
 **53.3.3.  **In using the Chime PSTN Service, you will not: (a) call or text
 PSTN telephone numbers (whether singly, sequentially, or automatically) to
