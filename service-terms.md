@@ -1280,7 +1280,7 @@ Japan (w.e.f. 1 October 2022) |  Amazon Web Services Japan G.K. |  N/A |  1-3-1 
 South Korea (w.e.f. 1 April 2025) |  Amazon Web Services Korea LLC | N/A |  L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
 The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](/legal/aws-emea-countries/) (w.e.f. 1 January 2022) |  Amazon Web Services EMEA SARL |  352 2789 0057 |  38 Avenue John F. Kennedy, L-1855, Luxembourg  
 India (for transactions between buyers and third party providers incorporated in India) (w.e.f. 1 October 2025) | Amazon Web Services India Private Limited |  011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India  
-Any other country that is not listed in this table above |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,  
+Any other country that is not listed in this table above |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,   
 Seattle, WA 98109-5210  
 U.S.A.  
   

@@ -1040,7 +1040,7 @@ Africa) ("EMEA")**
 
 |  AWS Contracting Party |  Facsimile |  Mailing Address  
 ---|---|---  
-Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,  
+Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,   
 Seattle, WA 98109-5210  
 U.S.A.  
   
