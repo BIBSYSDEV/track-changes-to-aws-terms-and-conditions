@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: August 13, 2026
+Last Updated: August 17, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -298,6 +298,44 @@ Addendum](https://d1.awsstatic.com/onedam/marketing-
 channels/website/aws/en_US/legal/approved/aws-uk-customer-switching-
 addendum.pdf) for customers with an Eligible Account, as defined in the AWS UK
 Switching Addendum.
+
+**1.31.** You may access certain Services without providing a payment method.
+Once AWS prompts you for a payment method, continued access to AWS may require
+you to provide and maintain a valid form of payment.
+
+**1.32. Sign up for AWS (new).**  If you sign up for AWS (new), available
+beginning August 17, 2026, and access the Services through AWS projects, the
+following Service Terms apply:
+
+**1.32.1.** AWS will create an AWS organization with a management account and
+member account (your project) on your behalf. You may create additional
+projects, each of which is a separate member account in your AWS organization.
+References to an “account” in the Agreement and the Policies include a
+project.
+
+**1.32.2.** If you are a project owner and invite team members to your
+project, you agree to disclose billing, project activity, and Builder ID
+profile information to these team members, and they will be End Users of your
+project. You are responsible for the conduct of End Users that you invite to
+your project, including Content they contribute to your project (“Contributed
+Content”), and for maintaining End User permissions for purposes of data
+security and access.
+
+**1.32.3.** If you join a project as a team member, you agree to disclose
+Builder ID profile information and project activity to the project owner, and
+you will be an End User into that project. Contributed Content you contribute
+as an End User is the Content of the project owner, and is not considered Your
+Content for the purposes of rights and obligations under the terms of this
+Agreement. Contributed Content may be viewed by others who have access to that
+project. Unless you enter into a license with other parties who have access to
+the project specifying different terms, you grant each party who has access to
+the project a nonexclusive, worldwide, irrevocable license to use, reproduce,
+prepare derivatives, distribute, perform, and display Contributed Content you
+contribute as an End User. You represent and warrant that you have all rights
+necessary to grant this license.
+
+**1.32.4.** To configure an AI services opt-out policy for your projects using
+AWS Organizations, select the opt-out mechanism in AWS Settings.
 
 ## 2\. Betas and Previews
 
@@ -737,16 +775,25 @@ requirements. THE USE OF AMAZON EC2 DOES NOT GRANT YOU, AND YOU HEREBY WAIVE,
 ANY RIGHT OF PHYSICAL ACCESS TO, OR PHYSICAL POSSESSION OF, ANY AWS SERVERS,
 EQUIPMENT, REAL OR PERSONAL PROPERTY, OR OTHER ASSETS.
 
-## 6\. Alexa Web Services
+## 6\. Spend Limits
 
-You may use data you receive from the Alexa Services Web Information Service
-and Alexa Top Sites (collectively “Alexa Web Services”), such as web site
-traffic data, to enhance your application or website, but may not use it in
-any application whose primary purpose is to display the same or related data
-or to compete with www.alexa.com. You may not display data you receive via the
-Alexa Web Services that has been cached for more than 24 hours. You may not
-resell or redistribute the Alexa Web Services or data you access via the Alexa
-Web Services.
+**6.1.** By enabling spend limits you agree that if you reach your spend limit
+on your project or account, AWS may suspend your, or any End User’s, right to
+access or use any portion of the Services, including by pausing your project
+or closing your account. You further agree that if you do not reactivate your
+account or project after your spend limit is reached, we may permanently close
+your account or project, and we will delete Your Content in accordance with
+the technical documentation applicable to the Services.
+
+**6.2.** AWS may limit or prevent your use of spend limits immediately upon
+notice to you, if you repeatedly exceed your spend limits, or if we reasonably
+determine that your use of spend limits is fraudulent or constitutes abuse.
+
+**6.3.** Spend limits are not intended for accounts or projects used in, or in
+association with, the operation of any hazardous environments or critical
+systems, any regulated content (such as protected health information),
+government data, or any content of government entities. You are solely
+responsible for any liability that may arise in connection with such use.  
 
 ## 7\. Amazon SimpleDB Service (Amazon SimpleDB)
 
@@ -1469,12 +1516,6 @@ vendor’s capacity, availability, and acceptance of an order.
 regulatory submissions. You are responsible for making your own assessment of
 whether your use of Amazon Bio Discovery meets applicable legal and regulatory
 requirements.
-
-**22.11.** You may access some parts of Amazon Bio Discovery without providing
-a payment method. Until you provide a payment method, your AWS Contracting
-Party is Amazon Web Services, Inc. Once AWS prompts you for a payment method,
-continued access to Amazon Bio Discovery may require you to provide and
-maintain a valid form of payment.
 
 ## 23\. AWS OpsWorks
 
@@ -3338,7 +3379,7 @@ including any alternative arrangements that you have made available.
 
 **54.2.3.**  Neither AWS nor its affiliates will be liable for any damages
 resulting from any Emergency Services call or any inability to place an
-Emergency Services call using Amazon Connect Customer.  AWS disclaims all
+Emergency Services call using Amazon Connect Customer. AWS disclaims all
 responsibility for the conduct of local emergency response centers, third
 parties engaged by you to facilitate emergency response location or other
 address updates, and all other third parties involved in the provision of
@@ -4608,12 +4649,7 @@ notice.
 
 **91.2.**  Upon deletion of your AWS Builder ID, you will no longer have
 access to Your Content through your AWS Builder ID, and such content will be
-deleted.  
-
-
-
-**91.3.  **For purposes of your use of AWS Builder ID, Amazon Web Services,
-Inc. is the AWS Contracting Party under the Agreement.
+deleted.
 
 ## 92\. AWS Clean Rooms
 
