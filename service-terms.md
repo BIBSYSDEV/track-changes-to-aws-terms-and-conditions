@@ -1,6 +1,6 @@
 # AWS Service Terms
 
-Last Updated: August 17, 2026
+Last Updated: August 20, 2026
 
 ## 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1327,7 +1327,7 @@ Japan (w.e.f. 1 October 2022) |  Amazon Web Services Japan G.K. |  N/A |  1-3-1 
 South Korea (w.e.f. 1 April 2025) |  Amazon Web Services Korea LLC | N/A |  L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
 The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](/legal/aws-emea-countries/) (w.e.f. 1 January 2022) |  Amazon Web Services EMEA SARL |  352 2789 0057 |  38 Avenue John F. Kennedy, L-1855, Luxembourg  
 India (for transactions between buyers and third party providers incorporated in India) (w.e.f. 1 October 2025) | Amazon Web Services India Private Limited |  011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India  
-Any other country that is not listed in this table above |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,   
+Any other country that is not listed in this table above |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,  
 Seattle, WA 98109-5210  
 U.S.A.  
   
@@ -2808,8 +2808,8 @@ Generator, AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q
 Developer Free Tier), AWS Transform, Amazon Bio Discovery (excluding Amazon
 Bio Discovery Academic Tier), Amazon Connect Customer, Amazon Connect
 Decisions, Amazon Connect Health, Amazon Connect Talent, Amazon Lex, Kiro
-(excluding Kiro Free Tier), and Amazon Quick. The following terms apply to the
-Indemnified Generative AI Services:
+(excluding Kiro Free Tier), AWS DevOps Agent, AWS Security Agent, and Amazon
+Quick. The following terms apply to the Indemnified Generative AI Services:
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party

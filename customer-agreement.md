@@ -913,7 +913,7 @@ South Korea |  Amazon Web Services Korea LLC |  N/A |  L12, East tower, 231, Teh
 Taiwan (only for accounts with a Unified Business Number (UBN) and using the invoicing payment method) |  Amazon Web Services Taiwan Limited |  N/A |  18F, No. 32, 36, Songren Road, Xinyi District, Taipei, Taiwan  
 Türkiye |  AWS Turkey Pazarlama Teknoloji ve Danışmanlık Hizmetleri Limited Şirketi |  N/A |  Esentepe Mahallesi Bahar Sk. Özdilek/River Plaza/Wyndham Grand Hotel Apt. No: 13/52 Şişli, Istanbul, 34394, Türkiye  
 Any country within Europe, the Middle East, or Africa (excluding South Africa) ("EMEA")** |   Amazon Web Services EMEA SARL |  352 2789 0057 |  38 Avenue John F. Kennedy, L-1855, Luxembourg  
-Any country/territory that is not listed in this table above. |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,   
+Any country/territory that is not listed in this table above. |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,  
 Seattle, WA 98109-5210  
 U.S.A.  
   
