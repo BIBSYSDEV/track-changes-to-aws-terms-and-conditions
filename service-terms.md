@@ -1,8 +1,8 @@
-# AWS Service Terms
+## AWS Service Terms
 
-Last Updated: August 20, 2026
+Last Updated: September 1, 2026
 
-## 1\. Universal Service Terms (Applicable to All Services)
+### 1\. Universal Service Terms (Applicable to All Services)
 
 The Service Terms below govern your use of the Services. Capitalized terms
 used in these Service Terms but not defined below are defined in the [AWS
@@ -337,7 +337,7 @@ necessary to grant this license.
 **1.32.4.** To configure an AI services opt-out policy for your projects using
 AWS Organizations, select the opt-out mechanism in AWS Settings.
 
-## 2\. Betas and Previews
+### 2\. Betas and Previews
 
 **2.1.** This Section describes the additional terms and conditions under
 which you may (a) access and use certain features, technologies, and services
@@ -407,7 +407,7 @@ BETA SERVICES AND BETA REGIONS WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAY
 US UNDER THIS AGREEMENT FOR THE BETA SERVICES OR BETA REGIONS THAT GAVE RISE
 TO THE CLAIM DURING THE 12 MONTHS PRECEDING THE CLAIM.
 
-## 3\. Amazon CloudFront
+### 3\. Amazon CloudFront
 
 **3.1.** You must own or have all necessary rights to use any domain name or
 SSL certificate that you use in conjunction with Amazon CloudFront. You are
@@ -420,7 +420,7 @@ allowances in your CloudFront Flat-rate Pricing Plan, AWS may take appropriate
 action, which may include reducing your performance (e.g. throttling) or
 requiring a change to your pricing structure.
 
-## 4\. AWS Outposts
+### 4\. AWS Outposts
 
 **4.1.**  “AWS Outposts” includes AWS Outposts racks and AWS Outposts servers.  
 
@@ -508,7 +508,7 @@ accepts the Outposts Equipment for delivery back to AWS. You must notify and
 obtain AWS’s consent before moving the Outpost Equipment from the Designated
 Facility.
 
-## 5\. Amazon Elastic Compute Cloud
+### 5\. Amazon Elastic Compute Cloud
 
 **5.1.** In conjunction with the Services, you may be allowed to use certain
 software (including related documentation) developed and owned by Microsoft
@@ -775,7 +775,7 @@ requirements. THE USE OF AMAZON EC2 DOES NOT GRANT YOU, AND YOU HEREBY WAIVE,
 ANY RIGHT OF PHYSICAL ACCESS TO, OR PHYSICAL POSSESSION OF, ANY AWS SERVERS,
 EQUIPMENT, REAL OR PERSONAL PROPERTY, OR OTHER ASSETS.
 
-## 6\. Spend Limits
+### 6\. Spend Limits
 
 **6.1.** By enabling spend limits you agree that if you reach your spend limit
 on your project or account, AWS may suspend your, or any End User’s, right to
@@ -795,14 +795,14 @@ systems, any regulated content (such as protected health information),
 government data, or any content of government entities. You are solely
 responsible for any liability that may arise in connection with such use.  
 
-## 7\. Amazon SimpleDB Service (Amazon SimpleDB)
+### 7\. Amazon SimpleDB Service (Amazon SimpleDB)
 
 If during the previous 6 months you have incurred no fees for Amazon SimpleDB
 and have registered no usage of Your Content stored in Amazon SimpleDB, we may
 delete Your Content that is stored in Simple DB upon 30 days prior notice to
 you.
 
-## 8\. Amazon CloudWatch and Autoscaling
+### 8\. Amazon CloudWatch and Autoscaling
 
 **8.1.** Amazon CloudWatch collects and stores certain information for the
 Services you are monitoring, including CPU utilization, data transfer, and
@@ -851,7 +851,7 @@ provided by the monitor to more than one entity. You may distribute metrics
 provided by your monitor(s) to third party network observability services
 solely for your personal use.
 
-## 9\. AWS Snowball and AWS Snowcone
+### 9\. AWS Snowball and AWS Snowcone
 
 **9.1.** “AWS Snow Family” includes: AWS Snowball and AWS Snowcone.
 
@@ -930,7 +930,7 @@ incorporation to upload, request that we download or export any such military
 items from that Member State, and it is a condition of this Agreement and your
 use of AWS Snow Family that you are so permitted.
 
-## 10\. Amazon Relational Database Service (Amazon RDS) and Amazon Aurora
+### 10\. Amazon Relational Database Service (Amazon RDS) and Amazon Aurora
 
 **10.1 General Terms**
 
@@ -1066,7 +1066,7 @@ Software license under the BYOL option with Amazon RDS if you meet and agree
 to the following terms and conditions:
 
   * You must have a valid license with current and ongoing “Subscription & Support” authorization from IBM or its authorized reseller for the IBM Db2 Software you wish to run. The terms and conditions of your existing license and support agreement(s) with IBM, and your compliance therewith, continue to apply to your use of IBM Db2 Software with Amazon RDS;
-  * You must comply with IBM’s current Eligible Public Cloud Bring-Your-Own-Software-License (BYOSL) Policy including the terms associated with the IBM Db2 Software on Amazon RDS found [here](https://www.ibm.com/software/passportadvantage/eligible_public_cloud_BYOSL_policy.html); and
+  * You must comply with IBM’s current Eligible Public Cloud Bring-Your-Own-Software-License (BYOSL) Policy including the terms associated with the IBM Db2 Software on Amazon RDS found [here](https://www.ibm.com/software/passportadvantage/eligible-public-cloud-byosl-policy); and
   * Your use of IBM Db2 Software with Amazon RDS is subject to suspension or termination if you do not comply with the terms and conditions above.
 
 **10.6.2.  **Subject to the AWS Privacy Notice (available at
@@ -1079,7 +1079,7 @@ using.
 Marketplace integration in the RDS console, Section 20 (AWS Marketplace) of
 the Service Terms apply.
 
-## 11\. Amazon Simple Notification Service (Amazon SNS)
+### 11\. Amazon Simple Notification Service (Amazon SNS)
 
 **11.1.**  Portions of Amazon SNS in Japan are sold and provided by AMCS LLC,
 an affiliate of AWS, and not AWS, but are otherwise subject to the terms of
@@ -1112,7 +1112,7 @@ SNS is also subject to the terms that govern AWS End User Messaging.
   * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.
   * Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
 
-## 12\. AWS Identity and Access Management (IAM)
+### 12\. AWS Identity and Access Management (IAM)
 
 **12.1.**  We may change user credentials created by you using IAM if we
 determine in our reasonable discretion that a change is necessary for the
@@ -1122,7 +1122,7 @@ of any such change.
 **12.2.** We may change, discontinue, or deprecate support for any third-party
 identity provider at any time without prior notice.
 
-## 13\. Amazon Route 53
+### 13\. Amazon Route 53
 
 **13.1.** You may not create a hosted zone for a domain that you do not own or
 have authority over.
@@ -1135,7 +1135,7 @@ and AWS will have no liability for disclosure of those DNS records.
 Route 53 Domain Name Registration Agreement](/route53/domain-registration-
 agreement/).
 
-## 14\. AWS Elastic Beanstalk
+### 14\. AWS Elastic Beanstalk
 
 **14.1.** AWS may reject or modify any URL used in connection with an AWS
 Elastic Beanstalk environment that violates the intellectual property rights
@@ -1145,7 +1145,7 @@ any third-party or violates the Acceptable Use Policy.
 time, the [myapp] portion of the URL used in connection with the environment
 will no longer be available to you and may be used by another AWS customer.
 
-## 15\. Amazon Simple Email Service (SES)
+### 15\. Amazon Simple Email Service (SES)
 
 **15.1.  **Portions of Amazon SES in Singapore are sold and provided by AMCS
 SG PRIVATE LIMITED (“AMCS SG”), an affiliate of AWS, and not AWS, but are
@@ -1177,7 +1177,7 @@ by reasons outside of our control, your payment obligations continue.
 **15.6.**  AWS is not the “sender” as defined in the CAN-SPAM Act or similar
 applicable law.
 
-## 16\. AWS Direct Connect
+### 16\. AWS Direct Connect
 
 **16.1.** You are responsible for protecting your AWS Direct Connect
 connections, including using physical security, firewalls, and other network
@@ -1206,7 +1206,7 @@ charges will apply. However, if you are using Amazon Virtual Private Cloud
 IPsec VPN connection. If an IPsec VPN connection is unavailable, traffic bound
 for your Amazon VPC resources will not be delivered.
 
-## 17\. Amazon ElastiCache
+### 17\. Amazon ElastiCache
 
 **17.1.** You may not access or tamper with any software we install on the
 cache nodes as part of Amazon ElastiCache.
@@ -1228,7 +1228,7 @@ front fee paid in connection with any previously designated Reserved Cache
 Nodes. Upon expiration or termination of the term of a Reserved Cache Node,
 standard on-demand usage prices will apply to the cache nodes you use.
 
-## 18\. AWS GovCloud (US) Service Terms
+### 18\. AWS GovCloud (US) Service Terms
 
 **18.1.** Use of the Services in the AWS GovCloud (US) Regions is subject to
 the AWS GovCloud (US) Terms and Conditions available via AWS Artifact in the
@@ -1251,7 +1251,7 @@ GovCloud (US) Regions.
 of AWS Services will comply with the laws and regulations that may govern Your
 Content.
 
-## 19\. Amazon DynamoDB
+### 19\. Amazon DynamoDB
 
 The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved
 throughput capacity (reads and writes) subject to the pricing and payment
@@ -1271,7 +1271,7 @@ purchased Amazon DynamoDB Reserved Capacity. Upon expiration or termination of
 the term of any Amazon DynamoDB Reserved Capacity, standard on-demand usage
 prices will apply to your use of Amazon DynamoDB.
 
-## 20\. AWS Marketplace
+### 20\. AWS Marketplace
 
 **20.1.**  Buyer Terms. If you purchase or obtain access to any Content or
 services through AWS Marketplace, the following AWS Marketplace Buyer Terms
@@ -1376,7 +1376,7 @@ access to any Content or services through AWS Marketplace, or authorize
 another party to do so on your behalf, then the [Service Terms for AWS
 Marketplace Sellers](/legal/seller-terms) apply to you.
 
-## 21\. AWS Ground Station
+### 21\. AWS Ground Station
 
 **21.1.  **Any guidance provided through Licensing Accelerator or by AWS
 Ground Station is provided for your convenience, does not constitute legal or
@@ -1453,7 +1453,7 @@ assign, grant, or transfer the Ground Station Equipment or any interest in the
 Ground Station Equipment to any individual or entity, and any such purported
 assignment, grant or transfer is void.
 
-## 22\. Amazon Bio Discovery
+### 22\. Amazon Bio Discovery
 
 **22.1.**  "Amazon Bio Discovery Content" means Your Content that is processed
 by Amazon Bio Discovery.
@@ -1517,7 +1517,7 @@ regulatory submissions. You are responsible for making your own assessment of
 whether your use of Amazon Bio Discovery meets applicable legal and regulatory
 requirements.
 
-## 23\. AWS OpsWorks
+### 23\. AWS OpsWorks
 
 **23.1.** Your use of the AWS OpsWorks agent is governed by the [AWS OpsWorks
 Client License Agreement.](/opsworks-local-license/) Your use of AWS OpsWorks
@@ -1547,7 +1547,7 @@ Corporation may not as a matter of applicable law disclaim any implied
 warranty, the scope and duration of such warranty will be the minimum
 permitted under applicable law.  
 
-## 24\. AWS Supply Chain
+### 24\. AWS Supply Chain
 
 **24.1.** You agree and instruct that we may use Your Content that is
 processed by AWS Supply Chain to generate forecasts, insights, or
@@ -1594,7 +1594,7 @@ if you choose to do so, after which time Your Content will be removed.
 **24.6. Amazon Q in AWS Supply Chain.** Section 50 below applies to Amazon Q
 in AWS Supply Chain.
 
-## 25\. AWS RTB Fabric
+### 25\. AWS RTB Fabric
 
 **25.1.** You may only use AWS RTB Fabric to facilitate real-time bidding
 communications (“RTB Communications”). If you use AWS RTB Fabric to do
@@ -1604,7 +1604,7 @@ your access to AWS RTB Fabric or your account.
 **25.2.  **We may remove any AWS RTB Fabric gateway that is not actively
 linked to another AWS RTB Fabric gateway for 60 consecutive days.
 
-## 26\. Amazon WorkSpaces
+### 26\. Amazon WorkSpaces
 
 **26.1.** Any Content that you or any End User run on, cause to interface
 with, or upload to your WorkSpaces is Your Content. You are responsible for
@@ -1685,7 +1685,7 @@ Features to develop and improve the Service or technologies of AWS or its
 affiliates by configuring an AI services opt-out policy using AWS
 Organizations.
 
-## 27\. Amazon Cognito
+### 27\. Amazon Cognito
 
 **27.1.** We may change, discontinue, or deprecate support for any third-party
 identity provider at any time without prior notice.
@@ -1694,7 +1694,7 @@ identity provider at any time without prior notice.
 within a 12 month period, we may delete the Cognito User Pool upon 30 days’
 prior notice to you.
 
-## 28\. AWS Security Hub (launched on December 2, 2025)
+### 28\. AWS Security Hub (launched on December 2, 2025)
 
 **28.1.** "Security Hub Content" is Your Content that AWS Security Hub
 processes.
@@ -1726,7 +1726,7 @@ discontinuation or deprecation of support for a Security Offering, your access
 to that Security Offering through the Security Hub Extended plan will be
 discontinued.****
 
-## 29\. Amazon Pinpoint and AWS End User Messaging (formerly, the SMS, MMS,
+### 29\. Amazon Pinpoint and AWS End User Messaging (formerly, the SMS, MMS,
 voice message, and push notification features of Amazon Pinpoint)
 
 **29.1.** Portions of Amazon Pinpoint and AWS End User Messaging in Japan are
@@ -1845,7 +1845,7 @@ messaging channel at any time. We will provide you with as much prior notice
 of any deprecation or discontinuation of support for the RCS messaging channel
 as practicable under the circumstances.
 
-## 30\. AWS Lambda
+### 30\. AWS Lambda
 
 We may delete, upon 30 days’ notice to you, any of Your Content uploaded to
 AWS Lambda if it has not been run for more than 3 months. You may only use
@@ -1856,7 +1856,7 @@ Any other use, including but not limited to, using Lambda’s storage for the
 purpose of hosting generally accessible content for download or storage, is
 not permitted and may result in us deleting Your Content.
 
-## 31\. Amazon WorkMail
+### 31\. Amazon WorkMail
 
 **31.1.** When you use Amazon WorkMail, you also use AWS Key Management
 Service, AWS IAM, and Amazon SES, and your use of Amazon WorkMail is subject
@@ -1897,7 +1897,7 @@ data and your End Users’ mailboxes.
 LLC, an affiliate of AWS, and not AWS, but are otherwise subject to the terms
 of the Agreement.
 
-## 32\. Amazon WorkSpaces Application Manager (Amazon WAM)
+### 32\. Amazon WorkSpaces Application Manager (Amazon WAM)
 
 **32.1.** When you use Amazon WAM, you also use Amazon WorkSpaces, and your
 use is subject to the terms that govern Amazon WorkSpaces.
@@ -1910,7 +1910,7 @@ that will be delivered via Amazon WAM to your WorkSpaces.
 Amazon WAM desktop applications with software upgrades, patches, and bug
 fixes.
 
-## 33\. AWS B2B Data Interchange
+### 33\. AWS B2B Data Interchange
 
 **33.1.** When you register as a trading partner to access an AWS B2B Data
 Interchange Portal established under another AWS account (“B2B Data
@@ -1936,13 +1936,13 @@ Content under the terms of the Agreement. You are responsible for the conduct
 of End Users that you invite, including their Trading Partner Contributed
 Content.
 
-## 34\. AWS Directory Service
+### 34\. AWS Directory Service
 
 Use of Microsoft Software on AWS Directory Service is subject to Section 5.1
 above. Microsoft is an intended third-party beneficiary of this Section 34,
 with the right to enforce its provisions.
 
-## 35\. AWS Device Farm
+### 35\. AWS Device Farm
 
 **35.1.** For any test run on an Apple device (each, an “Apple Test”), you
 represent and warrant that you have an active and valid registered Apple
@@ -1974,14 +1974,14 @@ test packages (pre- compiled), test script source code, application extension
 files, or auxiliary data files to third parties solely for purposes of
 conducting automated security verification.
 
-## 36\. Amazon OpenSearch Service
+### 36\. Amazon OpenSearch Service
 
 Amazon OpenSearch**~~~~**Service creates daily automated snapshots of your
 Amazon OpenSearch Service domains. We will maintain these automated snapshots
 for a period of at least 14 days after they are created. We may delete
 automated snapshots at any time after 14 days.
 
-## 37\. AWS Database Migration Service
+### 37\. AWS Database Migration Service
 
 The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the
 AWS Schema Conversion Tool, is AWS Content under the [Intellectual Property
@@ -1996,12 +1996,12 @@ and
 DMS Fleet Advisor collects information about resources on your network that
 you designate for discovery.
 
-## 38\. AWS Amplify
+### 38\. AWS Amplify
 
 You must have all necessary rights to use any domain name that you use in
 conjunction with AWS Amplify.
 
-## 39\. AWS IoT Services
+### 39\. AWS IoT Services
 
 **39.1.  “AWS IoT Services” **means AWS IoT Core, AWS IoT Device Management,
 AWS IoT Device Defender, AWS IoT SiteWise, AWS IoT SiteWise Scenario
@@ -2194,7 +2194,7 @@ curated through your use of AWS IoT SiteWise Scenario Discovery as the basis
 for determining that any vehicle or vehicle system is safe, compliant, or fit
 for deployment.
 
-## 40\. Amazon Connect Talent (Preview)
+### 40\. Amazon Connect Talent (Preview)
 
 **40.1.** “Amazon Connect Talent Content” means Your Content that is processed
 by Amazon Connect Talent.
@@ -2266,7 +2266,7 @@ applicable law. AWS’ own bias and discrimination mitigation efforts do not
 relieve you of your independent obligation to prevent, assess, and address
 bias and discrimination in your use of Amazon Connect Talent.
 
-## 41\. AWS Certificate Manager
+### 41\. AWS Certificate Manager
 
 **41.1.** By using AWS Certificate Manager (“ACM”) you authorize us, Amazon
 Trust Services, LLC (“ATS”), or our affiliates (collectively, “Amazon CA”) to
@@ -2334,12 +2334,12 @@ or to send or receive unsolicited bulk correspondence; and
 contractor) may revoke a Certificate at any time, and you agree that you will
 cease using the Certificate immediately upon our notice of such revocation.
 
-## 42\. AWS Verified Access
+### 42\. AWS Verified Access
 
 **42.1.  **We may change, discontinue, or deprecate support for any third-
 party trust provider at any time without prior notice.
 
-## 43\. Amazon GameLift
+### 43\. Amazon GameLift
 
 **43.1. Amazon GameLift Servers**
 
@@ -2380,13 +2380,13 @@ and/or payment obligations under the Agreement) with respect to any claim
 arising from or relating to alleged infringement of third-party patents
 related to use of _GameLift Streams_ to encode, decode, or transcode files.
 
-## 44\. AWS Application Discovery Service
+### 44\. AWS Application Discovery Service
 
 When you use AWS Application Discovery Service, data that is scanned by AWS
 Application Discovery Service in your on-premises computing resources will be
 deemed Your Content.
 
-## 45\. AWS Professional Services
+### 45\. AWS Professional Services
 
 **45.1.**  AWS Professional Services are advisory and consulting services that
 AWS provides under an order, statement of work, or pursuant to a Generative AI
@@ -2537,7 +2537,7 @@ all your systems and Content before, during, and after delivery of any
 migrations performed as part of AWS Professional Services. AWS is not
 responsible for any losses resulting from your failure to back up Content.
 
-## 46\. Amazon Redshift
+### 46\. Amazon Redshift
 
 The Reserved Node program allows you to designate Amazon Redshift nodes as
 subject to the reserved pricing and payment terms set forth on the Amazon
@@ -2556,7 +2556,7 @@ Upon expiration or termination of the term of a Reserved Node, the Reserved
 Node pricing will expire and standard on-demand usage prices will apply to the
 Amazon Redshift node.
 
-## 47\. AWS Server Migration Service
+### 47\. AWS Server Migration Service
 
 **47.1.** When you use AWS Server Migration Service, data that is scanned by
 AWS Server Migration Service in your on-premises computing resources will be
@@ -2565,7 +2565,7 @@ deemed Your Content.
 **47.2.** We may terminate the migration of any image that remains in a
 migration queue for 90 days or more.
 
-## 48\. AWS Organizations
+### 48\. AWS Organizations
 
 **48.1**. AWS Organizations enables you to create an “Organization” by joining
 a single AWS account (the “Management Account”) with one or more AWS accounts
@@ -2639,14 +2639,14 @@ complies with applicable tax laws, and agree to assist AWS as provided in
 Section 1.22.5. The Bill-Transfer Account’s tax settings may be disclosed to
 the Bill-Source Account and its Organization.
 
-## 49\. Amazon Athena
+### 49\. Amazon Athena
 
 Notwithstanding any other provision of the Agreement, you may incorporate into
 your programs or applications, and distribute as incorporated in such programs
 or applications, the Amazon Athena JDBC Driver or the Amazon Athena ODBC
 Driver, in each case solely for use with Amazon Athena.
 
-## 50\. AWS Machine Learning and Artificial Intelligence Services
+### 50\. AWS Machine Learning and Artificial Intelligence Services
 
 **50.1.**  “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru
 Profiler, Amazon CodeGuru Reviewer, Amazon Foundation Models (Amazon Nova and
@@ -2877,17 +2877,6 @@ you agree and instruct that we may: (a) review the flagged input or output to
 determine if it is CSAM, and (b) report the incident to the National Center
 for Missing and Exploited Children or other authority.
 
-**50.12.2.2.**  Certain Anthropic models identified on the [Bedrock abuse
-detection page](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
-detection.html) require you to consent to the transfer of Your Content and
-associated metadata to Anthropic for abuse detection, via the opt-in mechanism
-described in the [applicable service
-documentation](https://docs.aws.amazon.com/bedrock/latest/userguide/data-
-retention.html). By providing such consent, you instruct AWS to transfer Your
-Content and associated metadata to Anthropic for processing in accordance with
-[Anthropic's Data Processing Addendum](https://www.anthropic.com/legal/data-
-processing-addendum).
-
 **50.12.3.** Provisioned throughput commitments for Bedrock. We may change
 provisioned throughput commitment pricing or stop offering commitments for
 provisioned throughput at any time. Any price changes will not apply to
@@ -2944,15 +2933,16 @@ Amazon Q Content for service improvement as described in this Section 50.13 by
 you use Amazon Q in the IDE, by adjusting your settings in the IDE, or (iii)
 using the opt-out mechanism described in the Amazon Q documentation.
 
-**50.14. Kiro.**
+**50.14. Kiro**
 
 **50.14.1.**  If you purchase your Kiro subscription on a payment portal
 powered by Stripe, then for purposes of your use of Kiro, Amazon Web Services,
 Inc. is the AWS Contracting Party under the Agreement.
 
 **50.14.2.  **Per Section 1.24 of the Service Terms, Amazon Bedrock abuse
-detection mechanisms apply to your use of Kiro. See
-[here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
+detection mechanisms apply to your use of Kiro, including our retention and
+potential human review of inputs and outputs when you select certain models.
+See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
 detection.html) for more details. Additionally, only for Kiro Free Tier users,
 we may store your inputs for up to 60 days (unless otherwise required by law)
 for the purposes of detecting activity that violates the Agreement and
@@ -3026,7 +3016,7 @@ dashboards for near real-time use cases must choose capacity pricing. For
 readers under user pricing, each reader is limited to manual use by one
 individual only.
 
-## 51\. Amazon Lightsail
+### 51\. Amazon Lightsail
 
 **51.1.** You authorize AWS to peer your Amazon Lightsail VPCs and your Amazon
 VPCs when using Amazon Lightsail VPC peering.
@@ -3045,7 +3035,7 @@ processing through load balancing or content delivery network (CDN) Services
 as described in the technical documentation), and if you do, we may throttle
 or suspend your data services or suspend your account.
 
-## 52\. AWS Systems Manager
+### 52\. AWS Systems Manager
 
 **52.1.  **Certain features of this Service include functionality that allows
 notifications to be sent to a contact channel (e.g., telephone number, email
@@ -3057,7 +3047,7 @@ these features.
 
 **52.2.** Your use of AWS-ApplyChefRecipes is subject to Section 23.2. above.
 
-## 53\. Amazon Chime and Amazon Chime SDK
+### 53\. Amazon Chime and Amazon Chime SDK
 
 **53.1.** In this section, “Amazon Chime” includes Amazon Chime and Amazon
 Chime SDK.****
@@ -3294,7 +3284,7 @@ United States region(s) where the Amazon Chime service is hosted.
 United Kingdom and Switzerland is sold and provided by AMCS, but is otherwise
 subject to the terms of the Agreement.
 
-## 54\. Amazon Connect Customer
+### 54\. Amazon Connect Customer
 
 **54.1.**  **Connect Customer PSTN Service**
 
@@ -3516,24 +3506,24 @@ based communications, such as email, are not permitted and may result in
 additional fees being charged to your account or in any increased service
 limits being reverted to default capacity.
 
-## 55\. AWS Greengrass
+### 55\. AWS Greengrass
 
 Your use of the AWS Greengrass Core is governed by the [AWS Greengrass Core
 Software License](https://s3-us-west-2.amazonaws.com/greengrass-release-
 license/greengrass-license-v1.pdf).
 
-## 56\. AWS Migration Hub
+### 56\. AWS Migration Hub
 
 When you use AWS Migration Hub, data that is scanned by AWS Migration Hub in
 your on-premises computing resources will be deemed Your Content.
 
-## 57\. Amazon MQ (AMQ)
+### 57\. Amazon MQ (AMQ)
 
 If your messages sent through Amazon MQ are blocked, delayed, or prevented
 from delivery by reasons outside of our control, your payment obligations
 continue.
 
-## 58\. AWS Elemental Media Services and Amazon Interactive Video Service
+### 58\. AWS Elemental Media Services and Amazon Interactive Video Service
 (“IVS”)
 
 **58.1.** “AWS Elemental Media Services” means AWS Elemental Inference,
@@ -3583,7 +3573,7 @@ responsible for obtaining all required licenses from Licensors to use their
 technology, paying any necessary royalties or fees, and complying with
 applicable terms and conditions.
 
-## 59\. AWS Entity Resolution
+### 59\. AWS Entity Resolution
 
 **59.1.** “AWS Entity Resolution Content” means Your Content that is processed
 by AWS Entity Resolution.
@@ -3614,7 +3604,7 @@ Content stored by AWS Entity Resolution must be deleted under applicable law.
 Resolution, directly or indirectly, to develop or improve a similar or
 competing product or service.
 
-## 60\. Amazon SageMaker
+### 60\. Amazon SageMaker
 
 **60.1.**  You are responsible for providing legally adequate privacy notices
 to End Users of your products or services that use Amazon SageMaker Data Agent
@@ -3747,19 +3737,19 @@ or competing product or service.
 
 
 
-## 61\. AWS AppSync
+### 61\. AWS AppSync
 
 You agree not to and will not attempt to perform any network discovery or load
 testing of Your Content inside AWS AppSync unless expressly authorized by us
 in writing.
 
-## 62\. AWS Telco Network Builder
+### 62\. AWS Telco Network Builder
 
 **AWS Support.** You will remain enrolled in [Business
 Support](/premiumsupport/plans/business/) or better during the entire period
 of your use of AWS Telco Network Builder.
 
-## 63\. Database Savings Plans
+### 63\. Database Savings Plans
 
 We may change Database Savings Plan ("DB Savings Plan") pricing or terminate
 the program at any time. Any price changes will not apply to previously
@@ -3777,7 +3767,7 @@ conditions governing your payment of up-front fees, including any fiscal or
 appropriation laws, or other policies or restrictions governing up-front
 payments for goods or services.
 
-## 64\. Amazon FSx
+### 64\. Amazon FSx
 
 **64.1**. Amazon FSx for Windows File Server. Use of Microsoft Software on
 Amazon FSx for Windows File Server is subject to Section 5.1 above. Microsoft
@@ -3788,7 +3778,7 @@ enforce its provisions.
 or other usage information with NetApp to enable NetApp to provide technical
 and sales support.
 
-## 65\. AWS Security Assurance Services
+### 65\. AWS Security Assurance Services
 
 **65.1.** “AWS Security Assurance Services” are advisory and consulting
 services that AWS provides under a statement of work (“SOW”) to help you run
@@ -3844,7 +3834,7 @@ with respect to such AWS Content or Third Party Content.
 party and provide to SAS for the purposes of the AWS Security Assurance
 Services are Your Content.
 
-## 66\. AWS Data Transfer Terminal
+### 66\. AWS Data Transfer Terminal
 
 **66.1.  **To use AWS Data Transfer Terminal, You connect Your storage
 device(s) to fiber connections that allow You to send data to Your AWS storage
@@ -3882,7 +3872,7 @@ problem with AWS Data Transfer Terminal or related AWS Services that we
 reasonably believe may be attributable to Your or your designees' actions at
 or inside a Data Transfer Terminal facility.
 
-## 67\. AWS Training
+### 67\. AWS Training
 
 **67.1.** “AWS Training” equips individual learners and enterprises with the
 skills to use, build, and innovate using the cloud, and includes instructor-
@@ -4022,7 +4012,7 @@ Systems.
 with 15 days written notice, which may be via email. AWS will charge you for
 the full month during which the cancellation takes effect.
 
-## 68\. AWS Certification
+### 68\. AWS Certification
 
 “AWS Certification Program” means the program through which AWS makes
 available professional certifications and other credentials in connection with
@@ -4032,7 +4022,7 @@ the [Certification Program Agreement](/certification/certification-agreement/)
 (“CPA”). To the extent there is a conflict between the Agreement and the CPA,
 the CPA controls.
 
-## 69\. Migration Evaluator
+### 69\. Migration Evaluator
 
 Migration Evaluator collects performance and usage metrics and data about your
 virtual machine image(s) and IT infrastructure; software packages and
@@ -4042,7 +4032,7 @@ installation and operation of Migration Evaluator and its components. We may
 use these metrics and data to provide, maintain, and improve the quality and
 feature sets of the Services and AWS Content.
 
-## 70\. AWS Config
+### 70\. AWS Config
 
 If you enable a third-party recorder in Config, you agree and instruct that:
 (a) we may use and store your Config Content to develop and improve AWS Config
@@ -4057,7 +4047,7 @@ configuring an AI services opt-out policy using AWS Organizations. "Config
 Content" means resource configuration data processed by Config in connection
 with third-party recorders.
 
-## 71\. AWS Cloud WAN
+### 71\. AWS Cloud WAN
 
 **71.1.** AWS Cloud WAN in Japan is sold and provided by AMCS LLC, an
 affiliate of AWS, and not AWS, but is otherwise subject to the terms of the
@@ -4071,14 +4061,14 @@ terms of the Agreement.
 applicable [Country Specific Communications Service Terms](/service-
 terms/country-specific-communications-service-terms/).  
 
-## 72\. AWS CodeStar Notifications
+### 72\. AWS CodeStar Notifications
 
 AWS CodeStar Notifications utilizes one or more of the following: Amazon
 Simple Notification Service (Amazon SNS), Amazon Simple Email Service (SES),
 and/or AWS Chatbot. If utilized, your use of AWS CodeStar Notifications is
 also subject to the terms that govern those Services.
 
-## 73\. AWS Data Exchange
+### 73\. AWS Data Exchange
 
 **73.1.** The [Service Terms for AWS Marketplace Sellers](/legal/seller-terms)
 apply to your use of AWS Data Exchange. Your use of Content obtained through
@@ -4132,7 +4122,7 @@ contracts](/marketplace/features/standardized-contracts).
 the [AWS Data Exchange User Guide](https://docs.aws.amazon.com/data-
 exchange/latest/userguide/what-is.html).
 
-## 74\. AWS End of Support Migration Program for Windows Server
+### 74\. AWS End of Support Migration Program for Windows Server
 
 **74.1.** The AWS End of Support Migration Program (EMP) for Windows Server
 Service, including any tools provided for the EMP Service (which are AWS
@@ -4157,7 +4147,7 @@ Service and its associated software and components (“Migration Information”)
 Migration Information may be used to improve the quality and feature set of
 the Services.
 
-## 75\. Amazon Fraud Detector
+### 75\. Amazon Fraud Detector
 
 **75.1.** AWS is not a consumer reporting agency as defined by the Fair Credit
 Reporting Act, 15 U.S.C. §1681 et seq. (“FCRA”), or the equivalent under
@@ -4182,7 +4172,7 @@ instruct AWS not to use or store Your Content processed by Amazon Fraud
 Detector to develop and improve Amazon Fraud Detector or other AWS fraud
 prevention services.
 
-## 76\. Amazon Augmented AI
+### 76\. Amazon Augmented AI
 
 **76.1.** You are responsible for providing legally adequate privacy notices
 to End Users of your products or services that use Amazon Augmented AI
@@ -4203,7 +4193,7 @@ compliance requirements applicable to any personal data or confidential
 information in your data or content. You may not share data or content that
 contains protected health information with the third party vendor workforce.
 
-## 77\. AWS Private Certificate Authority
+### 77\. AWS Private Certificate Authority
 
 **77.1. AWS Private Certificate Authority Connector for SCEP (Preview).** When
 you use AWS Private CA Connector for SCEP (Preview) with Microsoft Intune,
@@ -4212,7 +4202,7 @@ Microsoft APIs. Your use of the AWS Private CA Connector for SCEP and
 accompanying AWS Services does not remove your need to have a valid license
 for your use of the Microsoft Intune service.
 
-## 78\. Wavelength Zones/Local Zones
+### 78\. Wavelength Zones/Local Zones
 
 For the Service Level Agreements applicable to any Services or Service
 workloads that you run in Wavelength Zones or Local Zones, Service Credits are
@@ -4222,7 +4212,7 @@ individual Service that runs in the affected Wavelength Zones or Local Zones,
 respectively, for the monthly billing cycle in which the unavailability
 occurred.
 
-## 79\. Amazon Braket
+### 79\. Amazon Braket
 
 **79.1.** If you use Amazon Braket to access quantum computing hardware
 operated by one of the third-party hardware providers listed
@@ -4237,7 +4227,7 @@ relates to services offered by any Hardware Provider at any time. We will
 provide you with prior notice of any deprecation or discontinuation of such a
 service offering where practicable under the circumstances.
 
-## 80\. Amazon Elastic Container Registry Public
+### 80\. Amazon Elastic Container Registry Public
 
 **80.1.** Amazon Elastic Container Registry Public (Amazon ECR Public) is a
 public registry that allows you to upload and share Content that anyone with
@@ -4265,7 +4255,7 @@ business purposes. If you upload and share any Third-Party Content to Amazon
 ECR Public, you are responsible for ensuring that you have the rights and
 licenses necessary to do so.
 
-## 81\. Industrial AI Services
+### 81\. Industrial AI Services
 
 **81.1.** “Industrial AI Services” means, collectively, Amazon Lookout for
 Vision, Amazon Lookout for Equipment, Amazon Monitron, and AWS Panorama.
@@ -4321,7 +4311,7 @@ incorporate into your programs or applications, and distribute as incorporated
 in such programs or applications, the binary code that we distribute for
 Industrial AI Services with the AWS Mobile SDKs.
 
-## 82\. Amazon Location Service
+### 82\. Amazon Location Service
 
 **82.1.** When you use a feature of Amazon Location Service that is identified
 to you as being provided by a third-party geolocation service provider listed
@@ -4466,7 +4456,7 @@ Feature is subject to the [Postal Authority
 Terms](https://docs.aws.amazon.com/location/latest/developerguide/data-
 attribution.html#postal-authority-terms).
 
-## 83\. AWS Managed Services
+### 83\. AWS Managed Services
 
 **83.1**. If you request that AWS Managed Services be provided for any
 software or service that is not expressly identified as supported in the AWS
@@ -4487,7 +4477,7 @@ recommendation from AWS, (c) your delay or withholding of approval for AWS to
 take a requested action, or (d) any change by you to your Managed Environment
 (as defined in the AWS Managed Services user guides posted on the AWS Site).
 
-## 84\. Amazon FinSpace
+### 84\. Amazon FinSpace
 
 Amazon FinSpace is a tool to help you analyze data for investment and business
 decisions. It is not a substitute for the judgment and experience of the user
@@ -4495,7 +4485,7 @@ when making investment and business decisions. Amazon FinSpace does not
 provide investment advice, make investment recommendations or evaluate the
 suitability of any investment or investment strategy.
 
-## 85\. Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere)
+### 85\. Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere)
 Support
 
 **85.1.** You must purchase AWS Enterprise Support in order to subscribe to
@@ -4512,7 +4502,7 @@ If you request support for Isovalent’s software, such as Cilium, we may share
 your Account Information, logs or other usage information with Isovalent to
 provide technical support.
 
-## 86\. AWS DeepRacer Student
+### 86\. AWS DeepRacer Student
 
 **86.1.** You acknowledge that we may store your Content that is processed by
 AWS DeepRacer Student in AWS regions outside the AWS region where you are
@@ -4544,7 +4534,7 @@ are under 18 years of age, or the age of majority in your location, you may
 use AWS DeepRacer Student only with involvement of a parent or guardian who
 agrees to be bound by these Service Terms.
 
-## 87\. Amazon GuardDuty
+### 87\. Amazon GuardDuty
 
 **87.1.**  “Malware Content” is Your Content that the Amazon GuardDuty Malware
 Protection feature processes and identifies as being malicious or harmful.
@@ -4571,7 +4561,7 @@ instruct AWS not to use and store Runtime Monitoring Content to develop and
 improve Amazon GuardDuty or other AWS security services by configuring an AI
 services opt-out policy using AWS Organizations.  
 
-## 88\. AWS Wickr
+### 88\. AWS Wickr
 
 
 
@@ -4592,7 +4582,7 @@ Administrators can (a) upgrade or downgrade End Users’ AWS Wickr feature set;
 (b) suspend End User’s access to AWS Wickr; and (c) access information about
 their End Users’ use of AWS Wickr.  
 
-## 89\. Amazon Elastic VMware Service (EVS)
+### 89\. Amazon Elastic VMware Service (EVS)
 
 **89.1.** License models - Under the "bring-your-own-license" (BYOL) option,
 AWS Elastic VMware Service enables you to provision VMware Cloud Foundation
@@ -4618,7 +4608,7 @@ entire period of your use of EVS.
 with Broadcom to enable Broadcom to provide technical and sales support and
 verify license compliance.
 
-## 90\. AWS SimSpace
+### 90\. AWS SimSpace
 
 
 
@@ -4637,7 +4627,7 @@ your use case. You and your End Users are solely responsible for all decisions
 made, advice given, actions taken, and failures to act based on your use of
 AWS SimSpace Weaver.  
 
-## 91\. AWS Builder ID
+### 91\. AWS Builder ID
 
 
 
@@ -4651,7 +4641,7 @@ notice.
 access to Your Content through your AWS Builder ID, and such content will be
 deleted.
 
-## 92\. AWS Clean Rooms
+### 92\. AWS Clean Rooms
 
 **92.1.** You may not use AWS Clean Rooms or any information obtained from
 your use of AWS Clean Rooms to identify a person or associate such information
@@ -4690,7 +4680,7 @@ healthcare services but is not a medical device and is not intended to be used
 by itself for any clinical decision-making or other clinical use. You are
 responsible for liability that may arise in connection with any such uses.
 
-## 93\. Amazon CodeCatalyst
+### 93\. Amazon CodeCatalyst
 
 **93.1.** When you access an Amazon CodeCatalyst Space established under
 another CodeCatalyst account (“Third-Party Space”), you are an End User of
@@ -4738,7 +4728,7 @@ Content will not be deleted from your Space. However, identifications of that
 End User, including those associated with issues, comments, and Contributed
 Content, may be deleted.
 
-## 94\. Integrated Private Wireless on AWS
+### 94\. Integrated Private Wireless on AWS
 
 **94.1.** AWS may stop providing the Integrated Private Wireless on AWS portal
 (or remove any offerings on the [Integrated Private Wireless on AWS
@@ -4752,7 +4742,7 @@ offered by third parties and subject to separate terms and conditions
 specified by the respective third party. AWS has no control and makes no
 guarantees about such offerings.
 
-## 95\. AWS Diode
+### 95\. AWS Diode
 
 **95.1.** AWS Diode allows You to map Your account to another Diode account
 (“Mapped Account”), enabling Your Content to be moved and stored by the Mapped
@@ -4769,7 +4759,7 @@ classification levels. Your failure to do so may result in Amazon incurring
 sanitization costs for which You will be responsible, and which will be exempt
 from any limitations of liability in any of your agreements with AWS.
 
-## 96\. AWS Nitro System
+### 96\. AWS Nitro System
 
 AWS personnel do not have access to Your Content on AWS Nitro System EC2
 instances. There are no technical means or APIs available to AWS personnel to
@@ -4779,7 +4769,7 @@ EC2 instance. Access to AWS Nitro System EC2 instance APIs – which enable AWS
 personnel to operate the system without access to Your Content - is always
 logged, and always requires authentication and authorization.
 
-## 97\. Amazon Security Lake
+### 97\. Amazon Security Lake
 
 **97.1.** "Security Lake Content" is Your Content that (a) Amazon Security
 Lake processes or (b) is stored in Amazon Security Lake.  
@@ -4792,13 +4782,13 @@ instruct AWS not to use and store Security Lake Content to develop and improve
 Amazon Security Lake or other AWS security services by configuring an AI
 services opt-out policy using AWS Organizations.
 
-## 98\. Amazon Managed Blockchain
+### 98\. Amazon Managed Blockchain
 
 You are solely responsible for evaluating the information made available
 through the Amazon Managed Blockchain Query Service for accuracy as
 appropriate for your use case.
 
-## 99\. Amazon DataZone
+### 99\. Amazon DataZone
 
 **99.1.** DataZone generates probable forecasts, insights or recommendations
 from Your Content, and its outputs should be evaluated for accuracy as
@@ -4835,7 +4825,7 @@ consents. You are responsible for notifying us in the event that any Amazon
 DataZone ML Content stored by Amazon DataZone ML Services must be deleted
 under applicable law.
 
-## 100\. AWS re:Post Private
+### 100\. AWS re:Post Private
 
 **100.1.** You acknowledge that we may store Your Content that is processed by
 AWS re:Post Private in AWS regions outside the AWS region where you are using
@@ -4844,7 +4834,7 @@ AWS re:Post Private.
 **100.2.** Use of AWS re:Post Private is subject to the Terms of Use for AWS
 re:Post Private which are available in your private re:Post.
 
-## 101\. Amazon One Enterprise
+### 101\. Amazon One Enterprise
 
 **101.1. Amazon One Enterprise Services (Preview).** “Amazon One Enterprise
 Service” includes all Services and Amazon Content AWS or its affiliates
@@ -4943,14 +4933,14 @@ regions where you are using Amazon One Enterprise.
 Enterprise Services to, directly or indirectly, develop or improve a similar
 or competing product or service.
 
-## 102\. Amazon WorkSpaces Thin Client
+### 102\. Amazon WorkSpaces Thin Client
 
 In addition to the Agreement and these Service Terms, use of Amazon WorkSpaces
 Thin Client devices is subject to [device terms](/workspaces/thin-
 client/terms/). Please review the device terms before using an Amazon
 WorkSpaces Thin Client device.
 
-## 103\. AWS Deadline Cloud
+### 103\. AWS Deadline Cloud
 
 **103.1**. When you use AWS Deadline Cloud, you have the option to license
 digital content creation software (“**DCC Software** ”) from separate third-
@@ -5023,7 +5013,7 @@ lead to serious body injury or death or cause environmental or property
 damage, and you are solely responsible for liability that may arise in
 connection with any such use.
 
-## 104\. AWS Security Incident Response
+### 104\. AWS Security Incident Response
 
 **104.1.** You represent and warrant to AWS that the person requesting any of
 your AWS accounts to be an AWS Security Incident Response Membership Account
@@ -5044,7 +5034,7 @@ Security Incident Response user guides posted on the AWS Site).
 Response permissions to access Amazon GuardDuty and AWS Security Hub to ingest
 alerts and create suppression rules on your behalf.  
 
-## 105\. Amazon Inspector
+### 105\. Amazon Inspector
 
 **105.1.  Amazon Inspector Code Security.** We may change, discontinue, or
 deprecate support for any third-party software development services at any
@@ -5052,7 +5042,7 @@ time without prior notice. We will provide you with prior notice of any
 deprecation or discontinuation of support for a third-party software
 development service where practicable under the circumstances.
 
-## 106\. Amazon Connect Health
+### 106\. Amazon Connect Health
 
 **106.1.** "Amazon Connect Health Content" means Your Content that is
 processed by Amazon Connect Health.
@@ -5113,7 +5103,7 @@ clinical decision-making and is not a medical device. Healthcare providers
 remain responsible for finalizing all clinical documentation and for patient
 care coordination.
 
-## 107\. AWS Interconnect
+### 107\. AWS Interconnect
 
 **107.1.** AWS will provide other cloud and last mile service providers with
 information necessary to enable them to establish and support your connection,
@@ -5143,7 +5133,7 @@ if you have not used it in the previous 90 days.
 **107.4.3.  **We may temporarily reduce Free Tier Interconnect speed to manage
 capacity.
 
-## 108\. Amazon Connect Decisions
+### 108\. Amazon Connect Decisions
 
 **108.1.** “Amazon Connect Decisions Content” means Your Content that is
 processed by Amazon Connect Decisions.
@@ -5187,7 +5177,7 @@ or property damage.
 service providers, as identified in the service documentation. You authorize
 AWS to transmit your Content to the providers for processing.
 
-## 109\. AWS Web Application Firewall (“WAF”)
+### 109\. AWS Web Application Firewall (“WAF”)
 
 **109.1. AWS WAF AI  traffic monetization**
 
@@ -5223,7 +5213,7 @@ discontinue support of a Payment Provider or Facilitator where practicable
 under the circumstances. AWS may impose limits on the amount of traffic
 processed by AWS WAF AI traffic monetization at any time.
 
-## 110\. Free Exploration Services
+### 110\. Free Exploration Services
 
 **110.1.** AWS may provide free exploratory technical consulting and advisory
 services to help you use the Services. These exploratory services may include
