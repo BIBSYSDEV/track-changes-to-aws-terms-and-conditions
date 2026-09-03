@@ -14,8 +14,8 @@ SUCH INDIVIDUAL MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
 The Services may not be accessed for purposes of monitoring their availability, performance or functionality, or for any other
 benchmarking or competitive purposes.
 SFDC’s direct competitors are prohibited from accessing the Services, except with SFDC’s prior written consent.
-This Agreement was last updated on June 1, 2026. It is effective between Customer and SFDC as of the date of Customer’s accepting
-this Agreement (the “Effective Date”).
+This Agreement was last updated on September 1, 2026. It is effective between Customer and SFDC as of the date of Customer’s
+accepting this Agreement (the “Effective Date”).
 1.​
 
 DEFINITIONS
@@ -49,7 +49,7 @@ as a free trial and Purchased Services.
 “Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms,
 time bombs and Trojan horses.
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 1 of 17
 
@@ -125,7 +125,7 @@ for export or download as provided in the Documentation. After such 30-day perio
 or provide any Customer Data, and as provided in the Documentation will thereafter delete or destroy all copies of Customer
 Data in its systems or otherwise in its possession or control, unless legally prohibited.
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 2 of 17
 
@@ -196,7 +196,7 @@ Customer agrees that any termination of Customer’s access to the Free Services
 agrees that SFDC will not be liable to Customer or any third party for such termination. Customer is solely responsible for
 exporting Customer Data from the Free Services prior to termination of Customer’s access to the Free Services for any reason,
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 3 of 17
 
@@ -267,7 +267,7 @@ use any Services to access, copy or use any of SFDC intellectual property except
 Form, or the Documentation, (h) modify, copy, or create derivative works of a Service or any part, feature, function or user
 interface thereof, (i) frame or mirror any part of any Service, other than framing on Customer's own intranets or otherwise for
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 4 of 17
 
@@ -347,7 +347,7 @@ such amounts are paid in full, provided that, other than for customers paying by
 been declined, SFDC will give Customer at least 10 days’ prior notice that its account is overdue, in accordance with the
 “Manner of Giving Notice” section below for billing notices, before suspending services to Customer.
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 5 of 17
 
@@ -432,7 +432,7 @@ Protection of Confidential Information. As between the parties, each party retai
 Confidential Information. The Receiving Party will use the same degree of care that it uses to protect the confidentiality of its
 own confidential information of like kind (but not less than reasonable care) to (i) not use any Confidential Information of the
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 6 of 17
 
@@ -508,7 +508,7 @@ Services or use thereof would not infringe without such combination; (III) a Cla
 under an Order Form for which there is no charge; or (IV) a Claim Against Customer arises from a Non-SFDC Application or
 Customer’s breach of this Agreement, the Documentation or applicable Order Forms.
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 7 of 17
 
@@ -574,7 +574,7 @@ law. In no event will termination relieve Customer of its obligation to pay any 
 effective date of termination.
 11.5​ Surviving Provisions. The sections titled “Free Services,” “Fees and Payment,” “Proprietary Rights and Licenses,”
 “Confidentiality,” “Disclaimers,” “Mutual Indemnification,” “Limitation of Liability,” “Refund or Payment upon Termination,”
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 8 of 17
 
@@ -622,12 +622,7 @@ in connection with this Agreement, and the courts that have jurisdiction over an
 Customer is domiciled.
 
 For Customers domiciled in North or South America
-
-SFDC-MSA, June 1, 2026​
-
-Page 9 of 17
-
-If Customer is
+If Customer is
 domiciled in:
 
 The SFDC entity
@@ -635,8 +630,6 @@ entering into this
 Agreement is:
 
 Notices should be addressed to:
-
-Governing law is:
 
 Any country
 other than
@@ -648,7 +641,26 @@ salesforce.com, inc.),
 a Delaware
 corporation
 
-Brazil
+Salesforce Tower, 415 Mission
+California and
+Street, 3rd Floor, San Francisco,
+controlling United
+California, 94105, U.S.A., attn: VP, States federal law
+
+SFDC-MSA, September 1, 2026​
+
+Page 9 of 17
+
+Governing law is:
+
+Courts with
+exclusive
+jurisdiction are:
+San Francisco,
+California,
+U.S.A.
+
+Brazil
 
 Salesforce Tecnologia
 Ltda.
@@ -660,11 +672,6 @@ Canada Corporation, a
 Nova Scotia
 corporation
 
-Salesforce Tower, 415 Mission
-California and
-Street, 3rd Floor, San Francisco,
-controlling United
-California, 94105, U.S.A., attn: VP, States federal law
 Worldwide Sales Operations, with a
 copy to attn: General Counsel
 Av. Jornalista Roberto Marinho,
@@ -678,13 +685,6 @@ controlling
 California, 94105, U.S.A., attn: VP, Canadian federal
 Worldwide Sales Operations, with a law
 copy to attn: General Counsel
-
-Courts with
-exclusive
-jurisdiction are:
-San Francisco,
-California,
-U.S.A.
 
 São Paulo, SP,
 Brazil
@@ -738,8 +738,14 @@ Germany
 salesforce.com Italy
 S.r.l., an Italian
 limited liability
+company having its
+registered address at
+Piazza Filippo Meda
+5, 20121 Milan (MI),
+VAT / Fiscal code n.
+04959160963
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Notices should be addressed to:
 
@@ -776,6 +782,10 @@ Salesforce UK Limited, Floor 26
 Italy
 Salesforce Tower, 110 Bishopsgate,
 London, EC2N 4AY, United
+Kingdom, attn: VP, Sales
+Operations, with a copy to attn.:
+Legal Department
+
 Page 10 of 17
 
 Courts with
@@ -792,29 +802,19 @@ Milan, Italy
 
 Spain
 
-United
-Kingdom
-
-company having its
-registered address at
-Piazza Filippo Meda
-5, 20121 Milan (MI),
-VAT / Fiscal code n.
-04959160963
 Salesforce Systems
 Spain, S.L., a limited
 liability company
 incorporated in Spain
+
+United
+Kingdom
 
 Salesforce UK
 Limited, a limited
 liability company
 incorporated in
 England
-
-Kingdom, attn: VP, Sales
-Operations, with a copy to attn.:
-Legal Department
 
 Salesforce UK Limited, Floor 26
 Spain
@@ -923,16 +923,17 @@ Tokyo, Japan
 
 12.10​ Manner of Giving Notice. Except as otherwise specified in this Agreement, all notices related to this Agreement will be in
 writing and will be effective upon (a) personal delivery, (b) the second business day after mailing, or (c), except for notices of
-SFDC-MSA, June 1, 2026​
-
-Page 11 of 17
-
-termination or an indemnifiable claim (“Legal Notices”), which shall clearly be identifiable as Legal Notices, the day of
+termination or an indemnifiable claim (“Legal Notices”), which shall clearly be identifiable as Legal Notices, the day of
 sending by email. Billing-related notices to Customer will be addressed to the relevant billing contact designated by Customer.
 All other notices to Customer will be addressed to the relevant Services system administrator designated by Customer.
 12.11​ Agreement to Governing Law and Jurisdiction. Each party agrees to the applicable governing law above without regard to
 choice or conflicts of law rules, and to the exclusive jurisdiction of the applicable courts above.
-12.12​ Local Law Requirements: France. ​
+
+SFDC-MSA, September 1, 2026​
+
+Page 11 of 17
+
+12.12​ Local Law Requirements: France. ​
 ​
 With respect to Customers domiciled in France, the following provisions shall be applicable :
 (1)​ Section 8.2 “SFDC Warranties” is replaced by the following :
@@ -944,9 +945,25 @@ decrease the overall security of the Services, (c) the Services will perform mat
 applicable Documentation, and (d) subject to the “Integration with Non-SFDC Applications” section above,
 SFDC will not materially decrease the overall functionality of the Services.
 (2) a new Section 12.12.1 is added as follows:
-12.12.1 PGSSI-S. To the extent Customer is subject to Article L.1111-8 (or any successor thereto) of the French public health
-code (Code de la Santé Publique), Customer shall abide by the Global Information Security Policy for the Healthcare Sector
-(PGSSI-S) pursuant to Article L.1110-4-1 (or any successor thereto) of the aforementioned code.
+12.12.1 Electronic Invoicing. Subject to the conditions set forth herein, and with respect to invoicing for Services provided
+pursuant to this Agreement, SFDC will issue invoices and perform transaction and payment e-reporting in electronic format in
+accordance with applicable French VAT, electronic invoicing, and e-reporting laws and regulations (including Articles 289 A
+and 290 of the French Tax Code (Code général des impôts) and Article 242 nonies M of Appendix II thereto) effective from
+September 1, 2026, for the sale of goods and services performed between residents, established or identified in the territory of
+the French State, including French overseas departments subject to French VAT (the “French E-Invoicing and E-Reporting
+Requirements”).
+Customer will provide SFDC with complete and accurate information necessary for the issuance and routing of electronic
+invoices under French E-Invoicing and E-Reporting Requirements and will promptly notify SFDC of any changes to such
+information.
+Except to the extent required by French E-Invoicing and E-Reporting Requirements, none of the following will, by itself,
+excuse or suspend Customer’s payment obligations or extend the applicable payment due date: (a) any delay, rejection, routing
+failure, or unavailability caused by Customer’s dematerialization platform or public invoicing portal; (b) any incident affecting
+the public invoicing portal; or (c) any issue resulting from Customer’s failure to comply with the terms herein.
+SFDC reserves the right to provide any invoice copy in electronic form via email or other means in addition to the electronic
+invoicing network described herein.
+For the avoidance of doubt, rejecting or changing an invoice status in Customer’s dematerialization platform or public invoicing
+portal shall not alter payment terms or suspend Customer’s payment obligations. Payment disputes remain governed by the
+terms of the Agreement.
 (3) a new Section 12.12.2 is added as follows :
 12.12.2 Exclusions. To the extent permitted under applicable law, the provisions of Article 1222 and 1223 of the French Civil
 Code shall in no event be applicable.
@@ -963,22 +980,21 @@ Agreement, the applicable statutory law shall prevail.
 12.13​ Local Law Requirements: Germany. With respect to Customers domiciled in Germany, Section 8 “REPRESENTATIONS,
 WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS”, Section 9.3 “Exclusive Remedy”, and Section 10
 “LIMITATION OF LIABILITY” of this Agreement are replaced with the following sections respectively:
-8 WARRANTIES FOR CUSTOMERS DOMICILED IN GERMANY
+SFDC-MSA, September 1, 2026​
+
+Page 12 of 17
+
+8 WARRANTIES FOR CUSTOMERS DOMICILED IN GERMANY
 8.1 Agreed Quality of the Services. SFDC warrants that during an applicable subscription term (a) this Agreement, the Order
 Forms and the Documentation will accurately describe the applicable administrative, physical, and technical safeguards for
 protection of the security, confidentiality and integrity of Customer Data, (b) SFDC will not materially decrease the overall
 security of the Services, (c) the Services will perform materially in accordance with the applicable Documentation, and (d)
 subject to the “Integration with Non-SFDC Applications” section above, SFDC will not materially decrease the overall
 functionality of the Services.
-8.2
-Reporting of Defects. Customer shall report any deviation of the Services from the “Agreed Quality of the Services” section
-(“Defect”) to SFDC in writing without undue delay and shall submit a detailed description of the Defect or, if not possible, of
-SFDC-MSA, June 1, 2026​
-
-Page 12 of 17
-
-the symptoms of the Defect. Customer shall forward to SFDC any useful information available to Customer for rectification of
-the Defect.
+8.2 Reporting of Defects. Customer shall report any deviation of the Services from the “Agreed Quality of the Services”
+section (“Defect”) to SFDC in writing without undue delay and shall submit a detailed description of the Defect or, if not
+possible, of the symptoms of the Defect. Customer shall forward to SFDC any useful information available to Customer for
+rectification of the Defect.
 8.3 Remedies Resulting from Defects. SFDC shall rectify any Defect within a reasonable period of time. If such rectification
 fails, Customer may terminate the respective Order Form provided that SFDC had enough time for curing the Defect. In the
 “Refund or Payment upon Termination” section, sentence 1 and sentence 3 shall apply accordingly. If SFDC is responsible for
@@ -1015,7 +1031,11 @@ agents or bodies.
 5.3 “Overdue Charges,” and Section 12.2 “Anti Corruption” of this Agreement are replaced with the following sections
 respectively:
 5.2. Invoicing and Payment
-5.2.1 Invoicing and Payment. Fees will be invoiced in advance and otherwise in accordance with the relevant Order Form.
+SFDC-MSA, September 1, 2026​
+
+Page 13 of 17
+
+5.2.1 Invoicing and Payment. Fees will be invoiced in advance and otherwise in accordance with the relevant Order Form.
 Unless otherwise stated in the Order Form, fees are due net 30 days from the invoice date. The parties acknowledge that
 invoices are also be submitted electronically by SFDC in accordance with the “Electronic Invoicing” section below through the
 Agenzia delle Entrate’s Exchange System (SDI – Sistema di Interscambio) and any delay due to the SDI shall not affect the
@@ -1024,11 +1044,7 @@ SFDC and shall notify SFDC of any changes to such information.
 5.2.2 Electronic Invoicing. The invoice will be issued in electronic format as defined in article 1, paragraph 916, of Law no.
 205 of December 27, 2017, which introduced the obligation of electronic invoicing, starting from January 1, 2019, for the sale
 of goods and services performed between residents, established or identified in the territory of the Italian State. To facilitate
-SFDC-MSA, June 1, 2026​
-
-Page 13 of 17
-
-such electronic invoicing, Customer shall provide to SFDC at least the following information in writing: Customer full
+such electronic invoicing, Customer shall provide to SFDC at least the following information in writing: Customer full
 registered company name, registered office address, VAT number, tax/fiscal code and any additional code and/or relevant
 information required under applicable law. In any event, the parties shall cooperate diligently to enable such electronic
 invoicing process. Any error due to the provision by Customer of incorrect or insufficient invoicing information preventing (a)
@@ -1066,7 +1082,12 @@ A.​ Subject to the “Arbitration” Section below, the courts located in Beng
 dispute relating to this Agreement, and each party hereby consents to the exclusive jurisdiction of such courts. Without
 prejudice to the generality of the foregoing, the courts at Bengaluru, India shall have exclusive jurisdiction on matters arising
 from, relating to, or in connection with an award made under the “Arbitration” Section below.
-B.​ Arbitration. In the event of any dispute, controversy or claim between the Parties hereto arising out of or relating to this
+
+SFDC-MSA, September 1, 2026​
+
+Page 14 of 17
+
+B.​ Arbitration. In the event of any dispute, controversy or claim between the Parties hereto arising out of or relating to this
 Agreement, the Parties shall first seek to resolve the dispute in good faith through informal discussion. If such dispute,
 controversy, or claim cannot be resolved informally within a period of 10 (ten) business days from the date on which the
 dispute arose, the Parties agree that it shall be settled by binding arbitration to be held before a panel consisting of 3 (three)
@@ -1076,11 +1097,7 @@ amended from time to time (“Arbitration Act”). The seat and venue of the arb
 language of the arbitration shall be English. The Parties agree that any of them may seek interim measures under section 9 of
 the Arbitration Act, including injunctive relief in relation to the provisions of this Agreement or the Parties' performance of it
 from courts in Bengaluru, India, without prejudice to any other right the Parties may have under the Arbitration Act and other
-SFDC-MSA, June 1, 2026​
-
-Page 14 of 17
-
-applicable laws. The arbitration panel's decision shall be final, conclusive and binding on the parties to the arbitration. The
+applicable laws. The arbitration panel's decision shall be final, conclusive and binding on the parties to the arbitration. The
 Parties shall each pay one-half of the costs and expenses of such arbitration, and each shall separately pay its respective
 counsel fees and expenses. The prevailing Party may, in the judgement of the arbitration panel, be entitled to recover its fees
 and expenses. All dispute resolution proceedings, all matters pertaining to such proceedings and all documents and
@@ -1118,7 +1135,12 @@ statement was made fraudulently) and that party's only remedies shall be for bre
 Agreement. The parties agree that any term or condition stated in a Customer purchase order or in any other
 Customer order documentation (excluding Order Forms) is void. In the event of any conflict or inconsistency among
 the following documents, the order of precedence shall be: (1) the applicable Order Form, (2) this Agreement, and (3)
-the Documentation. Titles and headings of sections of this Agreement are for convenience only and shall not affect
+
+SFDC-MSA, September 1, 2026​
+
+Page 15 of 17
+
+the Documentation. Titles and headings of sections of this Agreement are for convenience only and shall not affect
 the construction of any provision of this Agreement.
 
 12 18
@@ -1129,11 +1151,7 @@ Customer (as defined below) pursuant to Regulation (EU) 2023/2854 of the Europea
 December 2023 concerning harmonized rules on fair access to and use of data and amending Regulation (EU) 2017/2394
 and Directive (EU) 2020/1828 (the “Data Act”).
 
-SFDC-MSA, June 1, 2026​
-
-Page 15 of 17
-
-(1) Request Process. A Customer who is domiciled in a member state of the EU/EEA, may complete this form to request at any time
+(1) Request Process. A Customer who is domiciled in a member state of the EU/EEA, may complete this form to request at any time
 during a subscription term with a 2-month notification period, either to: (a) switch a Service and migrate its Customer Data to a
 different third party service provider or to its own on-premise infrastructure (“Switching Request”); and/or (b) delete its Customer
 Data from a Service (“Deletion Request”).
@@ -1176,7 +1194,12 @@ Period), or 2) for Deletion Request(s), 2 months after SFDC has received the Del
 For the avoidance of doubt, such termination will not relieve Customer of its obligation to pay any fees due to SFDC for the period
 prior to the Termination Date of the relevant Order Form. Customer must pay any outstanding subscription fees covering the
 remainder of the term of the relevant Order Form(s) as an early termination fee. SFDC will not charge any other fees or penalties.
-SFDC will continue to provide the Services in accordance with the Agreement until the Termination Date or until the end of the
+
+SFDC-MSA, September 1, 2026​
+
+Page 16 of 17
+
+SFDC will continue to provide the Services in accordance with the Agreement until the Termination Date or until the end of the
 subscription period.
 (3) Exclusions. In accordance with the Data Act, Switching or Deletion Requests will not be accepted for Beta Services as defined in
 the Agreement or, if not defined in the Agreement, as defined in the Main Services Agreement (or the Master Subscription Agreement,
@@ -1185,12 +1208,7 @@ a limited period of time specifically for testing and evaluation purposes (such 
 (4) Indemnification. Several legal entities may be entitled to purchase or use Services under the Agreement (including without
 limitation Customer’s Affiliates and Users) and such entities other than the Customer making the request could therefore be impacted
 by the Switching Request or Deletion Request in accordance with this section (“Impacted Parties”). It is the Customer's sole
-
-SFDC-MSA, June 1, 2026​
-
-Page 16 of 17
-
-responsibility to ensure that Customer has all rights and permissions concerning the Switching or the Deletion Requests and the
+responsibility to ensure that Customer has all rights and permissions concerning the Switching or the Deletion Requests and the
 Customer Data before exercising its rights hereunder.
 Customer will defend SFDC and its Affiliates against any claim, demand, suit or proceeding made or brought against SFDC by
 Impacted Parties (a) alleging that the Switching or Deletion Request infringes such Impacted Party’s rights or licenses and will
@@ -1206,7 +1224,7 @@ and/or the Deletion Request. This exclusion of liability includes, but is not li
 loss, system downtime, compatibility issues, or any other disruptions or failures that may occur during or as a result of the Switching
 and/or the Deletion Request. The Customer assumes full responsibility for the successful Switching or deletion of Customer Data.
 
-SFDC-MSA, June 1, 2026​
+SFDC-MSA, September 1, 2026​
 
 Page 17 of 17
 
