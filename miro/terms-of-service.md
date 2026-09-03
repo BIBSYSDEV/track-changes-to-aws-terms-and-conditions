@@ -849,22 +849,26 @@ Solutions
 Tools
 
   * [Agile Tools](https://miro.com/agile/)
-  * [Brainstorming](https://miro.com/brainstorming/)
-  * [Diagramming](https://miro.com/diagramming/)
   * [Graphs](https://miro.com/graphs/)
   * [Mind Map](https://miro.com/mind-map/)
   * [Online Sticky Notes](https://miro.com/online-sticky-notes/)
   * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
   * [Flowchart Maker](https://miro.com/flowchart/)
-  * [Prototyping](https://miro.com/prototyping/)
   * [Wireframe](https://miro.com/wireframe/)
-  * [Online Whiteboard](https://miro.com/online-whiteboard/)
-  * [Org Chart](https://miro.com/organizational-chart/)
   * [Roadmapping](https://miro.com/roadmapping/)
   * [Kanban Board](https://miro.com/kanban/)
-  * [Process Mapping](https://miro.com/process-mapping/)
-  * [AI Tools](https://miro.com/ai/ai-overview/)
   * [Image Color Picker](https://miro.com/tools/color-picker/)
+  * [AI Prototype Generator](https://miro.com/ai/prototype-ai/)
+  * [AI Wireframe Generator](https://miro.com/ai/wireframe/)
+  * [AI Diagram Generator](https://miro.com/ai/diagram-ai/)
+  * [AI Flowchart Generator](https://miro.com/ai/flowchart-ai/)
+  * [AI Design Generator](https://miro.com/ai/design/)
+  * [AI Mind Map Generator](https://miro.com/ai/mind-map-ai/)
+  * [AI Dashboard Generator](https://miro.com/ai/dashboard/)
+  * [Gradient Generator](https://miro.com/tools/gradient-generator/)
+  * [Online Whiteboard](https://miro.com/online-whiteboard/)
+  * [Diagram Online](https://miro.com/diagramming/online/)
+  * [Flowchart Online](https://miro.com/flowchart/online/)
 
 Resources
 
