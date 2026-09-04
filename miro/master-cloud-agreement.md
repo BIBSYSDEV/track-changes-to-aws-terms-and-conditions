@@ -767,7 +767,6 @@ Tools
   * [Mind Map](https://miro.com/mind-map/)
   * [Online Sticky Notes](https://miro.com/online-sticky-notes/)
   * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
-  * [Flowchart Maker](https://miro.com/flowchart/)
   * [Wireframe](https://miro.com/wireframe/)
   * [Roadmapping](https://miro.com/roadmapping/)
   * [Kanban Board](https://miro.com/kanban/)
