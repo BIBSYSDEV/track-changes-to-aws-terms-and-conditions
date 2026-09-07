@@ -850,11 +850,9 @@ Tools
 
   * [Agile Tools](https://miro.com/agile/)
   * [Graphs](https://miro.com/graphs/)
-  * [Mind Map](https://miro.com/mind-map/)
   * [Online Sticky Notes](https://miro.com/online-sticky-notes/)
   * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
   * [Wireframe](https://miro.com/wireframe/)
-  * [Roadmapping](https://miro.com/roadmapping/)
   * [Kanban Board](https://miro.com/kanban/)
   * [Image Color Picker](https://miro.com/tools/color-picker/)
   * [AI Prototype Generator](https://miro.com/ai/prototype-ai/)
