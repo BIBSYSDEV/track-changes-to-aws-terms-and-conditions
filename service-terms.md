@@ -1,6 +1,6 @@
 ## AWS Service Terms
 
-Last Updated: September 1, 2026
+Last Updated: September 11, 2026
 
 ### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -2948,7 +2948,7 @@ we may store your inputs for up to 60 days (unless otherwise required by law)
 for the purposes of detecting activity that violates the Agreement and
 improving our ability to detect such activity.
 
-**50.15. Amazon Bedrock AgentCore Payments (Preview)**
+**50.15. Amazon Bedrock AgentCore Payments**
 
 **50.15.1.** Amazon Bedrock AgentCore Payments helps you develop agentic
 payment solutions by transmitting your API calls and other messages between
