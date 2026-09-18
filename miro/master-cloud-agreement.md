@@ -849,7 +849,7 @@ TR](//images.ctfassets.net/x3tur5ylnyf2/3O5MzR09mczhdTlOaVuH3W/017858b4cade63f7a
 
 [![Miro
 Twitter](//images.ctfassets.net/x3tur5ylnyf2/4uhvW0Mixrt27kr2DdJeur/018f560db325613d3c14316c957aa74c/icon-
-social-x.svg)](https://twitter.com/mirohq)[![Miro
+social-x.svg)](https://x.com/mirohq)[![Miro
 Facebook](//images.ctfassets.net/x3tur5ylnyf2/5gJmvJDndMVOJ3FKTdaVkO/e6d727001c80b9f60a568196d88adf7b/icon-
 social-facebook.svg)](https://www.facebook.com/TryMiro)[![Miro
 LinkedIn](//images.ctfassets.net/x3tur5ylnyf2/4otvnm6zLR7ji9eVZY69Zf/c2c9e910c14e8fcdeee302ccfa45c341/icon-
@@ -875,5 +875,5 @@ Miro © 2026
 [Terms of Service](https://miro.com/legal/terms-of-service/)[Privacy
 Policy](https://miro.com/legal/privacy-policy/)[Manage
 Cookies](https://miro.com/manage-cookies/)[Do Not Sell or Share My Personal
-Information](http://miro.com/legal/privacy-policy/?ccpa=true)
+Information](https://miro.com/legal/privacy-policy/?ccpa=true)
 
