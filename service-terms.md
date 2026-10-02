@@ -1,6 +1,6 @@
 ## AWS Service Terms
 
-Last Updated: September 15, 2026
+Last Updated: October 1, 2026
 
 ### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1531,7 +1531,7 @@ requirements.
 Client License Agreement.](/opsworks-local-license/) Your use of AWS OpsWorks
 for Chef Automate is subject to [Chef Software Inc.’s end user license
 agreement](https://www.chef.io/aws_eula). Your use of AWS OpsWorks for Puppet
-Enterprise is subject to Puppet, Inc.’s  [Puppet Enterprise License
+Enterprise is subject to Puppet, Inc.’s [Puppet Enterprise License
 Agreement](https://d1.awsstatic.com/legal/aws-
 opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
 
@@ -1539,7 +1539,7 @@ opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
 
 **23.2.** Your use of AWS OpsWorks for Chef Automate and AWS-ApplyChefRecipes,
 which leverage the Chef Infra Client software, are subject to Progress
-Software Corporation’s  [Online Master License and Services Agreement for
+Software Corporation’s [Online Master License and Services Agreement for
 Chef](https://www.chef.io/online-master-
 agreement?_ga=2.241041664.246854641.1660593593-370928230.1543940878) (the
 “Progress EULA”) except that sections 1.9.2. (Product Compliance with
@@ -2807,18 +2807,18 @@ Generative AI Output to you. “Generative AI Output” means output generated b
 a generative artificial intelligence model in response to inputs or other data
 provided by you. “Indemnified Generative AI Services” means, collectively,
 generally available features of Amazon Nova Micro, Amazon Nova Lite, Amazon
-Nova Pro, Amazon Nova Premier, Amazon Nova Canvas, Amazon Nova Reel**,
-**Amazon Nova Forge Models (as defined below)**,**  Amazon Nova Sonic, Amazon
-Nova 2 Omni, Amazon Nova Act, Amazon Titan Text Express, Amazon Titan Text
-Lite, Amazon Nova Multimodal Embeddings, Amazon Titan Text Premier, Amazon
-Titan Text Embeddings, Amazon Titan Multimodal Embeddings, Amazon Titan Image
-Generator, AWS HealthScribe, Amazon Personalize, Amazon Q (excluding Amazon Q
-Developer Free Tier), AWS Transform, Amazon Bio Discovery (excluding Amazon
-Bio Discovery Academic Tier), Amazon Connect Customer, Amazon Connect
-Decisions, Amazon Connect Health, Amazon Connect Talent, Amazon Lex, Kiro
-(excluding Kiro Free Tier), AWS DevOps Agent, AWS Continuum (including
-features previously named AWS Security Agent), and Amazon Quick. The following
-terms apply to the Indemnified Generative AI Services:
+Nova Pro, Amazon Nova Premier, Amazon Nova Reel**,  **Amazon Nova Forge Models
+(as defined below)**,**  Amazon Nova Sonic, Amazon Nova 2 Omni, Amazon Nova
+Act, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon Nova Multimodal
+Embeddings, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon
+Titan Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe,
+Amazon Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS
+Transform, Amazon Bio Discovery (excluding Amazon Bio Discovery Academic
+Tier), Amazon Connect Customer, Amazon Connect Decisions, Amazon Connect
+Health, Amazon Connect Talent, Amazon Lex, Kiro (excluding Kiro Free Tier),
+AWS Elemental Inference, AWS DevOps Agent, AWS Continuum (including features
+previously named AWS Security Agent), and Amazon Quick. The following terms
+apply to the Indemnified Generative AI Services:
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
@@ -3633,15 +3633,7 @@ liability that may arise in connection with any such uses.
 drivers is subject to the terms and conditions of the [NVIDIA Cloud End User
 License Agreement](https://s3.amazonaws.com/EULA/NVidiaEULAforAWS.pdf).
 
-**60.3.2.  **When using the public workforce of Amazon SageMaker Ground Truth:
-(a) you may not provide datasets that contain protected health information,
-personally identifying information, or other personal data, (b) you may not
-provide datasets that contain adult content without marking it as containing
-adult content, and (c) you acknowledge and agree that Your Content provided to
-the public workforce may be moved outside of the AWS region where you are
-using Amazon SageMaker Ground Truth.
-
-**60.3.3.** Amazon SageMaker Clarify uses statistical analysis techniques to
+**60.3.2.** Amazon SageMaker Clarify uses statistical analysis techniques to
 generate metrics that can be used to evaluate statistical bias in data and
 machine learning models, and to explain how models generate predictions. The
 output provided by Amazon SageMaker Clarify is not determinative of the
@@ -3649,12 +3641,12 @@ existence or absence of statistical bias, or a comprehensive answer for how a
 model generates predictions. Such output is not legal advice and should be
 independently evaluated as appropriate for your use case.
 
-**60.3.4.** Amazon SageMaker Edge Manager collects performance and usage
+**60.3.3.** Amazon SageMaker Edge Manager collects performance and usage
 metrics and data regarding your use of the Service, including model version,
 inference and upload times, and diagnostic data. We may use these metrics and
 data to improve the quality and feature sets of the Services and AWS Content.  
 
-**60.3.5.** We may change SageMaker AI Savings Plan (“SM AI Savings Plan”)
+**60.3.4.** We may change SageMaker AI Savings Plan (“SM AI Savings Plan”)
 pricing or terminate the program at any time. Any price changes will not apply
 to previously purchased SM AI Savings Plans. All amounts paid in connection
 with SM AI Savings Plans are nonrefundable, except that if we terminate the
@@ -3670,7 +3662,7 @@ applicable laws, policies, terms or conditions governing your payment of up-
 front fees, including any fiscal or appropriation laws, or other policies or
 restrictions governing up-front payments for goods or services.
 
-**60.3.6.  ****Amazon SageMaker Studio Lab******
+**60.3.5.  ****Amazon SageMaker Studio Lab******
 
 (i) You acknowledge that we may store your Content that is processed by Amazon
 SageMaker Studio Lab in AWS regions outside the AWS region where you are using
@@ -3692,16 +3684,16 @@ associated Content.
 (iv) For purposes of your use of Amazon SageMaker Studio Lab, Amazon Web
 Services, Inc. is the AWS Contracting Party under the Agreement.
 
-**60.3.7.** For purposes of your use of Amazon SageMaker Partner AI Apps,
+**60.3.6.** For purposes of your use of Amazon SageMaker Partner AI Apps,
 Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
-**60.3.8.**  You will have exclusive use of the customized Nova model(s) you
+**60.3.7.**  You will have exclusive use of the customized Nova model(s) you
 create using SageMaker Training Jobs, SageMaker Hyperpod, or Amazon Nova Forge
 (the latter, “Amazon Nova Forge Models”). We will not access or use your
 customized model except as necessary to maintain or provide those Services, or
 as necessary to comply with the law or a binding order of a governmental body.
 
-**60.3.9.** As part of providing the Service, deployment of Amazon Nova Forge
+**60.3.8.** As part of providing the Service, deployment of Amazon Nova Forge
 Models in Amazon SageMaker Inference may use automated abuse detection
 mechanisms designed to detect harmful content, including related to potential
 violations of our or third-party model providers’ terms of service or
@@ -4188,15 +4180,8 @@ to End Users of your products or services that use Amazon Augmented AI
 (including End Users in your private workforce) and obtaining all necessary
 consents from such End Users. You represent to us that you have provided all
 necessary privacy notices and obtained all necessary consents.  
-  
-**76.2.** When using the Amazon Mechanical Turk workforce of Amazon Augmented
-AI: (a) you may not provide data or content that contains protected health
-information or other information that is identifiable to a specific person,
-and (b) you acknowledge and agree that Your Content provided to the Amazon
-Mechanical Turk workforce may be moved outside of the AWS region where you are
-using Amazon Augmented AI.
 
-**76.3.** When using the third party vendor workforce option of Amazon
+**76.2.** When using the third party vendor workforce option of Amazon
 Augmented AI, you are responsible for ensuring that the vendor meets any
 compliance requirements applicable to any personal data or confidential
 information in your data or content. You may not share data or content that
