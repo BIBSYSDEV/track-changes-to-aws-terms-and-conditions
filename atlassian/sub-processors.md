@@ -74,8 +74,6 @@ to be notified when we add new Atlassian Sub-processors
 Hosting and Infrastructure Service Providers  
 Amazon Web Services, Inc.  |  Applicable Cloud Products Atlas  
   
-Atlassian Analytics  
-  
 Atlassian Guard (Access/Guard family)  
   
 Bitbucket Cloud (including Bitbucket Pipelines)  
@@ -85,6 +83,8 @@ Compass
 Confluence Cloud  
   
 Data Lake  
+  
+Insights  
   
 Jira Align  
   
@@ -111,8 +111,6 @@ If you’ve enabled Atlassian’s Data Residency feature, certain (in-scope) dat
 Applicable Cloud Products DX  |  Nature and Purpose of Processing Cloud hosting provider  |  Categories of personal data Customer Personal Data created by customer and stored in DX  |  Location of Processing USA   
 Clumio, Inc.  |  Applicable Cloud Products Atlas  
   
-Atlassian Analytics  
-  
 Atlassian Guard (Access/Guard family)  
   
 Bitbucket Cloud (including Bitbucket Pipelines)  
@@ -122,6 +120,8 @@ Compass
 Confluence Cloud  
   
 Data Lake  
+  
+Insights  
   
 Jira Align  
   
@@ -209,8 +209,6 @@ Applicable Cloud Products Forge  |  Categories of personal data End User Persona
 Content Delivery Network Providers  
 Cloudflare, Ltd.  |  Applicable Cloud Products Atlas  
   
-Atlassian Analytics  
-  
 Atlassian Guard (Access/Guard family)  
   
 Bitbucket Cloud (including Bitbucket Pipelines)  
@@ -220,6 +218,8 @@ Compass
 Confluence Cloud  
   
 Data Lake  
+  
+Insights  
   
 Jira Align  
   
@@ -244,8 +244,6 @@ Applicable Cloud Products DX  |  Nature and Purpose of Processing Content delive
 Support Service Providers  
 e-Core Soluções em Tecnologia da Informaçiupão Ltda.  |  Applicable Cloud Products Atlas  
   
-Atlassian Analytics  
-  
 Atlassian Guard (Access/Guard family)  
   
 Bitbucket Cloud (including Bitbucket Pipelines)  
@@ -255,6 +253,8 @@ Compass
 Confluence Cloud  
   
 Data Lake  
+  
+Insights  
   
 Jira Align  
   
@@ -292,8 +292,6 @@ End User Personal Data created by developers and stored in Forge  |  Location of
 Applicable Cloud Products Forge  |  Categories of personal data End User Personal Data created by developers and stored in Forge   
 Telus, Inc.  |  Applicable Cloud Products Atlas  
   
-Atlassian Analytics  
-  
 Atlassian Guard (Access/Guard family)  
   
 Bitbucket Cloud (including Bitbucket Pipelines)  
@@ -303,6 +301,8 @@ Compass
 Confluence Cloud  
   
 Data Lake  
+  
+Insights  
   
 Jira Align  
   
@@ -325,8 +325,6 @@ AI and Analytics Service Providers
 Amazon Web Services, Inc. (AWS Bedrock)  |  Applicable Cloud Products All Atlassian Cloud Products with enabled Atlassian Intelligence or Rovo  |  Nature and Purpose of Processing Generative AI services provider for intelligence product features  |  Categories of personal data Customer Personal Data created by customer and stored in Applicable Cloud Products  |  Location of Processing USA, EEA (Germany, Sweden, Italy, Spain, Ireland, France) South Africa, Japan, South Korea, India, Singapore, Australia, Indonesia, Canada, Switzerland, UK, Bahrain, Mexico, Brazil  |  Security Measures [ AWS Compliance Programs ](https://aws.amazon.com/compliance/programs/)  
 Applicable Cloud Products Atlas  
   
-Atlassian Analytics  
-  
 Atlassian Guard (Access/Guard family)  
   
 Bitbucket Cloud (including Bitbucket Pipelines)  
@@ -336,6 +334,8 @@ Compass
 Confluence Cloud  
   
 Data Lake  
+  
+Insights  
   
 Jira Align  
   
@@ -361,8 +361,6 @@ Applicable Cloud Products Forge  |  Nature and Purpose of Processing Generative 
 Google Vertex AI  |  Applicable Cloud Products All Atlassian Cloud Products with enabled Atlassian Intelligence or Rovo  |  Nature and Purpose of Processing Generative AI services provider for intelligence product features  |  Categories of personal data Customer Personal Data created by customer and stored in Applicable Cloud Products  |  Location of Processing USA, EEA (Belgium, Netherlands, Finland), Singapore, Taiwan  |  Security Measures [ Google Privacy Terms & Security Measures ](https://cloud.google.com/terms/data-processing-addendum)  
 Applicable Cloud Products Atlas  
   
-Atlassian Analytics  
-  
 Atlassian Guard (Access/Guard family)  
   
 Bitbucket Cloud (including Bitbucket Pipelines)  
@@ -372,6 +370,8 @@ Compass
 Confluence Cloud  
   
 Data Lake  
+  
+Insights  
   
 Jira Align  
   
@@ -395,8 +395,6 @@ Trello  |  Nature and Purpose of Processing Provision of Atlassian support
 Maintenance of service, safety, and security  |  Categories of personal data Customer Personal Data created by customer and stored in Applicable Cloud Products, or shared with Atlassian during the provision of support   
 Databricks, Inc.  |  Applicable Cloud Products Atlas  
   
-Atlassian Analytics  
-  
 Atlassian Guard (Access/Guard family)  
   
 Bitbucket Cloud (including Bitbucket Pipelines)  
@@ -406,6 +404,8 @@ Compass
 Confluence Cloud  
   
 Data Lake  
+  
+Insights  
   
 Jira Align  
   
