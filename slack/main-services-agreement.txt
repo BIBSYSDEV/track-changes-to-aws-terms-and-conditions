@@ -14,7 +14,7 @@ SUCH INDIVIDUAL MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
 The Services may not be accessed for purposes of monitoring their availability, performance or functionality, or for any other
 benchmarking or competitive purposes.
 SFDC’s direct competitors are prohibited from accessing the Services, except with SFDC’s prior written consent.
-This Agreement was last updated on September 1, 2026. It is effective between Customer and SFDC as of the date of Customer’s
+This Agreement was last updated on October 15, 2026. It is effective between Customer and SFDC as of the date of Customer’s
 accepting this Agreement (the “Effective Date”).
 1.​
 
@@ -49,7 +49,7 @@ as a free trial and Purchased Services.
 “Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms,
 time bombs and Trojan horses.
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 1 of 17
 
@@ -125,7 +125,7 @@ for export or download as provided in the Documentation. After such 30-day perio
 or provide any Customer Data, and as provided in the Documentation will thereafter delete or destroy all copies of Customer
 Data in its systems or otherwise in its possession or control, unless legally prohibited.
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 2 of 17
 
@@ -196,7 +196,7 @@ Customer agrees that any termination of Customer’s access to the Free Services
 agrees that SFDC will not be liable to Customer or any third party for such termination. Customer is solely responsible for
 exporting Customer Data from the Free Services prior to termination of Customer’s access to the Free Services for any reason,
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 3 of 17
 
@@ -267,7 +267,7 @@ use any Services to access, copy or use any of SFDC intellectual property except
 Form, or the Documentation, (h) modify, copy, or create derivative works of a Service or any part, feature, function or user
 interface thereof, (i) frame or mirror any part of any Service, other than framing on Customer's own intranets or otherwise for
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 4 of 17
 
@@ -347,7 +347,7 @@ such amounts are paid in full, provided that, other than for customers paying by
 been declined, SFDC will give Customer at least 10 days’ prior notice that its account is overdue, in accordance with the
 “Manner of Giving Notice” section below for billing notices, before suspending services to Customer.
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 5 of 17
 
@@ -432,7 +432,7 @@ Protection of Confidential Information. As between the parties, each party retai
 Confidential Information. The Receiving Party will use the same degree of care that it uses to protect the confidentiality of its
 own confidential information of like kind (but not less than reasonable care) to (i) not use any Confidential Information of the
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 6 of 17
 
@@ -508,7 +508,7 @@ Services or use thereof would not infringe without such combination; (III) a Cla
 under an Order Form for which there is no charge; or (IV) a Claim Against Customer arises from a Non-SFDC Application or
 Customer’s breach of this Agreement, the Documentation or applicable Order Forms.
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 7 of 17
 
@@ -574,7 +574,7 @@ law. In no event will termination relieve Customer of its obligation to pay any 
 effective date of termination.
 11.5​ Surviving Provisions. The sections titled “Free Services,” “Fees and Payment,” “Proprietary Rights and Licenses,”
 “Confidentiality,” “Disclaimers,” “Mutual Indemnification,” “Limitation of Liability,” “Refund or Payment upon Termination,”
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 8 of 17
 
@@ -622,7 +622,12 @@ in connection with this Agreement, and the courts that have jurisdiction over an
 Customer is domiciled.
 
 For Customers domiciled in North or South America
-If Customer is
+
+SFDC-MSA, October 15, 2026​
+
+Page 9 of 17
+
+If Customer is
 domiciled in:
 
 The SFDC entity
@@ -630,6 +635,8 @@ entering into this
 Agreement is:
 
 Notices should be addressed to:
+
+Governing law is:
 
 Any country
 other than
@@ -641,26 +648,7 @@ salesforce.com, inc.),
 a Delaware
 corporation
 
-Salesforce Tower, 415 Mission
-California and
-Street, 3rd Floor, San Francisco,
-controlling United
-California, 94105, U.S.A., attn: VP, States federal law
-
-SFDC-MSA, September 1, 2026​
-
-Page 9 of 17
-
-Governing law is:
-
-Courts with
-exclusive
-jurisdiction are:
-San Francisco,
-California,
-U.S.A.
-
-Brazil
+Brazil
 
 Salesforce Tecnologia
 Ltda.
@@ -672,6 +660,11 @@ Canada Corporation, a
 Nova Scotia
 corporation
 
+Salesforce Tower, 415 Mission
+California and
+Street, 3rd Floor, San Francisco,
+controlling United
+California, 94105, U.S.A., attn: VP, States federal law
 Worldwide Sales Operations, with a
 copy to attn: General Counsel
 Av. Jornalista Roberto Marinho,
@@ -685,6 +678,13 @@ controlling
 California, 94105, U.S.A., attn: VP, Canadian federal
 Worldwide Sales Operations, with a law
 copy to attn: General Counsel
+
+Courts with
+exclusive
+jurisdiction are:
+San Francisco,
+California,
+U.S.A.
 
 São Paulo, SP,
 Brazil
@@ -738,14 +738,8 @@ Germany
 salesforce.com Italy
 S.r.l., an Italian
 limited liability
-company having its
-registered address at
-Piazza Filippo Meda
-5, 20121 Milan (MI),
-VAT / Fiscal code n.
-04959160963
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Notices should be addressed to:
 
@@ -782,10 +776,6 @@ Salesforce UK Limited, Floor 26
 Italy
 Salesforce Tower, 110 Bishopsgate,
 London, EC2N 4AY, United
-Kingdom, attn: VP, Sales
-Operations, with a copy to attn.:
-Legal Department
-
 Page 10 of 17
 
 Courts with
@@ -802,19 +792,29 @@ Milan, Italy
 
 Spain
 
+United
+Kingdom
+
+company having its
+registered address at
+Piazza Filippo Meda
+5, 20121 Milan (MI),
+VAT / Fiscal code n.
+04959160963
 Salesforce Systems
 Spain, S.L., a limited
 liability company
 incorporated in Spain
-
-United
-Kingdom
 
 Salesforce UK
 Limited, a limited
 liability company
 incorporated in
 England
+
+Kingdom, attn: VP, Sales
+Operations, with a copy to attn.:
+Legal Department
 
 Salesforce UK Limited, Floor 26
 Spain
@@ -823,7 +823,7 @@ London, EC2N 4AY, United
 Kingdom, attn: VP, Sales
 Operations, with a copy to attn.:
 Legal Department - Paseo de la
-Castellana 79, Madrid, 28046, Spain
+Castellana 36-38, 28046 Madrid
 Salesforce UK Limited, Floor 26
 England
 Salesforce Tower, 110 Bishopsgate,
@@ -923,17 +923,16 @@ Tokyo, Japan
 
 12.10​ Manner of Giving Notice. Except as otherwise specified in this Agreement, all notices related to this Agreement will be in
 writing and will be effective upon (a) personal delivery, (b) the second business day after mailing, or (c), except for notices of
-termination or an indemnifiable claim (“Legal Notices”), which shall clearly be identifiable as Legal Notices, the day of
+SFDC-MSA, October 15, 2026​
+
+Page 11 of 17
+
+termination or an indemnifiable claim (“Legal Notices”), which shall clearly be identifiable as Legal Notices, the day of
 sending by email. Billing-related notices to Customer will be addressed to the relevant billing contact designated by Customer.
 All other notices to Customer will be addressed to the relevant Services system administrator designated by Customer.
 12.11​ Agreement to Governing Law and Jurisdiction. Each party agrees to the applicable governing law above without regard to
 choice or conflicts of law rules, and to the exclusive jurisdiction of the applicable courts above.
-
-SFDC-MSA, September 1, 2026​
-
-Page 11 of 17
-
-12.12​ Local Law Requirements: France. ​
+12.12​ Local Law Requirements: France. ​
 ​
 With respect to Customers domiciled in France, the following provisions shall be applicable :
 (1)​ Section 8.2 “SFDC Warranties” is replaced by the following :
@@ -975,26 +974,28 @@ referenced or attached to this Agreement may be in English.
 contracted with to provide consulting and/or implementation services in relation to the Services, are independent of SFDC and
 SFDC shall in no event be responsible for their acts or omissions, including when such acts or omissions impact Customer’s use
 of the Services.
-(6) in the event of any conflict between any statutory law in France applicable to Customer, and the terms and conditions of this
+
+SFDC-MSA, October 15, 2026​
+
+Page 12 of 17
+
+(6) in the event of any conflict between any statutory law in France applicable to Customer, and the terms and conditions of this
 Agreement, the applicable statutory law shall prevail.
 12.13​ Local Law Requirements: Germany. With respect to Customers domiciled in Germany, Section 8 “REPRESENTATIONS,
 WARRANTIES, EXCLUSIVE REMEDIES AND DISCLAIMERS”, Section 9.3 “Exclusive Remedy”, and Section 10
 “LIMITATION OF LIABILITY” of this Agreement are replaced with the following sections respectively:
-SFDC-MSA, September 1, 2026​
-
-Page 12 of 17
-
-8 WARRANTIES FOR CUSTOMERS DOMICILED IN GERMANY
+8 WARRANTIES FOR CUSTOMERS DOMICILED IN GERMANY
 8.1 Agreed Quality of the Services. SFDC warrants that during an applicable subscription term (a) this Agreement, the Order
 Forms and the Documentation will accurately describe the applicable administrative, physical, and technical safeguards for
 protection of the security, confidentiality and integrity of Customer Data, (b) SFDC will not materially decrease the overall
 security of the Services, (c) the Services will perform materially in accordance with the applicable Documentation, and (d)
 subject to the “Integration with Non-SFDC Applications” section above, SFDC will not materially decrease the overall
 functionality of the Services.
-8.2 Reporting of Defects. Customer shall report any deviation of the Services from the “Agreed Quality of the Services”
-section (“Defect”) to SFDC in writing without undue delay and shall submit a detailed description of the Defect or, if not
-possible, of the symptoms of the Defect. Customer shall forward to SFDC any useful information available to Customer for
-rectification of the Defect.
+8.2
+Reporting of Defects. Customer shall report any deviation of the Services from the “Agreed Quality of the Services” section
+(“Defect”) to SFDC in writing without undue delay and shall submit a detailed description of the Defect or, if not possible, of
+the symptoms of the Defect. Customer shall forward to SFDC any useful information available to Customer for rectification of
+the Defect.
 8.3 Remedies Resulting from Defects. SFDC shall rectify any Defect within a reasonable period of time. If such rectification
 fails, Customer may terminate the respective Order Form provided that SFDC had enough time for curing the Defect. In the
 “Refund or Payment upon Termination” section, sentence 1 and sentence 3 shall apply accordingly. If SFDC is responsible for
@@ -1023,7 +1024,12 @@ aggregate liability of each party together with all of its Affiliates arising ou
 amount paid by Customer and its Affiliates hereunder for the Services giving rise to the liability in the 12 months preceding the
 first incident out of which the liability arose. The foregoing limitation will not limit Customer’s and its Affiliates’ payment
 obligations under the “Fees and Payment” section above.
-10.4 Scope. With the exception of liability in accordance with the “Unlimited Liability” section, the above limitations of
+
+SFDC-MSA, October 15, 2026​
+
+Page 13 of 17
+
+10.4 Scope. With the exception of liability in accordance with the “Unlimited Liability” section, the above limitations of
 liability shall apply to all claims for damages, irrespective of the legal basis including claims for tort damages. The above
 limitations of liability also apply in the case of claims for a party’s damages against the respective other party’s employees,
 agents or bodies.
@@ -1031,11 +1037,7 @@ agents or bodies.
 5.3 “Overdue Charges,” and Section 12.2 “Anti Corruption” of this Agreement are replaced with the following sections
 respectively:
 5.2. Invoicing and Payment
-SFDC-MSA, September 1, 2026​
-
-Page 13 of 17
-
-5.2.1 Invoicing and Payment. Fees will be invoiced in advance and otherwise in accordance with the relevant Order Form.
+5.2.1 Invoicing and Payment. Fees will be invoiced in advance and otherwise in accordance with the relevant Order Form.
 Unless otherwise stated in the Order Form, fees are due net 30 days from the invoice date. The parties acknowledge that
 invoices are also be submitted electronically by SFDC in accordance with the “Electronic Invoicing” section below through the
 Agenzia delle Entrate’s Exchange System (SDI – Sistema di Interscambio) and any delay due to the SDI shall not affect the
@@ -1077,17 +1079,16 @@ entitle SFDC, based on the severity of the violation, to terminate this Agreemen
 statutory law in Spain applicable to Customer, and the terms and conditions of this Agreement, the applicable statutory law
 shall prevail.
 12.16​ Local Law Requirements: India. With respect to Customers domiciled in India, the following shall apply:
-12.16.1 Venue and Arbitration
+SFDC-MSA, October 15, 2026​
+
+Page 14 of 17
+
+12.16.1 Venue and Arbitration
 A.​ Subject to the “Arbitration” Section below, the courts located in Bengaluru , India shall have exclusive jurisdiction over any
 dispute relating to this Agreement, and each party hereby consents to the exclusive jurisdiction of such courts. Without
 prejudice to the generality of the foregoing, the courts at Bengaluru, India shall have exclusive jurisdiction on matters arising
 from, relating to, or in connection with an award made under the “Arbitration” Section below.
-
-SFDC-MSA, September 1, 2026​
-
-Page 14 of 17
-
-B.​ Arbitration. In the event of any dispute, controversy or claim between the Parties hereto arising out of or relating to this
+B.​ Arbitration. In the event of any dispute, controversy or claim between the Parties hereto arising out of or relating to this
 Agreement, the Parties shall first seek to resolve the dispute in good faith through informal discussion. If such dispute,
 controversy, or claim cannot be resolved informally within a period of 10 (ten) business days from the date on which the
 dispute arose, the Parties agree that it shall be settled by binding arbitration to be held before a panel consisting of 3 (three)
@@ -1129,18 +1130,18 @@ Local Law Requirements: United Kingdom. With respect to Customers domiciled in t
 Customer regarding Customer’s use of Services and supersedes all prior and contemporaneous agreements, proposals
 or representations, written or oral, concerning its subject matter. No representation, undertaking or promise shall be
 taken to have been given or be implied from anything said or written in negotiations between the parties prior to this
-Agreement except as expressly stated in this Agreement. Neither party shall have any remedy in respect of any
+
+SFDC-MSA, October 15, 2026​
+
+Page 15 of 17
+
+Agreement except as expressly stated in this Agreement. Neither party shall have any remedy in respect of any
 untrue statement made by the other upon which that party relied in entering this Agreement (unless such untrue
 statement was made fraudulently) and that party's only remedies shall be for breach of contract as provided in this
 Agreement. The parties agree that any term or condition stated in a Customer purchase order or in any other
 Customer order documentation (excluding Order Forms) is void. In the event of any conflict or inconsistency among
 the following documents, the order of precedence shall be: (1) the applicable Order Form, (2) this Agreement, and (3)
-
-SFDC-MSA, September 1, 2026​
-
-Page 15 of 17
-
-the Documentation. Titles and headings of sections of this Agreement are for convenience only and shall not affect
+the Documentation. Titles and headings of sections of this Agreement are for convenience only and shall not affect
 the construction of any provision of this Agreement.
 
 12 18
@@ -1189,17 +1190,17 @@ http://www.salesforce.com/company/legal/agreements/ under the “Trust and Compl
 otherwise made reasonably available by SFDC.
 (2) Termination. The Order Form(s) will automatically terminate either: 1) for Switching Request(s) upon Customer’s notifying
 SFDC in writing about the successful export of Customer Data in accordance with section (1) (a) above (in the absence of formal
-notification by Customer as indicated above, the switching will be deemed successful at the end of the Transition Period or Alternative
+
+SFDC-MSA, October 15, 2026​
+
+Page 16 of 17
+
+notification by Customer as indicated above, the switching will be deemed successful at the end of the Transition Period or Alternative
 Period), or 2) for Deletion Request(s), 2 months after SFDC has received the Deletion Request (the “Termination Date”).
 For the avoidance of doubt, such termination will not relieve Customer of its obligation to pay any fees due to SFDC for the period
 prior to the Termination Date of the relevant Order Form. Customer must pay any outstanding subscription fees covering the
 remainder of the term of the relevant Order Form(s) as an early termination fee. SFDC will not charge any other fees or penalties.
-
-SFDC-MSA, September 1, 2026​
-
-Page 16 of 17
-
-SFDC will continue to provide the Services in accordance with the Agreement until the Termination Date or until the end of the
+SFDC will continue to provide the Services in accordance with the Agreement until the Termination Date or until the end of the
 subscription period.
 (3) Exclusions. In accordance with the Data Act, Switching or Deletion Requests will not be accepted for Beta Services as defined in
 the Agreement or, if not defined in the Agreement, as defined in the Main Services Agreement (or the Master Subscription Agreement,
@@ -1224,7 +1225,7 @@ and/or the Deletion Request. This exclusion of liability includes, but is not li
 loss, system downtime, compatibility issues, or any other disruptions or failures that may occur during or as a result of the Switching
 and/or the Deletion Request. The Customer assumes full responsibility for the successful Switching or deletion of Customer Data.
 
-SFDC-MSA, September 1, 2026​
+SFDC-MSA, October 15, 2026​
 
 Page 17 of 17
 
