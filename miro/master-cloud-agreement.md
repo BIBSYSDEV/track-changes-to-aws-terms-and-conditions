@@ -810,33 +810,12 @@ Plans & Pricing
   * [NPOs](https://miro.com/npo/)
   * [Contact sales](https://miro.com/contact/sales/)
 
-Product
+* * *
 
-Solutions
-
-Tools
-
-Resources
-
-Company
-
-Plans & Pricing
-
-![ISO 42001
-READY](//images.ctfassets.net/x3tur5ylnyf2/1WIOsC8qZrgMQ8MrD8bcrS/cea1792e288c5092864710e706116a10/ISO_Badge.svg)[ISO
-42001 READY](https://trust.miro.com/)
-
-![ISO 27001
-CERTIFIED](//images.ctfassets.net/x3tur5ylnyf2/69nUaLt9qbx2mYs7V5xU3u/5226904f0421943d938edfc2c6d61303/ISO_Badge__1_.svg)[ISO
-27001 CERTIFIED](https://trust.miro.com/)
-
-![SOC 2
-COMPLIANT](//images.ctfassets.net/x3tur5ylnyf2/2jrk9yUWDGCZgFi8XpBqCo/0f5e372412c0bc49afce1e09f74a547e/ISO_Badge__2_.svg)[SOC
-2 COMPLIANT](https://trust.miro.com/)
-
-![GDPR
-COMPLIANT](//images.ctfassets.net/x3tur5ylnyf2/3TuENhmSygpLnIFoErQBRy/7b37607d0d6768a519e79affe97d4083/GDPR.svg)[GDPR
-COMPLIANT](https://trust.miro.com/)
+  * [![](//images.ctfassets.net/x3tur5ylnyf2/1WIOsC8qZrgMQ8MrD8bcrS/cea1792e288c5092864710e706116a10/ISO_Badge.svg)ISO 42001 READY](https://trust.miro.com/)
+  * [![](//images.ctfassets.net/x3tur5ylnyf2/69nUaLt9qbx2mYs7V5xU3u/5226904f0421943d938edfc2c6d61303/ISO_Badge__1_.svg)ISO 27001 CERTIFIED](https://trust.miro.com/)
+  * [![](//images.ctfassets.net/x3tur5ylnyf2/2jrk9yUWDGCZgFi8XpBqCo/0f5e372412c0bc49afce1e09f74a547e/ISO_Badge__2_.svg)SOC 2 COMPLIANT](https://trust.miro.com/)
+  * [![](//images.ctfassets.net/x3tur5ylnyf2/3TuENhmSygpLnIFoErQBRy/7b37607d0d6768a519e79affe97d4083/GDPR.svg)GDPR COMPLIANT](https://trust.miro.com/)
 
 [![Trust
 Capterra](//images.ctfassets.net/x3tur5ylnyf2/2GnazBVVWJ8guM2zvYNMCY/3347d25a4f0c602eac02187e542b746b/G2.svg)](https://www.capterra.com/p/128955/Miro/)[![Trust
@@ -869,6 +848,8 @@ Google
 Play](//images.ctfassets.net/x3tur5ylnyf2/7Lryw2nfTo2luGgMD2TnoY/4b56104f1efaa82f79886cf1d94408f2/google-
 play-
 badge.svg)](https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website)
+
+* * *
 
 Miro © 2026
 
