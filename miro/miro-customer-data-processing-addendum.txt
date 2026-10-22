@@ -17,12 +17,12 @@ Data Processing Terms
 1.
 
 Definitions
-"​ Applicable Privacy Law(s)" means all worldwide data protection and privacy laws and
+​"Applicable Privacy Law(s)" means all worldwide data protection and privacy laws and
 regulations applicable to the Personal Data in question, including, where applicable,
 EU/UK Data Protection Law.1
-"​ Customer Personal Data" means any Customer Content that is Personal Data and
+​"Customer Personal Data" means any Customer Content that is Personal Data and
 protected by Applicable Privacy Law(s).
-"​ EU/UK Data Protection Law" means: (i) Regulation 2016/679 of the European
+​"EU/UK Data Protection Law" means: (i) Regulation 2016/679 of the European
 Parliament and of the Council on the protection of natural persons with regard to the
 Processing of Personal Data and on the free movement of such data (General Data
 Protection Regulation) (the "EU GDPR"); (ii) the GDPR as saved into United Kingdom
@@ -68,10 +68,9 @@ to Customer Personal Data. A "Security Incident" shall not include unsuccessful
 attempts or activities that do not compromise the security of Customer Personal Data,
 including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and
 other network attacks on firewalls or networked systems.
-"​ Subprocessor" means any processor engaged by Miro to process Customer Personal
+​"Subprocessor" means any processor engaged by Miro to process Customer Personal
 Data.
-​ he terms "Controller", "data subject", "Personal Data", "Processor," and
-T
+​The terms "Controller", "data subject", "Personal Data", "Processor," and
 "processing," have the meanings given to them in Applicable Privacy Law(s). If and to
 the extent that Applicable Privacy Law(s) do not define such terms, then the definitions
 given in EU/UK Data Protection Law will apply.
