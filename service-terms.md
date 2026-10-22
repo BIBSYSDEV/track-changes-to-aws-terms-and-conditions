@@ -1,6 +1,6 @@
 ## AWS Service Terms
 
-Last Updated: October 13, 2026
+Last Updated: October 22, 2026
 
 ### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1105,13 +1105,13 @@ SNS is also subject to the terms that govern AWS End User Messaging.
 **11.6.** Through your use of Amazon SNS you will not:
 
   * Transmit any material that contains viruses, Trojan horses, worms, or any other malicious or harmful programs.
-  * Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.   
+  * Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.  
 
-  * If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.   
+  * If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.  
 
   * Materially violate or facilitate the material violation of any local or foreign law, rule, regulation, or order, including laws regarding the transmission of data or software.
   * Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers)
-  * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.   
+  * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.  
 
   * Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
 
@@ -1335,7 +1335,7 @@ Japan (w.e.f. 1 October 2022) |  Amazon Web Services Japan G.K. |  N/A |  1-3-1 
 South Korea (w.e.f. 1 April 2025) |  Amazon Web Services Korea LLC | N/A |  L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea  
 The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: [https://aws.amazon.com/legal/aws-emea-countries/](/legal/aws-emea-countries/) (w.e.f. 1 January 2022) |  Amazon Web Services EMEA SARL |  352 2789 0057 |  38 Avenue John F. Kennedy, L-1855, Luxembourg  
 India (for transactions between buyers and third party providers incorporated in India) (w.e.f. 1 October 2025) | Amazon Web Services India Private Limited |  011-47985609 | Unit Nos. 1401 to 1421 International Trade Tower, Nehru Place, Delhi 110019, India  
-Any other country that is not listed in this table above |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,   
+Any other country that is not listed in this table above |  Amazon Web Services, Inc. |  206-266-7010 |  410 Terry Avenue North,  
 Seattle, WA 98109-5210  
 U.S.A.  
   
@@ -1531,7 +1531,7 @@ requirements.
 Client License Agreement.](/opsworks-local-license/) Your use of AWS OpsWorks
 for Chef Automate is subject to [Chef Software Inc.’s end user license
 agreement](https://www.chef.io/aws_eula). Your use of AWS OpsWorks for Puppet
-Enterprise is subject to Puppet, Inc.’s [Puppet Enterprise License
+Enterprise is subject to Puppet, Inc.’s  [Puppet Enterprise License
 Agreement](https://d1.awsstatic.com/legal/aws-
 opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
 
@@ -1539,7 +1539,7 @@ opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
 
 **23.2.** Your use of AWS OpsWorks for Chef Automate and AWS-ApplyChefRecipes,
 which leverage the Chef Infra Client software, are subject to Progress
-Software Corporation’s [Online Master License and Services Agreement for
+Software Corporation’s  [Online Master License and Services Agreement for
 Chef](https://www.chef.io/online-master-
 agreement?_ga=2.241041664.246854641.1660593593-370928230.1543940878) (the
 “Progress EULA”) except that sections 1.9.2. (Product Compliance with
@@ -2674,28 +2674,29 @@ to the nature of machine learning, output may not be unique across customers
 and the Services may generate the same or similar results across customers.
 
 **50.3.** You agree and instruct that for Amazon CodeGuru Profiler, Amazon
-Comprehend, Amazon Lex, Amazon Polly, Amazon Rekognition, Amazon Textract,
-Amazon Transcribe, Amazon Translate, AWS Transform, AWS FinOps Agent
-(Preview), Kiro Free Tier, and Kiro individual subscribers (as described
-[here](https://kiro.dev/docs/getting-started/authentication/)): (a) we may use
-and store AI Content that is processed by each of the foregoing AI Services to
-develop and improve the applicable AI Service and its underlying technologies;
-(b) we may use and store AI Content that is not personal data to develop and
-improve AWS and affiliate machine-learning and artificial-intelligence
-technologies; and (c) solely in connection with the development and
-improvement described in clauses (a) and (b), we may store such AI Content in
-an AWS region outside of the AWS region where you are using such AI Service.
-This Section does not apply to Amazon Comprehend Medical, Amazon Transcribe
-Medical, AWS HealthScribe, Amazon Comprehend Detect PII or any AI Service that
-is not listed in the first sentence of this Section 50.3. You may instruct AWS
-not to use and store AI Content processed by an AI Service to develop and
-improve that Service or technologies of AWS or its affiliates by configuring
-an AI services opt-out policy using AWS Organizations. For access to AI
-Services via AWS Builder ID or a third-party authentication provider, you may
-instruct AWS to refrain from using and storing AI Content processed by an AI
-Service to develop and improve that Service or technologies of AWS or its
-affiliates by using the opt-out mechanism indicated in the applicable service
-documentation.
+Comprehend, AWS Continuum (except AWS Continuum for penetration testing,
+previously named AWS Security Agent), Amazon Lex, Amazon Polly, Amazon
+Rekognition, Amazon Textract, Amazon Transcribe, Amazon Translate, AWS
+Transform, AWS FinOps Agent (Preview), Kiro Free Tier, and Kiro individual
+subscribers (as described [here](https://kiro.dev/docs/getting-
+started/authentication/)): (a) we may use and store AI Content that is
+processed by each of the foregoing AI Services to develop and improve the
+applicable AI Service and its underlying technologies; (b) we may use and
+store AI Content that is not personal data to develop and improve AWS and
+affiliate machine-learning and artificial-intelligence technologies; and (c)
+solely in connection with the development and improvement described in clauses
+(a) and (b), we may store such AI Content in an AWS region outside of the AWS
+region where you are using such AI Service. This Section does not apply to
+Amazon Comprehend Medical, Amazon Transcribe Medical, AWS HealthScribe, Amazon
+Comprehend Detect PII or any AI Service that is not listed in the first
+sentence of this Section 50.3. You may instruct AWS not to use and store AI
+Content processed by an AI Service to develop and improve that Service or
+technologies of AWS or its affiliates by configuring an AI services opt-out
+policy using AWS Organizations. For access to AI Services via AWS Builder ID
+or a third-party authentication provider, you may instruct AWS to refrain from
+using and storing AI Content processed by an AI Service to develop and improve
+that Service or technologies of AWS or its affiliates by using the opt-out
+mechanism indicated in the applicable service documentation.
 
 **50.4.**  You are responsible for providing legally adequate privacy notices
 to End Users of your products or services that use any AI Service and
@@ -4474,13 +4475,27 @@ recommendation from AWS, (c) your delay or withholding of approval for AWS to
 take a requested action, or (d) any change by you to your Managed Environment
 (as defined in the AWS Managed Services user guides posted on the AWS Site).  
 
-### 84\. Amazon FinSpace
+### 84\. AWS Continuum
 
-Amazon FinSpace is a tool to help you analyze data for investment and business
-decisions. It is not a substitute for the judgment and experience of the user
-when making investment and business decisions. Amazon FinSpace does not
-provide investment advice, make investment recommendations or evaluate the
-suitability of any investment or investment strategy.  
+**84.1.  **You may only use AWS Continuum for code vulnerabilities for
+defensive cybersecurity purposes and for code, infrastructure, and telemetry
+that you own, maintain, or are authorized to scan. We may suspend or terminate
+your access to, or limit your use of, AWS Continuum for code vulnerabilities
+immediately upon notice to you, if we reasonably determine you are using AWS
+Continuum for code vulnerabilities in violation of our terms, including for
+offensive cybersecurity purposes such as developing exploits, conducting
+unauthorized penetration testing, or creating malware.
+
+**84.2.  **We may share information, that does not include Your Content, about
+suspected misuse of AWS Continuum for code vulnerabilities involving a third-
+party model with the provider of that third-party model.
+
+**84.3.  **Per Section 1.24 of the Service Terms, Amazon Bedrock abuse
+detection mechanisms apply to your use of AWS Continuum for code
+vulnerabilities, including our retention and potential human review of inputs
+and outputs based on AWS Continuum's use of certain models. See
+[here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-
+detection.html) for more details.  
 
 ### 85\. Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere)
 Support
