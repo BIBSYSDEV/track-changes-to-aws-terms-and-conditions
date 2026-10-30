@@ -1,4 +1,4 @@
-# AWS Customer Agreement
+## AWS Customer Agreement
 
 **For additional information related to each AWS Contracting Party, see the
 [AWS Contracting Party FAQs](/legal/sor-faqs/).
@@ -9,7 +9,7 @@
 
 *Please note that as of June 1, 2026, all customers located in Mexico contract with our Mexico based AWS Contracting Party, as provided in Section 12. See the [AWS Mexico SoR FAQs](/es/legal/awsmx/) for more information.
 
-## Last Updated: August 14, 2026
+### Last Updated: October 29, 2026
 
 [ See What's Changed](/agreement/recent-changes/)
 
@@ -27,7 +27,7 @@ you represent to us that you have legal authority to bind that entity. Please
 see Section 12 for definitions of certain capitalized terms used in this
 Agreement.
 
-## 1\. AWS Responsibilities
+### 1\. AWS Responsibilities
 
 1.1 General. You may access and use the Services in accordance with this
 Agreement. Service Level Agreements and Service Terms apply to certain
@@ -73,7 +73,7 @@ discontinue or add Service Level Agreements, provided, however, that we will
 provide at least 90 days’ advance notice for adverse changes to any Service
 Level Agreement.
 
-## 2\. Your Responsibilities.
+### 2\. Your Responsibilities.
 
 2.1 Your Accounts. You will comply with the terms of this Agreement and all
 laws, rules and regulations applicable to your use of the Services. To access
@@ -113,15 +113,17 @@ access to Your Content and the Services by such End User. We do not provide
 any support or services to End Users unless we have a separate agreement with
 you or an End User obligating us to provide such support or services.
 
-## 3\. Fees and Payment.
+### 3\. Fees and Payment.
 
-3.1 Service Fees. We calculate and bill fees and charges monthly. We may bill
-you more frequently for fees accrued if we reasonably suspect that your
-account is fraudulent or at risk of non-payment. You will pay us the
-applicable fees and charges for use of the Services as described on the AWS
-Site using one of the payment methods we support. If there is a problem
-charging your default payment method, we may charge any other valid payment
-method associated with your account. All amounts payable by you under this
+3.1 Service Fees. We calculate and bill fees and charges monthly. You will pay
+us the applicable fees and charges for use of the Services as described on the
+AWS Site using one of the payment methods we support. You must pay all
+invoices by the due date set forth on the invoice and you authorize us to
+charge your default payment method for the invoiced amount.** ** If there is a
+problem charging your default payment method, we may charge any other valid
+payment method associated with your account.**** We may bill you more
+frequently for fees accrued if we reasonably suspect that your account is
+fraudulent or at risk of non-payment. All amounts payable by you under this
 Agreement will be paid to us without setoff or counterclaim, and without any
 deduction or withholding. Fees and charges for any new Service or new feature
 of a Service will be effective when we post updated fees and charges on the
@@ -155,7 +157,7 @@ reasonably requested in order to reduce or eliminate the amount of any
 withholding or deduction for taxes in respect of payments made under this
 Agreement.
 
-## 4\. Temporary Suspension.
+### 4\. Temporary Suspension.
 
 4.1 Generally. We may suspend your or any End User’s right to access or use
 any portion or all of the Services immediately upon notice to you if we
@@ -185,7 +187,7 @@ period of suspension that we bill to you; and
 (b) you will not be entitled to any service credits under the Service Level
 Agreements for any period of suspension.
 
-## 5\. Term; Termination.
+### 5\. Term; Termination.
 
 5.1 Term. The term of this Agreement will commence on the Effective Date and
 will remain in effect until terminated under this Section 5. Any notice of
@@ -255,7 +257,7 @@ For any use of the Services after the Termination Date, the terms of this
 Agreement will apply and you will pay the applicable fees at the rates under
 Section 3.
 
-## 6\. Proprietary Rights.
+### 6\. Proprietary Rights.
 
 6.1 Your Content. Except as provided in this Section 6, we obtain no rights
 under this Agreement from you (or your licensors) to Your Content. You consent
@@ -293,7 +295,7 @@ restriction. You hereby irrevocably assign to us all right, title, and
 interest in and to the Suggestions and agree to provide us any assistance we
 require to document, perfect, and maintain our rights in the Suggestions.
 
-## 7\. Indemnification.
+### 7\. Indemnification.
 
 7.1 General. To the extent permitted by applicable law, you will defend,
 indemnify, and hold harmless us, our affiliates and licensors, and each of
@@ -348,7 +350,7 @@ no event will a party agree to any settlement of any claim that involves any
 commitment, other than the payment of money, without the written consent of
 the other party.
 
-## 8\. Disclaimers.
+### 8\. Disclaimers.
 
 THE SERVICES AND AWS CONTENT ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT
 PROHIBITED BY LAW, OR TO THE EXTENT ANY STATUTORY RIGHTS APPLY THAT CANNOT BE
@@ -362,7 +364,7 @@ OF DEALING OR USAGE OF TRADE, (III) THAT THE SERVICES OR AWS CONTENT OR THIRD-
 PARTY CONTENT WILL BE UNINTERRUPTED, ERROR FREE OR FREE OF HARMFUL COMPONENTS,
 AND (IV) THAT ANY CONTENT WILL BE SECURE OR NOT OTHERWISE LOST OR ALTERED.
 
-## 9\. Limitations of Liability.
+### 9\. Limitations of Liability.
 
 9.1 Liability Disclaimers. EXCEPT FOR PAYMENT OBLIGATIONS UNDER SECTION 7,
 NEITHER AWS NOR YOU, NOR ANY OF THEIR AFFILIATES OR LICENSORS, WILL HAVE
@@ -384,7 +386,7 @@ SECTION 3, OR ANY OTHER PAYMENT OBLIGATIONS UNDER THIS AGREEMENT, OR (B) ANY
 PARTY'S LIABILITY TO THE EXTENT SUCH LIABILITY CANNOT BE LIMITED UNDER
 APPLICABLE LAW.
 
-## 10\. Modifications to the Agreement.
+### 10\. Modifications to the Agreement.
 
 We may modify this Agreement (including any Policies) at any time by posting a
 revised version on the AWS Site or by otherwise notifying you in accordance
@@ -396,7 +398,7 @@ responsibility to check the AWS Site regularly for modifications to this
 Agreement. We last modified this Agreement on the date listed at the beginning
 of this Agreement.
 
-## 11\. Miscellaneous.
+### 11\. Miscellaneous.
 
 11.1 Assignment. You will not assign or otherwise transfer this Agreement or
 any of your rights and obligations under this Agreement, without our prior
@@ -836,7 +838,7 @@ deposit, following receipt of the withholding tax certificate in original
 form, we will reimburse to you an amount equal to the taxes that are evidenced
 as deposited.”
 
-## 12\. Definitions.
+### 12\. Definitions.
 
 “Acceptable Use Policy” means the policy located at
 [https://aws.amazon.com/aup](/aup/) (and any successor or related locations
