@@ -1,6 +1,6 @@
 ## AWS Service Terms
 
-Last Updated: November 3, 2026
+Last Updated: November 5, 2026
 
 ### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -258,9 +258,9 @@ Talent, AWS Database Migration Service, Amazon DataZone, Amazon Lex, Amazon
 OpenSearch Service, Amazon Personalize, Amazon Q, AWS Entity Resolution, AWS
 Transform, AWS AppFabric, AWS HealthScribe, AWS Resilience Hub, AWS App
 Studio, Kiro, Amazon SageMaker Data Agent, the model customization agent in
-SageMaker AI, Amazon Quick, AWS DevOps Agent, AWS Continuum (including
-features previously named AWS Security Agent), AWS FinOps Agent (Preview),
-Amazon WorkSpaces, AWS Deadline Cloud, and Amazon GuardDuty.
+SageMaker AI, AWS Quick, AWS DevOps Agent, AWS Continuum (including features
+previously named AWS Security Agent), AWS FinOps Agent (Preview), Amazon
+WorkSpaces, AWS Deadline Cloud, and Amazon GuardDuty.
 
 **1.24.1.** Amazon Bedrock abuse detection mechanisms may apply to such
 Services. See
@@ -2681,7 +2681,7 @@ Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake,
 Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize,
 Amazon Polly, Amazon Q, AWS Transform, Amazon Rekognition, Amazon Textract,
 Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS
-HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, Amazon
+HealthOmics, AWS HealthImaging, AWS HealthScribe, AWS App Studio, Kiro, AWS
 Quick, AWS Elemental Inference, AWS DevOps Agent, AWS Continuum (including
 features previously named AWS Security Agent), AWS FinOps Agent (Preview), the
 model customization agent in SageMaker AI, and AWS IoT SiteWise Scenario
@@ -2831,13 +2831,13 @@ Nova Pro, Amazon Nova Premier, Amazon Nova Reel**,  **Amazon Nova Forge Models
 Act, Amazon Titan Text Express, Amazon Titan Text Lite, Amazon Nova Multimodal
 Embeddings, Amazon Titan Text Premier, Amazon Titan Text Embeddings, Amazon
 Titan Multimodal Embeddings, Amazon Titan Image Generator, AWS HealthScribe,
-Amazon Personalize, Amazon Q (excluding Amazon Q Developer Free Tier), AWS
-Transform, Amazon Bio Discovery (excluding Amazon Bio Discovery Academic
-Tier), Amazon Connect Customer, Amazon Connect Decisions, Amazon Connect
-Health, Amazon Connect Talent, Amazon Lex, Kiro (excluding Kiro Free Tier),
-AWS Elemental Inference, AWS DevOps Agent, AWS Continuum (including features
-previously named AWS Security Agent), and Amazon Quick. The following terms
-apply to the Indemnified Generative AI Services:
+Amazon Personalize, Amazon Q (excluding Amazon Q Developer Free Tier and AWS
+assistant Free Tier), AWS Transform, Amazon Bio Discovery (excluding Amazon
+Bio Discovery Academic Tier), Amazon Connect Customer, Amazon Connect
+Decisions, Amazon Connect Health, Amazon Connect Talent, Amazon Lex, Kiro
+(excluding Kiro Free Tier), AWS Elemental Inference, AWS DevOps Agent, AWS
+Continuum (including features previously named AWS Security Agent), and AWS
+Quick. The following terms apply to the Indemnified Generative AI Services:
 
 **50.10.1.  **Subject to the limitations in this Section 50.10, AWS will
 defend you and your employees, officers, and directors against any third-party
@@ -2943,10 +2943,10 @@ alter such Provenance Data.
 **50.13.  Amazon Q.** To help Amazon Q provide the most relevant information,
 we may use AI Content processed by Amazon Q, such as prompts and responses
 (“Amazon Q Content”), for service improvement as described below. Currently,
-this Section 50.13 applies only to Amazon Q Developer Free Tier, and we may
-add Amazon Q features or services from time to time as they launch. This
-Section 50.13 does not apply to any Amazon Q feature or service that is not
-listed in the prior sentence.
+this Section 50.13 applies only to Amazon Q Developer Free Tier (including AWS
+assistant Free Tier), and we may add Amazon Q features or services from time
+to time as they launch. This Section 50.13 does not apply to any Amazon Q
+feature or service that is not listed in the prior sentence.
 
 **50.13.1. Service Improvement.** You agree and instruct that we may use
 Amazon Q Content to develop and improve Amazon Q and its underlying
@@ -3039,7 +3039,7 @@ with Anthropic, as well as any data and associated metadata necessary to
 provide or maintain the service. Anthropic may also share account and usage
 information with us.
 
-**50.17. Amazon Quick**
+**50.17. AWS Quick**
 
 **50.17.1.** **Quick Readers**. Readers (as defined in the Quick
 documentation) that are used for automatically or programmatically refreshing
