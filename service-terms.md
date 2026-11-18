@@ -1,6 +1,6 @@
 ## AWS Service Terms
 
-Last Updated: November 5, 2026
+Last Updated: November 17, 2026
 
 ### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -2695,26 +2695,27 @@ and the Services may generate the same or similar results across customers.
 Comprehend, AWS Continuum (excluding Continuum for penetration testing,
 previously named AWS Security Agent), Amazon Lex, Amazon Polly, Amazon
 Rekognition, Amazon Textract, Amazon Transcribe, Amazon Translate, AWS
-Transform, AWS FinOps Agent (Preview), Kiro Free Tier, and Kiro individual
+Transform, AWS FinOps Agent (Preview), Kiro Free Tier, Kiro individual
 subscribers (as described [here](https://kiro.dev/docs/getting-
-started/authentication/)): (a) we may use and store AI Content that is
-processed by each of the foregoing AI Services to develop and improve the
-applicable AI Service and its underlying technologies; (b) we may use and
-store AI Content that is not personal data to develop and improve AWS and
-affiliate machine-learning and artificial-intelligence technologies; and (c)
-solely in connection with the development and improvement described in clauses
-(a) and (b), we may store such AI Content in an AWS region outside of the AWS
-region where you are using such AI Service. This Section does not apply to
-Amazon Comprehend Medical, Amazon Transcribe Medical, AWS HealthScribe, Amazon
-Comprehend Detect PII or any AI Service that is not listed in the first
-sentence of this Section 50.3. You may instruct AWS not to use and store AI
-Content processed by an AI Service to develop and improve that Service or
-technologies of AWS or its affiliates by configuring an AI services opt-out
-policy using AWS Organizations. For access to AI Services via AWS Builder ID
-or a third-party authentication provider, you may instruct AWS to refrain from
-using and storing AI Content processed by an AI Service to develop and improve
-that Service or technologies of AWS or its affiliates by using the opt-out
-mechanism indicated in the applicable service documentation.
+started/authentication/)), and AWS IoT SiteWise Scenario Discovery: (a) we may
+use and store AI Content that is processed by each of the foregoing AI
+Services to develop and improve the applicable AI Service and its underlying
+technologies; (b) we may use and store AI Content that is not personal data to
+develop and improve AWS and affiliate machine-learning and artificial-
+intelligence technologies; and (c) solely in connection with the development
+and improvement described in clauses (a) and (b), we may store such AI Content
+in an AWS region outside of the AWS region where you are using such AI
+Service. This Section does not apply to Amazon Comprehend Medical, Amazon
+Transcribe Medical, AWS HealthScribe, Amazon Comprehend Detect PII or any AI
+Service that is not listed in the first sentence of this Section 50.3. You may
+instruct AWS not to use and store AI Content processed by an AI Service to
+develop and improve that Service or technologies of AWS or its affiliates by
+configuring an AI services opt-out policy using AWS Organizations. For access
+to AI Services via AWS Builder ID or a third-party authentication provider,
+you may instruct AWS to refrain from using and storing AI Content processed by
+an AI Service to develop and improve that Service or technologies of AWS or
+its affiliates by using the opt-out mechanism indicated in the applicable
+service documentation.
 
 **50.4.**  You are responsible for providing legally adequate privacy notices
 to End Users of your products or services that use any AI Service and
