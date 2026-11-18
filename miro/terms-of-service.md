@@ -896,6 +896,18 @@ Plans & Pricing
   * [NPOs](https://miro.com/npo/)
   * [Contact sales](https://miro.com/contact/sales/)
 
+### Product
+
+### Solutions
+
+### Tools
+
+### Resources
+
+### Company
+
+### Plans & Pricing
+
 * * *
 
   * [![](//images.ctfassets.net/x3tur5ylnyf2/1WIOsC8qZrgMQ8MrD8bcrS/cea1792e288c5092864710e706116a10/ISO_Badge.svg)ISO 42001 READY](https://trust.miro.com/)
